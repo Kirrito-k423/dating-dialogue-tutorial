@@ -2,7 +2,9 @@
 
 从“旭哥带你狙女神”（B站 UID `91690248`）的逐帧约会视频建立来源目录，最终按“情境 → 对方的问题 → 实际回应 → 博主讲解 → 独立解析”编成学习教程。
 
-当前完成的是**来源目录、可运行网页和陆续加入的有限音频摘要**。公开音频已经可获取，正在使用本地机器识别辅助分析；**逐句回听校对 0 集**。网页将“视频场景意译”与 8 道原创练习分开标记。机器摘要不能当成经过听校的逐字稿。
+已完成 **18 条目录、18 条有限音频摘要和可运行教程网页**。每集选取一个代表情境，按“情境/问题意译 → 原创建议回应 → 视频中的回应方式 → 博主讲解摘要 → 独立解析”组织。另有 8 道原创示范题，合计 26 道练习。
+
+18 条公开音频均完成本地机器识别，并逐集阅读完整机器稿、做语义审阅；**逐句回听校对仍为 0 集**。机器摘要不能当成经过听校的逐字稿，局部识别异常、说话者不确定和无法核实画面的情况均明确标注。
 
 ## 当前核查结果
 
@@ -43,7 +45,7 @@ python3 -m http.server 60435 --bind 127.0.0.1 --directory docs
 6. 对每组写明情境、实际回应、博主的解释、自己的判断、适用条件与可能的其他回应。不要把剪辑结果归因于某一句话，更不要从个别片段推断所有人的心理。
 7. 导出 JSON 保留证据。公开教程只加入有依据的有限摘要与独立解析；逐字记录与原媒体默认不进入 `docs/`。
 
-每集应保留单独的处理状态：`目录核实 → 音频取得 → 机器初稿 → 语义审阅与有限摘要 → 逐句回听 → 对话/讲解标注 → 可发布逐字材料`。机器草稿的语义审阅不能替代逐句回听。当前进度见 `research/audio-analysis-progress.json`，有限摘要见 `data/video-summaries*.json`，逐句回听仍为 0 集。
+每集应保留单独的处理状态：`目录核实 → 音频取得 → 机器初稿 → 语义审阅与有限摘要 → 逐句回听 → 对话/讲解标注 → 可发布逐字材料`。机器草稿的语义审阅不能替代逐句回听。此次 18 条已完成机器识别与语义审阅。处理记录见 `research/audio-analysis-progress.json`，有限摘要见 `data/video-summaries*.json`，逐句回听仍为 0 集。
 
 ### 可导入的 JSON
 
@@ -67,9 +69,9 @@ python3 -m http.server 60435 --bind 127.0.0.1 --directory docs
 
 公开仓库：[Kirrito-k423/dating-dialogue-tutorial](https://github.com/Kirrito-k423/dating-dialogue-tutorial)。
 
-网页发布到：[对话练习册](https://kirrito-k423.github.io/dating-dialogue-tutorial/)。目前正在部署；初版包含 18 条目录与前 9 条音频摘要，后续摘要完成后继续更新。
+网页发布到：[对话练习册](https://kirrito-k423.github.io/dating-dialogue-tutorial/)。已部署完整版本：18 条目录、18 条机器辅助音频摘要及 8 道原创示范题。
 
-课程文件不声明开源许可证；原视频与标题属于原发布者，本文的有限摘要与独立解析另行标注来源。
+原视频按发布者信息注明来源；有限摘要、独立解析和原创建议回应分别标注。
 
 将本目录作为目标仓库的根目录，发布源选择已有分支的 `/docs` 文件夹即可。具体设置：仓库 `Settings → Pages → Build and deployment → Deploy from a branch → 分支 → /docs`。这条路径来自 [GitHub 官方文档](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)。
 
@@ -85,4 +87,4 @@ node --check docs/app.js
 
 `scripts/build.py` 从研究目录与 `data/exercises.json` 生成 `docs/data.js`、`docs/catalog.json`、`CATALOG.md`。增加来源时先更新研究依据，再重新生成；不要直接手改生成文件。
 
-临时原媒体可放外置盘 `/Volumes/PSSD/Mac-Storage-Archive/ToBeloved/dating-tutorial/`，保留字幕与索引引用。本次为音频分析短暂取得公开音轨，使用隔离目录中的 whisper.cpp / small-q5_1，串行处理并立即移除已处理的音轨与 WAV。没有采集登录 Cookie；未绕过付费或登录校验。转写全文只作分析中间材料，不作为交付件或发布内容。处理完成后清理隔离工具、模型与完整机器稿，保留有限摘要、版本及校验统计。
+临时原媒体应单独归档，不进入公开仓库；保留来源索引与处理统计。本次为音频分析短暂取得公开音轨，使用隔离目录中的 whisper.cpp / small-q5_1，串行处理并立即移除已处理的音轨与 WAV。没有采集登录 Cookie；未绕过付费或登录校验。转写全文只作分析中间材料，不作为交付件或发布内容。处理完成后清理隔离工具、模型与完整机器稿，保留有限摘要、版本及校验统计。

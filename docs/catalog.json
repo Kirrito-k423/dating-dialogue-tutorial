@@ -272,8 +272,14 @@
       "duration_display": "33:57",
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dx9dBnE7d",
-      "short_title": "邂逅176超长腿当场约会",
-      "analysis_status": "machine_assisted_summary_not_listening_verified"
+      "short_title": "邂逅176超长腿",
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "companion": {
+        "bvid": "BV1APoBBWEeb",
+        "url": "https://www.bilibili.com/video/BV1APoBBWEeb/",
+        "short_title": "搭讪176超长腿车模",
+        "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
+      }
     },
     {
       "bvid": "BV14L5Y6GEcG",
@@ -287,7 +293,7 @@
       "duration_display": "30:27",
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV14L5Y6GEcG",
-      "short_title": "搭讪像克拉拉的御姐即时约会牵手喂我吃饭",
+      "short_title": "搭讪像克拉拉的御姐",
       "analysis_status": "machine_assisted_summary_not_listening_verified"
     },
     {
@@ -302,8 +308,14 @@
       "duration_display": "31:30",
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sYLi6nEA6",
-      "short_title": "邂逅超高冷御姐被拒2次极限反转当场约会",
-      "analysis_status": "awaiting_source_audio_or_authorized_subtitles"
+      "short_title": "邂逅超高冷御姐被拒2次",
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "companion": {
+        "bvid": "BV1p4Lu66EUW",
+        "url": "https://www.bilibili.com/video/BV1p4Lu66EUW/",
+        "short_title": "搭讪超高冷御姐被拒2次",
+        "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
+      }
     },
     {
       "bvid": "BV1CjV16KEHe",
@@ -317,8 +329,14 @@
       "duration_display": "43:11",
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CjV16KEHe",
-      "short_title": "搭讪175超长腿御姐连续拒绝高难度极限反转",
-      "analysis_status": "awaiting_source_audio_or_authorized_subtitles"
+      "short_title": "搭讪175超长腿御姐",
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "companion": {
+        "bvid": "BV1tYG96YE1a",
+        "url": "https://www.bilibili.com/video/BV1tYG96YE1a/",
+        "short_title": "搭讪175超长腿御姐",
+        "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
+      }
     },
     {
       "bvid": "BV1bXJF6iEXn",
@@ -332,8 +350,14 @@
       "duration_display": "34:28",
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bXJF6iEXn",
-      "short_title": "搭讪180气质熟女老司机当场要我回家做饭",
-      "analysis_status": "awaiting_source_audio_or_authorized_subtitles"
+      "short_title": "搭讪180气质熟女老司机",
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "companion": {
+        "bvid": "BV1kQEQ6PEGN",
+        "url": "https://www.bilibili.com/video/BV1kQEQ6PEGN/",
+        "short_title": "搭讪180气质熟女老司机",
+        "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
+      }
     },
     {
       "bvid": "BV1sFj26mEu1",
@@ -347,8 +371,14 @@
       "duration_display": "24:38",
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sFj26mEu1",
-      "short_title": "搭讪日系可爱甜妹当场连续过肺",
-      "analysis_status": "awaiting_source_audio_or_authorized_subtitles"
+      "short_title": "搭讪日系可爱甜妹",
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "companion": {
+        "bvid": "BV1Ndje6DEaG",
+        "url": "https://www.bilibili.com/video/BV1Ndje6DEaG/",
+        "short_title": "搭讪日系可爱甜妹",
+        "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
+      }
     },
     {
       "bvid": "BV1tVKf6cE5G",
@@ -363,12 +393,12 @@
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tVKf6cE5G",
       "short_title": "搭讪175冷艳御姐",
-      "analysis_status": "awaiting_source_audio_or_authorized_subtitles",
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
       "companion": {
         "bvid": "BV1a67b6JEo6",
         "url": "https://www.bilibili.com/video/BV1a67b6JEo6/",
         "short_title": "搭讪175冷艳御姐",
-        "pairing_basis": "matching_title_only_not_audio_verified"
+        "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
       }
     },
     {
@@ -383,8 +413,14 @@
       "duration_display": "25:22",
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VrMt6tEEx",
-      "short_title": "搭讪175高智御姐变魔术搭讪",
-      "analysis_status": "awaiting_source_audio_or_authorized_subtitles"
+      "short_title": "搭讪175高智御姐",
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "companion": {
+        "bvid": "BV1tyMc66EhE",
+        "url": "https://www.bilibili.com/video/BV1tyMc66EhE/",
+        "short_title": "搭讪175高智御姐",
+        "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
+      }
     },
     {
       "bvid": "BV1BsuE63EhN",
@@ -398,8 +434,14 @@
       "duration_display": "23:23",
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BsuE63EhN",
-      "short_title": "邂逅百达翡丽女富婆爱她酸臭脚",
-      "analysis_status": "awaiting_source_audio_or_authorized_subtitles"
+      "short_title": "邂逅百达翡丽女富婆",
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "companion": {
+        "bvid": "BV1fr3X65EGT",
+        "url": "https://www.bilibili.com/video/BV1fr3X65EGT/",
+        "short_title": "邂逅百达翡丽女富婆",
+        "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
+      }
     },
     {
       "bvid": "BV1gb8M6nENB",
@@ -413,8 +455,14 @@
       "duration_display": "22:49",
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gb8M6nENB",
-      "short_title": "夜市邂逅平面模特失败边缘起死回生",
-      "analysis_status": "awaiting_source_audio_or_authorized_subtitles"
+      "short_title": "夜市邂逅平面模特",
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "companion": {
+        "bvid": "BV1yPg36vEv2",
+        "url": "https://www.bilibili.com/video/BV1yPg36vEv2/",
+        "short_title": "夜市邂逅平面模特",
+        "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
+      }
     },
     {
       "bvid": "BV1f8Yj6aExQ",
@@ -428,8 +476,14 @@
       "duration_display": "31:26",
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1f8Yj6aExQ",
-      "short_title": "邂逅宝马富婆当场送我回家",
-      "analysis_status": "machine_assisted_summary_not_listening_verified"
+      "short_title": "邂逅宝马富婆",
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "companion": {
+        "bvid": "BV1kYty6iEcL",
+        "url": "https://www.bilibili.com/video/BV1kYty6iEcL/",
+        "short_title": "邂逅宝马富婆",
+        "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
+      }
     },
     {
       "bvid": "BV1P5he6SEys",
@@ -443,12 +497,18 @@
       "duration_display": "24:38",
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1P5he6SEys",
-      "short_title": "餐厅搭讪开奔驰幼shi全新冷读术",
-      "analysis_status": "awaiting_source_audio_or_authorized_subtitles"
+      "short_title": "餐厅搭讪开奔驰幼shi",
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "companion": {
+        "bvid": "BV1JceM65EBA",
+        "url": "https://www.bilibili.com/video/BV1JceM65EBA/",
+        "short_title": "餐厅搭讪开奔驰幼shi",
+        "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
+      }
     }
   ],
-  "audio_asr_completed_count": 10,
+  "audio_asr_completed_count": 18,
   "listening_verified_dialogue_count": 0,
-  "machine_assisted_summary_count": 9,
+  "machine_assisted_summary_count": 18,
   "notice": "Machine-assisted summaries are paraphrases, not listening-verified transcripts. Original exercises are separately labeled."
 }

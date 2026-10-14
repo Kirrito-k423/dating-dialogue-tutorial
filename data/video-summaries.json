@@ -11,7 +11,8 @@
     "time_seconds": 862,
     "uncertainty": "未回听；人名和说话者有识别误差，画面接触及约会真实性无法核实。",
     "lesson_title": "如何回应拍照经验的质疑",
-    "topic": "回应质疑"
+    "topic": "回应质疑",
+    "suggested_response": "我拍照的真实经历是[真实情况]，也想听听你喜欢什么拍法。"
   },
   {
     "bvid": "BV1vj6yBDE5r",
@@ -25,7 +26,8 @@
     "time_seconds": 169,
     "uncertainty": "未回听；说话者依据上下文推断，画面及对方的真实反应无法核实。",
     "lesson_title": "饮品偏好不同怎么协商",
-    "topic": "偏好与选择"
+    "topic": "偏好与选择",
+    "suggested_response": "我想喝冰的，你点热的就好，我们各选自己喜欢的。"
   },
   {
     "bvid": "BV14gFYzREk4",
@@ -39,7 +41,8 @@
     "time_seconds": 430,
     "uncertainty": "未回听；部分现场对白识别不完整，情绪、眼神和动作无法由音频草稿核实。",
     "lesson_title": "花钱能证明爱吗",
-    "topic": "消费与付出"
+    "topic": "消费与付出",
+    "suggested_response": "我愿意付出，也希望一起商量预算；花钱多少不代表爱有多少。"
   },
   {
     "bvid": "BV1kJP5z6EDw",
@@ -53,7 +56,8 @@
     "time_seconds": 337,
     "uncertainty": "未回听；部分现场回答缺失，不能验证拍摄过程、对方表情或所谓吸引效果。",
     "lesson_title": "忘记对方口味怎么办",
-    "topic": "偏好与选择"
+    "topic": "偏好与选择",
+    "suggested_response": "我有点记不清了，你再告诉我一次，我按你的口味来。"
   },
   {
     "bvid": "BV1upQdBiEN1",
@@ -67,7 +71,8 @@
     "time_seconds": 823,
     "uncertainty": "未回听；前任身份和配合电话按讲解者说法记录，现场真实性无法核实。",
     "lesson_title": "邀约地点的安全疑虑怎么回应",
-    "topic": "邀约与安全"
+    "topic": "邀约与安全",
+    "suggested_response": "我把店名和地址给你，先一起核实；不放心就换公共场所。"
   },
   {
     "bvid": "BV1ZX9KBUEip",
@@ -81,7 +86,8 @@
     "time_seconds": 565,
     "uncertainty": "未回听；部分实拍对白缺失，无法确认拍摄授权、接触意愿和真实关系。",
     "lesson_title": "如何说明拍摄与交往意图",
-    "topic": "回应质疑"
+    "topic": "回应质疑",
+    "suggested_response": "这次拍摄用途是[真实情况]；是否发布、是否继续见面都一起商量。"
   },
   {
     "bvid": "BV12GQiBrExv",
@@ -96,7 +102,8 @@
     "time_seconds": 1409,
     "uncertainty": "末段约47–48分有识别异常，本条未采用；未回听，位置与动作仅据对白推断。",
     "lesson_title": "被指出没边界感怎么办",
-    "topic": "相处与边界"
+    "topic": "相处与边界",
+    "suggested_response": "抱歉，我靠得太近了。我会退开，墨镜你不用摘。"
   },
   {
     "bvid": "BV1dx9dBnE7d",
@@ -110,7 +117,8 @@
     "time_seconds": 66,
     "uncertainty": "未回听；身份和画面未核实，拍摄及后续交换是否自愿不能由草稿确认。",
     "lesson_title": "如何提出一个自愿的小请求",
-    "topic": "相处与边界"
+    "topic": "相处与边界",
+    "suggested_response": "我拍照经验是[真实情况]，可以先试拍；不想入镜也没关系。"
   },
   {
     "bvid": "BV14L5Y6GEcG",
@@ -124,6 +132,7 @@
     "time_seconds": 50,
     "uncertainty": "未回听；是否明确同意拍摄、后续发布及身体接触不能核实。",
     "lesson_title": "对方犹豫入镜时怎么办",
-    "topic": "相处与边界"
+    "topic": "相处与边界",
+    "suggested_response": "我先说明拍摄和发布用途；你可以考虑，不愿意入镜我们就不拍你。"
   }
 ]
