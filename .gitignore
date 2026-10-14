@@ -1,0 +1,10 @@
+# Keep source audio and user annotations outside the publication directory.
+private/
+*.mp4
+*.m4a
+*.mp3
+*.wav
+*.srt
+*.vtt
+.DS_Store
+__pycache__/

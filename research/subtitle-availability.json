@@ -1,0 +1,168 @@
+{
+  "checked_at": "2026-10-14",
+  "access": "anonymous",
+  "videos": [
+    {
+      "bvid": "BV1vj6yBDE5r",
+      "cid": 35725574402,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1vj6yBDE5r&cid=35725574402"
+    },
+    {
+      "bvid": "BV14gFYzREk4",
+      "cid": 35836399261,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV14gFYzREk4&cid=35836399261"
+    },
+    {
+      "bvid": "BV1kJP5z6EDw",
+      "cid": 36392209797,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1kJP5z6EDw&cid=36392209797"
+    },
+    {
+      "bvid": "BV1upQdBiEN1",
+      "cid": 36907976535,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1upQdBiEN1&cid=36907976535"
+    },
+    {
+      "bvid": "BV1ZX9KBUEip",
+      "cid": 37202100708,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1ZX9KBUEip&cid=37202100708"
+    },
+    {
+      "bvid": "BV1dx9dBnE7d",
+      "cid": 38051252977,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1dx9dBnE7d&cid=38051252977"
+    },
+    {
+      "bvid": "BV14L5Y6GEcG",
+      "cid": 38345311276,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV14L5Y6GEcG&cid=38345311276"
+    },
+    {
+      "bvid": "BV1sYLi6nEA6",
+      "cid": 38519312037,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1sYLi6nEA6&cid=38519312037"
+    },
+    {
+      "bvid": "BV1CjV16KEHe",
+      "cid": 38820053546,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1CjV16KEHe&cid=38820053546"
+    },
+    {
+      "bvid": "BV1bXJF6iEXn",
+      "cid": 39104089550,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1bXJF6iEXn&cid=39104089550"
+    },
+    {
+      "bvid": "BV1sFj26mEu1",
+      "cid": 39333069332,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1sFj26mEu1&cid=39333069332"
+    },
+    {
+      "bvid": "BV1tVKf6cE5G",
+      "cid": 39524699473,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1tVKf6cE5G&cid=39524699473"
+    },
+    {
+      "bvid": "BV1VrMt6tEEx",
+      "cid": 39724778903,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1VrMt6tEEx&cid=39724778903"
+    },
+    {
+      "bvid": "BV1BsuE63EhN",
+      "cid": 40644118539,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1BsuE63EhN&cid=40644118539"
+    },
+    {
+      "bvid": "BV1gb8M6nENB",
+      "cid": 41118597487,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1gb8M6nENB&cid=41118597487"
+    },
+    {
+      "bvid": "BV1f8Yj6aExQ",
+      "cid": 41781954604,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1f8Yj6aExQ&cid=41781954604"
+    },
+    {
+      "bvid": "BV1P5he6SEys",
+      "cid": 42073721545,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "subtitles": [],
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV1P5he6SEys&cid=42073721545"
+    },
+    {
+      "bvid": "BV12GQiBrExv",
+      "cid": 37492952727,
+      "code": 0,
+      "need_login_subtitle": true,
+      "subtitle_count": 0,
+      "source_url": "https://api.bilibili.com/x/player/v2?bvid=BV12GQiBrExv&cid=37492952727"
+    }
+  ],
+  "note": "Empty anonymous results do not prove subtitles do not exist for authenticated viewers."
+}
