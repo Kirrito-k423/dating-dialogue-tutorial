@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "bvid": "BV12GQiBrExv",
+  "method": "Selected original video caption checked via actual image input; not audio listening; sampled caption presence interval",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV12GQiBrExv-caption-reviewed-early-0001",
+      "start": 1859.25,
+      "end": 1860.75,
+      "text": "你不舍不得我",
+      "visual_reviewed": true,
+      "frame_time": 1859.25,
+      "frame_sha256": "9ca708e3328eec44c7c55efdab8919cbbd606f4568e8c54cf0804499146cfe26",
+      "frame_file": "frames-BV12GQiBrExv/frame-1859.250.png"
+    },
+    {
+      "id": "BV12GQiBrExv-caption-reviewed-early-0002",
+      "start": 1867.5,
+      "end": 1869.75,
+      "text": "不亲一口再走吗",
+      "visual_reviewed": true,
+      "frame_time": 1867.5,
+      "frame_sha256": "77438539befe54a04fc227cb3f957590a55a10d66443e3b15aeaf2060f5ea5e1",
+      "frame_file": "frames-BV12GQiBrExv/frame-1867.500.png"
+    },
+    {
+      "id": "BV12GQiBrExv-caption-reviewed-early-0003",
+      "start": 2107.5,
+      "end": 2108.25,
+      "text": "能不能不要一直跟我说话",
+      "visual_reviewed": true,
+      "frame_time": 2107.5,
+      "frame_sha256": "81d3047025b1175bea5207ac083bbba29ac280ae975f143d8e91e34632a40d0f",
+      "frame_file": "frames-BV12GQiBrExv/frame-2107.500.png"
+    },
+    {
+      "id": "BV12GQiBrExv-caption-reviewed-early-0004",
+      "start": 2141.25,
+      "end": 2142.0,
+      "text": "过来我们一起合拍一个过来",
+      "visual_reviewed": true,
+      "frame_time": 2141.25,
+      "frame_sha256": "d91c38e8fda0c7f06821a4a5efd7db3ca0e6dd1f3e54f8ea052e98da3fc750bc",
+      "frame_file": "frames-BV12GQiBrExv/frame-2141.250.png"
+    },
+    {
+      "id": "BV12GQiBrExv-caption-reviewed-early-0005",
+      "start": 2613,
+      "end": 2613.75,
+      "text": "找不能找相同搭的",
+      "visual_reviewed": true,
+      "frame_time": 2613,
+      "frame_sha256": "a584eb4ce2ac5b9c74aa7f567f83651a8dbf0b2340202817d5b32b955a0177af",
+      "frame_file": "frames-BV12GQiBrExv/frame-2613.000.png"
+    },
+    {
+      "id": "BV12GQiBrExv-caption-reviewed-early-0006",
+      "start": 2973,
+      "end": 2973.75,
+      "text": "莫名其妙想哭",
+      "visual_reviewed": true,
+      "frame_time": 2973,
+      "frame_sha256": "7526d3bb29f35c523ebceed078220a4da4501c328993e729139229c018f486e8",
+      "frame_file": "frames-BV12GQiBrExv/frame-2973.000.png"
+    }
+  ]
+}

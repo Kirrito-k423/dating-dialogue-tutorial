@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-14T17:56:44+08:00",
+  "action": "Removed only this audio batch temporary model/tool directories and large derived WAV files. Original compressed media, complete standard/raw/crosscheck text, small clips, scripts and logs preserved. Parent video-review directory untouched.",
+  "removed_now": [
+    {
+      "directory": "models",
+      "reported_allocated_kib": 1310796
+    },
+    {
+      "directory": "whisper.cpp",
+      "reported_allocated_kib": 90164
+    }
+  ],
+  "removed_now_reported_allocated_kib": 1400960,
+  "model_and_tool_directories_absent": true,
+  "preserved_original_audio_files": 18,
+  "preserved_original_audio_bytes": 228215703,
+  "preserved_small_wav_files": 10,
+  "preserved_small_wav_bytes": 16800440,
+  "preserved": {
+    "media": {
+      "files": 28,
+      "bytes": 245016143,
+      "reported_allocated_kib": 240132
+    },
+    "transcripts": {
+      "files": 54,
+      "bytes": 4204430,
+      "reported_allocated_kib": 4212
+    },
+    "raw": {
+      "files": 18,
+      "bytes": 3241351,
+      "reported_allocated_kib": 3204
+    },
+    "crosschecks": {
+      "files": 44,
+      "bytes": 554825,
+      "reported_allocated_kib": 636
+    },
+    "logs": {
+      "files": 18,
+      "bytes": 1130063,
+      "reported_allocated_kib": 1344
+    }
+  },
+  "listening_verified_videos": 0
+}

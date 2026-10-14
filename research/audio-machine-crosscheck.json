@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-14",
+  "tool_commit": "d1be6fde11ac6e0407606b4e42fe72d34add8037",
+  "second_model": "medium-q5_0",
+  "second_model_sha256": "19fea4b380c3a618ec4723c3eef2eb785ffba0d0538cf43f8f235e7b3b34220f",
+  "listening_verified": false,
+  "results": [
+    {
+      "bvid": "BV1f8Yj6aExQ",
+      "start": 0,
+      "end": 60,
+      "first_segments": 15,
+      "second_segments": 15,
+      "text_similarity": 0.602,
+      "listening_verified": false,
+      "method": "Text comparison of independent machine decodes; similarity is not accuracy"
+    },
+    {
+      "bvid": "BV1f8Yj6aExQ",
+      "start": 850,
+      "end": 920,
+      "first_segments": 46,
+      "second_segments": 44,
+      "text_similarity": 0.867,
+      "listening_verified": false,
+      "method": "Text comparison of independent machine decodes; similarity is not accuracy"
+    },
+    {
+      "bvid": "BV1f8Yj6aExQ",
+      "start": 1125,
+      "end": 1185,
+      "first_segments": 45,
+      "second_segments": 25,
+      "text_similarity": 0.92,
+      "listening_verified": false,
+      "method": "Text comparison of independent machine decodes; similarity is not accuracy"
+    }
+  ]
+}

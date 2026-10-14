@@ -1,0 +1,6407 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1VrMt6tEEx",
+  "method": "whisper.cpp v1.9.5 small-q5_1; zh; Metal; beam_size=3; best_of=3; threads=4; unedited machine draft",
+  "listening_verified": false,
+  "created_at": "2026-10-14T17:37:33+08:00",
+  "segments": [
+    {
+      "id": "BV1VrMt6tEEx-00001",
+      "start": 0.0,
+      "end": 1.0,
+      "text": "我不敢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00002",
+      "start": 7.0,
+      "end": 8.0,
+      "text": "哈囉兄弟們我是畜哥"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00003",
+      "start": 8.0,
+      "end": 9.0,
+      "text": "今天給大家帶來一期"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00004",
+      "start": 9.0,
+      "end": 10.5,
+      "text": "哥布林街頭洩候美女"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00005",
+      "start": 10.5,
+      "end": 12.0,
+      "text": "當場約會的技巧解析"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00006",
+      "start": 12.0,
+      "end": 14.0,
+      "text": "這次我們拉伸關係非常快"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00007",
+      "start": 14.0,
+      "end": 16.0,
+      "text": "剛認識不到20分鐘"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00008",
+      "start": 16.0,
+      "end": 17.0,
+      "text": "就開始聊私密話題了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00009",
+      "start": 17.0,
+      "end": 19.0,
+      "text": "而且尺度比以往都大"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00010",
+      "start": 19.0,
+      "end": 21.0,
+      "text": "那麼如果你想和剛認識的女孩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00011",
+      "start": 21.0,
+      "end": 22.0,
+      "text": "快速拉進關係"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00012",
+      "start": 22.0,
+      "end": 23.0,
+      "text": "又不突兀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00013",
+      "start": 23.0,
+      "end": 24.0,
+      "text": "那麼今天這期視頻看完"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00014",
+      "start": 24.0,
+      "end": 26.0,
+      "text": "你就知道該怎麼做了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00015",
+      "start": 26.0,
+      "end": 27.0,
+      "text": "好了 閒話不多說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00016",
+      "start": 27.0,
+      "end": 28.0,
+      "text": "我們直接開始"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00017",
+      "start": 28.0,
+      "end": 31.0,
+      "text": "掌頭醜這麼發霉啊 挑戰一下"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00018",
+      "start": 31.0,
+      "end": 33.0,
+      "text": "你好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00019",
+      "start": 33.0,
+      "end": 35.0,
+      "text": "你好 我是街頭魔術師"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00020",
+      "start": 35.0,
+      "end": 37.0,
+      "text": "耽誤你一分鐘時間給你變魔術行嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00021",
+      "start": 37.0,
+      "end": 39.0,
+      "text": "不太行"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00022",
+      "start": 39.0,
+      "end": 40.0,
+      "text": "為啥呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00023",
+      "start": 40.0,
+      "end": 42.0,
+      "text": "我第一次在街頭給別人變魔術"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00024",
+      "start": 42.0,
+      "end": 43.0,
+      "text": "你給我走個面吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00025",
+      "start": 43.0,
+      "end": 44.0,
+      "text": "就耽誤你一分鐘時間"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00026",
+      "start": 44.0,
+      "end": 45.0,
+      "text": "看完我的魔術"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00027",
+      "start": 45.0,
+      "end": 47.0,
+      "text": "送你一個精明小禮品"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00028",
+      "start": 48.0,
+      "end": 51.0,
+      "text": "我能知道你手機密碼你信嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00029",
+      "start": 51.0,
+      "end": 52.0,
+      "text": "你不信"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00030",
+      "start": 52.0,
+      "end": 54.0,
+      "text": "你把手機你先解鎖"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00031",
+      "start": 54.0,
+      "end": 55.0,
+      "text": "背著我解鎖"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00032",
+      "start": 55.0,
+      "end": 56.0,
+      "text": "別讓我知道密碼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00033",
+      "start": 56.0,
+      "end": 57.0,
+      "text": "然後"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00034",
+      "start": 57.0,
+      "end": 59.0,
+      "text": "然後給我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00035",
+      "start": 59.0,
+      "end": 61.0,
+      "text": "這樣拿著"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00036",
+      "start": 61.0,
+      "end": 62.0,
+      "text": "這樣拿著"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00037",
+      "start": 62.0,
+      "end": 64.0,
+      "text": "別動啊 你別看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00038",
+      "start": 64.0,
+      "end": 66.0,
+      "text": "你別看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00039",
+      "start": 66.0,
+      "end": 68.0,
+      "text": "好了 我加你微信了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00040",
+      "start": 68.0,
+      "end": 69.0,
+      "text": "回頭通過一下"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00041",
+      "start": 69.0,
+      "end": 71.0,
+      "text": "哈哈哈哈"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00042",
+      "start": 71.0,
+      "end": 72.0,
+      "text": "你什麼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00043",
+      "start": 72.0,
+      "end": 74.0,
+      "text": "哈哈哈哈"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00044",
+      "start": 74.0,
+      "end": 76.0,
+      "text": "我以為真是魔術"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00045",
+      "start": 76.0,
+      "end": 79.0,
+      "text": "我這個就用這個方法認識你一下"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00046",
+      "start": 79.0,
+      "end": 81.0,
+      "text": "你好 你叫啥"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00047",
+      "start": 81.0,
+      "end": 82.0,
+      "text": "這個打法有幾個技巧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00048",
+      "start": 82.0,
+      "end": 83.0,
+      "text": "我給大家分享一下"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00049",
+      "start": 83.0,
+      "end": 84.0,
+      "text": "那純相版裡面"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00050",
+      "start": 84.0,
+      "end": 85.0,
+      "text": "這老有人問"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00051",
+      "start": 85.0,
+      "end": 87.0,
+      "text": "哎 那女孩不讓我動他手機打扮呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00052",
+      "start": 87.0,
+      "end": 88.0,
+      "text": "不讓我翻他手機打扮呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00053",
+      "start": 88.0,
+      "end": 89.0,
+      "text": "你看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00054",
+      "start": 89.0,
+      "end": 92.0,
+      "text": "這就是你不會引導你老賴人家女孩有啥用呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00055",
+      "start": 92.0,
+      "end": 93.0,
+      "text": "你記住很多時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00056",
+      "start": 93.0,
+      "end": 95.0,
+      "text": "女孩的反應都得靠你的引導"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00057",
+      "start": 95.0,
+      "end": 97.0,
+      "text": "你得控住這個場"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00058",
+      "start": 97.0,
+      "end": 98.0,
+      "text": "你在操作的時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00059",
+      "start": 98.0,
+      "end": 99.0,
+      "text": "你得不停的跟他說話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00060",
+      "start": 99.0,
+      "end": 101.0,
+      "text": "你說你別動你別動你別看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00061",
+      "start": 101.0,
+      "end": 102.0,
+      "text": "或者你不停的說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00062",
+      "start": 102.0,
+      "end": 103.0,
+      "text": "五秒鐘之後"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00063",
+      "start": 103.0,
+      "end": 104.0,
+      "text": "我就會知道你的密碼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00064",
+      "start": 104.0,
+      "end": 105.0,
+      "text": "你信不信"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00065",
+      "start": 105.0,
+      "end": 106.0,
+      "text": "你把眼睛閉上來"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00066",
+      "start": 106.0,
+      "end": 107.0,
+      "text": "雙手拿著"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00067",
+      "start": 107.0,
+      "end": 109.0,
+      "text": "你看 不停的用這樣的方法去"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00068",
+      "start": 109.0,
+      "end": 110.0,
+      "text": "不停的干擾女生的判斷"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00069",
+      "start": 110.0,
+      "end": 111.0,
+      "text": "他就一直順著你了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00070",
+      "start": 111.0,
+      "end": 113.0,
+      "text": "他也忘了你在動他手機了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00071",
+      "start": 113.0,
+      "end": 115.0,
+      "text": "懂了嗎你千萬不能傻傻的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00072",
+      "start": 116.0,
+      "end": 117.0,
+      "text": "你微信在哪兒呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00073",
+      "start": 117.0,
+      "end": 118.0,
+      "text": "對吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00074",
+      "start": 118.0,
+      "end": 119.0,
+      "text": "你這不傻嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00075",
+      "start": 119.0,
+      "end": 120.0,
+      "text": "那女孩肯定知道你要幹啥呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00076",
+      "start": 120.0,
+      "end": 121.0,
+      "text": "所以很多時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00077",
+      "start": 121.0,
+      "end": 123.0,
+      "text": "你的空場能力很關鍵"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00078",
+      "start": 123.0,
+      "end": 125.0,
+      "text": "你看我當時不停的在跟他說話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00079",
+      "start": 125.0,
+      "end": 126.0,
+      "text": "你別看別看別看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00080",
+      "start": 126.0,
+      "end": 127.0,
+      "text": "對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00081",
+      "start": 127.0,
+      "end": 128.0,
+      "text": "第二個點是什麼呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00082",
+      "start": 128.0,
+      "end": 129.0,
+      "text": "你記住了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00083",
+      "start": 129.0,
+      "end": 131.0,
+      "text": "一上來眼睛就先往下掃"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00084",
+      "start": 131.0,
+      "end": 133.0,
+      "text": "因為一般人都會把微信"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00085",
+      "start": 133.0,
+      "end": 135.0,
+      "text": "放在最下面那四個固定的格裡"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00086",
+      "start": 135.0,
+      "end": 136.0,
+      "text": "所以你先掃那"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00087",
+      "start": 136.0,
+      "end": 137.0,
+      "text": "一般就能找到微信"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00088",
+      "start": 137.0,
+      "end": 139.0,
+      "text": "如果你發現那沒有的話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00089",
+      "start": 139.0,
+      "end": 141.0,
+      "text": "你千萬不要這樣來回翻譯"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00090",
+      "start": 141.0,
+      "end": 142.0,
+      "text": "因為你要翻很長"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00091",
+      "start": 142.0,
+      "end": 143.0,
+      "text": "這個圖標太多了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00092",
+      "start": 143.0,
+      "end": 144.0,
+      "text": "幹嘛呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00093",
+      "start": 144.0,
+      "end": 145.0,
+      "text": "往左翻"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00094",
+      "start": 145.0,
+      "end": 147.0,
+      "text": "左邊一直翻到最左邊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00095",
+      "start": 147.0,
+      "end": 148.0,
+      "text": "有一個搜索"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00096",
+      "start": 148.0,
+      "end": 149.0,
+      "text": "馬上打微信俩字"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00097",
+      "start": 149.0,
+      "end": 150.0,
+      "text": "一下就能搜出來"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00098",
+      "start": 150.0,
+      "end": 151.0,
+      "text": "這是最快的方法"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00099",
+      "start": 151.0,
+      "end": 152.0,
+      "text": "你千萬不要"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00100",
+      "start": 153.0,
+      "end": 154.0,
+      "text": "翻翻翻"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00101",
+      "start": 154.0,
+      "end": 156.0,
+      "text": "哎呀這怎麼找這麼半天沒找著呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00102",
+      "start": 156.0,
+      "end": 158.0,
+      "text": "廢了女生就知道你咋回事了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00103",
+      "start": 158.0,
+      "end": 159.0,
+      "text": "所以說核心關鍵點"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00104",
+      "start": 159.0,
+      "end": 161.0,
+      "text": "不在於你掃碼這個動作"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00105",
+      "start": 161.0,
+      "end": 164.0,
+      "text": "而在於你做這一系列操作和行為的時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00106",
+      "start": 164.0,
+      "end": 166.0,
+      "text": "你的空場能力"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00107",
+      "start": 166.0,
+      "end": 168.0,
+      "text": "你的語言干擾的能力"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00108",
+      "start": 168.0,
+      "end": 170.0,
+      "text": "在魔術裡面有一個東西叫錯誤引導"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00109",
+      "start": 170.0,
+      "end": 172.0,
+      "text": "就是你引導她的能力"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00110",
+      "start": 172.0,
+      "end": 174.0,
+      "text": "你得讓女生的思路一直順著你走"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00111",
+      "start": 174.0,
+      "end": 176.0,
+      "text": "你千萬不能自己都竊場"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00112",
+      "start": 176.0,
+      "end": 177.0,
+      "text": "自己都慌亂了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00113",
+      "start": 177.0,
+      "end": 178.0,
+      "text": "那完了那女生肯定就發現"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00114",
+      "start": 178.0,
+      "end": 179.0,
+      "text": "你要幹麻了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00115",
+      "start": 179.0,
+      "end": 180.0,
+      "text": "知道嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00116",
+      "start": 180.0,
+      "end": 182.0,
+      "text": "所以說你看我這個在現場是很穩的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00117",
+      "start": 182.0,
+      "end": 184.0,
+      "text": "很多人同樣一個技巧你給她了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00118",
+      "start": 184.0,
+      "end": 186.0,
+      "text": "她玩不出來這種效果被啥"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00119",
+      "start": 186.0,
+      "end": 187.0,
+      "text": "就是她自己不穩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00120",
+      "start": 187.0,
+      "end": 188.0,
+      "text": "她也覺得是這招不好死"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00121",
+      "start": 188.0,
+      "end": 190.0,
+      "text": "要不就是這女人不好使"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00122",
+      "start": 190.0,
+      "end": 192.0,
+      "text": "實際上就是你自己竊場不夠強"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00123",
+      "start": 192.0,
+      "end": 193.0,
+      "text": "不會空場"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00124",
+      "start": 193.0,
+      "end": 194.0,
+      "text": "明白了嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00125",
+      "start": 194.0,
+      "end": 195.0,
+      "text": "呃"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00126",
+      "start": 195.0,
+      "end": 196.0,
+      "text": "您好您好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00127",
+      "start": 196.0,
+      "end": 197.0,
+      "text": "我交個朋友您好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00128",
+      "start": 197.0,
+      "end": 199.0,
+      "text": "我真是不是錄影員"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00129",
+      "start": 199.0,
+      "end": 201.0,
+      "text": "以後給你點魔術"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00130",
+      "start": 201.0,
+      "end": 202.0,
+      "text": "我先認識一下"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00131",
+      "start": 202.0,
+      "end": 203.0,
+      "text": "我叫于曉貴您好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00132",
+      "start": 203.0,
+      "end": 204.0,
+      "text": "于曉貴是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00133",
+      "start": 204.0,
+      "end": 206.0,
+      "text": "就是我您看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00134",
+      "start": 206.0,
+      "end": 207.0,
+      "text": "握個手握個手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00135",
+      "start": 207.0,
+      "end": 208.0,
+      "text": "你叫啥呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00136",
+      "start": 208.0,
+      "end": 209.0,
+      "text": "你怎麼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00137",
+      "start": 209.0,
+      "end": 211.0,
+      "text": "你這你放手呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00138",
+      "start": 211.0,
+      "end": 213.0,
+      "text": "你顏值越高的我握手時間越長"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00139",
+      "start": 213.0,
+      "end": 214.0,
+      "text": "對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00140",
+      "start": 214.0,
+      "end": 217.0,
+      "text": "我想握半個小時以後再放手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00141",
+      "start": 217.0,
+      "end": 218.0,
+      "text": "可以了可以了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00142",
+      "start": 218.0,
+      "end": 219.0,
+      "text": "謝謝"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00143",
+      "start": 219.0,
+      "end": 221.0,
+      "text": "你是在這幹麻"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00144",
+      "start": 221.0,
+      "end": 223.0,
+      "text": "準備回家了呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00145",
+      "start": 223.0,
+      "end": 224.0,
+      "text": "我要打車回家呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00146",
+      "start": 224.0,
+      "end": 225.0,
+      "text": "你別打"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00147",
+      "start": 225.0,
+      "end": 227.0,
+      "text": "一會我幫你打一個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00148",
+      "start": 227.0,
+      "end": 228.0,
+      "text": "你幫我打"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00149",
+      "start": 228.0,
+      "end": 230.0,
+      "text": "我幫你打一個豪華專車"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00150",
+      "start": 230.0,
+      "end": 231.0,
+      "text": "我都給你編魔術了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00151",
+      "start": 231.0,
+      "end": 232.0,
+      "text": "那個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00152",
+      "start": 232.0,
+      "end": 233.0,
+      "text": "你陪我喝一杯奶茶吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00153",
+      "start": 233.0,
+      "end": 234.0,
+      "text": "我請你喝"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00154",
+      "start": 234.0,
+      "end": 235.0,
+      "text": "呃"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00155",
+      "start": 235.0,
+      "end": 236.0,
+      "text": "嗯"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00156",
+      "start": 236.0,
+      "end": 238.0,
+      "text": "好你猶豫了就是同意"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00157",
+      "start": 238.0,
+      "end": 239.0,
+      "text": "對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00158",
+      "start": 239.0,
+      "end": 240.0,
+      "text": "這就是空場"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00159",
+      "start": 240.0,
+      "end": 242.0,
+      "text": "當他猶豫的時候你千萬不要"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00160",
+      "start": 242.0,
+      "end": 243.0,
+      "text": "怎麼樣呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00161",
+      "start": 243.0,
+      "end": 244.0,
+      "text": "或者說你也不說話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00162",
+      "start": 244.0,
+      "end": 245.0,
+      "text": "一直在那等他"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00163",
+      "start": 245.0,
+      "end": 247.0,
+      "text": "那完了這個女生猶豫一會"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00164",
+      "start": 247.0,
+      "end": 248.0,
+      "text": "她絕對拒絕你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00165",
+      "start": 248.0,
+      "end": 249.0,
+      "text": "就算她喜歡你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00166",
+      "start": 249.0,
+      "end": 250.0,
+      "text": "她也要拒絕你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00167",
+      "start": 250.0,
+      "end": 251.0,
+      "text": "為什麼她要表現金尺"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00168",
+      "start": 251.0,
+      "end": 252.0,
+      "text": "所以她在猶豫的時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00169",
+      "start": 252.0,
+      "end": 254.0,
+      "text": "她是在等你替她做決定"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00170",
+      "start": 254.0,
+      "end": 257.0,
+      "text": "把這個壞人推到你身上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00171",
+      "start": 257.0,
+      "end": 258.0,
+      "text": "對吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00172",
+      "start": 258.0,
+      "end": 260.0,
+      "text": "這樣的話她就算給你去喝咖啡了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00173",
+      "start": 260.0,
+      "end": 261.0,
+      "text": "也是你強拉硬拽的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00174",
+      "start": 261.0,
+      "end": 263.0,
+      "text": "她自己內心沒有這個負擔"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00175",
+      "start": 263.0,
+      "end": 265.0,
+      "text": "但如果你一直等她讓她最終"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00176",
+      "start": 265.0,
+      "end": 267.0,
+      "text": "啊用嘴上說那行吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00177",
+      "start": 267.0,
+      "end": 268.0,
+      "text": "她會覺得她才是這個壞人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00178",
+      "start": 268.0,
+      "end": 269.0,
+      "text": "你倆最後發生點啥"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00179",
+      "start": 269.0,
+      "end": 270.0,
+      "text": "也是她的責任"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00180",
+      "start": 270.0,
+      "end": 272.0,
+      "text": "你記住女生她是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00181",
+      "start": 272.0,
+      "end": 273.0,
+      "text": "非常要面子"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00182",
+      "start": 273.0,
+      "end": 275.0,
+      "text": "她是既要又要的一個動物"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00183",
+      "start": 275.0,
+      "end": 276.0,
+      "text": "她就算給你發生點啥"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00184",
+      "start": 276.0,
+      "end": 277.0,
+      "text": "她得想辦法"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00185",
+      "start": 277.0,
+      "end": 278.0,
+      "text": "讓你去承擔這個責任"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00186",
+      "start": 278.0,
+      "end": 279.0,
+      "text": "所以說我們"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00187",
+      "start": 279.0,
+      "end": 280.0,
+      "text": "一旦看她猶豫了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00188",
+      "start": 280.0,
+      "end": 282.0,
+      "text": "我們就馬上替她做決定"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00189",
+      "start": 282.0,
+      "end": 283.0,
+      "text": "不要讓她來做決定"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00190",
+      "start": 283.0,
+      "end": 284.0,
+      "text": "明白嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00191",
+      "start": 285.0,
+      "end": 287.0,
+      "text": "只要你沒有快速的拒絕我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00192",
+      "start": 287.0,
+      "end": 288.0,
+      "text": "你就是同意"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00193",
+      "start": 291.0,
+      "end": 293.0,
+      "text": "那你是被我的顏值吸引了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00194",
+      "start": 293.0,
+      "end": 295.0,
+      "text": "還是被我的幽默吸引"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00195",
+      "start": 295.0,
+      "end": 297.0,
+      "text": "我還沒有被你吸引"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00196",
+      "start": 298.0,
+      "end": 299.0,
+      "text": "你要喝啥"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00197",
+      "start": 299.0,
+      "end": 301.0,
+      "text": "我要喝這個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00198",
+      "start": 301.0,
+      "end": 302.0,
+      "text": "喝最貴的給你點最貴"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00199",
+      "start": 302.0,
+      "end": 303.0,
+      "text": "好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00200",
+      "start": 303.0,
+      "end": 304.0,
+      "text": "這裡再補充點"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00201",
+      "start": 304.0,
+      "end": 305.0,
+      "text": "我剛才講的也是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00202",
+      "start": 305.0,
+      "end": 307.0,
+      "text": "很多人表白失敗的一個原因"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00203",
+      "start": 307.0,
+      "end": 308.0,
+      "text": "為什麼很多人跟一個女孩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00204",
+      "start": 308.0,
+      "end": 309.0,
+      "text": "明明感覺很曖昧了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00205",
+      "start": 309.0,
+      "end": 310.0,
+      "text": "一表白就失敗呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00206",
+      "start": 310.0,
+      "end": 312.0,
+      "text": "因為表白也符合我剛說的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00207",
+      "start": 312.0,
+      "end": 314.0,
+      "text": "這個推卸責任的原理"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00208",
+      "start": 314.0,
+      "end": 315.0,
+      "text": "就是你一表白"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00209",
+      "start": 315.0,
+      "end": 316.0,
+      "text": "你說你能做我女朋友嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00210",
+      "start": 316.0,
+      "end": 317.0,
+      "text": "好了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00211",
+      "start": 317.0,
+      "end": 318.0,
+      "text": "這個時候誰做決定"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00212",
+      "start": 318.0,
+      "end": 319.0,
+      "text": "女生做決定了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00213",
+      "start": 319.0,
+      "end": 320.0,
+      "text": "所以說她就會覺得"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00214",
+      "start": 320.0,
+      "end": 321.0,
+      "text": "我要是答應你了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00215",
+      "start": 321.0,
+      "end": 322.0,
+      "text": "你看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00216",
+      "start": 322.0,
+      "end": 324.0,
+      "text": "咱倆這關係是我開始的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00217",
+      "start": 324.0,
+      "end": 325.0,
+      "text": "是我下的決定"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00218",
+      "start": 325.0,
+      "end": 327.0,
+      "text": "所以所有的責任都在我身上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00219",
+      "start": 327.0,
+      "end": 328.0,
+      "text": "以後咱倆出了任何問題"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00220",
+      "start": 328.0,
+      "end": 329.0,
+      "text": "或者怎麼樣的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00221",
+      "start": 329.0,
+      "end": 330.0,
+      "text": "好像都是我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00222",
+      "start": 330.0,
+      "end": 331.0,
+      "text": "才是這個壞人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00223",
+      "start": 331.0,
+      "end": 332.0,
+      "text": "發現了嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00224",
+      "start": 332.0,
+      "end": 333.0,
+      "text": "所以說大部分男生"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00225",
+      "start": 333.0,
+      "end": 334.0,
+      "text": "就算你跟一個女生暧昧了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00226",
+      "start": 334.0,
+      "end": 335.0,
+      "text": "你去問她"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00227",
+      "start": 335.0,
+      "end": 336.0,
+      "text": "你能做我女朋友嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00228",
+      "start": 336.0,
+      "end": 337.0,
+      "text": "女生都會拒絕你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00229",
+      "start": 337.0,
+      "end": 338.0,
+      "text": "因為她不想負這個責任"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00230",
+      "start": 338.0,
+      "end": 340.0,
+      "text": "高手她都不會去問女生"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00231",
+      "start": 340.0,
+      "end": 341.0,
+      "text": "她直接就是搞氛圍"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00232",
+      "start": 341.0,
+      "end": 342.0,
+      "text": "然後順其自然"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00233",
+      "start": 342.0,
+      "end": 344.0,
+      "text": "水到渠成的兩個人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00234",
+      "start": 344.0,
+      "end": 345.0,
+      "text": "該發生什麼都發生了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00235",
+      "start": 345.0,
+      "end": 346.0,
+      "text": "然後這個男生很霸氣"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00236",
+      "start": 346.0,
+      "end": 347.0,
+      "text": "很強勢的說出"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00237",
+      "start": 347.0,
+      "end": 348.0,
+      "text": "以後你就是我的女人了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00238",
+      "start": 348.0,
+      "end": 349.0,
+      "text": "你看這個女生"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00239",
+      "start": 349.0,
+      "end": 351.0,
+      "text": "全程沒有任何責任"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00240",
+      "start": 351.0,
+      "end": 352.0,
+      "text": "她就沒有壓力"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00241",
+      "start": 352.0,
+      "end": 353.0,
+      "text": "你如果去表白"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00242",
+      "start": 353.0,
+      "end": 354.0,
+      "text": "你就會讓她有壓力"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00243",
+      "start": 354.0,
+      "end": 355.0,
+      "text": "她拒絕你也不是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00244",
+      "start": 355.0,
+      "end": 356.0,
+      "text": "她不拒絕你也不是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00245",
+      "start": 356.0,
+      "end": 357.0,
+      "text": "因為責任在她身上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00246",
+      "start": 357.0,
+      "end": 358.0,
+      "text": "所以說大家"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00247",
+      "start": 358.0,
+      "end": 359.0,
+      "text": "在跟女生相處的時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00248",
+      "start": 359.0,
+      "end": 361.0,
+      "text": "一定要非常注重這個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00249",
+      "start": 361.0,
+      "end": 362.0,
+      "text": "責任的這個概念"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00250",
+      "start": 362.0,
+      "end": 363.0,
+      "text": "很多事"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00251",
+      "start": 363.0,
+      "end": 364.0,
+      "text": "你都不要去"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00252",
+      "start": 364.0,
+      "end": 366.0,
+      "text": "把責任推到女生身上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00253",
+      "start": 366.0,
+      "end": 367.0,
+      "text": "都要我們這邊來負責"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00254",
+      "start": 367.0,
+      "end": 368.0,
+      "text": "這樣的話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00255",
+      "start": 368.0,
+      "end": 369.0,
+      "text": "女生對你的依賴性"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00256",
+      "start": 369.0,
+      "end": 370.0,
+      "text": "才會越來越強"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00257",
+      "start": 370.0,
+      "end": 372.0,
+      "text": "然後她慢慢的就越來越配合你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00258",
+      "start": 372.0,
+      "end": 373.0,
+      "text": "你聽什麼邀請"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00259",
+      "start": 373.0,
+      "end": 374.0,
+      "text": "她都會答應你的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00260",
+      "start": 374.0,
+      "end": 375.0,
+      "text": "對的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00261",
+      "start": 375.0,
+      "end": 377.0,
+      "text": "不要喝最好喝的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00262",
+      "start": 377.0,
+      "end": 378.0,
+      "text": "以後我給你調"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00263",
+      "start": 378.0,
+      "end": 380.0,
+      "text": "你還會調飲料"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00264",
+      "start": 380.0,
+      "end": 381.0,
+      "text": "我會調酒"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00265",
+      "start": 381.0,
+      "end": 383.0,
+      "text": "我一般不給別人調"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00266",
+      "start": 383.0,
+      "end": 384.0,
+      "text": "因為我怕給你調了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00267",
+      "start": 384.0,
+      "end": 385.0,
+      "text": "你愛上我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00268",
+      "start": 385.0,
+      "end": 387.0,
+      "text": "喝一杯之後你又要上我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00269",
+      "start": 387.0,
+      "end": 388.0,
+      "text": "你不喝酒是因為"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00270",
+      "start": 388.0,
+      "end": 389.0,
+      "text": "沒有遇到一個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00271",
+      "start": 389.0,
+      "end": 391.0,
+      "text": "願意讓你喝酒的人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00272",
+      "start": 392.0,
+      "end": 394.0,
+      "text": "這話說的我都沒發覺"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00273",
+      "start": 394.0,
+      "end": 396.0,
+      "text": "人家還滿有貨"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00274",
+      "start": 396.0,
+      "end": 398.0,
+      "text": "這個在拍什麼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00275",
+      "start": 398.0,
+      "end": 400.0,
+      "text": "就是拍一個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00276",
+      "start": 400.0,
+      "end": 402.0,
+      "text": "我是一個生活記錄者"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00277",
+      "start": 402.0,
+      "end": 405.0,
+      "text": "那你這個拍了會發出去嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00278",
+      "start": 405.0,
+      "end": 406.0,
+      "text": "不發"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00279",
+      "start": 406.0,
+      "end": 407.0,
+      "text": "我平時也不拍"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00280",
+      "start": 407.0,
+      "end": 409.0,
+      "text": "我就是今天遇到你了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00281",
+      "start": 409.0,
+      "end": 410.0,
+      "text": "我覺得你顏值特別高"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00282",
+      "start": 410.0,
+      "end": 411.0,
+      "text": "我才拍"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00283",
+      "start": 411.0,
+      "end": 412.0,
+      "text": "長這麼大30歲了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00284",
+      "start": 412.0,
+      "end": 413.0,
+      "text": "我都沒看到你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00285",
+      "start": 413.0,
+      "end": 414.0,
+      "text": "這麼好看的女人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00286",
+      "start": 414.0,
+      "end": 416.0,
+      "text": "這句話絕對說謊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00287",
+      "start": 417.0,
+      "end": 418.0,
+      "text": "我不信"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00288",
+      "start": 418.0,
+      "end": 420.0,
+      "text": "對 因為我只有18歲"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00289",
+      "start": 421.0,
+      "end": 423.0,
+      "text": "你不是魔術師"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00290",
+      "start": 423.0,
+      "end": 424.0,
+      "text": "我是魔術師"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00291",
+      "start": 424.0,
+      "end": 426.0,
+      "text": "我真會變魔術"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00292",
+      "start": 426.0,
+      "end": 427.0,
+      "text": "我給你變一個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00293",
+      "start": 427.0,
+      "end": 429.0,
+      "text": "你想一到十 想一個數"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00294",
+      "start": 430.0,
+      "end": 431.0,
+      "text": "然後我能知道"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00295",
+      "start": 431.0,
+      "end": 432.0,
+      "text": "你心裡想的是什麼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00296",
+      "start": 432.0,
+      "end": 434.0,
+      "text": "你信嗎 你別說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00297",
+      "start": 434.0,
+      "end": 435.0,
+      "text": "一到十 想一個數"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00298",
+      "start": 435.0,
+      "end": 436.0,
+      "text": "想好了嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00299",
+      "start": 436.0,
+      "end": 437.0,
+      "text": "想好了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00300",
+      "start": 437.0,
+      "end": 439.0,
+      "text": "你把手伸出來"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00301",
+      "start": 439.0,
+      "end": 440.0,
+      "text": "翻過來"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00302",
+      "start": 440.0,
+      "end": 442.0,
+      "text": "然後放我手上我能感應到"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00303",
+      "start": 442.0,
+      "end": 444.0,
+      "text": "放我手上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00304",
+      "start": 444.0,
+      "end": 446.0,
+      "text": "對 這樣半個小時以後"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00305",
+      "start": 446.0,
+      "end": 447.0,
+      "text": "我就感應到了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00306",
+      "start": 448.0,
+      "end": 449.0,
+      "text": "又來"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00307",
+      "start": 451.0,
+      "end": 453.0,
+      "text": "好 這句話非常值關鍵"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00308",
+      "start": 453.0,
+      "end": 454.0,
+      "text": "大家注意"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00309",
+      "start": 454.0,
+      "end": 455.0,
+      "text": "為什麼我可以"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00310",
+      "start": 455.0,
+      "end": 456.0,
+      "text": "跟這個女生拉伸關係很快"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00311",
+      "start": 456.0,
+      "end": 458.0,
+      "text": "而我上一個視頻"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00312",
+      "start": 458.0,
+      "end": 459.0,
+      "text": "那個北京女孩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00313",
+      "start": 459.0,
+      "end": 461.0,
+      "text": "她就拉伸關係很慢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00314",
+      "start": 461.0,
+      "end": 463.0,
+      "text": "其實你也要看人下菜點了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00315",
+      "start": 463.0,
+      "end": 464.0,
+      "text": "你不要說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00316",
+      "start": 464.0,
+      "end": 465.0,
+      "text": "啊 蓄哥這個拉伸關係很快"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00317",
+      "start": 465.0,
+      "end": 467.0,
+      "text": "然後你就對所有女生都這樣"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00318",
+      "start": 467.0,
+      "end": 468.0,
+      "text": "你會發現有些女生"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00319",
+      "start": 468.0,
+      "end": 469.0,
+      "text": "能接受"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00320",
+      "start": 469.0,
+      "end": 470.0,
+      "text": "有些女生是接受不了的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00321",
+      "start": 470.0,
+      "end": 472.0,
+      "text": "那我們怎麼去判斷"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00322",
+      "start": 472.0,
+      "end": 473.0,
+      "text": "她能不能接受呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00323",
+      "start": 473.0,
+      "end": 475.0,
+      "text": "剛才這句話是關鍵"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00324",
+      "start": 475.0,
+      "end": 476.0,
+      "text": "她說你到底是做什麼的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00325",
+      "start": 476.0,
+      "end": 478.0,
+      "text": "為什麼這句話是關鍵呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00326",
+      "start": 478.0,
+      "end": 479.0,
+      "text": "你們在大陸裡給我打出來來"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00327",
+      "start": 479.0,
+      "end": 480.0,
+      "text": "先考你們一下"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00328",
+      "start": 480.0,
+      "end": 482.0,
+      "text": "其實原理就是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00329",
+      "start": 482.0,
+      "end": 483.0,
+      "text": "這個地方"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00330",
+      "start": 483.0,
+      "end": 484.0,
+      "text": "如果她問我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00331",
+      "start": 484.0,
+      "end": 486.0,
+      "text": "你是不是經常這樣調戲女孩啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00332",
+      "start": 486.0,
+      "end": 488.0,
+      "text": "咱們就不能快速拉伸關係了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00333",
+      "start": 488.0,
+      "end": 490.0,
+      "text": "而這個時候她還在追問"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00334",
+      "start": 490.0,
+      "end": 491.0,
+      "text": "那你到底是做什麼呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00335",
+      "start": 491.0,
+      "end": 493.0,
+      "text": "咱們就可以拉伸關係"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00336",
+      "start": 493.0,
+      "end": 495.0,
+      "text": "為什麼這兩個問題不同"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00337",
+      "start": 495.0,
+      "end": 497.0,
+      "text": "就可以決定我們的操作呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00338",
+      "start": 497.0,
+      "end": 499.0,
+      "text": "因為我前面已經用了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00339",
+      "start": 499.0,
+      "end": 501.0,
+      "text": "一系列的小拉伸去試探了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00340",
+      "start": 501.0,
+      "end": 502.0,
+      "text": "一開始我握手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00341",
+      "start": 502.0,
+      "end": 503.0,
+      "text": "握的時間特別長"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00342",
+      "start": 503.0,
+      "end": 504.0,
+      "text": "然後我要跟她說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00343",
+      "start": 504.0,
+      "end": 505.0,
+      "text": "我說我會調酒"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00344",
+      "start": 505.0,
+      "end": 506.0,
+      "text": "你不愛喝酒"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00345",
+      "start": 506.0,
+      "end": 507.0,
+      "text": "是因為你們遇到我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00346",
+      "start": 507.0,
+      "end": 508.0,
+      "text": "遇到我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00347",
+      "start": 508.0,
+      "end": 509.0,
+      "text": "你就會變成一個愛喝酒的人了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00348",
+      "start": 509.0,
+      "end": 510.0,
+      "text": "對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00349",
+      "start": 510.0,
+      "end": 511.0,
+      "text": "你看這都是小調情"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00350",
+      "start": 511.0,
+      "end": 513.0,
+      "text": "然後又用這個魔術去牽著手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00351",
+      "start": 513.0,
+      "end": 514.0,
+      "text": "又一次拉伸關係"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00352",
+      "start": 514.0,
+      "end": 515.0,
+      "text": "那麼按理說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00353",
+      "start": 515.0,
+      "end": 516.0,
+      "text": "這個時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00354",
+      "start": 516.0,
+      "end": 518.0,
+      "text": "女生一般會開始警覺了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00355",
+      "start": 518.0,
+      "end": 519.0,
+      "text": "她就會開始問了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00356",
+      "start": 519.0,
+      "end": 520.0,
+      "text": "你這麼會撩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00357",
+      "start": 520.0,
+      "end": 522.0,
+      "text": "你是不是經常這樣撩女孩啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00358",
+      "start": 522.0,
+      "end": 523.0,
+      "text": "她一旦有這個警覺"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00359",
+      "start": 523.0,
+      "end": 525.0,
+      "text": "咱們的拉伸就應該停止了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00360",
+      "start": 525.0,
+      "end": 526.0,
+      "text": "對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00361",
+      "start": 526.0,
+      "end": 527.0,
+      "text": "但是她到這兒都沒有警覺"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00362",
+      "start": 527.0,
+      "end": 528.0,
+      "text": "她還在對我產生好奇"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00363",
+      "start": 528.0,
+      "end": 530.0,
+      "text": "你到底是做什麼呢呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00364",
+      "start": 530.0,
+      "end": 531.0,
+      "text": "你通過這一個細節"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00365",
+      "start": 531.0,
+      "end": 532.0,
+      "text": "你就能判斷出"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00366",
+      "start": 532.0,
+      "end": 533.0,
+      "text": "這個女生對你的接收度"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00367",
+      "start": 533.0,
+      "end": 534.0,
+      "text": "是非常之高的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00368",
+      "start": 534.0,
+      "end": 535.0,
+      "text": "咱們就知道"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00369",
+      "start": 535.0,
+      "end": 537.0,
+      "text": "可以快速拉伸關係"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00370",
+      "start": 537.0,
+      "end": 538.0,
+      "text": "而且你們記得"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00371",
+      "start": 538.0,
+      "end": 540.0,
+      "text": "女生對你的私生活"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00372",
+      "start": 540.0,
+      "end": 541.0,
+      "text": "越好奇"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00373",
+      "start": 541.0,
+      "end": 543.0,
+      "text": "對你的信息越好奇"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00374",
+      "start": 543.0,
+      "end": 544.0,
+      "text": "就代表著"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00375",
+      "start": 544.0,
+      "end": 545.0,
+      "text": "她對你的接收度越高"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00376",
+      "start": 545.0,
+      "end": 547.0,
+      "text": "她對你的好感度也就越強"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00377",
+      "start": 547.0,
+      "end": 548.0,
+      "text": "這就是觀察"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00378",
+      "start": 548.0,
+      "end": 549.0,
+      "text": "這就是社交直覺"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00379",
+      "start": 549.0,
+      "end": 550.0,
+      "text": "你很多人說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00380",
+      "start": 550.0,
+      "end": 551.0,
+      "text": "徐哥"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00381",
+      "start": 551.0,
+      "end": 552.0,
+      "text": "為什麼我用了你的方法"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00382",
+      "start": 552.0,
+      "end": 553.0,
+      "text": "女生打我了呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00383",
+      "start": 553.0,
+      "end": 554.0,
+      "text": "因為你沒有社交直覺"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00384",
+      "start": 554.0,
+      "end": 555.0,
+      "text": "你光學了一個咳"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00385",
+      "start": 555.0,
+      "end": 556.0,
+      "text": "你沒學到魂"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00386",
+      "start": 556.0,
+      "end": 557.0,
+      "text": "你光學到這個方法"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00387",
+      "start": 557.0,
+      "end": 558.0,
+      "text": "你對誰都用"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00388",
+      "start": 558.0,
+      "end": 559.0,
+      "text": "有的時候人家"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00389",
+      "start": 559.0,
+      "end": 560.0,
+      "text": "沒有這個接收度"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00390",
+      "start": 560.0,
+      "end": 561.0,
+      "text": "你用了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00391",
+      "start": 561.0,
+      "end": 562.0,
+      "text": "那你肯定死了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00392",
+      "start": 562.0,
+      "end": 563.0,
+      "text": "所以說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00393",
+      "start": 563.0,
+      "end": 564.0,
+      "text": "不是啥招都能隨便用的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00394",
+      "start": 564.0,
+      "end": 565.0,
+      "text": "你得先判斷"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00395",
+      "start": 565.0,
+      "end": 566.0,
+      "text": "這個女生"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00396",
+      "start": 566.0,
+      "end": 567.0,
+      "text": "現在是什麼情緒"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00397",
+      "start": 567.0,
+      "end": 568.0,
+      "text": "她對你的接收度"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00398",
+      "start": 568.0,
+      "end": 569.0,
+      "text": "到多少了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00399",
+      "start": 569.0,
+      "end": 571.0,
+      "text": "你對她有沒有造成吸引"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00400",
+      "start": 571.0,
+      "end": 572.0,
+      "text": "你才能決定"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00401",
+      "start": 572.0,
+      "end": 573.0,
+      "text": "你用什麼招"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00402",
+      "start": 573.0,
+      "end": 574.0,
+      "text": "你光東施孝萍"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00403",
+      "start": 574.0,
+      "end": 575.0,
+      "text": "王八學律動"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00404",
+      "start": 575.0,
+      "end": 576.0,
+      "text": "你能學出個啥呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00405",
+      "start": 576.0,
+      "end": 578.0,
+      "text": "那你肯定挨打呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00406",
+      "start": 578.0,
+      "end": 579.0,
+      "text": "我現在是無業有名"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00407",
+      "start": 580.0,
+      "end": 581.0,
+      "text": "真的呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00408",
+      "start": 581.0,
+      "end": 582.0,
+      "text": "對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00409",
+      "start": 582.0,
+      "end": 583.0,
+      "text": "你養我吧姐姐"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00410",
+      "start": 583.0,
+      "end": 584.0,
+      "text": "我給你一個這個嘛"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00411",
+      "start": 585.0,
+      "end": 586.0,
+      "text": "戴上美容養顏"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00412",
+      "start": 586.0,
+      "end": 587.0,
+      "text": "粉色的顯白"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00413",
+      "start": 587.0,
+      "end": 588.0,
+      "text": "又開始了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00414",
+      "start": 588.0,
+      "end": 590.0,
+      "text": "你不著急回家對吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00415",
+      "start": 592.0,
+      "end": 593.0,
+      "text": "我看情況"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00416",
+      "start": 593.0,
+      "end": 594.0,
+      "text": "我看就是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00417",
+      "start": 594.0,
+      "end": 596.0,
+      "text": "我不是很能養得起你的樣子"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00418",
+      "start": 597.0,
+      "end": 598.0,
+      "text": "不用你養"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00419",
+      "start": 599.0,
+      "end": 601.0,
+      "text": "你不著急回家對吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00420",
+      "start": 601.0,
+      "end": 602.0,
+      "text": "這句話也是一個測試"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00421",
+      "start": 602.0,
+      "end": 603.0,
+      "text": "看她反應"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00422",
+      "start": 603.0,
+      "end": 604.0,
+      "text": "她如果說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00423",
+      "start": 604.0,
+      "end": 605.0,
+      "text": "我看情況"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00424",
+      "start": 605.0,
+      "end": 606.0,
+      "text": "還行不著急"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00425",
+      "start": 606.0,
+      "end": 607.0,
+      "text": "這就是有好感"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00426",
+      "start": 607.0,
+      "end": 608.0,
+      "text": "可以繼續拉伸"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00427",
+      "start": 608.0,
+      "end": 609.0,
+      "text": "她如果說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00428",
+      "start": 609.0,
+      "end": 610.0,
+      "text": "一會我就得走了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00429",
+      "start": 610.0,
+      "end": 611.0,
+      "text": "那就不要拉伸了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00430",
+      "start": 611.0,
+      "end": 612.0,
+      "text": "懂了嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00431",
+      "start": 612.0,
+      "end": 613.0,
+      "text": "所以說我問的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00432",
+      "start": 613.0,
+      "end": 614.0,
+      "text": "每個問題都不是白問的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00433",
+      "start": 614.0,
+      "end": 616.0,
+      "text": "都是其實有內在含義的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00434",
+      "start": 616.0,
+      "end": 617.0,
+      "text": "我都會通過這些問題"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00435",
+      "start": 617.0,
+      "end": 618.0,
+      "text": "得到一些信息"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00436",
+      "start": 618.0,
+      "end": 619.0,
+      "text": "能觀察到"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00437",
+      "start": 619.0,
+      "end": 620.0,
+      "text": "她內心對我的接收度"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00438",
+      "start": 620.0,
+      "end": 622.0,
+      "text": "這個是很重要的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00439",
+      "start": 622.0,
+      "end": 623.0,
+      "text": "明白嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00440",
+      "start": 623.0,
+      "end": 624.0,
+      "text": "我養你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00441",
+      "start": 624.0,
+      "end": 625.0,
+      "text": "我每天給你做早餐"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00442",
+      "start": 625.0,
+      "end": 626.0,
+      "text": "端到你窗邊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00443",
+      "start": 626.0,
+      "end": 628.0,
+      "text": "我不吃早餐"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00444",
+      "start": 628.0,
+      "end": 629.0,
+      "text": "那我給你做晚餐"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00445",
+      "start": 629.0,
+      "end": 630.0,
+      "text": "晚餐做什麼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00446",
+      "start": 630.0,
+      "end": 632.0,
+      "text": "做愛心晚餐"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00447",
+      "start": 632.0,
+      "end": 633.0,
+      "text": "愛心晚餐"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00448",
+      "start": 633.0,
+      "end": 634.0,
+      "text": "給你打個雞蛋"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00449",
+      "start": 634.0,
+      "end": 636.0,
+      "text": "玩雞蛋是一個新的情況"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00450",
+      "start": 636.0,
+      "end": 637.0,
+      "text": "愛心晚餐"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00451",
+      "start": 637.0,
+      "end": 638.0,
+      "text": "少吃點雞蛋"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00452",
+      "start": 638.0,
+      "end": 639.0,
+      "text": "上皇裡面膽固醇含量高"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00453",
+      "start": 639.0,
+      "end": 640.0,
+      "text": "你養生啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00454",
+      "start": 640.0,
+      "end": 641.0,
+      "text": "沒有啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00455",
+      "start": 641.0,
+      "end": 643.0,
+      "text": "我要就是健身啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00456",
+      "start": 643.0,
+      "end": 644.0,
+      "text": "你健身"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00457",
+      "start": 644.0,
+      "end": 645.0,
+      "text": "對啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00458",
+      "start": 645.0,
+      "end": 646.0,
+      "text": "你有肌肉嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00459",
+      "start": 646.0,
+      "end": 647.0,
+      "text": "像我的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00460",
+      "start": 649.0,
+      "end": 651.0,
+      "text": "這也是一個拉伸測試"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00461",
+      "start": 651.0,
+      "end": 652.0,
+      "text": "她沒有對我的肢體接觸"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00462",
+      "start": 652.0,
+      "end": 653.0,
+      "text": "抗拒"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00463",
+      "start": 653.0,
+      "end": 655.0,
+      "text": "所以說我們可以繼續拉伸"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00464",
+      "start": 655.0,
+      "end": 656.0,
+      "text": "太軟了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00465",
+      "start": 656.0,
+      "end": 657.0,
+      "text": "什麼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00466",
+      "start": 657.0,
+      "end": 658.0,
+      "text": "你是軟妹子"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00467",
+      "start": 658.0,
+      "end": 659.0,
+      "text": "我是硬汗"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00468",
+      "start": 659.0,
+      "end": 660.0,
+      "text": "咱倆互補"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00469",
+      "start": 660.0,
+      "end": 662.0,
+      "text": "你肌肉呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00470",
+      "start": 662.0,
+      "end": 663.0,
+      "text": "我有肌肉啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00471",
+      "start": 663.0,
+      "end": 664.0,
+      "text": "來捏吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00472",
+      "start": 664.0,
+      "end": 666.0,
+      "text": "可以保護你的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00473",
+      "start": 666.0,
+      "end": 667.0,
+      "text": "看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00474",
+      "start": 667.0,
+      "end": 669.0,
+      "text": "她主動對我們肢體接觸"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00475",
+      "start": 669.0,
+      "end": 670.0,
+      "text": "說明接收度還是很高"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00476",
+      "start": 670.0,
+      "end": 671.0,
+      "text": "可以繼續拉伸"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00477",
+      "start": 671.0,
+      "end": 672.0,
+      "text": "沒事"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00478",
+      "start": 672.0,
+      "end": 673.0,
+      "text": "你用力捏"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00479",
+      "start": 673.0,
+      "end": 674.0,
+      "text": "我不疼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00480",
+      "start": 674.0,
+      "end": 675.0,
+      "text": "好吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00481",
+      "start": 675.0,
+      "end": 676.0,
+      "text": "你也是有一點"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00482",
+      "start": 676.0,
+      "end": 677.0,
+      "text": "我喜歡你對我粗暴一點"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00483",
+      "start": 677.0,
+      "end": 678.0,
+      "text": "天呐"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00484",
+      "start": 679.0,
+      "end": 680.0,
+      "text": "看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00485",
+      "start": 680.0,
+      "end": 681.0,
+      "text": "為什麼我敢說這句話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00486",
+      "start": 681.0,
+      "end": 682.0,
+      "text": "現在明白了嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00487",
+      "start": 682.0,
+      "end": 683.0,
+      "text": "如果沒有前面"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00488",
+      "start": 683.0,
+      "end": 685.0,
+      "text": "這一系列的測試和鋪墊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00489",
+      "start": 685.0,
+      "end": 686.0,
+      "text": "你敢說這句話嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00490",
+      "start": 686.0,
+      "end": 687.0,
+      "text": "不敢的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00491",
+      "start": 687.0,
+      "end": 688.0,
+      "text": "你如果亂說的話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00492",
+      "start": 688.0,
+      "end": 689.0,
+      "text": "那這個女生"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00493",
+      "start": 689.0,
+      "end": 690.0,
+      "text": "萬一她內心"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00494",
+      "start": 690.0,
+      "end": 691.0,
+      "text": "沒有這麼高的接收度呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00495",
+      "start": 691.0,
+      "end": 692.0,
+      "text": "直接就可能就"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00496",
+      "start": 692.0,
+      "end": 693.0,
+      "text": "啟示就走了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00497",
+      "start": 693.0,
+      "end": 694.0,
+      "text": "覺得你耍丟忙對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00498",
+      "start": 694.0,
+      "end": 695.0,
+      "text": "這就是很多人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00499",
+      "start": 695.0,
+      "end": 696.0,
+      "text": "為什麼看我視頻"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00500",
+      "start": 696.0,
+      "end": 697.0,
+      "text": "啊 敘哥為什麼我用包式"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00501",
+      "start": 697.0,
+      "end": 698.0,
+      "text": "就這個原因"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00502",
+      "start": 698.0,
+      "end": 699.0,
+      "text": "我不停的在測試"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00503",
+      "start": 699.0,
+      "end": 701.0,
+      "text": "很多人都沒看明白"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00504",
+      "start": 701.0,
+      "end": 702.0,
+      "text": "就亂用"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00505",
+      "start": 702.0,
+      "end": 703.0,
+      "text": "打星座"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00506",
+      "start": 703.0,
+      "end": 704.0,
+      "text": "你猜一下"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00507",
+      "start": 704.0,
+      "end": 705.0,
+      "text": "這樣我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00508",
+      "start": 705.0,
+      "end": 706.0,
+      "text": "我三次猜中了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00509",
+      "start": 706.0,
+      "end": 708.0,
+      "text": "你請我看電影"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00510",
+      "start": 708.0,
+      "end": 709.0,
+      "text": "不應該是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00511",
+      "start": 709.0,
+      "end": 710.0,
+      "text": "你三次猜中了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00512",
+      "start": 710.0,
+      "end": 711.0,
+      "text": "我給你一個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00513",
+      "start": 711.0,
+      "end": 714.0,
+      "text": "你請我看電影的機會嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00514",
+      "start": 714.0,
+      "end": 715.0,
+      "text": "你很會撩啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00515",
+      "start": 715.0,
+      "end": 717.0,
+      "text": "你肯定是一個老手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00516",
+      "start": 717.0,
+      "end": 718.0,
+      "text": "來打開微信"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00517",
+      "start": 718.0,
+      "end": 719.0,
+      "text": "先看看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00518",
+      "start": 719.0,
+      "end": 721.0,
+      "text": "看看有多少個男人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00519",
+      "start": 721.0,
+      "end": 723.0,
+      "text": "白洋座"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00520",
+      "start": 723.0,
+      "end": 724.0,
+      "text": "不是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00521",
+      "start": 724.0,
+      "end": 725.0,
+      "text": "猜錯了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00522",
+      "start": 725.0,
+      "end": 726.0,
+      "text": "你是什麼象的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00523",
+      "start": 726.0,
+      "end": 728.0,
+      "text": "風象的還是火象的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00524",
+      "start": 728.0,
+      "end": 729.0,
+      "text": "我看你性格"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00525",
+      "start": 729.0,
+      "end": 731.0,
+      "text": "就很像白洋啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00526",
+      "start": 731.0,
+      "end": 732.0,
+      "text": "你就性格很開朗啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00527",
+      "start": 732.0,
+      "end": 733.0,
+      "text": "我是誰象星座"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00528",
+      "start": 733.0,
+      "end": 735.0,
+      "text": "天蝎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00529",
+      "start": 735.0,
+      "end": 736.0,
+      "text": "對你是天蝎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00530",
+      "start": 736.0,
+      "end": 737.0,
+      "text": "什麼態度的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00531",
+      "start": 737.0,
+      "end": 738.0,
+      "text": "挖掏"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00532",
+      "start": 738.0,
+      "end": 740.0,
+      "text": "那我不敢得罪你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00533",
+      "start": 740.0,
+      "end": 741.0,
+      "text": "天蝎祭仇"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00534",
+      "start": 741.0,
+      "end": 742.0,
+      "text": "天蝎這"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00535",
+      "start": 742.0,
+      "end": 744.0,
+      "text": "這個猜星座的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00536",
+      "start": 744.0,
+      "end": 745.0,
+      "text": "我也不知道為什麼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00537",
+      "start": 745.0,
+      "end": 746.0,
+      "text": "我猜的這麼準"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00538",
+      "start": 746.0,
+      "end": 747.0,
+      "text": "等到時候我研究研究"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00539",
+      "start": 747.0,
+      "end": 748.0,
+      "text": "我到底是根據"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00540",
+      "start": 748.0,
+      "end": 749.0,
+      "text": "什麼猜出來的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00541",
+      "start": 749.0,
+      "end": 751.0,
+      "text": "完了我總結成一套公視"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00542",
+      "start": 751.0,
+      "end": 752.0,
+      "text": "交給你們"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00543",
+      "start": 752.0,
+      "end": 753.0,
+      "text": "我也不算完"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00544",
+      "start": 753.0,
+      "end": 754.0,
+      "text": "但是不好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00545",
+      "start": 754.0,
+      "end": 756.0,
+      "text": "天蝎最好哄"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00546",
+      "start": 756.0,
+      "end": 757.0,
+      "text": "跟天蝎談戀愛"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00547",
+      "start": 757.0,
+      "end": 758.0,
+      "text": "要是吵架了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00548",
+      "start": 758.0,
+      "end": 759.0,
+      "text": "要完給完就好了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00549",
+      "start": 759.0,
+      "end": 761.0,
+      "text": "這他的日話題"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00550",
+      "start": 761.0,
+      "end": 762.0,
+      "text": "我說要禮物"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00551",
+      "start": 762.0,
+      "end": 763.0,
+      "text": "要禮物"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00552",
+      "start": 763.0,
+      "end": 764.0,
+      "text": "不是要別的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00553",
+      "start": 764.0,
+      "end": 765.0,
+      "text": "要禮物"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00554",
+      "start": 765.0,
+      "end": 766.0,
+      "text": "給完就好了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00555",
+      "start": 766.0,
+      "end": 767.0,
+      "text": "要抱抱"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00556",
+      "start": 767.0,
+      "end": 768.0,
+      "text": "對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00557",
+      "start": 768.0,
+      "end": 769.0,
+      "text": "要抱抱"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00558",
+      "start": 769.0,
+      "end": 770.0,
+      "text": "你當然都沒告訴我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00559",
+      "start": 770.0,
+      "end": 771.0,
+      "text": "你叫啥"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00560",
+      "start": 771.0,
+      "end": 772.0,
+      "text": "你叫周周"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00561",
+      "start": 772.0,
+      "end": 774.0,
+      "text": "周周您好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00562",
+      "start": 774.0,
+      "end": 775.0,
+      "text": "又來"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00563",
+      "start": 775.0,
+      "end": 776.0,
+      "text": "您好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00564",
+      "start": 776.0,
+      "end": 777.0,
+      "text": "再握一個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00565",
+      "start": 777.0,
+      "end": 778.0,
+      "text": "我叫余曉慧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00566",
+      "start": 778.0,
+      "end": 779.0,
+      "text": "您好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00567",
+      "start": 780.0,
+      "end": 782.0,
+      "text": "您好香啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00568",
+      "start": 784.0,
+      "end": 785.0,
+      "text": "你好變態啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00569",
+      "start": 785.0,
+      "end": 786.0,
+      "text": "變態好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00570",
+      "start": 786.0,
+      "end": 787.0,
+      "text": "好這裡有一個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00571",
+      "start": 787.0,
+      "end": 788.0,
+      "text": "肢體的技巧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00572",
+      "start": 788.0,
+      "end": 789.0,
+      "text": "當我們去做這種"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00573",
+      "start": 789.0,
+      "end": 790.0,
+      "text": "肢體上的拉伸的時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00574",
+      "start": 790.0,
+      "end": 791.0,
+      "text": "有一個技巧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00575",
+      "start": 791.0,
+      "end": 792.0,
+      "text": "就是你盡量眼睛"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00576",
+      "start": 792.0,
+      "end": 794.0,
+      "text": "不要看著對方"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00577",
+      "start": 794.0,
+      "end": 795.0,
+      "text": "或者說不要看著"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00578",
+      "start": 795.0,
+      "end": 796.0,
+      "text": "你拉伸個位置"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00579",
+      "start": 796.0,
+      "end": 797.0,
+      "text": "什麼意思呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00580",
+      "start": 797.0,
+      "end": 798.0,
+      "text": "你比如說我剛才"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00581",
+      "start": 798.0,
+      "end": 800.0,
+      "text": "這個聞的時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00582",
+      "start": 800.0,
+      "end": 801.0,
+      "text": "然後我說你好香啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00583",
+      "start": 801.0,
+      "end": 802.0,
+      "text": "我是背對著他的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00584",
+      "start": 802.0,
+      "end": 804.0,
+      "text": "如果你看著他"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00585",
+      "start": 804.0,
+      "end": 805.0,
+      "text": "你這樣"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00586",
+      "start": 805.0,
+      "end": 806.0,
+      "text": "你好香啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00587",
+      "start": 806.0,
+      "end": 807.0,
+      "text": "這就很萎縮"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00588",
+      "start": 807.0,
+      "end": 808.0,
+      "text": "看到了嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00589",
+      "start": 808.0,
+      "end": 810.0,
+      "text": "這個攻擊性就特別強"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00590",
+      "start": 810.0,
+      "end": 811.0,
+      "text": "那麼女生就會"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00591",
+      "start": 811.0,
+      "end": 812.0,
+      "text": "你幹嘛"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00592",
+      "start": 812.0,
+      "end": 813.0,
+      "text": "對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00593",
+      "start": 813.0,
+      "end": 814.0,
+      "text": "就覺得你要圖謀不詭了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00594",
+      "start": 814.0,
+      "end": 815.0,
+      "text": "是吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00595",
+      "start": 815.0,
+      "end": 816.0,
+      "text": "你背對著他"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00596",
+      "start": 816.0,
+      "end": 817.0,
+      "text": "比如他在這"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00597",
+      "start": 817.0,
+      "end": 818.0,
+      "text": "你好香啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00598",
+      "start": 818.0,
+      "end": 819.0,
+      "text": "然後這個時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00599",
+      "start": 819.0,
+      "end": 820.0,
+      "text": "女生會這樣"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00600",
+      "start": 820.0,
+      "end": 821.0,
+      "text": "過來看你的眼神"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00601",
+      "start": 821.0,
+      "end": 822.0,
+      "text": "對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00602",
+      "start": 822.0,
+      "end": 823.0,
+      "text": "女生就形成了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00603",
+      "start": 823.0,
+      "end": 824.0,
+      "text": "一種他追你的一種趨勢了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00604",
+      "start": 824.0,
+      "end": 825.0,
+      "text": "對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00605",
+      "start": 825.0,
+      "end": 826.0,
+      "text": "你看你背對著他"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00606",
+      "start": 826.0,
+      "end": 827.0,
+      "text": "對吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00607",
+      "start": 827.0,
+      "end": 828.0,
+      "text": "那你比如說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00608",
+      "start": 828.0,
+      "end": 829.0,
+      "text": "你要牽女生手也是一樣的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00609",
+      "start": 829.0,
+      "end": 830.0,
+      "text": "你去牽她手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00610",
+      "start": 830.0,
+      "end": 831.0,
+      "text": "你眼神看這"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00611",
+      "start": 831.0,
+      "end": 832.0,
+      "text": "看側面都可以"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00612",
+      "start": 832.0,
+      "end": 833.0,
+      "text": "對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00613",
+      "start": 833.0,
+      "end": 834.0,
+      "text": "你不要"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00614",
+      "start": 834.0,
+      "end": 835.0,
+      "text": "看著去牽手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00615",
+      "start": 835.0,
+      "end": 836.0,
+      "text": "你看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00616",
+      "start": 836.0,
+      "end": 838.0,
+      "text": "你看這就很萎縮"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00617",
+      "start": 838.0,
+      "end": 839.0,
+      "text": "對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00618",
+      "start": 839.0,
+      "end": 840.0,
+      "text": "看著很"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00619",
+      "start": 840.0,
+      "end": 841.0,
+      "text": "這就很萎縮"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00620",
+      "start": 841.0,
+      "end": 842.0,
+      "text": "明白了嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00621",
+      "start": 842.0,
+      "end": 843.0,
+      "text": "所以說我們在肢體上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00622",
+      "start": 843.0,
+      "end": 844.0,
+      "text": "也是有技巧的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00623",
+      "start": 844.0,
+      "end": 846.0,
+      "text": "為什麼很多浪漫的話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00624",
+      "start": 846.0,
+      "end": 847.0,
+      "text": "或者調情的話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00625",
+      "start": 847.0,
+      "end": 848.0,
+      "text": "別人說出來"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00626",
+      "start": 848.0,
+      "end": 849.0,
+      "text": "就很浪漫"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00627",
+      "start": 849.0,
+      "end": 850.0,
+      "text": "很有情調"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00628",
+      "start": 850.0,
+      "end": 851.0,
+      "text": "而你覺得自己說出來"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00629",
+      "start": 851.0,
+      "end": 852.0,
+      "text": "怎麼就那麼萎縮呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00630",
+      "start": 852.0,
+      "end": 854.0,
+      "text": "其實是因為肢體和語態"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00631",
+      "start": 854.0,
+      "end": 856.0,
+      "text": "語氣的差別"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00632",
+      "start": 856.0,
+      "end": 857.0,
+      "text": "明白嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00633",
+      "start": 857.0,
+      "end": 858.0,
+      "text": "話術沒啥差別"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00634",
+      "start": 858.0,
+      "end": 859.0,
+      "text": "但是你這個表現"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00635",
+      "start": 859.0,
+      "end": 860.0,
+      "text": "差別就給人感覺"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00636",
+      "start": 860.0,
+      "end": 861.0,
+      "text": "就不一樣"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00637",
+      "start": 861.0,
+      "end": 862.0,
+      "text": "這個大家也得去注意"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00638",
+      "start": 862.0,
+      "end": 864.0,
+      "text": "得去練自己的肢體語言"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00639",
+      "start": 864.0,
+      "end": 865.0,
+      "text": "再看一遍"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00640",
+      "start": 865.0,
+      "end": 867.0,
+      "text": "你好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00641",
+      "start": 867.0,
+      "end": 868.0,
+      "text": "你好香啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00642",
+      "start": 868.0,
+      "end": 870.0,
+      "text": "沒看他"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00643",
+      "start": 870.0,
+      "end": 872.0,
+      "text": "你好變態"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00644",
+      "start": 872.0,
+      "end": 873.0,
+      "text": "變態好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00645",
+      "start": 873.0,
+      "end": 874.0,
+      "text": "變態有情調"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00646",
+      "start": 874.0,
+      "end": 876.0,
+      "text": "跟變態談戀愛才浪漫"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00647",
+      "start": 876.0,
+      "end": 878.0,
+      "text": "跟正經人談戀愛多無聊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00648",
+      "start": 878.0,
+      "end": 879.0,
+      "text": "你說一下"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00649",
+      "start": 879.0,
+      "end": 880.0,
+      "text": "你怎麼跟浪漫"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00650",
+      "start": 880.0,
+      "end": 881.0,
+      "text": "不能說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00651",
+      "start": 881.0,
+      "end": 883.0,
+      "text": "你得體驗"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00652",
+      "start": 883.0,
+      "end": 884.0,
+      "text": "走"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00653",
+      "start": 884.0,
+      "end": 885.0,
+      "text": "現在去你家"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00654",
+      "start": 887.0,
+      "end": 889.0,
+      "text": "你是做啥的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00655",
+      "start": 889.0,
+      "end": 890.0,
+      "text": "我是老師"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00656",
+      "start": 890.0,
+      "end": 892.0,
+      "text": "那我要當你的學生"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00657",
+      "start": 892.0,
+      "end": 895.0,
+      "text": "我不聽話你就踩我的頭"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00658",
+      "start": 897.0,
+      "end": 899.0,
+      "text": "踩你頭幹什麼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00659",
+      "start": 899.0,
+      "end": 902.0,
+      "text": "你說三個你最喜歡的男生特點"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00660",
+      "start": 902.0,
+      "end": 905.0,
+      "text": "第一個有米"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00661",
+      "start": 905.0,
+      "end": 906.0,
+      "text": "第二個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00662",
+      "start": 906.0,
+      "end": 907.0,
+      "text": "我先走了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00663",
+      "start": 907.0,
+      "end": 909.0,
+      "text": "這是一個推拉"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00664",
+      "start": 909.0,
+      "end": 911.0,
+      "text": "就是我們不能一直去拉升關係"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00665",
+      "start": 911.0,
+      "end": 913.0,
+      "text": "一直拉升一直拉升"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00666",
+      "start": 913.0,
+      "end": 914.0,
+      "text": "攻擊性就越來越強"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00667",
+      "start": 914.0,
+      "end": 915.0,
+      "text": "需求感覺越來越強了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00668",
+      "start": 915.0,
+      "end": 916.0,
+      "text": "所以說有時候我們得推開"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00669",
+      "start": 916.0,
+      "end": 917.0,
+      "text": "那我走了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00670",
+      "start": 917.0,
+      "end": 918.0,
+      "text": "啊這個不行"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00671",
+      "start": 918.0,
+      "end": 919.0,
+      "text": "我不符合"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00672",
+      "start": 919.0,
+      "end": 920.0,
+      "text": "哎呀你怎麼這樣"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00673",
+      "start": 920.0,
+      "end": 921.0,
+      "text": "就是你有時候你得打呀打呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00674",
+      "start": 921.0,
+      "end": 922.0,
+      "text": "或者把他推開一下"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00675",
+      "start": 922.0,
+      "end": 924.0,
+      "text": "就是平衡你的需求感"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00676",
+      "start": 924.0,
+      "end": 925.0,
+      "text": "第二個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00677",
+      "start": 925.0,
+      "end": 926.0,
+      "text": "你沒有嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00678",
+      "start": 926.0,
+      "end": 928.0,
+      "text": "你先說第二個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00679",
+      "start": 928.0,
+      "end": 929.0,
+      "text": "第二個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00680",
+      "start": 929.0,
+      "end": 931.0,
+      "text": "這個地方很重要"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00681",
+      "start": 931.0,
+      "end": 932.0,
+      "text": "女生說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00682",
+      "start": 932.0,
+      "end": 933.0,
+      "text": "那你沒錢嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00683",
+      "start": 933.0,
+      "end": 934.0,
+      "text": "對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00684",
+      "start": 934.0,
+      "end": 936.0,
+      "text": "那我們不要去正面回答他的問題"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00685",
+      "start": 936.0,
+      "end": 937.0,
+      "text": "有些人就說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00686",
+      "start": 937.0,
+      "end": 938.0,
+      "text": "我有啊怎麼怎麼樣的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00687",
+      "start": 938.0,
+      "end": 939.0,
+      "text": "那你的關係"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00688",
+      "start": 939.0,
+      "end": 941.0,
+      "text": "就定位成公養者關係了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00689",
+      "start": 941.0,
+      "end": 942.0,
+      "text": "你告訴女生有錢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00690",
+      "start": 942.0,
+      "end": 944.0,
+      "text": "意思就是快來撈我快來撈我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00691",
+      "start": 944.0,
+      "end": 945.0,
+      "text": "本來人家沒想撈你的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00692",
+      "start": 945.0,
+      "end": 946.0,
+      "text": "你這麼說完了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00693",
+      "start": 946.0,
+      "end": 947.0,
+      "text": "人家都變得撈你了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00694",
+      "start": 947.0,
+      "end": 948.0,
+      "text": "懂吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00695",
+      "start": 948.0,
+      "end": 949.0,
+      "text": "所以這就是為什麼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00696",
+      "start": 949.0,
+      "end": 950.0,
+      "text": "很多人說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00697",
+      "start": 950.0,
+      "end": 951.0,
+      "text": "哎呀為什麼我遇到"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00698",
+      "start": 951.0,
+      "end": 952.0,
+      "text": "每一個女孩都物質呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00699",
+      "start": 952.0,
+      "end": 953.0,
+      "text": "你記住了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00700",
+      "start": 953.0,
+      "end": 954.0,
+      "text": "不是每一個女孩都物質"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00701",
+      "start": 954.0,
+      "end": 956.0,
+      "text": "是你讓她們變得物質的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00702",
+      "start": 956.0,
+      "end": 958.0,
+      "text": "再物質再現實的女孩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00703",
+      "start": 958.0,
+      "end": 960.0,
+      "text": "她一輩子也會遇到一個男生"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00704",
+      "start": 960.0,
+      "end": 961.0,
+      "text": "讓她放棄物質"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00705",
+      "start": 961.0,
+      "end": 962.0,
+      "text": "然後相信真愛的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00706",
+      "start": 962.0,
+      "end": 963.0,
+      "text": "你記住"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00707",
+      "start": 963.0,
+      "end": 964.0,
+      "text": "人都有七情六欲的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00708",
+      "start": 964.0,
+      "end": 965.0,
+      "text": "再現實的女孩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00709",
+      "start": 965.0,
+      "end": 966.0,
+      "text": "她內心也有情感"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00710",
+      "start": 966.0,
+      "end": 967.0,
+      "text": "也有情緒"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00711",
+      "start": 967.0,
+      "end": 968.0,
+      "text": "她也渴望愛情"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00712",
+      "start": 968.0,
+      "end": 970.0,
+      "text": "只不過她沒有遇到那個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00713",
+      "start": 970.0,
+      "end": 971.0,
+      "text": "值得她愛的男人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00714",
+      "start": 971.0,
+      "end": 973.0,
+      "text": "所以她才不停地找物質"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00715",
+      "start": 973.0,
+      "end": 974.0,
+      "text": "懂不懂"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00716",
+      "start": 974.0,
+      "end": 976.0,
+      "text": "如果你真的能讓她"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00717",
+      "start": 976.0,
+      "end": 977.0,
+      "text": "感受到愛情"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00718",
+      "start": 977.0,
+      "end": 978.0,
+      "text": "感受到浪漫"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00719",
+      "start": 978.0,
+      "end": 979.0,
+      "text": "她願意為了你放棄物質的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00720",
+      "start": 979.0,
+      "end": 980.0,
+      "text": "因為女人都是戀愛腦"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00721",
+      "start": 980.0,
+      "end": 982.0,
+      "text": "女人都是情緒動物的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00722",
+      "start": 982.0,
+      "end": 983.0,
+      "text": "她跟男的不一樣"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00723",
+      "start": 983.0,
+      "end": 984.0,
+      "text": "有的時候其實男的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00724",
+      "start": 984.0,
+      "end": 985.0,
+      "text": "比女的更現實"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00725",
+      "start": 985.0,
+      "end": 986.0,
+      "text": "明不明白"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00726",
+      "start": 986.0,
+      "end": 987.0,
+      "text": "不然幹嘛有那麼多女的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00727",
+      "start": 987.0,
+      "end": 988.0,
+      "text": "東實西素呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00728",
+      "start": 988.0,
+      "end": 989.0,
+      "text": "大家想這個道理"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00729",
+      "start": 989.0,
+      "end": 990.0,
+      "text": "不就明白了嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00730",
+      "start": 990.0,
+      "end": 991.0,
+      "text": "第二點就是什麼呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00731",
+      "start": 991.0,
+      "end": 992.0,
+      "text": "你也不要去說你沒錢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00732",
+      "start": 992.0,
+      "end": 993.0,
+      "text": "那你說你沒錢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00733",
+      "start": 993.0,
+      "end": 994.0,
+      "text": "那你不就是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00734",
+      "start": 994.0,
+      "end": 995.0,
+      "text": "顯得自己很LOW嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00735",
+      "start": 995.0,
+      "end": 997.0,
+      "text": "你千萬不要指望說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00736",
+      "start": 997.0,
+      "end": 998.0,
+      "text": "你自己狗屁不是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00737",
+      "start": 998.0,
+      "end": 999.0,
+      "text": "沒錢長得又不帥"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00738",
+      "start": 999.0,
+      "end": 1000.0,
+      "text": "女生還能看得上你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00739",
+      "start": 1000.0,
+      "end": 1001.0,
+      "text": "還願意跟你聊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00740",
+      "start": 1001.0,
+      "end": 1003.0,
+      "text": "人家跟你非親非故的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00741",
+      "start": 1003.0,
+      "end": 1004.0,
+      "text": "還沒產生感情呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00742",
+      "start": 1004.0,
+      "end": 1005.0,
+      "text": "幹嘛給你機會呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00743",
+      "start": 1005.0,
+      "end": 1007.0,
+      "text": "人在剛認識的時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00744",
+      "start": 1007.0,
+      "end": 1008.0,
+      "text": "都是很現實的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00745",
+      "start": 1008.0,
+      "end": 1009.0,
+      "text": "剛認識的時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00746",
+      "start": 1009.0,
+      "end": 1011.0,
+      "text": "都想找一個優質男"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00747",
+      "start": 1011.0,
+      "end": 1012.0,
+      "text": "除非跟你認識很久了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00748",
+      "start": 1012.0,
+      "end": 1013.0,
+      "text": "已經產生感情了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00749",
+      "start": 1013.0,
+      "end": 1015.0,
+      "text": "甚至生命組成熟飯了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00750",
+      "start": 1015.0,
+      "end": 1017.0,
+      "text": "她才願意容忍你的缺點"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00751",
+      "start": 1017.0,
+      "end": 1018.0,
+      "text": "剛認識初期"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00752",
+      "start": 1018.0,
+      "end": 1019.0,
+      "text": "盡量展示優點"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00753",
+      "start": 1019.0,
+      "end": 1020.0,
+      "text": "懂吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00754",
+      "start": 1020.0,
+      "end": 1021.0,
+      "text": "這個時候又不能說沒錢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00755",
+      "start": 1021.0,
+      "end": 1022.0,
+      "text": "又不能說有錢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00756",
+      "start": 1022.0,
+      "end": 1023.0,
+      "text": "那怎麼辦呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00757",
+      "start": 1023.0,
+      "end": 1024.0,
+      "text": "就不說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00758",
+      "start": 1024.0,
+      "end": 1025.0,
+      "text": "不要讓對方太了解自己"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00759",
+      "start": 1025.0,
+      "end": 1028.0,
+      "text": "讓她永遠對你保持一個好奇心"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00760",
+      "start": 1028.0,
+      "end": 1030.0,
+      "text": "想猜你到底幾斤幾兩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00761",
+      "start": 1030.0,
+      "end": 1031.0,
+      "text": "她越對你好奇"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00762",
+      "start": 1031.0,
+      "end": 1032.0,
+      "text": "越想猜你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00763",
+      "start": 1032.0,
+      "end": 1034.0,
+      "text": "她的情緒投入就越大"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00764",
+      "start": 1034.0,
+      "end": 1035.0,
+      "text": "情緒投入越大"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00765",
+      "start": 1035.0,
+      "end": 1037.0,
+      "text": "她對你就越上頭"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00766",
+      "start": 1037.0,
+      "end": 1038.0,
+      "text": "那麼她就越喜歡你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00767",
+      "start": 1038.0,
+      "end": 1039.0,
+      "text": "明白嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00768",
+      "start": 1039.0,
+      "end": 1041.0,
+      "text": "很多男生就是太老實了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00769",
+      "start": 1041.0,
+      "end": 1042.0,
+      "text": "什麼是老實人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00770",
+      "start": 1042.0,
+      "end": 1043.0,
+      "text": "就是人家問殺你打啥"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00771",
+      "start": 1043.0,
+      "end": 1045.0,
+      "text": "很快的就把自己的底牌"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00772",
+      "start": 1045.0,
+      "end": 1047.0,
+      "text": "各種信息全暴露出去了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00773",
+      "start": 1047.0,
+      "end": 1049.0,
+      "text": "那女生把你都了解透了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00774",
+      "start": 1049.0,
+      "end": 1050.0,
+      "text": "那就像一個通關的遊戲"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00775",
+      "start": 1050.0,
+      "end": 1051.0,
+      "text": "巨頭的電影"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00776",
+      "start": 1051.0,
+      "end": 1052.0,
+      "text": "大家就沒興趣了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00777",
+      "start": 1052.0,
+      "end": 1053.0,
+      "text": "就像懸疑片"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00778",
+      "start": 1053.0,
+      "end": 1056.0,
+      "text": "不要讓觀眾知道兇手是誰"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00779",
+      "start": 1056.0,
+      "end": 1058.0,
+      "text": "大家才會持續的往下看"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00780",
+      "start": 1058.0,
+      "end": 1059.0,
+      "text": "懂嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00781",
+      "start": 1059.0,
+      "end": 1061.0,
+      "text": "永遠不要讓女生知道兇手是誰"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00782",
+      "start": 1061.0,
+      "end": 1064.0,
+      "text": "第二個就是要有責任心的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00783",
+      "start": 1064.0,
+      "end": 1066.0,
+      "text": "那不就是我嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00784",
+      "start": 1066.0,
+      "end": 1070.0,
+      "text": "你現在還沒感受到我的責任心"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00785",
+      "start": 1070.0,
+      "end": 1073.0,
+      "text": "放心今晚過後我會對你負責的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00786",
+      "start": 1073.0,
+      "end": 1077.0,
+      "text": "第三個就是要"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00787",
+      "start": 1077.0,
+      "end": 1080.0,
+      "text": "除了你以外就想不到別的東西了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00788",
+      "start": 1080.0,
+      "end": 1083.0,
+      "text": "那我覺得第三個就是要善良"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00789",
+      "start": 1083.0,
+      "end": 1085.0,
+      "text": "為什麼會說善良"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00790",
+      "start": 1085.0,
+      "end": 1086.0,
+      "text": "因為就是如果善良的話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00791",
+      "start": 1086.0,
+      "end": 1087.0,
+      "text": "就不會傷害你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00792",
+      "start": 1087.0,
+      "end": 1089.0,
+      "text": "哪怕以後你們感情不好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00793",
+      "start": 1089.0,
+      "end": 1092.0,
+      "text": "但是也不會做那種對你特別不好的事情"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00794",
+      "start": 1094.0,
+      "end": 1096.0,
+      "text": "你之前應該被傷害過"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00795",
+      "start": 1096.0,
+      "end": 1098.0,
+      "text": "是不是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00796",
+      "start": 1098.0,
+      "end": 1100.0,
+      "text": "跟前男友撕過筆"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00797",
+      "start": 1100.0,
+      "end": 1102.0,
+      "text": "這就是一個關鍵信息"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00798",
+      "start": 1102.0,
+      "end": 1104.0,
+      "text": "你們要學會從女生說的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00799",
+      "start": 1104.0,
+      "end": 1107.0,
+      "text": "自理行間裡面去捕捉一些她的故事"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00800",
+      "start": 1107.0,
+      "end": 1108.0,
+      "text": "她的性格"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00801",
+      "start": 1108.0,
+      "end": 1110.0,
+      "text": "她的喜好和她害怕的東西"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00802",
+      "start": 1110.0,
+      "end": 1113.0,
+      "text": "就很多哥們就是為什麼不受女生喜歡"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00803",
+      "start": 1113.0,
+      "end": 1115.0,
+      "text": "因為她把女生說的話幫放屁"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00804",
+      "start": 1115.0,
+      "end": 1116.0,
+      "text": "你知道嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00805",
+      "start": 1116.0,
+      "end": 1117.0,
+      "text": "就女生說話她都不聽"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00806",
+      "start": 1117.0,
+      "end": 1119.0,
+      "text": "光往下載路招呼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00807",
+      "start": 1119.0,
+      "end": 1120.0,
+      "text": "對吧那這肯定不行"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00808",
+      "start": 1120.0,
+      "end": 1121.0,
+      "text": "懂嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00809",
+      "start": 1121.0,
+      "end": 1123.0,
+      "text": "你得先走進別人的心"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00810",
+      "start": 1123.0,
+      "end": 1124.0,
+      "text": "那你看女生剛剛說了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00811",
+      "start": 1124.0,
+      "end": 1127.0,
+      "text": "我覺得善良就代表分手之後"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00812",
+      "start": 1127.0,
+      "end": 1129.0,
+      "text": "不會做一些傷害我的事"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00813",
+      "start": 1129.0,
+      "end": 1130.0,
+      "text": "這一句話不就暴露了嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00814",
+      "start": 1130.0,
+      "end": 1133.0,
+      "text": "她以前肯定跟前男友撕過筆"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00815",
+      "start": 1133.0,
+      "end": 1136.0,
+      "text": "那如果你想後期走進這種女孩的心的話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00816",
+      "start": 1136.0,
+      "end": 1138.0,
+      "text": "你就要不停的給她強調什麼呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00817",
+      "start": 1138.0,
+      "end": 1140.0,
+      "text": "強調安全感"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00818",
+      "start": 1140.0,
+      "end": 1142.0,
+      "text": "強調你是付出心人格"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00819",
+      "start": 1142.0,
+      "end": 1143.0,
+      "text": "強調什麼呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00820",
+      "start": 1143.0,
+      "end": 1144.0,
+      "text": "我更在乎的是感情"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00821",
+      "start": 1144.0,
+      "end": 1145.0,
+      "text": "就算我們分手了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00822",
+      "start": 1145.0,
+      "end": 1148.0,
+      "text": "我要感謝你曾經帶給我的快樂"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00823",
+      "start": 1148.0,
+      "end": 1151.0,
+      "text": "我從來不跟前女友撕筆對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00824",
+      "start": 1151.0,
+      "end": 1153.0,
+      "text": "我這個人永遠只記得別人的好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00825",
+      "start": 1153.0,
+      "end": 1155.0,
+      "text": "不會記得別人的壞"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00826",
+      "start": 1155.0,
+      "end": 1156.0,
+      "text": "我這個人就算分手了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00827",
+      "start": 1156.0,
+      "end": 1157.0,
+      "text": "我都是付出心人格"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00828",
+      "start": 1157.0,
+      "end": 1160.0,
+      "text": "分手了我都要對你好怎麼怎麼樣的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00829",
+      "start": 1160.0,
+      "end": 1161.0,
+      "text": "你不停的往這方面強調"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00830",
+      "start": 1161.0,
+      "end": 1163.0,
+      "text": "女生才會有安全感"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00831",
+      "start": 1163.0,
+      "end": 1165.0,
+      "text": "然後慢慢的對你越來越信任"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00832",
+      "start": 1165.0,
+      "end": 1166.0,
+      "text": "你可千萬別傻了八嘰的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00833",
+      "start": 1166.0,
+      "end": 1168.0,
+      "text": "隔網上學一些網絡技巧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00834",
+      "start": 1168.0,
+      "end": 1171.0,
+      "text": "學魔政了還想跟她找個共鳴呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00835",
+      "start": 1171.0,
+      "end": 1173.0,
+      "text": "哎呀我也跟我前女友撕過筆一樣"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00836",
+      "start": 1173.0,
+      "end": 1175.0,
+      "text": "她欠我錢沒還讓我給她告了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00837",
+      "start": 1175.0,
+      "end": 1177.0,
+      "text": "我給她弄盡撒平了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00838",
+      "start": 1177.0,
+      "end": 1178.0,
+      "text": "你千萬別說這話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00839",
+      "start": 1178.0,
+      "end": 1179.0,
+      "text": "你以為說了這話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00840",
+      "start": 1179.0,
+      "end": 1180.0,
+      "text": "她會跟你有共鳴"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00841",
+      "start": 1180.0,
+      "end": 1181.0,
+      "text": "你得把它嚇跑"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00842",
+      "start": 1181.0,
+      "end": 1182.0,
+      "text": "她一聽這話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00843",
+      "start": 1182.0,
+      "end": 1184.0,
+      "text": "你就是她最害怕的那種男人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00844",
+      "start": 1184.0,
+      "end": 1185.0,
+      "text": "你不得嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00845",
+      "start": 1185.0,
+      "end": 1186.0,
+      "text": "完了第二天人把你殺了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00846",
+      "start": 1186.0,
+      "end": 1187.0,
+      "text": "你還不知道咋回事呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00847",
+      "start": 1187.0,
+      "end": 1188.0,
+      "text": "你還洗一次呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00848",
+      "start": 1188.0,
+      "end": 1190.0,
+      "text": "我跟她挺有共同語言的呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00849",
+      "start": 1190.0,
+      "end": 1191.0,
+      "text": "她跟前男友撕過筆"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00850",
+      "start": 1191.0,
+      "end": 1194.0,
+      "text": "我也跟前女友撕過筆呀對不對"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00851",
+      "start": 1194.0,
+      "end": 1195.0,
+      "text": "她不得嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00852",
+      "start": 1195.0,
+      "end": 1196.0,
+      "text": "哇靠"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00853",
+      "start": 1196.0,
+      "end": 1198.0,
+      "text": "哇你抖音好美呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00854",
+      "start": 1198.0,
+      "end": 1200.0,
+      "text": "我本人不美吧你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00855",
+      "start": 1200.0,
+      "end": 1201.0,
+      "text": "你本人也美"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00856",
+      "start": 1201.0,
+      "end": 1203.0,
+      "text": "好想親一口呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00857",
+      "start": 1203.0,
+      "end": 1205.0,
+      "text": "28000的粉絲跟我混吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00858",
+      "start": 1205.0,
+      "end": 1207.0,
+      "text": "以後我讓你粉絲超過我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00859",
+      "start": 1207.0,
+      "end": 1209.0,
+      "text": "我讓你成為大網紅"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00860",
+      "start": 1209.0,
+      "end": 1211.0,
+      "text": "你看我的臉自帶網站"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00861",
+      "start": 1211.0,
+      "end": 1212.0,
+      "text": "就是你只要跟我拍照"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00862",
+      "start": 1212.0,
+      "end": 1213.0,
+      "text": "然後發抖音"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00863",
+      "start": 1213.0,
+      "end": 1214.0,
+      "text": "你就有流量"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00864",
+      "start": 1214.0,
+      "end": 1215.0,
+      "text": "真的假的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00865",
+      "start": 1215.0,
+      "end": 1216.0,
+      "text": "真的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00866",
+      "start": 1216.0,
+      "end": 1217.0,
+      "text": "大家先拍一個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00867",
+      "start": 1217.0,
+      "end": 1218.0,
+      "text": "來吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00868",
+      "start": 1218.0,
+      "end": 1219.0,
+      "text": "這個角度有點死亡"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00869",
+      "start": 1219.0,
+      "end": 1221.0,
+      "text": "這個拍照技術很差呀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00870",
+      "start": 1221.0,
+      "end": 1223.0,
+      "text": "你缺一個好的攝影師"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00871",
+      "start": 1223.0,
+      "end": 1227.0,
+      "text": "你看我們要敢於說出女生的不好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00872",
+      "start": 1227.0,
+      "end": 1228.0,
+      "text": "你千萬不要"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00873",
+      "start": 1228.0,
+      "end": 1231.0,
+      "text": "她一拿起手機來明明拍的不好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00874",
+      "start": 1231.0,
+      "end": 1233.0,
+      "text": "哇你拍照好美呀你好上鏡啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00875",
+      "start": 1233.0,
+      "end": 1235.0,
+      "text": "女生就會覺得你很虛偽"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00876",
+      "start": 1235.0,
+      "end": 1236.0,
+      "text": "就會覺得你在捧著臭腳"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00877",
+      "start": 1236.0,
+      "end": 1239.0,
+      "text": "她就會覺得你是一個討好性人格"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00878",
+      "start": 1239.0,
+      "end": 1240.0,
+      "text": "她就不會喜歡你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00879",
+      "start": 1240.0,
+      "end": 1241.0,
+      "text": "覺得你在貴騙她"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00880",
+      "start": 1241.0,
+      "end": 1243.0,
+      "text": "她拍照差你就直接說拍照差"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00881",
+      "start": 1243.0,
+      "end": 1244.0,
+      "text": "這樣的話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00882",
+      "start": 1244.0,
+      "end": 1246.0,
+      "text": "她反而會倒過來去尋求你的認可"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00883",
+      "start": 1246.0,
+      "end": 1248.0,
+      "text": "這不就形成一種倒追趨勢了嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00884",
+      "start": 1248.0,
+      "end": 1249.0,
+      "text": "就很多哥們"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00885",
+      "start": 1249.0,
+      "end": 1251.0,
+      "text": "她就是把女生當女神"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00886",
+      "start": 1251.0,
+      "end": 1253.0,
+      "text": "她就不敢說女生一點不好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00887",
+      "start": 1253.0,
+      "end": 1255.0,
+      "text": "反而這樣女生會瞧不起你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00888",
+      "start": 1255.0,
+      "end": 1257.0,
+      "text": "就更看不上你了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00889",
+      "start": 1257.0,
+      "end": 1259.0,
+      "text": "反而有些啥毛病啥你點出來"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00890",
+      "start": 1259.0,
+      "end": 1261.0,
+      "text": "這個女生反而會覺得你這個男的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00891",
+      "start": 1261.0,
+      "end": 1262.0,
+      "text": "比他更強大"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00892",
+      "start": 1262.0,
+      "end": 1264.0,
+      "text": "他反而會依賴你懂不懂"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00893",
+      "start": 1264.0,
+      "end": 1265.0,
+      "text": "女生都是木牆的嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00894",
+      "start": 1265.0,
+      "end": 1267.0,
+      "text": "你以後出去旅遊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00895",
+      "start": 1267.0,
+      "end": 1269.0,
+      "text": "把我喊上吧我給你拍"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00896",
+      "start": 1269.0,
+      "end": 1271.0,
+      "text": "我是必須要去片的哦"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00897",
+      "start": 1271.0,
+      "end": 1272.0,
+      "text": "我給你拍的照片"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00898",
+      "start": 1272.0,
+      "end": 1273.0,
+      "text": "如果發到抖音上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00899",
+      "start": 1273.0,
+      "end": 1274.0,
+      "text": "沒有一萬點贊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00900",
+      "start": 1274.0,
+      "end": 1276.0,
+      "text": "我就連續一多月"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00901",
+      "start": 1276.0,
+      "end": 1278.0,
+      "text": "每天哄你睡覺"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00902",
+      "start": 1278.0,
+      "end": 1280.0,
+      "text": "在你的床邊哄你睡覺"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00903",
+      "start": 1280.0,
+      "end": 1281.0,
+      "text": "給你講故事"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00904",
+      "start": 1281.0,
+      "end": 1282.0,
+      "text": "管家事服務"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00905",
+      "start": 1282.0,
+      "end": 1283.0,
+      "text": "給你做晚餐"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00906",
+      "start": 1283.0,
+      "end": 1284.0,
+      "text": "哄你睡覺"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00907",
+      "start": 1284.0,
+      "end": 1288.0,
+      "text": "給你搓走"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00908",
+      "start": 1288.0,
+      "end": 1290.0,
+      "text": "這個是尺度大的時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00909",
+      "start": 1290.0,
+      "end": 1292.0,
+      "text": "就是對方對你的接觸度高"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00910",
+      "start": 1292.0,
+      "end": 1293.0,
+      "text": "你可以說這個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00911",
+      "start": 1293.0,
+      "end": 1295.0,
+      "text": "如果對方對你的接觸度低"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00912",
+      "start": 1295.0,
+      "end": 1296.0,
+      "text": "就用我以前的方法"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00913",
+      "start": 1296.0,
+      "end": 1298.0,
+      "text": "就是連續請你吃一個月飯"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00914",
+      "start": 1298.0,
+      "end": 1299.0,
+      "text": "請你看一個月的電影"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00915",
+      "start": 1299.0,
+      "end": 1301.0,
+      "text": "請你去迪士尼玩好不好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00916",
+      "start": 1301.0,
+      "end": 1302.0,
+      "text": "玩素的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00917",
+      "start": 1302.0,
+      "end": 1304.0,
+      "text": "這個接觸度高玩混的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00918",
+      "start": 1304.0,
+      "end": 1306.0,
+      "text": "接觸度低咱玩素的好不好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00919",
+      "start": 1306.0,
+      "end": 1308.0,
+      "text": "你別說我這個還比較喜歡"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00920",
+      "start": 1308.0,
+      "end": 1309.0,
+      "text": "低戲的男友"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00921",
+      "start": 1309.0,
+      "end": 1311.0,
+      "text": "你現在對我的喜歡"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00922",
+      "start": 1311.0,
+      "end": 1313.0,
+      "text": "一到十分打幾分"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00923",
+      "start": 1313.0,
+      "end": 1314.0,
+      "text": "不得低於五分"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00924",
+      "start": 1314.0,
+      "end": 1315.0,
+      "text": "不得低於五分"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00925",
+      "start": 1315.0,
+      "end": 1316.0,
+      "text": "那你猜吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00926",
+      "start": 1316.0,
+      "end": 1318.0,
+      "text": "我猜不透你的心思"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00927",
+      "start": 1318.0,
+      "end": 1320.0,
+      "text": "我不喜歡猜女生的心思"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00928",
+      "start": 1320.0,
+      "end": 1321.0,
+      "text": "因為我猜你的心思"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00929",
+      "start": 1321.0,
+      "end": 1323.0,
+      "text": "我怕我會欠你一群"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00930",
+      "start": 1323.0,
+      "end": 1324.0,
+      "text": "我跟你說"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00931",
+      "start": 1324.0,
+      "end": 1325.0,
+      "text": "越漂亮的女孩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00932",
+      "start": 1325.0,
+      "end": 1326.0,
+      "text": "越不能猜"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00933",
+      "start": 1326.0,
+      "end": 1328.0,
+      "text": "因為漂亮的女孩都會騙人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00934",
+      "start": 1328.0,
+      "end": 1329.0,
+      "text": "我從來都不騙人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00935",
+      "start": 1329.0,
+      "end": 1330.0,
+      "text": "我從來不騙女孩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00936",
+      "start": 1330.0,
+      "end": 1332.0,
+      "text": "都是女孩騙我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00937",
+      "start": 1332.0,
+      "end": 1333.0,
+      "text": "以後也只有你騙我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00938",
+      "start": 1333.0,
+      "end": 1334.0,
+      "text": "我騙不了你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00939",
+      "start": 1334.0,
+      "end": 1336.0,
+      "text": "你騙我我也信你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00940",
+      "start": 1336.0,
+      "end": 1338.0,
+      "text": "你到每天騙你呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00941",
+      "start": 1338.0,
+      "end": 1339.0,
+      "text": "你每天騙我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00942",
+      "start": 1339.0,
+      "end": 1340.0,
+      "text": "那是好事啊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00943",
+      "start": 1340.0,
+      "end": 1342.0,
+      "text": "說明女孩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00944",
+      "start": 1342.0,
+      "end": 1345.0,
+      "text": "說明你每天都在我身邊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00945",
+      "start": 1345.0,
+      "end": 1347.0,
+      "text": "回去給你美個眼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00946",
+      "start": 1347.0,
+      "end": 1349.0,
+      "text": "哎呦我摔到了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00947",
+      "start": 1349.0,
+      "end": 1350.0,
+      "text": "拉我一下"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00948",
+      "start": 1350.0,
+      "end": 1352.0,
+      "text": "怎麼了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00949",
+      "start": 1355.0,
+      "end": 1356.0,
+      "text": "哎呦我腳軟了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00950",
+      "start": 1356.0,
+      "end": 1357.0,
+      "text": "一小時"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00951",
+      "start": 1359.0,
+      "end": 1362.0,
+      "text": "看著想跟女生拉近關係"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00952",
+      "start": 1362.0,
+      "end": 1363.0,
+      "text": "不要一本正經的去"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00953",
+      "start": 1363.0,
+      "end": 1364.0,
+      "text": "啊我們牽個手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00954",
+      "start": 1364.0,
+      "end": 1365.0,
+      "text": "幫我們手拉手光接"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00955",
+      "start": 1365.0,
+      "end": 1366.0,
+      "text": "我喜歡你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00956",
+      "start": 1366.0,
+      "end": 1367.0,
+      "text": "我想跟你牽手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00957",
+      "start": 1367.0,
+      "end": 1368.0,
+      "text": "你看你這樣一本正經的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00958",
+      "start": 1368.0,
+      "end": 1369.0,
+      "text": "去泡別人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00959",
+      "start": 1369.0,
+      "end": 1370.0,
+      "text": "那麼這個時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00960",
+      "start": 1370.0,
+      "end": 1371.0,
+      "text": "女生就會覺得"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00961",
+      "start": 1371.0,
+      "end": 1372.0,
+      "text": "有壓力"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00962",
+      "start": 1372.0,
+      "end": 1373.0,
+      "text": "因為責任又在她身上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00963",
+      "start": 1373.0,
+      "end": 1374.0,
+      "text": "為啥呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00964",
+      "start": 1374.0,
+      "end": 1376.0,
+      "text": "因為她這樣就答應你的話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00965",
+      "start": 1376.0,
+      "end": 1377.0,
+      "text": "會顯得她是一個"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00966",
+      "start": 1377.0,
+      "end": 1378.0,
+      "text": "隨便的女孩了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00967",
+      "start": 1378.0,
+      "end": 1379.0,
+      "text": "所以她一定會拒絕你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00968",
+      "start": 1379.0,
+      "end": 1381.0,
+      "text": "反而你要用我這種"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00969",
+      "start": 1381.0,
+      "end": 1383.0,
+      "text": "俏皮的方法"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00970",
+      "start": 1383.0,
+      "end": 1384.0,
+      "text": "去無意中的觸碰"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00971",
+      "start": 1384.0,
+      "end": 1385.0,
+      "text": "然後讓兩個人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00972",
+      "start": 1385.0,
+      "end": 1387.0,
+      "text": "在一個歡快的範圍之內"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00973",
+      "start": 1387.0,
+      "end": 1388.0,
+      "text": "那麼這個時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00974",
+      "start": 1388.0,
+      "end": 1389.0,
+      "text": "女生情緒好了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00975",
+      "start": 1389.0,
+      "end": 1391.0,
+      "text": "她什麼都能接受"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00976",
+      "start": 1391.0,
+      "end": 1392.0,
+      "text": "你這樣去牽手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00977",
+      "start": 1392.0,
+      "end": 1393.0,
+      "text": "搭她肩膀"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00978",
+      "start": 1393.0,
+      "end": 1394.0,
+      "text": "或者之類的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00979",
+      "start": 1394.0,
+      "end": 1396.0,
+      "text": "她都覺得是在跟你開玩笑"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00980",
+      "start": 1396.0,
+      "end": 1397.0,
+      "text": "所以說這個肢體上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00981",
+      "start": 1397.0,
+      "end": 1398.0,
+      "text": "就反而會被忽略"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00982",
+      "start": 1398.0,
+      "end": 1400.0,
+      "text": "而重點都在情緒上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00983",
+      "start": 1400.0,
+      "end": 1401.0,
+      "text": "那其實她就習慣了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00984",
+      "start": 1401.0,
+      "end": 1402.0,
+      "text": "你對她的肢體接觸了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00985",
+      "start": 1402.0,
+      "end": 1403.0,
+      "text": "那以後你就正耳巴頸"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00986",
+      "start": 1403.0,
+      "end": 1404.0,
+      "text": "去牽手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00987",
+      "start": 1404.0,
+      "end": 1405.0,
+      "text": "她都已經習慣了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00988",
+      "start": 1405.0,
+      "end": 1406.0,
+      "text": "懂了嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00989",
+      "start": 1406.0,
+      "end": 1407.0,
+      "text": "這個冰就已經破了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00990",
+      "start": 1407.0,
+      "end": 1408.0,
+      "text": "你千萬不要把重心"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00991",
+      "start": 1408.0,
+      "end": 1409.0,
+      "text": "放在肢體上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00992",
+      "start": 1409.0,
+      "end": 1410.0,
+      "text": "重心放在這個手上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00993",
+      "start": 1410.0,
+      "end": 1411.0,
+      "text": "那這個女生"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00994",
+      "start": 1411.0,
+      "end": 1412.0,
+      "text": "她就會有這個警覺心"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00995",
+      "start": 1412.0,
+      "end": 1413.0,
+      "text": "就會有壓力"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00996",
+      "start": 1413.0,
+      "end": 1414.0,
+      "text": "你要把重心"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00997",
+      "start": 1414.0,
+      "end": 1415.0,
+      "text": "放在情緒和氛圍上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00998",
+      "start": 1415.0,
+      "end": 1416.0,
+      "text": "那這個牽手"
+    },
+    {
+      "id": "BV1VrMt6tEEx-00999",
+      "start": 1416.0,
+      "end": 1417.0,
+      "text": "什麼都是順其自然的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01000",
+      "start": 1417.0,
+      "end": 1419.0,
+      "text": "喜歡跟我相處的感覺"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01001",
+      "start": 1419.0,
+      "end": 1421.0,
+      "text": "給今天的相處大的氛圍"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01002",
+      "start": 1421.0,
+      "end": 1425.0,
+      "text": "我覺得你有點像小動物"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01003",
+      "start": 1425.0,
+      "end": 1426.0,
+      "text": "我像小動物"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01004",
+      "start": 1426.0,
+      "end": 1428.0,
+      "text": "我是什麼動物"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01005",
+      "start": 1428.0,
+      "end": 1429.0,
+      "text": "你剛剛的行為"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01006",
+      "start": 1429.0,
+      "end": 1431.0,
+      "text": "我是你的小貓"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01007",
+      "start": 1431.0,
+      "end": 1432.0,
+      "text": "那你每天都幹嘛呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01008",
+      "start": 1432.0,
+      "end": 1434.0,
+      "text": "你每天的生活都是什麼"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01009",
+      "start": 1434.0,
+      "end": 1436.0,
+      "text": "我每天就是工作"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01010",
+      "start": 1436.0,
+      "end": 1439.0,
+      "text": "然後休息的時候我就健身"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01011",
+      "start": 1439.0,
+      "end": 1440.0,
+      "text": "你健身的時候"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01012",
+      "start": 1440.0,
+      "end": 1443.0,
+      "text": "你一般段千克的壓力"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01013",
+      "start": 1443.0,
+      "end": 1445.0,
+      "text": "我不打健身"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01014",
+      "start": 1445.0,
+      "end": 1447.0,
+      "text": "你看我這體型是像健身那樣"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01015",
+      "start": 1447.0,
+      "end": 1448.0,
+      "text": "我很忙的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01016",
+      "start": 1448.0,
+      "end": 1450.0,
+      "text": "我平時最多的時間都是旅遊"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01017",
+      "start": 1450.0,
+      "end": 1452.0,
+      "text": "你剛剛不是給我看你的肌肉"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01018",
+      "start": 1452.0,
+      "end": 1453.0,
+      "text": "我目前還體型"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01019",
+      "start": 1453.0,
+      "end": 1456.0,
+      "text": "因為我天生就硬"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01020",
+      "start": 1456.0,
+      "end": 1458.0,
+      "text": "那你晚上幹嘛呢"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01021",
+      "start": 1458.0,
+      "end": 1460.0,
+      "text": "晚上吃完飯"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01022",
+      "start": 1460.0,
+      "end": 1463.0,
+      "text": "然後就去旁邊公園散一下步"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01023",
+      "start": 1463.0,
+      "end": 1464.0,
+      "text": "那晚上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01024",
+      "start": 1464.0,
+      "end": 1466.0,
+      "text": "我剪完視頻去找你玩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01025",
+      "start": 1466.0,
+      "end": 1468.0,
+      "text": "你知道在哪嗎"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01026",
+      "start": 1468.0,
+      "end": 1470.0,
+      "text": "我不知道在哪"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01027",
+      "start": 1470.0,
+      "end": 1471.0,
+      "text": "那你給我低子"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01028",
+      "start": 1471.0,
+      "end": 1472.0,
+      "text": "那我肯定給你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01029",
+      "start": 1472.0,
+      "end": 1473.0,
+      "text": "你給我是不是"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01030",
+      "start": 1473.0,
+      "end": 1474.0,
+      "text": "好"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01031",
+      "start": 1474.0,
+      "end": 1475.0,
+      "text": "你回頭發我微信上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01032",
+      "start": 1475.0,
+      "end": 1476.0,
+      "text": "我去找你"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01033",
+      "start": 1476.0,
+      "end": 1478.0,
+      "text": "我這會兒就發給你微信上"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01034",
+      "start": 1478.0,
+      "end": 1479.0,
+      "text": "車到了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01035",
+      "start": 1479.0,
+      "end": 1480.0,
+      "text": "我們拜拜"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01036",
+      "start": 1480.0,
+      "end": 1482.0,
+      "text": "這就拜拜了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01037",
+      "start": 1482.0,
+      "end": 1483.0,
+      "text": "拜拜了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01038",
+      "start": 1483.0,
+      "end": 1484.0,
+      "text": "擁抱一個拜拜"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01039",
+      "start": 1484.0,
+      "end": 1485.0,
+      "text": "那行吧"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01040",
+      "start": 1485.0,
+      "end": 1486.0,
+      "text": "對我留戀不捨"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01041",
+      "start": 1486.0,
+      "end": 1488.0,
+      "text": "晚上再見"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01042",
+      "start": 1488.0,
+      "end": 1489.0,
+      "text": "拜拜"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01043",
+      "start": 1489.0,
+      "end": 1490.0,
+      "text": "你已經走了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01044",
+      "start": 1490.0,
+      "end": 1492.0,
+      "text": "等一下"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01045",
+      "start": 1493.0,
+      "end": 1495.0,
+      "text": "我還以為你捨不得我"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01046",
+      "start": 1495.0,
+      "end": 1496.0,
+      "text": "你捨不得你的麥克風"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01047",
+      "start": 1496.0,
+      "end": 1498.0,
+      "text": "再丟一個我都買不起了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01048",
+      "start": 1498.0,
+      "end": 1500.0,
+      "text": "丟好一個了"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01049",
+      "start": 1500.0,
+      "end": 1501.0,
+      "text": "拜拜"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01050",
+      "start": 1501.0,
+      "end": 1502.0,
+      "text": "那麼學到乾貨的淡目過"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01051",
+      "start": 1502.0,
+      "end": 1503.0,
+      "text": "抽一個666"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01052",
+      "start": 1503.0,
+      "end": 1504.0,
+      "text": "總結就一句話"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01053",
+      "start": 1504.0,
+      "end": 1506.0,
+      "text": "沒有不配合你的女孩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01054",
+      "start": 1506.0,
+      "end": 1508.0,
+      "text": "只有你控不住的女孩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01055",
+      "start": 1508.0,
+      "end": 1509.0,
+      "text": "那麼如果你有喜歡的女孩"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01056",
+      "start": 1509.0,
+      "end": 1510.0,
+      "text": "搞不定的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01057",
+      "start": 1510.0,
+      "end": 1511.0,
+      "text": "或是想要跟徐哥學習"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01058",
+      "start": 1511.0,
+      "end": 1512.0,
+      "text": "提升吸引力"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01059",
+      "start": 1512.0,
+      "end": 1513.0,
+      "text": "報名私教的"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01060",
+      "start": 1513.0,
+      "end": 1514.0,
+      "text": "可以看置頂評論"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01061",
+      "start": 1514.0,
+      "end": 1515.0,
+      "text": "或是主業簽名"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01062",
+      "start": 1515.0,
+      "end": 1516.0,
+      "text": "跟徐哥學習本人"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01063",
+      "start": 1516.0,
+      "end": 1517.0,
+      "text": "好了關注徐哥一鍵三連"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01064",
+      "start": 1517.0,
+      "end": 1518.0,
+      "text": "一周一次"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01065",
+      "start": 1518.0,
+      "end": 1519.0,
+      "text": "最實用的情感乾貨"
+    },
+    {
+      "id": "BV1VrMt6tEEx-01066",
+      "start": 1519.0,
+      "end": 1521.0,
+      "text": "我們下周再見"
+    }
+  ],
+  "video_bvid": "BV1VrMt6tEEx",
+  "source_url": "https://www.bilibili.com/video/BV1VrMt6tEEx/"
+}

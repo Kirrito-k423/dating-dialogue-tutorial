@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1vj6yBDE5r",
+  "method": "Selected original-video frame caption, directly checked via image input; not audio listening. Interval marks sampled caption visibility only.",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1vj6yBDE5r-caption-reviewed-0001",
+      "start": 445.0,
+      "end": 445.75,
+      "text": "等会咱俩要看电影吗",
+      "visual_reviewed": true,
+      "frame_time": 445.0,
+      "frame_sha256": "1629aaafb7f601ffbe0672ab6bc3d30243132278e68163ddc482f5a1d49429ac",
+      "frame_file": "frames-01/frame-0445.000.png"
+    }
+  ]
+}

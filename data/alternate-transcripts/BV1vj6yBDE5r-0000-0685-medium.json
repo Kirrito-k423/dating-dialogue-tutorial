@@ -1,0 +1,2411 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1vj6yBDE5r",
+  "source_start": 0,
+  "source_end": 685,
+  "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+  "listening_verified": false,
+  "elapsed_seconds": 301.5,
+  "segments": [
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0001",
+      "start": 0.0,
+      "end": 7.12,
+      "text": "(音樂)"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0002",
+      "start": 7.12,
+      "end": 8.16,
+      "text": "Hello 兄弟們我是旭哥"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0003",
+      "start": 8.16,
+      "end": 9.28,
+      "text": "今天給大家帶來一期"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0004",
+      "start": 9.28,
+      "end": 11.56,
+      "text": "約會實戰技巧解析啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0005",
+      "start": 11.56,
+      "end": 12.92,
+      "text": "那麼普通長相的男生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0006",
+      "start": 12.92,
+      "end": 14.4,
+      "text": "第一次跟女生見面"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0007",
+      "start": 14.4,
+      "end": 15.4,
+      "text": "該怎麼互動"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0008",
+      "start": 15.4,
+      "end": 17.12,
+      "text": "才能讓女生喜歡上你呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0009",
+      "start": 17.12,
+      "end": 19.12,
+      "text": "如果你的女生約會尷尬冷場"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0010",
+      "start": 19.12,
+      "end": 21.36,
+      "text": "那麼今天咱們用實拍演示"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0011",
+      "start": 21.36,
+      "end": 22.84,
+      "text": "加技術解析的方式"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0012",
+      "start": 22.84,
+      "end": 24.08,
+      "text": "讓你徹底明白"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0013",
+      "start": 24.08,
+      "end": 25.96,
+      "text": "跟女生約會怎麼表現"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0014",
+      "start": 25.96,
+      "end": 27.44,
+      "text": "才能讓她喜歡上你"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0015",
+      "start": 27.44,
+      "end": 28.32,
+      "text": "好了閒話不多說"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0016",
+      "start": 28.32,
+      "end": 29.44,
+      "text": "咱們直接開始"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0017",
+      "start": 29.44,
+      "end": 31.36,
+      "text": "我們先看一下剛見到女生的時候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0018",
+      "start": 31.36,
+      "end": 32.64,
+      "text": "我們應該如何開場"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0019",
+      "start": 32.64,
+      "end": 34.08,
+      "text": "很多兄弟不就是一見到女生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0020",
+      "start": 34.08,
+      "end": 35.64,
+      "text": "冷場尷尬不會破冰嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0021",
+      "start": 35.64,
+      "end": 38.36,
+      "text": "來直接上實戰演示"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0022",
+      "start": 38.36,
+      "end": 40.68,
+      "text": "我覺得你跟人比照片好看很多"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0023",
+      "start": 40.68,
+      "end": 42.6,
+      "text": "通常都是我拍上鏡"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0024",
+      "start": 42.6,
+      "end": 43.84,
+      "text": "不是你不上鏡"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0025",
+      "start": 43.84,
+      "end": 45.4,
+      "text": "是他們拍照水平不行"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0026",
+      "start": 45.4,
+      "end": 47.56,
+      "text": "你這樣你請我喝杯咖啡我給你拍"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0027",
+      "start": 47.56,
+      "end": 49.04,
+      "text": "兄弟們重點來了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0028",
+      "start": 49.04,
+      "end": 50.6,
+      "text": "各位記住我們一見到女生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0029",
+      "start": 50.6,
+      "end": 51.8,
+      "text": "首先要做兩件事"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0030",
+      "start": 51.8,
+      "end": 53.48,
+      "text": "第一件事是打開氛圍"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0031",
+      "start": 53.48,
+      "end": 54.84,
+      "text": "第二件事是帶領她"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0032",
+      "start": 54.84,
+      "end": 56.0,
+      "text": "先說打開氛圍"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0033",
+      "start": 56.0,
+      "end": 57.08,
+      "text": "就是你不能一上來"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0034",
+      "start": 57.08,
+      "end": 58.96,
+      "text": "特別官方的去跟女生說話"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0035",
+      "start": 58.96,
+      "end": 61.24,
+      "text": "比如說你好來了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0036",
+      "start": 61.24,
+      "end": 62.2,
+      "text": "你是咋來的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0037",
+      "start": 62.2,
+      "end": 62.96,
+      "text": "打車來的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0038",
+      "start": 62.96,
+      "end": 65.72,
+      "text": "你只要用這種很官方很正經的方式"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0039",
+      "start": 65.72,
+      "end": 66.64,
+      "text": "跟女生說話的話"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0040",
+      "start": 66.64,
+      "end": 69.32,
+      "text": "馬上你們的氛圍就會變得特別嚴肅正經"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0041",
+      "start": 69.32,
+      "end": 70.32,
+      "text": "特別的緊繃"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0042",
+      "start": 70.32,
+      "end": 73.04,
+      "text": "那麼後面你做所有的操作都會很緊繃"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0043",
+      "start": 73.04,
+      "end": 74.68,
+      "text": "那就不利於你們兩個拉近關係"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0044",
+      "start": 74.68,
+      "end": 77.64,
+      "text": "所以才會造成你後面持續的尷尬冷場"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0045",
+      "start": 77.64,
+      "end": 80.48,
+      "text": "所以說一上來這個前五秒鐘特別關鍵"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0046",
+      "start": 80.48,
+      "end": 82.6,
+      "text": "我們一上來就先開一個玩笑"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0047",
+      "start": 82.6,
+      "end": 84.24,
+      "text": "或者說誇一下女生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0048",
+      "start": 84.24,
+      "end": 85.56,
+      "text": "然後讓她笑出來"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0049",
+      "start": 85.56,
+      "end": 87.88,
+      "text": "只要她一笑這個氛圍一輕鬆了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0050",
+      "start": 87.88,
+      "end": 89.8,
+      "text": "後面就是情侶約會的感覺了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0051",
+      "start": 89.8,
+      "end": 91.76,
+      "text": "要麼就是跟那個談生意的感覺似的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0052",
+      "start": 91.76,
+      "end": 93.2,
+      "text": "那你倆整個約會就完了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0053",
+      "start": 93.2,
+      "end": 94.76,
+      "text": "所以說一上來我先誇她"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0054",
+      "start": 94.76,
+      "end": 96.16,
+      "text": "我說你這人比照片好看"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0055",
+      "start": 96.16,
+      "end": 97.64,
+      "text": "這是我的一個慣用伎倆"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0056",
+      "start": 97.64,
+      "end": 98.8,
+      "text": "所有女生聽到這句話"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0057",
+      "start": 98.8,
+      "end": 99.92,
+      "text": "她心裡都是開心的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0058",
+      "start": 99.92,
+      "end": 101.36,
+      "text": "這氛圍不就一下打開了嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0059",
+      "start": 101.36,
+      "end": 103.64,
+      "text": "然後當她說我不上鏡的時候記住了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0060",
+      "start": 103.64,
+      "end": 104.6,
+      "text": "不要連續的誇她"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0061",
+      "start": 104.6,
+      "end": 106.64,
+      "text": "很多人喜歡連續的誇女生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0062",
+      "start": 106.64,
+      "end": 107.64,
+      "text": "你這人比照片好看"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0063",
+      "start": 107.64,
+      "end": 108.6,
+      "text": "女生說我不上鏡"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0064",
+      "start": 108.6,
+      "end": 110.56,
+      "text": "哎呀美女都是不上鏡的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0065",
+      "start": 110.56,
+      "end": 111.76,
+      "text": "越漂亮的女孩越不上"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0066",
+      "start": 111.76,
+      "end": 112.92,
+      "text": "好你連續的誇她了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0067",
+      "start": 112.92,
+      "end": 114.12,
+      "text": "你就跪舔了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0068",
+      "start": 114.12,
+      "end": 115.76,
+      "text": "所以說你誇她只能誇一句"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0069",
+      "start": 115.76,
+      "end": 119.0,
+      "text": "大家記住只能誇一句第二句一定要抬自己"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0070",
+      "start": 119.0,
+      "end": 120.76,
+      "text": "所以當她說不上鏡的時候我說"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0071",
+      "start": 120.76,
+      "end": 122.24,
+      "text": "因為別人拍照水平不行"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0072",
+      "start": 122.24,
+      "end": 123.8,
+      "text": "我拍照水平牛逼"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0073",
+      "start": 123.8,
+      "end": 125.2,
+      "text": "誇完她之後再誇自己"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0074",
+      "start": 125.2,
+      "end": 126.44,
+      "text": "這樣你倆就是平衡的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0075",
+      "start": 126.44,
+      "end": 127.56,
+      "text": "就不會顯得你跪騙"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0076",
+      "start": 127.56,
+      "end": 129.16,
+      "text": "大家一定要記住這個技巧"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0077",
+      "start": 129.16,
+      "end": 131.36,
+      "text": "那接下來就是帶領了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0078",
+      "start": 131.36,
+      "end": 133.2,
+      "text": "就是你一上來就要告訴女生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0079",
+      "start": 133.2,
+      "end": 135.28,
+      "text": "我們今天準備去哪哪哪"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0080",
+      "start": 135.28,
+      "end": 137.92,
+      "text": "千萬不要傻在這原地不知道該幹嘛"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0081",
+      "start": 137.92,
+      "end": 139.32,
+      "text": "這樣的話也會尷尬冷場"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0082",
+      "start": 139.32,
+      "end": 140.6,
+      "text": "不要讓你的約會有空當"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0083",
+      "start": 140.6,
+      "end": 142.24,
+      "text": "要把它排得很滿明白嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0084",
+      "start": 142.24,
+      "end": 143.68,
+      "text": "你也不要去問女生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0085",
+      "start": 143.68,
+      "end": 145.36,
+      "text": "今天我們去幹嘛你渴不渴"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0086",
+      "start": 145.36,
+      "end": 146.32,
+      "text": "要不要去喝口水"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0087",
+      "start": 146.32,
+      "end": 147.72,
+      "text": "不要直接帶領她"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0088",
+      "start": 147.72,
+      "end": 150.16,
+      "text": "讓女生下意識的就開始服從你"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0089",
+      "start": 150.16,
+      "end": 151.92,
+      "text": "那麼當她對你的服從"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0090",
+      "start": 151.92,
+      "end": 153.52,
+      "text": "形成一種習慣之後"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0091",
+      "start": 153.52,
+      "end": 155.28,
+      "text": "她就會慢慢的開始依賴你了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0092",
+      "start": 155.28,
+      "end": 158.16,
+      "text": "女生都喜歡這種能被自己依賴的男生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0093",
+      "start": 158.16,
+      "end": 159.24,
+      "text": "所以我一上來我就說"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0094",
+      "start": 159.24,
+      "end": 160.56,
+      "text": "走先陪我去喝個東西"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0095",
+      "start": 160.56,
+      "end": 161.88,
+      "text": "而不是你渴不渴"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0096",
+      "start": 161.88,
+      "end": 163.2,
+      "text": "我們要不要去喝個東西"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0097",
+      "start": 163.2,
+      "end": 165.28,
+      "text": "你看你一問她你的氣場就弱了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0098",
+      "start": 165.28,
+      "end": 166.2,
+      "text": "吸引力就在下降"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0099",
+      "start": 166.2,
+      "end": 169.2,
+      "text": "所以本能的就是讓她陪你去本能的帶領她"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0100",
+      "start": 169.2,
+      "end": 170.88,
+      "text": "你喝正常麵還是少麵"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0101",
+      "start": 170.88,
+      "end": 172.52,
+      "text": "我喝熱的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0102",
+      "start": 172.52,
+      "end": 174.72,
+      "text": "老闆娘沒冰的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0103",
+      "start": 174.72,
+      "end": 177.28,
+      "text": "講這是女生能不能喝冰的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0104",
+      "start": 177.28,
+      "end": 178.68,
+      "text": "你不用問她"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0105",
+      "start": 178.68,
+      "end": 179.96,
+      "text": "你能不能喝冰的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0106",
+      "start": 179.96,
+      "end": 181.76,
+      "text": "你問她她肯定說喝熱的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0107",
+      "start": 181.76,
+      "end": 182.96,
+      "text": "你管她說啥呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0108",
+      "start": 182.96,
+      "end": 185.68,
+      "text": "直接就是老闆兩杯冰的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0109",
+      "start": 185.68,
+      "end": 187.44,
+      "text": "然後再看這個女生的反應"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0110",
+      "start": 187.44,
+      "end": 188.0,
+      "text": "你知道吧"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0111",
+      "start": 188.0,
+      "end": 190.24,
+      "text": "有的時候她真的是可以喝冰的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0112",
+      "start": 190.24,
+      "end": 191.76,
+      "text": "但是她故作矜持"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0113",
+      "start": 191.76,
+      "end": 194.16,
+      "text": "她不想讓自己顯得特別的open"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0114",
+      "start": 194.16,
+      "end": 196.28,
+      "text": "但是我們稍微強勢一點"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0115",
+      "start": 196.28,
+      "end": 197.84,
+      "text": "她也就順著我們來了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0116",
+      "start": 197.84,
+      "end": 199.08,
+      "text": "借鋪就下驢了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0117",
+      "start": 199.08,
+      "end": 201.4,
+      "text": "有的時候女生她也需要一個台階下"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0118",
+      "start": 201.4,
+      "end": 202.24,
+      "text": "那我想喝冰的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0119",
+      "start": 202.24,
+      "end": 203.16,
+      "text": "你只有喝杯冰的嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0120",
+      "start": 204.76,
+      "end": 206.2,
+      "text": "這就是什麼台階"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0121",
+      "start": 206.2,
+      "end": 206.96,
+      "text": "就是你告訴她"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0122",
+      "start": 206.96,
+      "end": 208.2,
+      "text": "我想喝冰的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0123",
+      "start": 208.2,
+      "end": 209.28,
+      "text": "你陪我喝一杯嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0124",
+      "start": 209.28,
+      "end": 211.2,
+      "text": "她會覺得是你這個男生壞"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0125",
+      "start": 211.2,
+      "end": 212.56,
+      "text": "就算咱倆最後發生啥了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0126",
+      "start": 212.56,
+      "end": 213.72,
+      "text": "也是你的問題"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0127",
+      "start": 213.72,
+      "end": 215.88,
+      "text": "你看你給她找了一個台階下"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0128",
+      "start": 215.88,
+      "end": 217.8,
+      "text": "女生後面都要矜持"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0129",
+      "start": 217.8,
+      "end": 218.92,
+      "text": "先陪我吃點東西吧"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0130",
+      "start": 218.92,
+      "end": 220.12,
+      "text": "我要餓了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0131",
+      "start": 220.12,
+      "end": 221.36,
+      "text": "還不吃點餓"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0132",
+      "start": 221.36,
+      "end": 222.48,
+      "text": "這裡講一個技巧"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0133",
+      "start": 222.48,
+      "end": 223.72,
+      "text": "就是我約會有一個習慣"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0134",
+      "start": 223.72,
+      "end": 225.44,
+      "text": "我一般會在做這件事的時候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0135",
+      "start": 225.44,
+      "end": 227.0,
+      "text": "就已經安排好下一件事了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0136",
+      "start": 227.0,
+      "end": 228.96,
+      "text": "你們千萬不要等這件事做完了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0137",
+      "start": 228.96,
+      "end": 230.92,
+      "text": "然後兩人就往那一坐乾瞪眼"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0138",
+      "start": 230.92,
+      "end": 231.88,
+      "text": "等會去幹啥"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0139",
+      "start": 231.88,
+      "end": 233.04,
+      "text": "你一去想"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0140",
+      "start": 233.04,
+      "end": 234.44,
+      "text": "這個情緒就在下降"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0141",
+      "start": 234.44,
+      "end": 235.56,
+      "text": "情緒一下降"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0142",
+      "start": 235.56,
+      "end": 236.84,
+      "text": "女生就想走"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0143",
+      "start": 236.84,
+      "end": 238.44,
+      "text": "你的吸引力也在下降"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0144",
+      "start": 238.44,
+      "end": 240.56,
+      "text": "所以說我們一定要把這個約會的流程"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0145",
+      "start": 240.56,
+      "end": 242.0,
+      "text": "安排得很緊湊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0146",
+      "start": 242.0,
+      "end": 242.48,
+      "text": "你知道吧"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0147",
+      "start": 242.48,
+      "end": 244.36,
+      "text": "這件事幹完馬上就銜接下一件事"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0148",
+      "start": 244.36,
+      "end": 245.96,
+      "text": "這個情緒一直是高亢的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0149",
+      "start": 245.96,
+      "end": 246.76,
+      "text": "那麼女生就會覺得"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0150",
+      "start": 246.76,
+      "end": 249.28,
+      "text": "跟你在一起的體驗感一直是好的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0151",
+      "start": 249.28,
+      "end": 250.36,
+      "text": "那麼第二點就是什麼呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0152",
+      "start": 250.36,
+      "end": 251.92,
+      "text": "我跟這個女生做任何事"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0153",
+      "start": 251.92,
+      "end": 254.12,
+      "text": "我都會習慣性用一種語言"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0154",
+      "start": 254.12,
+      "end": 256.04,
+      "text": "就是你陪我去做什麼"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0155",
+      "start": 256.04,
+      "end": 257.36,
+      "text": "你陪我去喝個東西"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0156",
+      "start": 257.36,
+      "end": 258.6,
+      "text": "你陪我去吃個飯"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0157",
+      "start": 258.6,
+      "end": 260.04,
+      "text": "這樣的話就會下意識的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0158",
+      "start": 260.04,
+      "end": 262.24,
+      "text": "讓女生覺得她是追隨你的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0159",
+      "start": 262.24,
+      "end": 263.84,
+      "text": "而你是主導者"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0160",
+      "start": 263.84,
+      "end": 266.84,
+      "text": "那麼這種主導者的感覺是有吸引力的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0161",
+      "start": 266.84,
+      "end": 268.88,
+      "text": "女生都喜歡有這種主見的男生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0162",
+      "start": 268.88,
+      "end": 269.88,
+      "text": "然後她跟你約會"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0163",
+      "start": 269.88,
+      "end": 270.84,
+      "text": "她什麼都不用思考"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0164",
+      "start": 270.84,
+      "end": 271.72,
+      "text": "她很放鬆"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0165",
+      "start": 271.72,
+      "end": 273.24,
+      "text": "她就聽你安排就完了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0166",
+      "start": 273.24,
+      "end": 274.8,
+      "text": "女生最不喜歡的就是那種"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0167",
+      "start": 274.8,
+      "end": 277.0,
+      "text": "對她過度尊重的男生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0168",
+      "start": 277.0,
+      "end": 279.84,
+      "text": "記住過度尊重和尊重不是一回事"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0169",
+      "start": 279.84,
+      "end": 280.84,
+      "text": "尊重就是尊重"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0170",
+      "start": 280.84,
+      "end": 282.28,
+      "text": "但是如果你什麼都問她"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0171",
+      "start": 282.28,
+      "end": 283.68,
+      "text": "什麼都遵循她的意見"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0172",
+      "start": 283.68,
+      "end": 284.84,
+      "text": "什麼都讓她來安排"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0173",
+      "start": 284.84,
+      "end": 286.4,
+      "text": "女生就不會覺得你尊重她了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0174",
+      "start": 286.4,
+      "end": 288.28,
+      "text": "女生會覺得你是在依賴她"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0175",
+      "start": 288.28,
+      "end": 289.0,
+      "text": "那麼這個時候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0176",
+      "start": 289.0,
+      "end": 290.68,
+      "text": "在她眼裡你就是一個弱者了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0177",
+      "start": 290.68,
+      "end": 292.88,
+      "text": "就不符合女人的牧牆心理了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0178",
+      "start": 292.88,
+      "end": 294.52,
+      "text": "所以說很多男生在約會的時候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0179",
+      "start": 294.52,
+      "end": 295.84,
+      "text": "她不受女生喜歡"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0180",
+      "start": 295.84,
+      "end": 297.12,
+      "text": "這是一個很關鍵的原因"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0181",
+      "start": 297.12,
+      "end": 299.12,
+      "text": "就是因為她什麼事都聽女生的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0182",
+      "start": 299.12,
+      "end": 300.2,
+      "text": "就會讓女生感覺到"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0183",
+      "start": 300.2,
+      "end": 302.08,
+      "text": "你是一個沒長大的小男孩"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0184",
+      "start": 302.08,
+      "end": 303.4,
+      "text": "什麼都得依賴我"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0185",
+      "start": 303.4,
+      "end": 304.56,
+      "text": "她反而就不喜歡你了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0186",
+      "start": 304.56,
+      "end": 305.64,
+      "text": "所以說在約會的時候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0187",
+      "start": 305.64,
+      "end": 307.68,
+      "text": "我們很多時候我們要強勢帶領"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0188",
+      "start": 307.68,
+      "end": 309.48,
+      "text": "我們要讓女生聽我們的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0189",
+      "start": 309.48,
+      "end": 310.64,
+      "text": "這不是大男子主義"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0190",
+      "start": 310.64,
+      "end": 312.48,
+      "text": "這反而是女生喜歡的一種感覺"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0191",
+      "start": 312.48,
+      "end": 314.76,
+      "text": "這是一種負責任的有擔當的感覺"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0192",
+      "start": 314.76,
+      "end": 316.4,
+      "text": "好我們再來看一遍"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0193",
+      "start": 316.4,
+      "end": 317.36,
+      "text": "先陪我吃點東西吧"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0194",
+      "start": 317.36,
+      "end": 318.52,
+      "text": "我要餓了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0195",
+      "start": 318.52,
+      "end": 320.48,
+      "text": "嗯還不想餓"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0196",
+      "start": 320.48,
+      "end": 322.36,
+      "text": "所以我剛才說重點是陪我呀"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0197",
+      "start": 322.36,
+      "end": 323.52,
+      "text": "不是去吃"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0198",
+      "start": 323.52,
+      "end": 325.24,
+      "text": "等你餓的時候我也陪你"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0199",
+      "start": 325.24,
+      "end": 327.56,
+      "text": "哎兄弟們這一塊看到了嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0200",
+      "start": 327.56,
+      "end": 330.04,
+      "text": "這個女生她說的是她不餓"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0201",
+      "start": 330.04,
+      "end": 331.32,
+      "text": "但是我餓了呀"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0202",
+      "start": 331.32,
+      "end": 332.36,
+      "text": "那這個時候怎麼辦呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0203",
+      "start": 332.36,
+      "end": 333.36,
+      "text": "記住了這個時候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0204",
+      "start": 333.36,
+      "end": 335.48,
+      "text": "一定要尊重我們自己的需求"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0205",
+      "start": 335.48,
+      "end": 337.2,
+      "text": "千萬不能因為女生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0206",
+      "start": 337.2,
+      "end": 338.68,
+      "text": "而改變我們自己的需求"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0207",
+      "start": 338.68,
+      "end": 339.6,
+      "text": "或者說因為女生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0208",
+      "start": 339.6,
+      "end": 341.12,
+      "text": "然後我們自己就忍氣吞聲了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0209",
+      "start": 341.12,
+      "end": 342.64,
+      "text": "很多兄弟就喜歡這樣啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0210",
+      "start": 342.64,
+      "end": 343.96,
+      "text": "為了女人委屈自己"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0211",
+      "start": 343.96,
+      "end": 345.2,
+      "text": "你記住這樣的話"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0212",
+      "start": 345.2,
+      "end": 347.0,
+      "text": "女生並不會覺得你對她很好"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0213",
+      "start": 347.0,
+      "end": 348.76,
+      "text": "女生只會覺得你這個男生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0214",
+      "start": 348.76,
+      "end": 350.04,
+      "text": "你自己都不尊重你自己"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0215",
+      "start": 350.04,
+      "end": 351.36,
+      "text": "她也會不尊重你的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0216",
+      "start": 351.36,
+      "end": 353.2,
+      "text": "大部分的男生追不到女生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0217",
+      "start": 353.2,
+      "end": 354.28,
+      "text": "都會犯這個錯誤"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0218",
+      "start": 354.28,
+      "end": 355.48,
+      "text": "都會為了女生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0219",
+      "start": 355.48,
+      "end": 357.28,
+      "text": "然後哎呀自己能忍則忍吧"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0220",
+      "start": 357.28,
+      "end": 358.24,
+      "text": "盡量的滿足她"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0221",
+      "start": 358.24,
+      "end": 359.08,
+      "text": "什麼都聽她的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0222",
+      "start": 359.08,
+      "end": 360.2,
+      "text": "順著她渴她來"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0223",
+      "start": 360.2,
+      "end": 361.64,
+      "text": "你以為這樣你能感動女生"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0224",
+      "start": 361.64,
+      "end": 363.48,
+      "text": "你以為這樣女生會覺得你是一個好人"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0225",
+      "start": 363.48,
+      "end": 365.2,
+      "text": "對女生眼裡你是一個好人"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0226",
+      "start": 365.2,
+      "end": 366.76,
+      "text": "但是好人是沒有魅力的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0227",
+      "start": 366.76,
+      "end": 368.64,
+      "text": "強勢的男人才有魅力"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0228",
+      "start": 368.64,
+      "end": 370.64,
+      "text": "有主見的男生才有魅力"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0229",
+      "start": 370.64,
+      "end": 372.72,
+      "text": "尊重自己的男生才有魅力"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0230",
+      "start": 372.72,
+      "end": 373.56,
+      "text": "你再好"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0231",
+      "start": 373.56,
+      "end": 375.4,
+      "text": "但是你不是一個強大的男人"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0232",
+      "start": 375.4,
+      "end": 376.56,
+      "text": "你沒有主見"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0233",
+      "start": 376.56,
+      "end": 377.68,
+      "text": "你不尊重自己"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0234",
+      "start": 377.68,
+      "end": 378.56,
+      "text": "你也沒有魅力"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0235",
+      "start": 378.56,
+      "end": 380.32,
+      "text": "所以女生只會覺得你是個好人"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0236",
+      "start": 380.32,
+      "end": 382.12,
+      "text": "但是她依然不喜歡你"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0237",
+      "start": 382.12,
+      "end": 384.8,
+      "text": "我們目的不是讓女生覺得我們是個好人"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0238",
+      "start": 384.8,
+      "end": 387.08,
+      "text": "我們目的是讓女生覺得我們有魅力"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0239",
+      "start": 387.08,
+      "end": 388.76,
+      "text": "我們是一個強大的男人"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0240",
+      "start": 388.76,
+      "end": 390.2,
+      "text": "因為女生子偶是什麼"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0241",
+      "start": 390.2,
+      "end": 391.24,
+      "text": "牧牆的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0242",
+      "start": 391.24,
+      "end": 392.88,
+      "text": "你得滿足她的牧牆心裡"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0243",
+      "start": 392.88,
+      "end": 395.04,
+      "text": "所以這個時候我就跟女生說"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0244",
+      "start": 395.04,
+      "end": 396.88,
+      "text": "我說所以讓你陪我去吃"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0245",
+      "start": 396.88,
+      "end": 398.28,
+      "text": "你不餓當我餓了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0246",
+      "start": 398.28,
+      "end": 400.12,
+      "text": "你不能光渴著你來吧"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0247",
+      "start": 400.12,
+      "end": 402.52,
+      "text": "我你得你得注意我的需求"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0248",
+      "start": 402.52,
+      "end": 403.6,
+      "text": "我他媽餓呀"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0249",
+      "start": 403.6,
+      "end": 406.0,
+      "text": "所以一上來就要立好這個感覺"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0250",
+      "start": 406.0,
+      "end": 407.08,
+      "text": "就是我尊重你"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0251",
+      "start": 407.08,
+      "end": 408.44,
+      "text": "你也得尊重我"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0252",
+      "start": 408.44,
+      "end": 410.52,
+      "text": "當然當你立這個感覺的時候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0253",
+      "start": 410.52,
+      "end": 411.64,
+      "text": "你也要溫和一點"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0254",
+      "start": 411.64,
+      "end": 413.44,
+      "text": "你不能說你餓我還餓呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0255",
+      "start": 413.44,
+      "end": 414.56,
+      "text": "你不能這樣說話"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0256",
+      "start": 414.56,
+      "end": 415.28,
+      "text": "你就是"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0257",
+      "start": 415.28,
+      "end": 416.4,
+      "text": "所以你陪我去吃嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0258",
+      "start": 416.4,
+      "end": 417.64,
+      "text": "然後你再把它拉回來"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0259",
+      "start": 417.64,
+      "end": 418.28,
+      "text": "推拉嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0260",
+      "start": 418.28,
+      "end": 419.92,
+      "text": "前面強硬一點後面溫柔一點"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0261",
+      "start": 419.92,
+      "end": 421.92,
+      "text": "以後你餓的時候我也陪你吃"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0262",
+      "start": 421.92,
+      "end": 423.16,
+      "text": "你看這樣一推一拉"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0263",
+      "start": 423.16,
+      "end": 424.24,
+      "text": "女生就會覺得怎麼樣"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0264",
+      "start": 424.24,
+      "end": 425.36,
+      "text": "你情商很高"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0265",
+      "start": 425.36,
+      "end": 426.68,
+      "text": "然後跟你相處很舒服"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0266",
+      "start": 426.68,
+      "end": 428.0,
+      "text": "同時又尊重你了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0267",
+      "start": 428.0,
+      "end": 430.6,
+      "text": "好來看一下我們掃碼點單的時候的對話"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0268",
+      "start": 430.6,
+      "end": 431.64,
+      "text": "這段對話很有意思"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0269",
+      "start": 431.64,
+      "end": 432.64,
+      "text": "專門給你們截出來的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0270",
+      "start": 437.0,
+      "end": 438.56,
+      "text": "哎兄弟們"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0271",
+      "start": 438.56,
+      "end": 440.16,
+      "text": "這句話你們會怎麼回"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0272",
+      "start": 440.16,
+      "end": 441.12,
+      "text": "在約會的時候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0273",
+      "start": 441.12,
+      "end": 442.2,
+      "text": "哎你們正吃的飯呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0274",
+      "start": 442.2,
+      "end": 443.68,
+      "text": "你說你看電影喜歡坐第幾排"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0275",
+      "start": 443.68,
+      "end": 444.28,
+      "text": "這女生問你"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0276",
+      "start": 444.28,
+      "end": 446.32,
+      "text": "等會咱倆要看電影嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0277",
+      "start": 446.32,
+      "end": 447.8,
+      "text": "哎你們會怎麼回"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0278",
+      "start": 447.8,
+      "end": 448.84,
+      "text": "彈幕扣出來啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0279",
+      "start": 448.84,
+      "end": 449.76,
+      "text": "要看電影啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0280",
+      "start": 449.76,
+      "end": 450.72,
+      "text": "一會看阿凡的啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0281",
+      "start": 450.72,
+      "end": 452.52,
+      "text": "不然呢一會你要回家嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0282",
+      "start": 452.52,
+      "end": 453.44,
+      "text": "你們會怎麼說"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0283",
+      "start": 453.44,
+      "end": 454.8,
+      "text": "來兄弟們你們會怎麼說"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0284",
+      "start": 454.8,
+      "end": 456.92,
+      "text": "直接給大家看我的回覆啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0285",
+      "start": 456.92,
+      "end": 459.04,
+      "text": "等會是要看電影嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0286",
+      "start": 459.04,
+      "end": 461.72,
+      "text": "啊那大家剛認識去做別類播事啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0287",
+      "start": 461.72,
+      "end": 464.76,
+      "text": "哎哎哎哎兄弟們學會了嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0288",
+      "start": 464.76,
+      "end": 467.2,
+      "text": "這裡呢有一個技術錯誤啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0289",
+      "start": 467.2,
+      "end": 468.32,
+      "text": "我要給大家講一下啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0290",
+      "start": 468.32,
+      "end": 470.84,
+      "text": "我的肢體呢過於前傾了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0291",
+      "start": 470.84,
+      "end": 473.08,
+      "text": "你們在約會的時候盡量不要肢體"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0292",
+      "start": 473.08,
+      "end": 475.4,
+      "text": "這樣前傾的去靠女生太近啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0293",
+      "start": 475.4,
+      "end": 476.68,
+      "text": "這樣會顯得你很有需求感"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0294",
+      "start": 476.68,
+      "end": 478.08,
+      "text": "但當時為什麼我這麼做呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0295",
+      "start": 478.08,
+      "end": 480.52,
+      "text": "因為我拍攝我不這麼前傾"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0296",
+      "start": 480.52,
+      "end": 482.48,
+      "text": "這個鏡頭它框不下兩個人"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0297",
+      "start": 482.48,
+      "end": 484.24,
+      "text": "所以我沒有辦法我只能這樣"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0298",
+      "start": 484.24,
+      "end": 487.32,
+      "text": "但是實際中呢你最好是後靠啊比較好"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0299",
+      "start": 487.32,
+      "end": 489.8,
+      "text": "但是呢當時是因為我們在掃碼點單"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0300",
+      "start": 489.8,
+      "end": 491.64,
+      "text": "所以這個我前傾也比較合理"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0301",
+      "start": 491.64,
+      "end": 494.2,
+      "text": "因為我們倆一起在看那個手機上那個菜單啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0302",
+      "start": 494.2,
+      "end": 495.56,
+      "text": "他的肢體也是前傾的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0303",
+      "start": 495.56,
+      "end": 496.84,
+      "text": "所以這樣就問題不大"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0304",
+      "start": 496.84,
+      "end": 500.32,
+      "text": "但是現實中我的建議是大家盡量後靠不要前傾"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0305",
+      "start": 500.32,
+      "end": 502.64,
+      "text": "你快說你喜歡做這一個"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0306",
+      "start": 502.64,
+      "end": 503.76,
+      "text": "幾拍都行"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0307",
+      "start": 503.76,
+      "end": 505.88,
+      "text": "你用這一招的時候呢教大家一招啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0308",
+      "start": 505.88,
+      "end": 509.36,
+      "text": "你就可以去觀察女生的微表情和她的眼神"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0309",
+      "start": 509.36,
+      "end": 510.76,
+      "text": "如果她的眼神是這種啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0310",
+      "start": 510.76,
+      "end": 512.6,
+      "text": "你看這種就是低頭害羞的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0311",
+      "start": 512.6,
+      "end": 514.28,
+      "text": "然後呢哎撩撩頭髮"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0312",
+      "start": 514.28,
+      "end": 516.4,
+      "text": "然後呢很很深情的看著你"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0313",
+      "start": 516.4,
+      "end": 517.76,
+      "text": "很害羞的那種感覺"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0314",
+      "start": 517.76,
+      "end": 519.84,
+      "text": "就說明她內心深處對你有好感"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0315",
+      "start": 519.84,
+      "end": 521.0,
+      "text": "她只是在矜持"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0316",
+      "start": 521.0,
+      "end": 522.76,
+      "text": "所以你像我這樣稍微強勢一點"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0317",
+      "start": 522.76,
+      "end": 524.4,
+      "text": "帶領她她就會順從了啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0318",
+      "start": 524.4,
+      "end": 526.72,
+      "text": "你哎做第幾拍快說快說我買票了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0319",
+      "start": 526.72,
+      "end": 528.84,
+      "text": "她基本上就順著你來了明白了嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0320",
+      "start": 528.84,
+      "end": 531.16,
+      "text": "但如果這個女生她是這樣的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0321",
+      "start": 533.16,
+      "end": 535.08,
+      "text": "哦我不喜歡看電影"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0322",
+      "start": 535.08,
+      "end": 536.2,
+      "text": "她是很冷漠的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0323",
+      "start": 536.2,
+      "end": 537.4,
+      "text": "她沒有害羞的表情"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0324",
+      "start": 537.4,
+      "end": 538.56,
+      "text": "她的眼睛也沒看你"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0325",
+      "start": 538.56,
+      "end": 539.64,
+      "text": "她到處亂看"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0326",
+      "start": 539.64,
+      "end": 541.16,
+      "text": "或者說低頭玩手機啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0327",
+      "start": 541.16,
+      "end": 542.88,
+      "text": "那就說明她內心對你沒有好感"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0328",
+      "start": 542.88,
+      "end": 543.96,
+      "text": "就不要強勢帶領了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0329",
+      "start": 543.96,
+      "end": 546.36,
+      "text": "這樣的話女生就會直接拒絕你了啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0330",
+      "start": 546.36,
+      "end": 548.48,
+      "text": "那麼你就會很尷尬很沒面子了啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0331",
+      "start": 548.48,
+      "end": 550.6,
+      "text": "那氛圍直接就破了那就完了啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0332",
+      "start": 550.6,
+      "end": 552.16,
+      "text": "那這種情況我們應該怎麼辦呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0333",
+      "start": 552.16,
+      "end": 554.48,
+      "text": "記住了一定要淡定從容的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0334",
+      "start": 554.48,
+      "end": 556.56,
+      "text": "把責任推回去啊反咬一口"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0335",
+      "start": 556.56,
+      "end": 557.96,
+      "text": "比如說我就隨便問問"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0336",
+      "start": 557.96,
+      "end": 559.04,
+      "text": "哎你怎麼想那麼多呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0337",
+      "start": 559.04,
+      "end": 560.96,
+      "text": "然後呢非常淡定從容的說啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0338",
+      "start": 560.96,
+      "end": 561.92,
+      "text": "一會兒上菜你先吃啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0339",
+      "start": 561.92,
+      "end": 562.8,
+      "text": "我去上個廁所去"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0340",
+      "start": 562.8,
+      "end": 565.76,
+      "text": "然後淡定的慢慢的起身離開"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0341",
+      "start": 565.76,
+      "end": 567.36,
+      "text": "去上個廁所洗把臉"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0342",
+      "start": 567.36,
+      "end": 568.68,
+      "text": "給自己降降火"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0343",
+      "start": 568.68,
+      "end": 571.04,
+      "text": "然後再回來重新操作重新吸引"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0344",
+      "start": 571.04,
+      "end": 572.0,
+      "text": "這樣就不會尷尬"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0345",
+      "start": 572.0,
+      "end": 573.44,
+      "text": "記住了很多時候呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0346",
+      "start": 573.44,
+      "end": 574.24,
+      "text": "你說錯一句話"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0347",
+      "start": 574.24,
+      "end": 576.56,
+      "text": "或者說女生拒絕你問題不大啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0348",
+      "start": 576.56,
+      "end": 578.64,
+      "text": "但是如果你因為這件事很尷尬"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0349",
+      "start": 578.64,
+      "end": 581.68,
+      "text": "連續的說出好幾句話問題就很大了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0350",
+      "start": 581.68,
+      "end": 582.84,
+      "text": "所以說遇到這種情況"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0351",
+      "start": 582.84,
+      "end": 585.4,
+      "text": "打著哈哈或者說起身離開冷一下"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0352",
+      "start": 585.4,
+      "end": 586.92,
+      "text": "然後再回來重新操作"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0353",
+      "start": 586.92,
+      "end": 588.64,
+      "text": "是最簡單的處理方法啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0354",
+      "start": 588.64,
+      "end": 590.08,
+      "text": "如果你大腦反應不快的話"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0355",
+      "start": 590.08,
+      "end": 591.56,
+      "text": "好那下面教大家一個"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0356",
+      "start": 591.56,
+      "end": 594.36,
+      "text": "你們最喜歡的牽繩小技巧"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0357",
+      "start": 594.36,
+      "end": 596.4,
+      "text": "來哎你把你手給我"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0358",
+      "start": 596.4,
+      "end": 598.16,
+      "text": "我看一下你適合找什麼樣的另一半"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0359",
+      "start": 600.16,
+      "end": 602.52,
+      "text": "哦看錯了對男左女右的看那隻手"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0360",
+      "start": 604.04,
+      "end": 606.0,
+      "text": "哎好兄弟們學會了嗎"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0361",
+      "start": 606.0,
+      "end": 608.96,
+      "text": "好這裡啊要教大家一些注意事項啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0362",
+      "start": 608.96,
+      "end": 610.76,
+      "text": "當你用這一招的時候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0363",
+      "start": 610.76,
+      "end": 612.64,
+      "text": "你要注意這個女生的手"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0364",
+      "start": 612.64,
+      "end": 614.28,
+      "text": "他有沒有回握"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0365",
+      "start": 614.28,
+      "end": 615.32,
+      "text": "如果你握他"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0366",
+      "start": 615.32,
+      "end": 616.16,
+      "text": "他沒有回我"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0367",
+      "start": 616.16,
+      "end": 617.32,
+      "text": "你他是這樣展開的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0368",
+      "start": 617.32,
+      "end": 619.96,
+      "text": "說明他對你的肢體接觸的這個接收度啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0369",
+      "start": 619.96,
+      "end": 621.6,
+      "text": "不是特別的高啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0370",
+      "start": 621.6,
+      "end": 623.84,
+      "text": "那麼你這個簽個兩三秒馬上鬆開"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0371",
+      "start": 623.84,
+      "end": 626.0,
+      "text": "然後呢就繼續該幹嘛幹嘛就行了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0372",
+      "start": 626.0,
+      "end": 629.32,
+      "text": "那麼這個你就當讓他習慣跟你肢體接觸啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0373",
+      "start": 629.32,
+      "end": 631.6,
+      "text": "增加他對你肢體接觸的這種接收度"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0374",
+      "start": 631.6,
+      "end": 633.64,
+      "text": "等他更習慣了之後呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0375",
+      "start": 633.64,
+      "end": 635.36,
+      "text": "你後面再正式簽的手呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0376",
+      "start": 635.36,
+      "end": 637.24,
+      "text": "這個就更容易不會被拒絕啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0377",
+      "start": 637.24,
+      "end": 639.12,
+      "text": "但如果當他已經回握了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0378",
+      "start": 639.12,
+      "end": 640.0,
+      "text": "那就說明什麼"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0379",
+      "start": 640.0,
+      "end": 642.2,
+      "text": "他內心深處非常喜歡你"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0380",
+      "start": 642.2,
+      "end": 643.2,
+      "text": "基本上你就成了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0381",
+      "start": 643.2,
+      "end": 646.0,
+      "text": "那如果前面所有的好感測試都通過了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0382",
+      "start": 646.0,
+      "end": 647.32,
+      "text": "那送女生回家的時候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0383",
+      "start": 647.32,
+      "end": 650.44,
+      "text": "你就可以用今天徐哥送你的最後一招了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0384",
+      "start": 650.44,
+      "end": 652.32,
+      "text": "那我就給你送到這兒了啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0385",
+      "start": 652.32,
+      "end": 653.52,
+      "text": "你家水管有沒有壞了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0386",
+      "start": 653.52,
+      "end": 654.4,
+      "text": "用不用我上去修"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0387",
+      "start": 655.84,
+      "end": 657.2,
+      "text": "啊有壞了是吧"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0388",
+      "start": 657.2,
+      "end": 658.6,
+      "text": "那走吧上去陪你檢查一下"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0389",
+      "start": 664.68,
+      "end": 666.2,
+      "text": "好的兄弟們我來總結一下啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0390",
+      "start": 666.2,
+      "end": 667.28,
+      "text": "開場先破冰"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0391",
+      "start": 667.28,
+      "end": 669.76,
+      "text": "然後帶領女生尊重自己的需求"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0392",
+      "start": 669.76,
+      "end": 670.72,
+      "text": "推拉結合"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0393",
+      "start": 670.72,
+      "end": 671.72,
+      "text": "那麼學到東西了呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0394",
+      "start": 671.72,
+      "end": 673.4,
+      "text": "給徐哥點贊三連"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0395",
+      "start": 673.4,
+      "end": 674.92,
+      "text": "如果你有喜歡的女生搞不定"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0396",
+      "start": 674.92,
+      "end": 677.32,
+      "text": "或者說想要跟徐哥學習提升自己的情商"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0397",
+      "start": 677.32,
+      "end": 679.68,
+      "text": "看置頂評論或者主頁簽名來找到我本人"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0398",
+      "start": 679.68,
+      "end": 681.28,
+      "text": "我來幫你關注徐哥"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0399",
+      "start": 681.28,
+      "end": 683.52,
+      "text": "一周一次最實用的情感幹貨"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0000-0685-medium-0400",
+      "start": 683.52,
+      "end": 684.8,
+      "text": "我們下期再見"
+    }
+  ]
+}

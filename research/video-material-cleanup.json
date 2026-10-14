@@ -1,0 +1,61 @@
+{
+  "cleaned_at": "2026-10-14",
+  "scope": "Temporary low-resolution video copies used for local frame extraction",
+  "removed": [
+    {
+      "file": "BV12GQiBrExv.mp4",
+      "bytes": 228043331
+    },
+    {
+      "file": "BV14L5Y6GEcG.mp4",
+      "bytes": 106050664
+    },
+    {
+      "file": "BV14gFYzREk4.mp4",
+      "bytes": 29847522
+    },
+    {
+      "file": "BV1CjV16KEHe.mp4",
+      "bytes": 110990894
+    },
+    {
+      "file": "BV1P5he6SEys.mp4",
+      "bytes": 52611779
+    },
+    {
+      "file": "BV1VrMt6tEEx.mp4",
+      "bytes": 69441116
+    },
+    {
+      "file": "BV1ZX9KBUEip.mp4",
+      "bytes": 53386650
+    },
+    {
+      "file": "BV1f8Yj6aExQ.mp4",
+      "bytes": 81513763
+    },
+    {
+      "file": "BV1kJP5z6EDw.mp4",
+      "bytes": 41501221
+    },
+    {
+      "file": "BV1sFj26mEu1.mp4",
+      "bytes": 73371035
+    },
+    {
+      "file": "BV1sYLi6nEA6.mp4",
+      "bytes": 90998704
+    },
+    {
+      "file": "BV1upQdBiEN1.mp4",
+      "bytes": 51144339
+    },
+    {
+      "file": "BV1vj6yBDE5r.mp4",
+      "bytes": 21788053
+    }
+  ],
+  "bytes_freed": 1010689071,
+  "retained": "Original compact audio tracks, complete ASR outputs, all extracted frames, OCR logs, source IDs and frame SHA-256 evidence",
+  "listening_verified": false
+}

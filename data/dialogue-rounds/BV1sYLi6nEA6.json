@@ -1,0 +1,3228 @@
+{
+  "bvid": "BV1sYLi6nEA6",
+  "scope": "all_identifiable_dialogue_in_complete_asr",
+  "listening_verified": false,
+  "source_segment_count": 1206,
+  "source_duration_seconds": 1887.9,
+  "coverage_note": "完整读取small 1206段，整理62个可辨或部分缺答交流单元，覆盖初识采访/发布身份、茶馆拍照、旅行经历、择偶、餐厅及送行。直接查看6张原帧，确认最初“有点忙/不好意思”，新增“在跟我讲话吗”；58.5秒OCR“对对对”未在所看帧显示，未作为已核回答。重播合并，纯动作和博主假设不造现场题。实际音频听校0。",
+  "rounds": [
+    {
+      "id": "BV1sYLi6nEA6-q001",
+      "title": "开口时对方说有点忙，怎样继续？",
+      "category": "开场与认识",
+      "start": 36.75,
+      "end": 148.9,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 36.75,
+          "end": 39.0,
+          "text": "你好我是一个旅游博主",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-caption-reviewed-early-0001"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "other",
+          "start": 39,
+          "end": 40.5,
+          "text": "我有点忙。不好意思",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-caption-reviewed-early-0002",
+            "BV1sYLi6nEA6-caption-reviewed-early-0003"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 64.2,
+          "end": 72.6,
+          "text": "不我不是我不是办卡的。我也不给你擦皮鞋。我也不让你做美容美发。我就是一个旅游博主",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00005",
+            "BV1sYLi6nEA6-00006",
+            "BV1sYLi6nEA6-00007",
+            "BV1sYLi6nEA6-00008"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 136.7,
+          "end": 148.9,
+          "text": "所以说当你遇到这种情况的时候。一定要先破除她的防备。告诉她我不是推销的。所以我一上来我就说。我不办卡。也不给你做美容美发。也不给你踏皮鞋。这个时候她的防卫心就更容易卸下来",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00049",
+            "BV1sYLi6nEA6-00050",
+            "BV1sYLi6nEA6-00051",
+            "BV1sYLi6nEA6-00052",
+            "BV1sYLi6nEA6-00053",
+            "BV1sYLi6nEA6-00054",
+            "BV1sYLi6nEA6-00055",
+            "BV1sYLi6nEA6-00056"
+          ]
+        }
+      ],
+      "uncertainty": " 36.75/39/39.75秒原字幕确认最初自我介绍与“有点忙/不好意思”；回应部分仍用后续机器稿重播原字，不能据男方继续讲话推定对方已同意采访。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q062",
+      "title": "在跟我讲话吗？",
+      "category": "开场与认识",
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 57,
+          "end": 58.5,
+          "text": "在跟我讲话吗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-caption-reviewed-early-0005"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "57秒原帧补出确认交谈对象的问句；58.5秒抽样OCR曾给“对对对”，实际所见帧无该字幕，故不引用OCR或捏造答句。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。",
+      "start": 57,
+      "end": 58.5
+    },
+    {
+      "id": "BV1sYLi6nEA6-q002",
+      "title": "你在拍什么，采访需要多久？",
+      "category": "隐私与边界",
+      "start": 72.6,
+      "end": 82.8,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 72.6,
+          "end": 74.6,
+          "text": "你在拍什么。你在拍",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00009",
+            "BV1sYLi6nEA6-00010"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 74.6,
+          "end": 82.8,
+          "text": "我在拍一个我的旅行vlog。能不能占用你三分五分的时间做一个小的采访。然后呢拍完视频之后我送你一个精美小礼品",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00011",
+            "BV1sYLi6nEA6-00012",
+            "BV1sYLi6nEA6-00013"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "请求者说完采访与礼品后，对方转为身份质疑；没有把继续说话推定为拍摄许可。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q003",
+      "title": "真是旅游博主，还是随便拍美女的人？",
+      "category": "信任与质疑",
+      "start": 82.8,
+      "end": 93.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 82.8,
+          "end": 85.2,
+          "text": "你说你是旅游博主",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00014"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 85.2,
+          "end": 86.0,
+          "text": "对对对",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00015"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 86.0,
+          "end": 91.0,
+          "text": "你确认你是旅游博主。我是那种在街上随便拍美女的老法师吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00016",
+            "BV1sYLi6nEA6-00017"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 91.0,
+          "end": 93.2,
+          "text": "不是我我没有偷拍",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00018"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“我是那种”可能漏否定或人称误识别，原样保留，不据后续否认反改问题。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q004",
+      "title": "网上能搜到你吗？",
+      "category": "信任与质疑",
+      "start": 93.2,
+      "end": 99.6,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 93.2,
+          "end": 94.2,
+          "text": "你看搜到你吗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00019"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 94.2,
+          "end": 99.6,
+          "text": "能搜到你能搜到。你在抖音搜我渔小会。我有500万粉对",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00020",
+            "BV1sYLi6nEA6-00021",
+            "BV1sYLi6nEA6-00022"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "账号“渔小会”含疑似错字，自报身份及粉丝未独立核实。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q005",
+      "title": "真的有五百万粉丝吗，没有怎么办？",
+      "category": "信任与质疑",
+      "start": 99.6,
+      "end": 248.3,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 99.6,
+          "end": 100.9,
+          "text": "你真的有500万粉",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00023"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 100.9,
+          "end": 104.2,
+          "text": "对你回头搜吗。没有500万粉的话。我请你吃一个月的饭",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00024",
+            "BV1sYLi6nEA6-00025",
+            "BV1sYLi6nEA6-00026"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 106.0,
+          "end": 107.0,
+          "text": "可以的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00027"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 107.0,
+          "end": 125.5,
+          "text": "我保证有视频为证。你过来旅游。你肯定想要拍一些好看的照片。我来给你拍。而且我来给你批。然后我给你批好的照片。你发抖音上。我保你有一万点赞。没有一万点赞的话。你再成都。明天我还请你吃饭。我还请你看电影。因为我这个伟老哥吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00028",
+            "BV1sYLi6nEA6-00029",
+            "BV1sYLi6nEA6-00030",
+            "BV1sYLi6nEA6-00031",
+            "BV1sYLi6nEA6-00032",
+            "BV1sYLi6nEA6-00033",
+            "BV1sYLi6nEA6-00034",
+            "BV1sYLi6nEA6-00035",
+            "BV1sYLi6nEA6-00036",
+            "BV1sYLi6nEA6-00037",
+            "BV1sYLi6nEA6-00038",
+            "BV1sYLi6nEA6-00039",
+            "BV1sYLi6nEA6-00040"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 232.1,
+          "end": 248.3,
+          "text": "我不是说了吗没有五百万粉。没有一万点赞。我就请你吃一个月的饭。要么我就请你看电影。顶级仰谋。这目的不就达到了吗。我的目的就是为了请她吃一个月的饭。请她看电影。所以有的时候别那么实在。脑袋得灵活一点",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00105",
+            "BV1sYLi6nEA6-00106",
+            "BV1sYLi6nEA6-00107",
+            "BV1sYLi6nEA6-00108",
+            "BV1sYLi6nEA6-00109",
+            "BV1sYLi6nEA6-00110",
+            "BV1sYLi6nEA6-00111",
+            "BV1sYLi6nEA6-00112",
+            "BV1sYLi6nEA6-00113",
+            "BV1sYLi6nEA6-00114"
+          ]
+        }
+      ],
+      "uncertainty": "“可以的”的角色不清；摄影、点赞及请吃饭均为请求者自述承诺，不能据此核实数量或能力。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q006",
+      "title": "给的东西是什么，要自己夹吗？",
+      "category": "隐私与边界",
+      "start": 296.5,
+      "end": 306.6,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 296.5,
+          "end": 297.8,
+          "text": "给你一个这个嘛",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00143"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 297.8,
+          "end": 300.1,
+          "text": "这是。就是拍视频要一起",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00144",
+            "BV1sYLi6nEA6-00145"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 300.1,
+          "end": 303.0,
+          "text": "对对对。你自己夹吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00146",
+            "BV1sYLi6nEA6-00147"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 303.0,
+          "end": 305.9,
+          "text": "我自己来。说夹水里嘛",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00148",
+            "BV1sYLi6nEA6-00149"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 305.9,
+          "end": 306.6,
+          "text": "对对对",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00150"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“这是／拍视频要一起／夹水里”识别不清，未依据语境补成麦克风或具体位置。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q007",
+      "title": "谁当导游、谁带路、谁买单？",
+      "category": "邀约与安排",
+      "start": 306.6,
+      "end": 365.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 306.6,
+          "end": 307.9,
+          "text": "照一下那个茶馆嘛",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00151"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 307.9,
+          "end": 312.9,
+          "text": "你今天来当我的导游。我跟着你走。你来带路。我来买单",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00152",
+            "BV1sYLi6nEA6-00153",
+            "BV1sYLi6nEA6-00154",
+            "BV1sYLi6nEA6-00155"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 312.9,
+          "end": 313.6,
+          "text": "好看",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00156"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 320.5,
+          "end": 329.1,
+          "text": "就是我们要安排事。哎。今天我们去那人哪。你负责什么我负责什么。你看要让女生觉得跟你在一起。你才是那个领导",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00161",
+            "BV1sYLi6nEA6-00162",
+            "BV1sYLi6nEA6-00163",
+            "BV1sYLi6nEA6-00164",
+            "BV1sYLi6nEA6-00165",
+            "BV1sYLi6nEA6-00166"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 355.6,
+          "end": 365.0,
+          "text": "还是刚才讲的符合人性对不对提供好处。就是你来当我的导游。我来买单。是不是你不能说跟女生说。今天你来当我导游。你来请客我啥都跟着你了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00182",
+            "BV1sYLi6nEA6-00183",
+            "BV1sYLi6nEA6-00184",
+            "BV1sYLi6nEA6-00185",
+            "BV1sYLi6nEA6-00186",
+            "BV1sYLi6nEA6-00187"
+          ]
+        }
+      ],
+      "uncertainty": "“照一下那个茶馆／好看”说话者与内容不清；06:39 起重播同一安排，未重复成题。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q008",
+      "title": "要拍张照，拍照技术怎么样？",
+      "category": "消费与付出",
+      "start": 404.9,
+      "end": 430.4,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 404.9,
+          "end": 406.8,
+          "text": "你吃啊。请你吃的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00209",
+            "BV1sYLi6nEA6-00210"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 406.8,
+          "end": 409.4,
+          "text": "这个我拍个照吧。这个好精致啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00211",
+            "BV1sYLi6nEA6-00212"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 409.4,
+          "end": 410.4,
+          "text": "我来帮你拍也好",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00213"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 410.4,
+          "end": 411.2,
+          "text": "可以啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00214"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 411.2,
+          "end": 412.2,
+          "text": "我拍照特别好看",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00215"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 412.2,
+          "end": 413.4,
+          "text": "你拍照这次可以啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00216"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 413.4,
+          "end": 418.2,
+          "text": "非常好。绝对好看。要是不好看。我请你吃一个月的饭",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00217",
+            "BV1sYLi6nEA6-00218",
+            "BV1sYLi6nEA6-00219",
+            "BV1sYLi6nEA6-00220"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 419.2,
+          "end": 430.4,
+          "text": "这个又是提供价值。就是我们给女生提供的价值。不一定非要收物质。对不对。你看给她拍照。这是不是一种价值。给她披图是不是一种价值。我们来安排事让她不用去思考",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00221",
+            "BV1sYLi6nEA6-00222",
+            "BV1sYLi6nEA6-00223",
+            "BV1sYLi6nEA6-00224",
+            "BV1sYLi6nEA6-00225",
+            "BV1sYLi6nEA6-00226",
+            "BV1sYLi6nEA6-00227",
+            "BV1sYLi6nEA6-00228"
+          ]
+        }
+      ],
+      "uncertainty": "“拍照这次可以啊”可能含问句误识别，照录；没有实际图片验证拍照效果。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q009",
+      "title": "谈照片与镜头，怎样调整？",
+      "category": "话题延伸",
+      "start": 443.1,
+      "end": 457.8,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 443.1,
+          "end": 445.4,
+          "text": "其实景一般。但是你人好看",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00237",
+            "BV1sYLi6nEA6-00238"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 445.4,
+          "end": 446.4,
+          "text": "还可以",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00239"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 452.2,
+          "end": 453.6,
+          "text": "她镜头。你应该把镜头拍下来",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00243",
+            "BV1sYLi6nEA6-00244"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 453.6,
+          "end": 456.08,
+          "text": "没事可以。可以。可以",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00245",
+            "BV1sYLi6nEA6-00246",
+            "BV1sYLi6nEA6-00247"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 456.08,
+          "end": 457.8,
+          "text": "你看今天你又转了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00248"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "镜头调整短句角色不清，不能由稿推定具体拍照动作或已允许公开。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q010",
+      "title": "现在愿意认识、交朋友吗？",
+      "category": "关系与意图",
+      "start": 467.5,
+      "end": 474.8,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 467.5,
+          "end": 473.6,
+          "text": "我请你喝了茶。我还给你拍了照。可以去。你要报答我了。愿意跟我交朋友了吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00254",
+            "BV1sYLi6nEA6-00255",
+            "BV1sYLi6nEA6-00256",
+            "BV1sYLi6nEA6-00257",
+            "BV1sYLi6nEA6-00258"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 473.6,
+          "end": 474.8,
+          "text": "可以认识一下",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00259"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q011",
+      "title": "不是说采访吗，真正想做什么？",
+      "category": "关系与意图",
+      "start": 474.8,
+      "end": 482.8,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 474.8,
+          "end": 476.3,
+          "text": "对了你不是采访吗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00260"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 476.3,
+          "end": 481.0,
+          "text": "那其实不是采访你。我就是用这样的方式大善你",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00261",
+            "BV1sYLi6nEA6-00262"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 481.0,
+          "end": 482.8,
+          "text": "啊哈哈哈哈",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00263"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“大善”照机器稿保留，疑为错字；笑声角色未知，不将笑视为拍摄许可。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q012",
+      "title": "搭讪为什么还要拍视频？",
+      "category": "隐私与边界",
+      "start": 482.8,
+      "end": 492.7,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 482.8,
+          "end": 485.3,
+          "text": "那你大善拍什么视频啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00264"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 485.3,
+          "end": 492.7,
+          "text": "就是记录一下咱俩美丽的卸后。万一以后我们的关系越来越亲密了。这个视频是不是值得纪念",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00265",
+            "BV1sYLi6nEA6-00266",
+            "BV1sYLi6nEA6-00267"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“卸后／大善”疑有机器错字，原样保留。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q013",
+      "title": "以前被怎样搭讪过，这是第一次吗？",
+      "category": "信息与经历",
+      "start": 492.7,
+      "end": 503.4,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 492.7,
+          "end": 495.1,
+          "text": "第一次遇到这种大善的方式",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00268"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 495.1,
+          "end": 497.6,
+          "text": "啊第一次遇到。那以前男生都是怎么大善",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00269",
+            "BV1sYLi6nEA6-00270"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 497.6,
+          "end": 499.6,
+          "text": "以前以前我没有被大善过",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00271"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 499.6,
+          "end": 502.2,
+          "text": "啊我意思都没有。你没有被大善过",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00272",
+            "BV1sYLi6nEA6-00273"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 502.2,
+          "end": 503.4,
+          "text": "我从来没有被大善过",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00274"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“大善”错字保留，“我意思都没有”可能为追加确认；这些经历均是自述，未核验。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q014",
+      "title": "为什么很漂亮的人反而少被搭讪？",
+      "category": "玩笑与调侃",
+      "start": 503.4,
+      "end": 523.4,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 503.4,
+          "end": 504.2,
+          "text": "你知道为啥吗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00275"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 504.2,
+          "end": 504.9,
+          "text": "为啥",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00276"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 504.9,
+          "end": 511.0,
+          "text": "如果一个女生小美。就会有很多人大善她。大美就基本没有人大善了。因为大家害怕",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00277",
+            "BV1sYLi6nEA6-00278",
+            "BV1sYLi6nEA6-00279",
+            "BV1sYLi6nEA6-00280"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 514.2,
+          "end": 523.4,
+          "text": "就是当你夸女生的时候。不要戴主语。什么叫主语呢。就是不要说你是大美。所以没有人敢大善你",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00283",
+            "BV1sYLi6nEA6-00284",
+            "BV1sYLi6nEA6-00285",
+            "BV1sYLi6nEA6-00286",
+            "BV1sYLi6nEA6-00287"
+          ]
+        }
+      ],
+      "uncertainty": "题目概括请求者的例子，不将“大美少被搭讪”的解释当普遍事实。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q015",
+      "title": "姐妹更常被搭讪，自己看起来凶吗？",
+      "category": "玩笑与调侃",
+      "start": 580.8,
+      "end": 591.6,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 580.8,
+          "end": 587.3,
+          "text": "因为我的姐妹基本上是那种甜美风格的。就大善他们的多一点。然后我走在旁边就显得我很凶",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00327",
+            "BV1sYLi6nEA6-00328",
+            "BV1sYLi6nEA6-00329"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 587.3,
+          "end": 591.6,
+          "text": "因为你很高了。他们会觉得你的颜值太高了。望而却步",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00330",
+            "BV1sYLi6nEA6-00331",
+            "BV1sYLi6nEA6-00332"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q016",
+      "title": "觉得你很会说话，怎样回应？",
+      "category": "信任与质疑",
+      "start": 591.6,
+      "end": 608.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 591.6,
+          "end": 593.3,
+          "text": "你怎么说我会说话",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00333"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 594.1,
+          "end": 608.2,
+          "text": "不是我说的都是心理话。因为一开始。其实我也有点不太敢上。我看到你我也有点大嘚瑟了。但是我转了三圈。我觉得如果我今天不去认识你的话。我可能回去一个月都睡不着觉",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00334",
+            "BV1sYLi6nEA6-00335",
+            "BV1sYLi6nEA6-00336",
+            "BV1sYLi6nEA6-00337",
+            "BV1sYLi6nEA6-00338",
+            "BV1sYLi6nEA6-00339",
+            "BV1sYLi6nEA6-00340"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“你怎么说我会说话／大嘚瑟”等句含错字；“转了三圈、睡不着”均为自述，未验证。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q017",
+      "title": "专门下午在这里等美女搭讪吗？",
+      "category": "信任与质疑",
+      "start": 608.2,
+      "end": 698.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 608.2,
+          "end": 612.8,
+          "text": "那你该不会是今天下午专门在这蹲人。专门这做美女搭船",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00341",
+            "BV1sYLi6nEA6-00342"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 612.8,
+          "end": 619.7,
+          "text": "没有我没有。我就是真的我就是过来旅游玩的。我从来没有大善过。你是我第一个",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00343",
+            "BV1sYLi6nEA6-00344",
+            "BV1sYLi6nEA6-00345",
+            "BV1sYLi6nEA6-00346"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 679.5,
+          "end": 698.2,
+          "text": "她前面问我们。你是不是天天在这蹲着搭讪美女。你看我当时也没有说。没有。我今天第一天来。这话就聊死了。这就没有信息。而是我跟她说什么呢。我说我是来旅游的。我第一天到这怎么怎么样呢。你看我是来旅游的。所以这个女生。她才会对我们产生好奇心。哦你不是本地的。你是外地的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00394",
+            "BV1sYLi6nEA6-00395",
+            "BV1sYLi6nEA6-00396",
+            "BV1sYLi6nEA6-00397",
+            "BV1sYLi6nEA6-00398",
+            "BV1sYLi6nEA6-00399",
+            "BV1sYLi6nEA6-00400",
+            "BV1sYLi6nEA6-00401",
+            "BV1sYLi6nEA6-00402",
+            "BV1sYLi6nEA6-00403",
+            "BV1sYLi6nEA6-00404",
+            "BV1sYLi6nEA6-00405",
+            "BV1sYLi6nEA6-00406",
+            "BV1sYLi6nEA6-00407",
+            "BV1sYLi6nEA6-00408"
+          ]
+        }
+      ],
+      "uncertainty": "“搭船／大善”错字保留，未独立验证从未搭讪的经历声明。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q018",
+      "title": "你是外地的，哪里人，为什么没有口音？",
+      "category": "信息与经历",
+      "start": 619.7,
+      "end": 654.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 619.7,
+          "end": 622.1,
+          "text": "你是外地的。你是哪里",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00347",
+            "BV1sYLi6nEA6-00348"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 622.1,
+          "end": 623.4,
+          "text": "你听我口音没听出来吗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00349"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 623.4,
+          "end": 625.2,
+          "text": "普通话很标准。分裂不出来",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00350",
+            "BV1sYLi6nEA6-00351"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 625.2,
+          "end": 630.0,
+          "text": "可能是因为我到处飞的原因吧。就就没有口音了。我是东北人",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00352",
+            "BV1sYLi6nEA6-00353",
+            "BV1sYLi6nEA6-00354"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 630.0,
+          "end": 638.8,
+          "text": "这里教大家一个技巧。就是我们在跟女生说话的时候。你一定要在话里面多留信息。千万不要用一问一答的形式。去跟女生聊天",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00355",
+            "BV1sYLi6nEA6-00356",
+            "BV1sYLi6nEA6-00357",
+            "BV1sYLi6nEA6-00358",
+            "BV1sYLi6nEA6-00359"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 648.0,
+          "end": 654.0,
+          "text": "你是外地的吗。这个时候你要马上抛很多个信息出去。那么这个话题就会延展开",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00367",
+            "BV1sYLi6nEA6-00368",
+            "BV1sYLi6nEA6-00369"
+          ]
+        }
+      ],
+      "uncertainty": "“分裂不出来”疑误识别，照录；口音成因和到处飞均是请求者解释，未核验。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q019",
+      "title": "在成都待几天？",
+      "category": "邀约与安排",
+      "start": 738.4,
+      "end": 747.4,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 738.4,
+          "end": 743.1,
+          "text": "一点都不像东北的。你讲话。没有那种东北口音啊。那你在成都待几天啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00436",
+            "BV1sYLi6nEA6-00437",
+            "BV1sYLi6nEA6-00438",
+            "BV1sYLi6nEA6-00439"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 743.1,
+          "end": 747.4,
+          "text": "我是过来做活动的。然后要在成都待一个星期",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00440",
+            "BV1sYLi6nEA6-00441"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q020",
+      "title": "平时不常住成都，住哪里？",
+      "category": "信息与经历",
+      "start": 747.4,
+      "end": 755.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 747.4,
+          "end": 753.6,
+          "text": "你也不藏在成都。我也不藏在成都。然后我们就遇到了。很有缘啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00442",
+            "BV1sYLi6nEA6-00443",
+            "BV1sYLi6nEA6-00444",
+            "BV1sYLi6nEA6-00445"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 753.6,
+          "end": 755.0,
+          "text": "我平时在南京",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00446"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“藏在成都”错字保留，题目按相邻南京居住信息暂概括。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q021",
+      "title": "下次去南京能招待我吗？",
+      "category": "邀约与安排",
+      "start": 755.0,
+      "end": 762.3,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 755.0,
+          "end": 758.7,
+          "text": "南京美吗。那等下次我去南京。你招待我好不好",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00447",
+            "BV1sYLi6nEA6-00448",
+            "BV1sYLi6nEA6-00449"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 758.7,
+          "end": 759.8,
+          "text": "有机会来玩吗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00450"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 759.8,
+          "end": 762.3,
+          "text": "来干杯。干杯。祝我们南京见",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00451",
+            "BV1sYLi6nEA6-00452",
+            "BV1sYLi6nEA6-00453"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q022",
+      "title": "去南京怎么招待，能吃到你做的饭吗？",
+      "category": "消费与付出",
+      "start": 763.3,
+      "end": 778.6,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 763.3,
+          "end": 765.0,
+          "text": "我去南京。你怎么招待我",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00454",
+            "BV1sYLi6nEA6-00455"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 765.0,
+          "end": 767.0,
+          "text": "你想吃啥。我请你吃呗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00456",
+            "BV1sYLi6nEA6-00457"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 767.0,
+          "end": 769.2,
+          "text": "我想吃你做的饭",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00458"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 769.2,
+          "end": 770.4,
+          "text": "我不会做",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00459"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 770.8,
+          "end": 778.6,
+          "text": "这个地方大家有没有发现。我搞了一点点的小暗示。这个语气停顿的节奏很关键啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00461",
+            "BV1sYLi6nEA6-00462",
+            "BV1sYLi6nEA6-00463"
+          ]
+        }
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q023",
+      "title": "不会做饭，去东北吃你的饭太远怎么办？",
+      "category": "邀约与安排",
+      "start": 816.0,
+      "end": 831.8,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 816.0,
+          "end": 820.6,
+          "text": "啊你不会做饭。那咱俩认识以后我要吃亏了。因为我会做饭",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00494",
+            "BV1sYLi6nEA6-00495",
+            "BV1sYLi6nEA6-00496"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 820.6,
+          "end": 821.2,
+          "text": "啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00497"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 821.2,
+          "end": 823.2,
+          "text": "以后有机会你可以吃到我做饭",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00498"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 828.1,
+          "end": 830.0,
+          "text": "去东北吃有点太远了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00503"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 830.0,
+          "end": 831.8,
+          "text": "也许我会搬到南京生活呢",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00504"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 823.2,
+          "end": 826.4,
+          "text": "又在展示价值了。对不对。不停的展示自己的优点啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00499",
+            "BV1sYLi6nEA6-00500",
+            "BV1sYLi6nEA6-00501"
+          ]
+        }
+      ],
+      "uncertainty": "“啊”只记录为短回应，不推定任何居住或出行安排已确定。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q024",
+      "title": "喜欢哪个点心，这是熊猫吗？",
+      "category": "偏好与选择",
+      "start": 831.8,
+      "end": 843.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 831.8,
+          "end": 833.7,
+          "text": "你吃一个吧。你喜欢吃哪个",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00505",
+            "BV1sYLi6nEA6-00506"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 833.7,
+          "end": 836.1,
+          "text": "这个太精致了。我都不忍心吃它",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00507",
+            "BV1sYLi6nEA6-00508"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 836.1,
+          "end": 837.9,
+          "text": "这是熊猫吗。这个好乖哦",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00509",
+            "BV1sYLi6nEA6-00510"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 837.9,
+          "end": 843.2,
+          "text": "跟你很般配。看。跟你很般配。你看很可爱。应该给你拍张照的。哈哈哈",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00511",
+            "BV1sYLi6nEA6-00512",
+            "BV1sYLi6nEA6-00513",
+            "BV1sYLi6nEA6-00514",
+            "BV1sYLi6nEA6-00515",
+            "BV1sYLi6nEA6-00516"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“这是熊猫吗／好乖哦”两短句角色不能稳定确定；末笑声与夸赞连在一个请求者段，不用于推定偏好或同意。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q025",
+      "title": "要看功夫茶表演吗，以前看过吗？",
+      "category": "邀约与安排",
+      "start": 844.4,
+      "end": 879.3,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 844.4,
+          "end": 848.6,
+          "text": "他们好像有那个功夫茶。我请你看表演怎么样",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00517",
+            "BV1sYLi6nEA6-00518"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 848.6,
+          "end": 850.7,
+          "text": "功夫茶。功夫茶表演。对",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00519",
+            "BV1sYLi6nEA6-00520",
+            "BV1sYLi6nEA6-00521"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 850.7,
+          "end": 851.4,
+          "text": "你看过吗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00522"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 851.4,
+          "end": 853.1,
+          "text": "没有。我在网上看过",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00523",
+            "BV1sYLi6nEA6-00524"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 853.1,
+          "end": 854.7,
+          "text": "来今天让你感受一下",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00525"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 869.4,
+          "end": 879.3,
+          "text": "我给大家讲一个吸引女生的核心关键。其实是你的生活态度。并不是什么物质或者建模之类的。生活态度其实生活一切。你知道我认识很多女生",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00534",
+            "BV1sYLi6nEA6-00535",
+            "BV1sYLi6nEA6-00536",
+            "BV1sYLi6nEA6-00537",
+            "BV1sYLi6nEA6-00538"
+          ]
+        }
+      ],
+      "uncertainty": "“功夫茶”重复确认的说话者不清，保留为混合角色段；未从画面验证表演内容。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q026",
+      "title": "你说自己的功夫也厉害，是什么意思？",
+      "category": "玩笑与调侃",
+      "start": 1001.8,
+      "end": 1008.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1001.8,
+          "end": 1004.0,
+          "text": "这个人功夫好厉害",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00593"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1004.0,
+          "end": 1006.0,
+          "text": "我的功夫也好厉害",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00594"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1006.0,
+          "end": 1008.2,
+          "text": "你的功夫",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00595"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "对方只复述“你的功夫”疑为追问，随后转坐姿话题，没有可靠直接解释，不补造含义。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q027",
+      "title": "平时坐姿都这样吗，模特都如此吗？",
+      "category": "信息与经历",
+      "start": 1008.2,
+      "end": 1015.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1008.2,
+          "end": 1010.8,
+          "text": "你平时都要这样",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00596"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1010.8,
+          "end": 1011.7,
+          "text": "我习惯了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00597"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1011.7,
+          "end": 1013.0,
+          "text": "就是模特都要这样",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00598"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1013.0,
+          "end": 1015.0,
+          "text": "也分人八分 更看个人",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00599"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“也分人八分”有错字，照录；身份与坐姿只是对话自述。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q028",
+      "title": "这样坐会累吗，喜欢随性还是端庄？",
+      "category": "偏好与选择",
+      "start": 1015.0,
+      "end": 1053.7,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1015.0,
+          "end": 1017.7,
+          "text": "但是我觉得这样好累。就是我是比较喜欢",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00600",
+            "BV1sYLi6nEA6-00601"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1017.7,
+          "end": 1018.6,
+          "text": "你这样的吗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00602"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1018.6,
+          "end": 1021.8,
+          "text": "对对对。我不算这样。我感觉。其实你这样反而不累",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00603",
+            "BV1sYLi6nEA6-00604",
+            "BV1sYLi6nEA6-00605",
+            "BV1sYLi6nEA6-00606"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1021.8,
+          "end": 1026.7,
+          "text": "我这样反而不累。我就喜欢这样。我觉得躺着我的腰还更累",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00607",
+            "BV1sYLi6nEA6-00608",
+            "BV1sYLi6nEA6-00609"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1026.7,
+          "end": 1037.0,
+          "text": "我现在感觉我就好像在跟电影明星说话。因为你这样好端庄啊。感觉我像一个。感觉我像一个",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00610",
+            "BV1sYLi6nEA6-00611",
+            "BV1sYLi6nEA6-00612",
+            "BV1sYLi6nEA6-00613"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1037.0,
+          "end": 1041.0,
+          "text": "没事你随便。你输不就好了。你输不就好了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00614",
+            "BV1sYLi6nEA6-00615",
+            "BV1sYLi6nEA6-00616"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1041.0,
+          "end": 1042.3,
+          "text": "我是比较随性的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00617"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1042.3,
+          "end": 1053.7,
+          "text": "这段我要给大家讲一个核心心态。就是永远不要觉得自己有问题。你看我在我面对这个女生特别端庄的时候。我并没有觉得我的随性是一个错",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00618",
+            "BV1sYLi6nEA6-00619",
+            "BV1sYLi6nEA6-00620",
+            "BV1sYLi6nEA6-00621"
+          ]
+        }
+      ],
+      "uncertainty": "“你输不就好了”疑误识别；后半“感觉像一个”未说完，未补造类比。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q029",
+      "title": "跟我聊天感觉怎么样？",
+      "category": "关系与意图",
+      "start": 1164.0,
+      "end": 1189.7,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1164.0,
+          "end": 1165.9,
+          "text": "跟我聊天感觉怎么样",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00692"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1165.9,
+          "end": 1182.3,
+          "text": "跟我想象有点不一样。就我刚开始见你的时候。你过来讲话。我就感觉你可能会有一点油腻。但是你讲话我就感觉还好看。你讲话就很自然。你说你刚才说夸我的那些话。你讲的就很自然。我也觉得不油腻",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00693",
+            "BV1sYLi6nEA6-00694",
+            "BV1sYLi6nEA6-00695",
+            "BV1sYLi6nEA6-00696",
+            "BV1sYLi6nEA6-00697",
+            "BV1sYLi6nEA6-00698",
+            "BV1sYLi6nEA6-00699",
+            "BV1sYLi6nEA6-00700",
+            "BV1sYLi6nEA6-00701"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1182.3,
+          "end": 1182.8,
+          "text": "是吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00702"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1182.8,
+          "end": 1189.7,
+          "text": "这就是我教你们的那套方法。侧面夸。他就会觉得自然。正面夸。他就会觉得油腻",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00703",
+            "BV1sYLi6nEA6-00704",
+            "BV1sYLi6nEA6-00705",
+            "BV1sYLi6nEA6-00706",
+            "BV1sYLi6nEA6-00707"
+          ]
+        }
+      ],
+      "uncertainty": "“还好看”可能多余机器字，原样保留；对方主观感受不作为聊天方式必然有效的证据。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q030",
+      "title": "别的男孩子怎么夸你，为什么觉得油腻？",
+      "category": "话题延伸",
+      "start": 1189.7,
+      "end": 1213.3,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1189.7,
+          "end": 1195.1,
+          "text": "男孩子他们讲话。他们夸你都不想听。就觉得听起来很狭。很油",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00708",
+            "BV1sYLi6nEA6-00709",
+            "BV1sYLi6nEA6-00710",
+            "BV1sYLi6nEA6-00711"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1195.1,
+          "end": 1196.4,
+          "text": "他们怎么夸呢",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00712"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1196.4,
+          "end": 1199.1,
+          "text": "女生他们说你身材好好。你好好看",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00713",
+            "BV1sYLi6nEA6-00714"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1204.2,
+          "end": 1213.3,
+          "text": "他们说这种话。就他们那个语气。说出来就很油腻。我不想怎么给你形容。反正就是一种感觉是一种感觉",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00721",
+            "BV1sYLi6nEA6-00722",
+            "BV1sYLi6nEA6-00723",
+            "BV1sYLi6nEA6-00724",
+            "BV1sYLi6nEA6-00725"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1199.1,
+          "end": 1204.2,
+          "text": "看到了吗。这就是正面夸。你身材好好。你好好看。他就会觉得油腻。所有女生都这样",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00715",
+            "BV1sYLi6nEA6-00716",
+            "BV1sYLi6nEA6-00717",
+            "BV1sYLi6nEA6-00718",
+            "BV1sYLi6nEA6-00719",
+            "BV1sYLi6nEA6-00720"
+          ]
+        }
+      ],
+      "uncertainty": "讲解中把样本说成“所有女生”只属于博主观点；原声“听起来很狭”等错字保留。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q031",
+      "title": "你是什么星座？",
+      "category": "信息与经历",
+      "start": 1213.3,
+      "end": 1221.1,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1213.3,
+          "end": 1214.7,
+          "text": "你是什么星座",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00726"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1214.7,
+          "end": 1217.9,
+          "text": "你猜。我是下半年的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00727",
+            "BV1sYLi6nEA6-00728"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1217.9,
+          "end": 1221.1,
+          "text": "那哎。我是天秤天秤座",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00729",
+            "BV1sYLi6nEA6-00730"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "后半“我是天秤”可能为对方答案，但短句角色无法稳分，保留未知角色，不捏造猜测过程。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q032",
+      "title": "天秤座有什么特点？",
+      "category": "偏好与选择",
+      "start": 1221.1,
+      "end": 1225.1,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1221.1,
+          "end": 1223.0,
+          "text": "天秤座有什么特点",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00731"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1223.0,
+          "end": 1225.1,
+          "text": "我比较喜欢有自己的空间吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00732"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q033",
+      "title": "谈恋爱最重要的是忠诚吗？",
+      "category": "关系与意图",
+      "start": 1225.1,
+      "end": 1317.2,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1225.1,
+          "end": 1226.6,
+          "text": "你觉得谈恋爱最重要是啥呢",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00733"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1226.6,
+          "end": 1227.7,
+          "text": "互相要忠诚吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00734"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1227.7,
+          "end": 1232.7,
+          "text": "那这个是基本。我觉得这个不应该是最重要的。做这个是最基本的。是吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00735",
+            "BV1sYLi6nEA6-00736",
+            "BV1sYLi6nEA6-00737",
+            "BV1sYLi6nEA6-00738"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1232.7,
+          "end": 1238.1,
+          "text": "你觉得这个很基本。但是很多男孩子都做不到。包括也有一部分女孩子也做不到",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00739",
+            "BV1sYLi6nEA6-00740",
+            "BV1sYLi6nEA6-00741"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1239.1,
+          "end": 1259.6,
+          "text": "这里就是展示自己的价值观了。这段我觉得对大家还是挺有帮助的。就是你看啊。这个女生她说了一个价值观。她觉得最重要是忠诚。而我其实反驳了她的价值观。我说这个不应该是最重要。这个应该是基本。你看我跟她的价值观根本就不一样。她又说你觉得这个是基本。那很多人做不到。你看。其实我们两个在这件事上是有争执的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00743",
+            "BV1sYLi6nEA6-00744",
+            "BV1sYLi6nEA6-00745",
+            "BV1sYLi6nEA6-00746",
+            "BV1sYLi6nEA6-00747",
+            "BV1sYLi6nEA6-00748",
+            "BV1sYLi6nEA6-00749",
+            "BV1sYLi6nEA6-00750",
+            "BV1sYLi6nEA6-00751",
+            "BV1sYLi6nEA6-00752",
+            "BV1sYLi6nEA6-00753",
+            "BV1sYLi6nEA6-00754",
+            "BV1sYLi6nEA6-00755"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 1305.5,
+          "end": 1317.2,
+          "text": "当然这里我用了一个技巧。就是你要看似不一样。实际一样。她说忠诚很重要。我说忠诚是基本。其实我也是说忠诚重要。对不对。我没有否定这件事",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00782",
+            "BV1sYLi6nEA6-00783",
+            "BV1sYLi6nEA6-00784",
+            "BV1sYLi6nEA6-00785",
+            "BV1sYLi6nEA6-00786",
+            "BV1sYLi6nEA6-00787",
+            "BV1sYLi6nEA6-00788",
+            "BV1sYLi6nEA6-00789"
+          ]
+        }
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q034",
+      "title": "吃饭了吗？",
+      "category": "邀约与安排",
+      "start": 1238.1,
+      "end": 1346.5,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1238.1,
+          "end": 1239.1,
+          "text": "你吃饭了吗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00742"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1345.3,
+          "end": 1346.5,
+          "text": "我十点多吃的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00807"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "问答中间插入长讲解，按实际原句关联；没有把讲解示例作为对方回答。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q035",
+      "title": "现在饿吗，要一起吃成都特色吗？",
+      "category": "邀约与安排",
+      "start": 1346.5,
+      "end": 1362.6,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1346.5,
+          "end": 1348.1,
+          "text": "哦 都四点了。你不饿啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00808",
+            "BV1sYLi6nEA6-00809"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1348.1,
+          "end": 1348.9,
+          "text": "微微饿吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00810"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1348.9,
+          "end": 1354.4,
+          "text": "微微饿。微微饿。那我们去吃一个成都特色吧。那边有一家一百多年的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00811",
+            "BV1sYLi6nEA6-00812",
+            "BV1sYLi6nEA6-00813",
+            "BV1sYLi6nEA6-00814"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1358.5,
+          "end": 1362.6,
+          "text": "嗯 睡觉。这是中午睡觉。对。哦 可以啊。走。Let's go",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00818",
+            "BV1sYLi6nEA6-00819",
+            "BV1sYLi6nEA6-00820",
+            "BV1sYLi6nEA6-00821",
+            "BV1sYLi6nEA6-00822",
+            "BV1sYLi6nEA6-00823"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1354.4,
+          "end": 1358.5,
+          "text": "又是戴脸。直接安排我们去吃什么。没有去问女生对不对",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00815",
+            "BV1sYLi6nEA6-00816",
+            "BV1sYLi6nEA6-00817"
+          ]
+        }
+      ],
+      "uncertainty": "“睡觉／中午睡觉”餐食名称及后半角色识别不清，没有凭地名补成具体菜名；提议后的短答待回听。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q036",
+      "title": "两个人能坐同一边吗？",
+      "category": "邀约与安排",
+      "start": 1368.3,
+      "end": 1387.0,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1368.3,
+          "end": 1372.9,
+          "text": "还好还有位置。我以为要排队呢。就坐这吧。咱俩坐一边吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00829",
+            "BV1sYLi6nEA6-00830",
+            "BV1sYLi6nEA6-00831",
+            "BV1sYLi6nEA6-00832"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1372.9,
+          "end": 1373.7,
+          "text": "嗯 好",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00833"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1374.4,
+          "end": 1387.0,
+          "text": "看到了吗。很多人老问我。哎 旭哥怎么能跟女生坐一边。这很难吗。直接带领她 咱俩坐一边。就完了。还需要用什么萎索的技巧。哎 我想办法偷偷挪到她那边。不需要。咱俩坐一边就行了。就完事了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00835",
+            "BV1sYLi6nEA6-00836",
+            "BV1sYLi6nEA6-00837",
+            "BV1sYLi6nEA6-00838",
+            "BV1sYLi6nEA6-00839",
+            "BV1sYLi6nEA6-00840",
+            "BV1sYLi6nEA6-00841",
+            "BV1sYLi6nEA6-00842",
+            "BV1sYLi6nEA6-00843",
+            "BV1sYLi6nEA6-00844",
+            "BV1sYLi6nEA6-00845"
+          ]
+        }
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q037",
+      "title": "最近怎样减肥、每天吃什么？",
+      "category": "信息与经历",
+      "start": 1391.8,
+      "end": 1416.7,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1391.8,
+          "end": 1394.3,
+          "text": "我今天也是早上起来就吃了一顿。我也在减肥",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00850",
+            "BV1sYLi6nEA6-00851"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1394.3,
+          "end": 1398.9,
+          "text": "我最近也在减肥。我都瘦了八斤了。我再打那个减肥",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00852",
+            "BV1sYLi6nEA6-00853",
+            "BV1sYLi6nEA6-00854"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1398.9,
+          "end": 1404.2,
+          "text": "这也太拼了吧。我没必要。我现在就是每天让阿姨只做鱼和牛肉。就做这俩",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00855",
+            "BV1sYLi6nEA6-00856",
+            "BV1sYLi6nEA6-00857",
+            "BV1sYLi6nEA6-00858"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1405.0,
+          "end": 1416.7,
+          "text": "看 暗中展示价值啊。学会了吧。这里强调一下。就比如说如果你没有阿姨。你展示别的也一样。就任何价值都可以。你可以说我每天就自己做鱼和牛肉。也行。对不对",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00860",
+            "BV1sYLi6nEA6-00861",
+            "BV1sYLi6nEA6-00862",
+            "BV1sYLi6nEA6-00863",
+            "BV1sYLi6nEA6-00864",
+            "BV1sYLi6nEA6-00865",
+            "BV1sYLi6nEA6-00866",
+            "BV1sYLi6nEA6-00867",
+            "BV1sYLi6nEA6-00868"
+          ]
+        }
+      ],
+      "uncertainty": "前几句说话者不明，“我再打那个减肥”未说完整；减重、阿姨等都是现场自述，不作健康建议或事实背书。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q038",
+      "title": "健身吗，私教课上得多吗？",
+      "category": "信息与经历",
+      "start": 1427.3,
+      "end": 1434.5,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1427.3,
+          "end": 1429.8,
+          "text": "每天只是鱼和牛肉。那你要健身吗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00876",
+            "BV1sYLi6nEA6-00877"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1429.8,
+          "end": 1434.5,
+          "text": "我抱了那个丝尿。现在还有好几十节课没去上。一个月就去一节",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00878",
+            "BV1sYLi6nEA6-00879",
+            "BV1sYLi6nEA6-00880"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“抱了那个丝尿”明显误识别，标题按“几十节课”语境暂概括，原句保留不改。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q039",
+      "title": "你多高？",
+      "category": "信息与经历",
+      "start": 1434.5,
+      "end": 1436.9,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1434.5,
+          "end": 1435.3,
+          "text": "你多高啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00881"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1435.3,
+          "end": 1436.9,
+          "text": "我一米七二",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00882"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q040",
+      "title": "平时喜欢什么爱好，喜欢打什么球？",
+      "category": "偏好与选择",
+      "start": 1440.6,
+      "end": 1450.1,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1440.6,
+          "end": 1444.3,
+          "text": "哎那你就平时就那种爱好吗。比较喜欢什么爱好",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00886",
+            "BV1sYLi6nEA6-00887"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1444.3,
+          "end": 1444.9,
+          "text": "打球",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00888"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1444.9,
+          "end": 1446.1,
+          "text": "嗯我会打高尔夫",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00889"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1446.1,
+          "end": 1446.8,
+          "text": "高尔夫",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00890"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1446.8,
+          "end": 1447.9,
+          "text": "我而且我打得很好",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00891"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1447.9,
+          "end": 1450.1,
+          "text": "我最喜欢就是旅游。旅游",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00892",
+            "BV1sYLi6nEA6-00893"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "旅游一句说话者按后续问题逻辑暂分，未从音色确认；爱好及球技只是自述。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q041",
+      "title": "旅游去过哪里，最喜欢哪个地方？",
+      "category": "偏好与选择",
+      "start": 1450.1,
+      "end": 1456.2,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1450.1,
+          "end": 1451.4,
+          "text": "那你去过哪些地方",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00894"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1451.4,
+          "end": 1452.2,
+          "text": "我很多呀",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00895"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1452.2,
+          "end": 1455.0,
+          "text": "那你去过里面你最喜欢的是哪吗",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00896"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1455.0,
+          "end": 1456.2,
+          "text": "瑞士吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00897"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q042",
+      "title": "以后一起去芬兰怎么样，去北欧贵吗？",
+      "category": "邀约与安排",
+      "start": 1456.2,
+      "end": 1516.4,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1456.2,
+          "end": 1470.6,
+          "text": "瑞士啊。我挺喜欢北欧那边。啊我今年年底要去芬兰。有机会我们可以一起去哦。哦。可以看那个芬兰的圣诞老人村。你知道芬兰就是圣诞老人诞生的地方。啊就是圣诞老人就是在芬兰出现的。诞生的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00898",
+            "BV1sYLi6nEA6-00899",
+            "BV1sYLi6nEA6-00900",
+            "BV1sYLi6nEA6-00901",
+            "BV1sYLi6nEA6-00902",
+            "BV1sYLi6nEA6-00903",
+            "BV1sYLi6nEA6-00904",
+            "BV1sYLi6nEA6-00905",
+            "BV1sYLi6nEA6-00906"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1470.6,
+          "end": 1472.0,
+          "text": "我我喜欢那个罗威",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00907"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1472.0,
+          "end": 1479.3,
+          "text": "我从小就啊罗威跟芬兰是挨着的。一到十二月份。就圣诞老人就在天上飞。嗯。然后还放烟花特别好看",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00908",
+            "BV1sYLi6nEA6-00909",
+            "BV1sYLi6nEA6-00910",
+            "BV1sYLi6nEA6-00911",
+            "BV1sYLi6nEA6-00912"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1479.3,
+          "end": 1481.2,
+          "text": "但是去一趟北欧我感觉好贵哦",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00913"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1481.2,
+          "end": 1481.8,
+          "text": "还好吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00914"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1504.9,
+          "end": 1516.4,
+          "text": "我说的是什么。我说的是有机会将来一起去。我说的是年底我可能要去。但我并没有说我去过。我在芬兰发生过什么。我根本就没有去过。但是我了解这些东西",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00930",
+            "BV1sYLi6nEA6-00931",
+            "BV1sYLi6nEA6-00932",
+            "BV1sYLi6nEA6-00933",
+            "BV1sYLi6nEA6-00934",
+            "BV1sYLi6nEA6-00935",
+            "BV1sYLi6nEA6-00936"
+          ]
+        }
+      ],
+      "uncertainty": "“罗威”及中段说话者不清；芬兰/挪威、圣诞老人等旅游知识仅忠实记录发言，未经事实核查；邀约只有“哦”等短回应，未视为已确定出行。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q043",
+      "title": "你是 I 人还是 E 人，喜欢安静还是热闹？",
+      "category": "偏好与选择",
+      "start": 1586.0,
+      "end": 1627.7,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1586.0,
+          "end": 1589.9,
+          "text": "这种旅游老手就不需要话段。你是挨人还是艺人",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00979",
+            "BV1sYLi6nEA6-00980"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1589.9,
+          "end": 1591.1,
+          "text": "只挨11",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00981"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1591.1,
+          "end": 1603.5,
+          "text": "你如果是挨人。你就适合去瑞士。因为瑞士特别安静。然后都是湖。都是草原躺在那。一天啥也不干。就看那个风景。就特别治愈。如果你是艺人。你就去意大利",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00982",
+            "BV1sYLi6nEA6-00983",
+            "BV1sYLi6nEA6-00984",
+            "BV1sYLi6nEA6-00985",
+            "BV1sYLi6nEA6-00986",
+            "BV1sYLi6nEA6-00987",
+            "BV1sYLi6nEA6-00988",
+            "BV1sYLi6nEA6-00989",
+            "BV1sYLi6nEA6-00990",
+            "BV1sYLi6nEA6-00991"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1603.5,
+          "end": 1604.8,
+          "text": "意大利",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00992"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1604.8,
+          "end": 1616.5,
+          "text": "意大利全是人。特别热闹。就跟成都太独立一样。而且意大利的。然后所有人都。男生都很帅。特别高。全部1米8起步。然后特别潮。而且它的那个潮。跟成都的潮不一样。很精致",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-00993",
+            "BV1sYLi6nEA6-00994",
+            "BV1sYLi6nEA6-00995",
+            "BV1sYLi6nEA6-00996",
+            "BV1sYLi6nEA6-00997",
+            "BV1sYLi6nEA6-00998",
+            "BV1sYLi6nEA6-00999",
+            "BV1sYLi6nEA6-01000",
+            "BV1sYLi6nEA6-01001",
+            "BV1sYLi6nEA6-01002",
+            "BV1sYLi6nEA6-01003",
+            "BV1sYLi6nEA6-01004"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1616.5,
+          "end": 1622.5,
+          "text": "对 很精致。然后色彩的搭配。让人看着很舒服。就是米兰。米兰。那你还挺认识",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01005",
+            "BV1sYLi6nEA6-01006",
+            "BV1sYLi6nEA6-01007",
+            "BV1sYLi6nEA6-01008",
+            "BV1sYLi6nEA6-01009",
+            "BV1sYLi6nEA6-01010"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1622.5,
+          "end": 1627.7,
+          "text": "当你在散发知识的时候。女生看你的眼神都是发光的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01011",
+            "BV1sYLi6nEA6-01012"
+          ]
+        }
+      ],
+      "uncertainty": "“挨人／艺人／只挨11”疑字母音错字，题目暂按语境；后半米兰等短句角色不稳。国家与性格的对应为博主个人发言，未作旅游建议背书。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q044",
+      "title": "英语好吗，出国需要翻译软件吗？",
+      "category": "信息与经历",
+      "start": 1628.5,
+      "end": 1638.3,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1628.5,
+          "end": 1629.5,
+          "text": "那你英语好跑",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01014"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1629.5,
+          "end": 1631.6,
+          "text": "我英语一般。但是我可以交流",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01015",
+            "BV1sYLi6nEA6-01016"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1631.6,
+          "end": 1633.8,
+          "text": "我之前出去玩。我都使用我的手机软件",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01017",
+            "BV1sYLi6nEA6-01018"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1633.8,
+          "end": 1638.3,
+          "text": "你以后跟我出去玩。你就不需要手机软件了。你只需要我就好了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01019",
+            "BV1sYLi6nEA6-01020",
+            "BV1sYLi6nEA6-01021"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q045",
+      "title": "希望有机会一起出去玩，怎样接话？",
+      "category": "邀约与安排",
+      "start": 1640.0,
+      "end": 1644.1,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1640.0,
+          "end": 1642.9,
+          "text": "那希望有机会可以。约着一块出去玩",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01022",
+            "BV1sYLi6nEA6-01023"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1642.9,
+          "end": 1644.1,
+          "text": "会有机会的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01024"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q046",
+      "title": "喜欢什么类型，不要说喜欢我？",
+      "category": "偏好与选择",
+      "start": 1644.1,
+      "end": 1656.9,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1644.1,
+          "end": 1646.5,
+          "text": "那你喜欢什么类型的女孩子",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01025"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1646.5,
+          "end": 1647.6,
+          "text": "我喜欢",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01026"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1650.8,
+          "end": 1652.9,
+          "text": "你不要说喜欢我。太想了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01027",
+            "BV1sYLi6nEA6-01028"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1652.9,
+          "end": 1654.7,
+          "text": "没说喜欢你",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01029"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1654.7,
+          "end": 1656.9,
+          "text": "好吧。我自作多情了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01030",
+            "BV1sYLi6nEA6-01031"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“太想了”含错字；回答“我喜欢”中断，不能补成对方或具体类型。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q047",
+      "title": "再问喜欢什么类型，怎样说明标准？",
+      "category": "偏好与选择",
+      "start": 1658.5,
+      "end": 1751.3,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1658.5,
+          "end": 1659.9,
+          "text": "那你喜欢什么类型",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01032"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1659.9,
+          "end": 1674.4,
+          "text": "我没有固定喜欢的类型。标准都是给不喜欢的人订。如果我喜欢。我说我喜欢可爱的。那总有比你更可爱。我说喜欢漂亮。总有更漂亮。但是如果我。就是喜欢你能带给我的。独一玩的感觉。这个就无可替代",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01033",
+            "BV1sYLi6nEA6-01034",
+            "BV1sYLi6nEA6-01035",
+            "BV1sYLi6nEA6-01036",
+            "BV1sYLi6nEA6-01037",
+            "BV1sYLi6nEA6-01038",
+            "BV1sYLi6nEA6-01039",
+            "BV1sYLi6nEA6-01040",
+            "BV1sYLi6nEA6-01041",
+            "BV1sYLi6nEA6-01042",
+            "BV1sYLi6nEA6-01043"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1744.6,
+          "end": 1751.3,
+          "text": "我没有固定喜欢的类型。标准都是给不喜欢的人订的。这个就滴水不漏。这个是纯经验之坛",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01092",
+            "BV1sYLi6nEA6-01093",
+            "BV1sYLi6nEA6-01094",
+            "BV1sYLi6nEA6-01095"
+          ]
+        }
+      ],
+      "uncertainty": "“独一玩的感觉”疑有错字；本轮为对方真实再次追问，不是讲解重播凑题。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q048",
+      "title": "感觉只是新鲜感，很快会消失吗？",
+      "category": "关系与意图",
+      "start": 1674.4,
+      "end": 1700.7,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1674.4,
+          "end": 1680.3,
+          "text": "可是感觉一般都是新鲜感。很快也会消失呀。对男生好像就很使心眼就",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01044",
+            "BV1sYLi6nEA6-01045",
+            "BV1sYLi6nEA6-01046"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1680.3,
+          "end": 1687.3,
+          "text": "那是没玩够的男生。玩够的男生。知道自己想要什么。没玩够的男生。才一直想找新鲜感",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01047",
+            "BV1sYLi6nEA6-01048",
+            "BV1sYLi6nEA6-01049",
+            "BV1sYLi6nEA6-01050",
+            "BV1sYLi6nEA6-01051"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1688.9,
+          "end": 1690.1,
+          "text": "好像是这样子",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01052"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1691.7,
+          "end": 1700.7,
+          "text": "刚才说的所有的话。其实都是我真正的人生经验。也没有什么技巧可言。就是当你到达一定层级的时候。你自然而然就会误出这些道理",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01054",
+            "BV1sYLi6nEA6-01055",
+            "BV1sYLi6nEA6-01056",
+            "BV1sYLi6nEA6-01057",
+            "BV1sYLi6nEA6-01058"
+          ]
+        }
+      ],
+      "uncertainty": "“很使心眼就”不清，原样保留；“玩够/没玩够”解释只是回应者的观点，没有验证一般男性心理。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q049",
+      "title": "嘴边有东西吗，可以帮擦吗？",
+      "category": "隐私与边界",
+      "start": 1753.2,
+      "end": 1757.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1753.2,
+          "end": 1753.9,
+          "text": "有东西",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01096"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1755.2,
+          "end": 1757.2,
+          "text": "有吗。我看一下。给你擦了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01097",
+            "BV1sYLi6nEA6-01098",
+            "BV1sYLi6nEA6-01099"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "提醒、查看、擦拭短句角色无法稳分，未依据文字断定动作已发生或获得许可。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q050",
+      "title": "送回住的地方，距离远吗？",
+      "category": "邀约与安排",
+      "start": 1757.2,
+      "end": 1762.6,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1757.2,
+          "end": 1759.7,
+          "text": "到五点了。不滑了我送你回住的地方",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01100",
+            "BV1sYLi6nEA6-01101"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1759.7,
+          "end": 1762.6,
+          "text": "行。我住的地方离这也不远。走路都到了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01102",
+            "BV1sYLi6nEA6-01103",
+            "BV1sYLi6nEA6-01104"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“不滑了”疑错字，照录；居住距离仅是对方自述。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q051",
+      "title": "还要在成都待多久？",
+      "category": "邀约与安排",
+      "start": 1762.6,
+      "end": 1768.9,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1762.6,
+          "end": 1764.04,
+          "text": "反正我还要再成都在几天",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01105"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1764.04,
+          "end": 1765.6,
+          "text": "那你要再成都在多久",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01106"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1765.6,
+          "end": 1768.9,
+          "text": "看你喽。如果你走了。我一个人也无聊。我爱去走",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01107",
+            "BV1sYLi6nEA6-01108",
+            "BV1sYLi6nEA6-01109",
+            "BV1sYLi6nEA6-01110"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "第一句说话者不稳，“我爱去走”疑错字，原样保留。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q052",
+      "title": "从未送女生回家，还是只在成都没有？",
+      "category": "信任与质疑",
+      "start": 1768.9,
+      "end": 1776.2,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1768.9,
+          "end": 1772.5,
+          "text": "从来没有送过任何一个女生回家",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01111"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1772.5,
+          "end": 1776.2,
+          "text": "应该说你在成都。从来没有送过一个女生回家",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01112",
+            "BV1sYLi6nEA6-01113"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q053",
+      "title": "怕晒黑吗，怎样比较肤色？",
+      "category": "偏好与选择",
+      "start": 1791.8,
+      "end": 1801.1,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1791.8,
+          "end": 1794.2,
+          "text": "我今天没有很晒。你是不是怕晒黑",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01127",
+            "BV1sYLi6nEA6-01128"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1794.2,
+          "end": 1799.4,
+          "text": "我觉得你挺白的。你看。我就很白。你比我还白。你看",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01129",
+            "BV1sYLi6nEA6-01130",
+            "BV1sYLi6nEA6-01131",
+            "BV1sYLi6nEA6-01132",
+            "BV1sYLi6nEA6-01133"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1799.4,
+          "end": 1801.1,
+          "text": "这也是一个自然的肢体接触",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01134"
+          ]
+        }
+      ],
+      "uncertainty": "多句说话者不稳，未依据后续讲解确认具体触碰或谁更白；没有可靠直接回答怕不怕晒黑。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q054",
+      "title": "说打针、怕针，怎样接话？",
+      "category": "玩笑与调侃",
+      "start": 1801.1,
+      "end": 1815.3,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1801.1,
+          "end": 1807.4,
+          "text": "晒黑了也不影响颜值的。晒黑了。我打那种美。我的妈呀。你不要白回来。你啥针都打",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01135",
+            "BV1sYLi6nEA6-01136",
+            "BV1sYLi6nEA6-01137",
+            "BV1sYLi6nEA6-01138",
+            "BV1sYLi6nEA6-01139",
+            "BV1sYLi6nEA6-01140"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1807.4,
+          "end": 1811.8,
+          "text": "下次我给你打针。啊。我打针很温柔。不会痛",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01141",
+            "BV1sYLi6nEA6-01142",
+            "BV1sYLi6nEA6-01143",
+            "BV1sYLi6nEA6-01144"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1811.8,
+          "end": 1815.3,
+          "text": "我害怕针。我害怕针。我一想到就晕了。啊",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01145",
+            "BV1sYLi6nEA6-01146",
+            "BV1sYLi6nEA6-01147",
+            "BV1sYLi6nEA6-01148"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“我打那种美”未说完整，谁怕针也无法稳分，不据情境补医疗项目或把台词当医疗建议。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q055",
+      "title": "请求挽胳膊，怎样谈温暖和安全？",
+      "category": "隐私与边界",
+      "start": 1815.9,
+      "end": 1823.7,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1815.9,
+          "end": 1819.4,
+          "text": "快快。挽着我的胳膊。是不是很完全的",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01149",
+            "BV1sYLi6nEA6-01150",
+            "BV1sYLi6nEA6-01151"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1819.4,
+          "end": 1820.7,
+          "text": "你的手很温暖",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01152"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1820.7,
+          "end": 1823.7,
+          "text": "嗯。挽着我的胳膊。热乎乎乎",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01153",
+            "BV1sYLi6nEA6-01154",
+            "BV1sYLi6nEA6-01155"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“是不是很完全的”含错字；对方谈手温暖并不等同对所有接触的许可，动作未核验。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q056",
+      "title": "走得太快，想慢一点吗？",
+      "category": "邀约与安排",
+      "start": 1823.7,
+      "end": 1830.7,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1823.7,
+          "end": 1824.7,
+          "text": "做得好快呀",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01156"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1824.7,
+          "end": 1826.6,
+          "text": "哦。速慢一点。你喜欢慢一点",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01157",
+            "BV1sYLi6nEA6-01158",
+            "BV1sYLi6nEA6-01159"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1826.6,
+          "end": 1826.9,
+          "text": "嗯",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01160"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1826.9,
+          "end": 1830.7,
+          "text": "那我就慢一点。你要我慢。我就慢。你要我快。我就快",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01161",
+            "BV1sYLi6nEA6-01162",
+            "BV1sYLi6nEA6-01163",
+            "BV1sYLi6nEA6-01164",
+            "BV1sYLi6nEA6-01165"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“做得好快呀／速慢一点”疑为步速词误识别，题目暂按送行语境；原句不改。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q057",
+      "title": "说半夜来偷袭，怎样回应？",
+      "category": "玩笑与调侃",
+      "start": 1830.7,
+      "end": 1841.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1830.7,
+          "end": 1839.2,
+          "text": "你到了。我们的歇后到此结束了。哈哈。知道你住哪了。我可能会半夜来偷袭你哦",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01166",
+            "BV1sYLi6nEA6-01167",
+            "BV1sYLi6nEA6-01168",
+            "BV1sYLi6nEA6-01169",
+            "BV1sYLi6nEA6-01170"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1839.2,
+          "end": 1841.0,
+          "text": "那你给我发信息吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01171"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“歇后”错字保留；玩笑和“发信息”不能当夜间拜访或亲密行为的明确许可。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q058",
+      "title": "还没加联系方式，怎么加？",
+      "category": "隐私与边界",
+      "start": 1841.0,
+      "end": 1844.9,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1841.0,
+          "end": 1842.8,
+          "text": "我好像还没有加你的那个",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01172"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1842.8,
+          "end": 1844.2,
+          "text": "啊。那你来加我",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01173",
+            "BV1sYLi6nEA6-01174"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1844.2,
+          "end": 1844.9,
+          "text": "啊好",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01175"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "联系方式对象未说完整，不能确认具体平台或是否成功添加。"
+    },
+    {
+      "id": "BV1sYLi6nEA6-q059",
+      "title": "离开前能抱一下吗？",
+      "category": "隐私与边界",
+      "start": 1845.9,
+      "end": 1848.1,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1845.9,
+          "end": 1846.8,
+          "text": "抱一个拜拜",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01176"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1846.8,
+          "end": 1848.1,
+          "text": "啊好",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01177"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q060",
+      "title": "明天有时间联系我吗？",
+      "category": "邀约与安排",
+      "start": 1848.1,
+      "end": 1852.3,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1848.1,
+          "end": 1850.1,
+          "text": "明天有时间就联系我吧",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01178"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1850.1,
+          "end": 1850.9,
+          "text": "嗯",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01179"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1850.9,
+          "end": 1852.3,
+          "text": "拜拜",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01180"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sYLi6nEA6-q061",
+      "title": "离开前需要归还什么，怎样接话？",
+      "category": "话题延伸",
+      "start": 1852.3,
+      "end": 1860.7,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1852.3,
+          "end": 1853.2,
+          "text": "还给我",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01181"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1853.2,
+          "end": 1853.9,
+          "text": "哦",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01182"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1853.9,
+          "end": 1854.6,
+          "text": "哈哈哈",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01183"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1855.3,
+          "end": 1857.6,
+          "text": "已经丢了好几个了。买不起了",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01184",
+            "BV1sYLi6nEA6-01185"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1857.6,
+          "end": 1860.7,
+          "text": "好。你慢点。拜拜拜拜拜拜",
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-01186",
+            "BV1sYLi6nEA6-01187",
+            "BV1sYLi6nEA6-01188"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "物品只说“还给我”，没有可靠识别其名称；不据画面语境补成麦克风，末段告别角色不稳。"
+    }
+  ],
+  "caption_frames_visually_reviewed": 6
+}

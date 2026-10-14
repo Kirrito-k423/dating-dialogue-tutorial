@@ -1,0 +1,237 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-14",
+  "method": "Structural, checksum, inventory and timestamp validation only; not an audio listening check or transcription-accuracy test.",
+  "expected_videos": 18,
+  "checked_videos": 18,
+  "total_decoded_duration_seconds": 27814.298,
+  "total_segments": 17550,
+  "errors": 0,
+  "warnings": 4,
+  "listening_verified_videos": 0,
+  "results": [
+    {
+      "bvid": "BV1vj6yBDE5r",
+      "episode": 1,
+      "decoded_duration_seconds": 684.825,
+      "metadata_duration_seconds": 685,
+      "segment_count": 458,
+      "audio_sha256": "04cfe74e2a1fa2db2e93b923a5fd97d7d621eae2ca60c789c0686fd81bd1c4dc",
+      "draft_sha256": "248452070afcc9a0ef71b46e0f05cbb9cd5182159224f8d9b0de418260b399d7",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV14gFYzREk4",
+      "episode": 2,
+      "decoded_duration_seconds": 703.377,
+      "metadata_duration_seconds": 704,
+      "segment_count": 348,
+      "audio_sha256": "276eb6b41611170bbb9bae24af5d43fa152d484240550c51eaf761284b4df92d",
+      "draft_sha256": "c8882e187d49702fbb48d698921157783c3552ba7e88e300ade67febad078870",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV1kJP5z6EDw",
+      "episode": 3,
+      "decoded_duration_seconds": 1068.093,
+      "metadata_duration_seconds": 1069,
+      "segment_count": 616,
+      "audio_sha256": "ca7796e598be46c03e0b8f2d3916f30facd5ac14815095ed0b9e90c9fe5b1dea",
+      "draft_sha256": "e0c84eedeba4c74fa67b668b11d4c90e07abfa7a070f5b18b359bdcd0aeb2460",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": [
+        "zero_duration_segment:BV1kJP5z6EDw-00100"
+      ]
+    },
+    {
+      "bvid": "BV1upQdBiEN1",
+      "episode": 4,
+      "decoded_duration_seconds": 1047.126,
+      "metadata_duration_seconds": 1048,
+      "segment_count": 587,
+      "audio_sha256": "83a680d1847dbdc83333d2ef98655d63a3efe5edd4ccb2f00cee96cd685a8480",
+      "draft_sha256": "eedf71eb218589205f4f7244662ef2600d1ee0051776dfb7de923ebe14b261fc",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV1ZX9KBUEip",
+      "episode": 5,
+      "decoded_duration_seconds": 853.727,
+      "metadata_duration_seconds": 854,
+      "segment_count": 504,
+      "audio_sha256": "3ba34e788db0d7863a298d8c806dc48481737244f024584e16441bd28e599ad2",
+      "draft_sha256": "26bad241e48b5e50549cf2b4aa554f094095f29e98a3ca694fbd8059e5846600",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV12GQiBrExv",
+      "episode": 6,
+      "decoded_duration_seconds": 3129.677,
+      "metadata_duration_seconds": 3130,
+      "segment_count": 1703,
+      "audio_sha256": "77dc5d78eca8b4ddecda014cc7d6249ea8c48a7658e0adc498e139203ba650c9",
+      "draft_sha256": "a32d19b0bdadf179aed435e8e17c3243dd483d05a0f7a2b4c666fc9a7159f49c",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": [
+        "zero_duration_segment:BV12GQiBrExv-01471"
+      ]
+    },
+    {
+      "bvid": "BV1dx9dBnE7d",
+      "episode": 7,
+      "decoded_duration_seconds": 2036.783,
+      "metadata_duration_seconds": 2037,
+      "segment_count": 1400,
+      "audio_sha256": "cd5f662d1118136f451e3b777826d3a78f0e5b6a8dd017eb49a8ee9bac388531",
+      "draft_sha256": "43f32da3970017fb47921a2ac2239bb49a68029644311dcddd97017c84382511",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV14L5Y6GEcG",
+      "episode": 8,
+      "decoded_duration_seconds": 1826.062,
+      "metadata_duration_seconds": 1827,
+      "segment_count": 1078,
+      "audio_sha256": "65f93a29a4741efad51d6ac2f620a7c25b60e21237554c882cd142503fd83705",
+      "draft_sha256": "02837a39e3e41d74cdcb142e47abd267828465ac0f002907341ab5cb34ca2c0a",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV1sYLi6nEA6",
+      "episode": 9,
+      "decoded_duration_seconds": 1889.104,
+      "metadata_duration_seconds": 1890,
+      "segment_count": 1206,
+      "audio_sha256": "0384a50e729a84615995de422cd73ea68b2e759b5064d2e269f2bc1931cfb772",
+      "draft_sha256": "5525b7492f6be03eb17d42fcc0f946208274f698a904f86977c1c91ce00d4762",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV1CjV16KEHe",
+      "episode": 10,
+      "decoded_duration_seconds": 2590.904,
+      "metadata_duration_seconds": 2591,
+      "segment_count": 1701,
+      "audio_sha256": "87193c0dd7cd303db50a2d282e6ac175414c56098153580640dfff35d2e13e42",
+      "draft_sha256": "bf08c1715d1742a684527ca6977827150eab36202dfb85bfc93dcc68c515d97c",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV1bXJF6iEXn",
+      "episode": 11,
+      "decoded_duration_seconds": 2066.969,
+      "metadata_duration_seconds": 2068,
+      "segment_count": 1438,
+      "audio_sha256": "68099f36e76b34293c075e1416bfcb64aa9b2373b0906d55f75eecdd985262da",
+      "draft_sha256": "089aa10e613ffd1db3b8b28101303ca9ee6843ae3fc45c0ec687c2b93107bdeb",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV1sFj26mEu1",
+      "episode": 12,
+      "decoded_duration_seconds": 1477.577,
+      "metadata_duration_seconds": 1478,
+      "segment_count": 1009,
+      "audio_sha256": "c603e0dab5b39c63dc607204e9a23e2302aa3f04345c07b11dc61b005ef2a485",
+      "draft_sha256": "5afc18ae6efa9c630f03d30430a5a6e77f14b634b99c5e93c605dc26165ed24d",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": [
+        "zero_duration_segment:BV1sFj26mEu1-00504",
+        "zero_duration_segment:BV1sFj26mEu1-00506"
+      ]
+    },
+    {
+      "bvid": "BV1tVKf6cE5G",
+      "episode": 13,
+      "decoded_duration_seconds": 783.718,
+      "metadata_duration_seconds": 784,
+      "segment_count": 472,
+      "audio_sha256": "fbe2404bcdd8c9e38e814c57224d2988dc1df44b8f9e069d17c87cb459012845",
+      "draft_sha256": "5a861dfb19229381e2da55aa6531236183e7d4d9a769422b0ab01dc52214767c",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV1VrMt6tEEx",
+      "episode": 14,
+      "decoded_duration_seconds": 1521.579,
+      "metadata_duration_seconds": 1522,
+      "segment_count": 1066,
+      "audio_sha256": "a1b56b1bff85ee485dca639161900853d9b62db2f43caad8ab47bc6e231a3e0f",
+      "draft_sha256": "f048388d656b59c42b15d58b1a1d51171e74af8800b22b3bd7d6a41845a8d0e2",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV1BsuE63EhN",
+      "episode": 15,
+      "decoded_duration_seconds": 1402.786,
+      "metadata_duration_seconds": 1403,
+      "segment_count": 894,
+      "audio_sha256": "a3be4265b7987ad0a0670e662593f647127929d42793bed709aefed281c96ef2",
+      "draft_sha256": "44ff304cea3d448d57f8919b8632ee30e9410133ac3443fc52e341efd8138f1c",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV1gb8M6nENB",
+      "episode": 16,
+      "decoded_duration_seconds": 1368.281,
+      "metadata_duration_seconds": 1369,
+      "segment_count": 876,
+      "audio_sha256": "6d0678bff349e8f36b331142ce73613ac7e4fb9578713546c20b227ff44f1456",
+      "draft_sha256": "8f23ab64e7da3560f1c2ea6f3d319d2431ea9c4311c357af2639c946d6fba60f",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV1f8Yj6aExQ",
+      "episode": 17,
+      "decoded_duration_seconds": 1885.947,
+      "metadata_duration_seconds": 1886,
+      "segment_count": 1261,
+      "audio_sha256": "ac15a52894a7d5d89c24efe4b861967dd4a761a142efb6dbdd59cb8c495f679b",
+      "draft_sha256": "291f0922209f59b8c4262cd75964b48f664e4c923d347392e68194fd8011dd9d",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "bvid": "BV1P5he6SEys",
+      "episode": 18,
+      "decoded_duration_seconds": 1477.763,
+      "metadata_duration_seconds": 1478,
+      "segment_count": 933,
+      "audio_sha256": "70bccbe58d226d5dc6ebc5043e619f46f6e505835a98d45816107432b789696a",
+      "draft_sha256": "85ae139cea4c793a74029ee36d7b4cd917f49790cbbe92af78bc15b985269879",
+      "listening_verified": false,
+      "errors": [],
+      "warnings": []
+    }
+  ]
+}

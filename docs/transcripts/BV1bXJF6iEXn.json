@@ -1,0 +1,8639 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1bXJF6iEXn",
+  "method": "whisper.cpp v1.9.5 small-q5_1; zh; Metal; beam_size=3; best_of=3; threads=4; unedited machine draft",
+  "listening_verified": false,
+  "created_at": "2026-10-14T17:42:59+08:00",
+  "segments": [
+    {
+      "id": "BV1bXJF6iEXn-00001",
+      "start": 0.0,
+      "end": 1.7,
+      "text": "好 兄弟们 我是叙哥"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00002",
+      "start": 1.7,
+      "end": 3.14,
+      "text": "那么今天给大家带来一期"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00003",
+      "start": 3.14,
+      "end": 7.06,
+      "text": "哥布林街头卸后美女当场约会的技巧解析"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00004",
+      "start": 7.06,
+      "end": 8.78,
+      "text": "今天是一个新疆妹子"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00005",
+      "start": 8.78,
+      "end": 10.54,
+      "text": "1米8大高哥"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00006",
+      "start": 10.54,
+      "end": 13.02,
+      "text": "比叙哥还能说情商很高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00007",
+      "start": 13.02,
+      "end": 14.34,
+      "text": "各种测试叙哥"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00008",
+      "start": 14.34,
+      "end": 16.38,
+      "text": "全程都是她在带领对话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00009",
+      "start": 16.38,
+      "end": 19.02,
+      "text": "那如果你的目标也是这种比较强势的妹子"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00010",
+      "start": 19.02,
+      "end": 20.14,
+      "text": "今天这个视频看完"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00011",
+      "start": 20.14,
+      "end": 22.18,
+      "text": "你就知道该怎么抠住她了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00012",
+      "start": 22.18,
+      "end": 23.22,
+      "text": "好了 先话不多说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00013",
+      "start": 23.22,
+      "end": 24.18,
+      "text": "咱们接下来视频"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00014",
+      "start": 24.18,
+      "end": 25.18,
+      "text": "那我们下来吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00015",
+      "start": 25.18,
+      "end": 25.86,
+      "text": "谢谢大家"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00016",
+      "start": 30.08,
+      "end": 31.4,
+      "text": "咱们直接开始"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00017",
+      "start": 31.4,
+      "end": 32.6,
+      "text": "哈啰"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00018",
+      "start": 33.6,
+      "end": 34.68,
+      "text": "你好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00019",
+      "start": 35.4,
+      "end": 37.08,
+      "text": "你好 我是一个旅游博主"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00020",
+      "start": 37.08,
+      "end": 37.84,
+      "text": "你好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00021",
+      "start": 37.84,
+      "end": 39.64,
+      "text": "握个手"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00022",
+      "start": 39.64,
+      "end": 40.48,
+      "text": "握个手"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00023",
+      "start": 40.48,
+      "end": 42.24,
+      "text": "啊 是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00024",
+      "start": 42.24,
+      "end": 43.92,
+      "text": "不是 你那个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00025",
+      "start": 43.92,
+      "end": 45.52,
+      "text": "你别走这么快啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00026",
+      "start": 45.52,
+      "end": 47.48,
+      "text": "显得我好像是一个坏人一样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00027",
+      "start": 47.48,
+      "end": 49.2,
+      "text": "是这样 就是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00028",
+      "start": 49.2,
+      "end": 50.88,
+      "text": "再用你1分钟的时间好不好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00029",
+      "start": 50.88,
+      "end": 52.32,
+      "text": "我给你做一个自我介绍"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00030",
+      "start": 52.32,
+      "end": 52.92,
+      "text": "就是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00031",
+      "start": 52.92,
+      "end": 54.12,
+      "text": "我现在有点事"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00032",
+      "start": 54.12,
+      "end": 55.48,
+      "text": "你要干嘛去"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00033",
+      "start": 55.48,
+      "end": 57.12,
+      "text": "我现在刚刚着急回家"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00034",
+      "start": 57.12,
+      "end": 59.48,
+      "text": "你着急回家"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00035",
+      "start": 59.48,
+      "end": 61.08,
+      "text": "你打车了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00036",
+      "start": 61.08,
+      "end": 61.84,
+      "text": "我还没闹"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00037",
+      "start": 61.84,
+      "end": 62.48,
+      "text": "我到后面打车"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00038",
+      "start": 62.48,
+      "end": 64.0,
+      "text": "等一下 一会我给你打一个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00039",
+      "start": 64.0,
+      "end": 65.44,
+      "text": "我给你打一个豪华专车"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00040",
+      "start": 65.44,
+      "end": 66.6,
+      "text": "真的 真的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00041",
+      "start": 66.6,
+      "end": 67.6,
+      "text": "求你了 求你了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00042",
+      "start": 67.6,
+      "end": 69.56,
+      "text": "你就听我说三分钟话就好了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00043",
+      "start": 69.56,
+      "end": 70.6,
+      "text": "好不好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00044",
+      "start": 70.6,
+      "end": 71.44,
+      "text": "那个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00045",
+      "start": 71.44,
+      "end": 72.6,
+      "text": "我就是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00046",
+      "start": 72.6,
+      "end": 73.4,
+      "text": "是这样的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00047",
+      "start": 73.4,
+      "end": 74.56,
+      "text": "我是一个旅游博主"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00048",
+      "start": 74.56,
+      "end": 76.56,
+      "text": "然后我再拍一个我的旅游伪捂个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00049",
+      "start": 76.56,
+      "end": 79.72,
+      "text": "然后我想请你陪我拍一个三分五分的小视频"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00050",
+      "start": 79.72,
+      "end": 82.36,
+      "text": "然后我就送你一个精美小离品"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00051",
+      "start": 82.36,
+      "end": 83.0,
+      "text": "好不好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00052",
+      "start": 83.0,
+      "end": 84.84,
+      "text": "因为我找你是因为"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00053",
+      "start": 84.84,
+      "end": 86.64,
+      "text": "在这个春夕路逛了好几圈"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00054",
+      "start": 86.64,
+      "end": 90.08,
+      "text": "然后我觉得除了你没有一个颜值比你高的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00055",
+      "start": 90.08,
+      "end": 91.24,
+      "text": "所以我觉得你跟我拍"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00056",
+      "start": 91.24,
+      "end": 93.08,
+      "text": "我这个流量肯定会很好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00057",
+      "start": 93.08,
+      "end": 94.28,
+      "text": "我发抖音"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00058",
+      "start": 94.28,
+      "end": 96.28,
+      "text": "我是抖音博主伪捂个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00059",
+      "start": 96.28,
+      "end": 98.32,
+      "text": "我先请你喝杯奶茶"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00060",
+      "start": 98.32,
+      "end": 99.52,
+      "text": "这里就有一个重点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00061",
+      "start": 99.52,
+      "end": 100.44,
+      "text": "很多人就说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00062",
+      "start": 100.44,
+      "end": 101.28,
+      "text": "哎 旭哥"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00063",
+      "start": 101.28,
+      "end": 103.36,
+      "text": "你看 你还是因为你是博主"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00064",
+      "start": 103.36,
+      "end": 104.92,
+      "text": "别人才答应你的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00065",
+      "start": 104.92,
+      "end": 106.12,
+      "text": "我又不是博主"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00066",
+      "start": 106.12,
+      "end": 108.48,
+      "text": "要么就是你是因为你举了一个手机"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00067",
+      "start": 108.48,
+      "end": 109.84,
+      "text": "别人才答应你的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00068",
+      "start": 109.84,
+      "end": 110.28,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00069",
+      "start": 110.28,
+      "end": 111.4,
+      "text": "那我就想说了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00070",
+      "start": 111.4,
+      "end": 113.8,
+      "text": "我说我是博主这件事"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00071",
+      "start": 113.8,
+      "end": 115.08,
+      "text": "他能验证吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00072",
+      "start": 115.08,
+      "end": 116.52,
+      "text": "他是不是验证不了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00073",
+      "start": 116.52,
+      "end": 118.44,
+      "text": "你是不是也可以说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00074",
+      "start": 118.44,
+      "end": 120.04,
+      "text": "你但凡你举个手机"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00075",
+      "start": 120.04,
+      "end": 121.92,
+      "text": "随便拍过任何一个视频"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00076",
+      "start": 121.92,
+      "end": 123.4,
+      "text": "然后你发到过网上"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00077",
+      "start": 123.4,
+      "end": 124.92,
+      "text": "你就可以说你是自媒体"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00078",
+      "start": 124.92,
+      "end": 126.0,
+      "text": "你就可以说你是博主"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00079",
+      "start": 126.0,
+      "end": 126.68,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00080",
+      "start": 126.68,
+      "end": 128.0,
+      "text": "没有人说不行的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00081",
+      "start": 128.0,
+      "end": 128.52,
+      "text": "对吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00082",
+      "start": 128.52,
+      "end": 130.96,
+      "text": "没有人说没有粉丝的博主就不叫博主"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00083",
+      "start": 130.96,
+      "end": 131.56,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00084",
+      "start": 131.56,
+      "end": 132.64,
+      "text": "我举个手机"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00085",
+      "start": 132.64,
+      "end": 134.6,
+      "text": "原来是摄像头效应"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00086",
+      "start": 134.6,
+      "end": 135.44,
+      "text": "我举个手机"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00087",
+      "start": 135.44,
+      "end": 136.56,
+      "text": "有摄像头效应"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00088",
+      "start": 136.56,
+      "end": 136.96,
+      "text": "兄弟"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00089",
+      "start": 136.96,
+      "end": 137.8,
+      "text": "你也可以"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00090",
+      "start": 137.8,
+      "end": 139.16,
+      "text": "只要你双手健全"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00091",
+      "start": 139.16,
+      "end": 139.92,
+      "text": "你也可以"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00092",
+      "start": 139.92,
+      "end": 141.2,
+      "text": "你不可能举不起来吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00093",
+      "start": 141.2,
+      "end": 142.92,
+      "text": "所以说不要给自己扫借口"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00094",
+      "start": 142.92,
+      "end": 143.88,
+      "text": "我能做到的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00095",
+      "start": 143.88,
+      "end": 145.76,
+      "text": "我相信你们所有人都能做到"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00096",
+      "start": 145.76,
+      "end": 147.92,
+      "text": "我看过我的粉丝的动态主义"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00097",
+      "start": 147.92,
+      "end": 149.4,
+      "text": "其实很多人长得都比我帅"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00098",
+      "start": 149.4,
+      "end": 150.68,
+      "text": "所以说影响你成功的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00099",
+      "start": 150.68,
+      "end": 151.8,
+      "text": "根本不是你能不能做到"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00100",
+      "start": 151.8,
+      "end": 154.12,
+      "text": "而是你相不相信自己"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00101",
+      "start": 154.12,
+      "end": 156.16,
+      "text": "你不相信自己的话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00102",
+      "start": 156.16,
+      "end": 157.56,
+      "text": "我分享啥招都没有用"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00103",
+      "start": 157.56,
+      "end": 158.04,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00104",
+      "start": 158.04,
+      "end": 158.88,
+      "text": "你陪我拍视频"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00105",
+      "start": 158.88,
+      "end": 160.12,
+      "text": "我请你喝奶茶"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00106",
+      "start": 160.12,
+      "end": 161.04,
+      "text": "不让你不爱拍"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00107",
+      "start": 161.04,
+      "end": 161.6,
+      "text": "可以吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00108",
+      "start": 161.6,
+      "end": 162.16,
+      "text": "你点吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00109",
+      "start": 162.16,
+      "end": 162.8,
+      "text": "随便你点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00110",
+      "start": 162.8,
+      "end": 163.24,
+      "text": "你好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00111",
+      "start": 163.24,
+      "end": 163.76,
+      "text": "你好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00112",
+      "start": 163.76,
+      "end": 164.44,
+      "text": "来最贵的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00113",
+      "start": 166.88,
+      "end": 168.52,
+      "text": "最贵的假的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00114",
+      "start": 168.52,
+      "end": 169.56,
+      "text": "还真来"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00115",
+      "start": 169.56,
+      "end": 170.56,
+      "text": "到这个心体的吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00116",
+      "start": 170.56,
+      "end": 172.04,
+      "text": "然后三分糖"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00117",
+      "start": 172.04,
+      "end": 173.64,
+      "text": "你这么瘦还这么自虑"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00118",
+      "start": 173.64,
+      "end": 174.76,
+      "text": "来一个衣服件"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00119",
+      "start": 174.76,
+      "end": 175.36,
+      "text": "好看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00120",
+      "start": 175.36,
+      "end": 176.04,
+      "text": "这是什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00121",
+      "start": 176.04,
+      "end": 178.08,
+      "text": "这是从她的话里面捕捉信息"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00122",
+      "start": 178.08,
+      "end": 178.84,
+      "text": "兄弟们"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00123",
+      "start": 178.84,
+      "end": 179.76,
+      "text": "就是女生说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00124",
+      "start": 179.76,
+      "end": 181.28,
+      "text": "我要来一个什么什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00125",
+      "start": 181.28,
+      "end": 182.08,
+      "text": "三分糖"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00126",
+      "start": 182.08,
+      "end": 184.16,
+      "text": "你一听女生要三分糖"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00127",
+      "start": 184.16,
+      "end": 185.64,
+      "text": "是不是话题就来了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00128",
+      "start": 185.64,
+      "end": 186.8,
+      "text": "为什么你们很多人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00129",
+      "start": 186.8,
+      "end": 187.92,
+      "text": "跟女生聊天的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00130",
+      "start": 187.92,
+      "end": 188.88,
+      "text": "老实说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00131",
+      "start": 188.88,
+      "end": 189.96,
+      "text": "你没话聊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00132",
+      "start": 189.96,
+      "end": 190.76,
+      "text": "冷场尴尬"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00133",
+      "start": 190.76,
+      "end": 191.68,
+      "text": "不知道说什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00134",
+      "start": 191.68,
+      "end": 193.08,
+      "text": "其实不是你不知道说什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00135",
+      "start": 193.08,
+      "end": 194.88,
+      "text": "是你一直在忽略女生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00136",
+      "start": 194.88,
+      "end": 196.2,
+      "text": "给你传递的很多信息"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00137",
+      "start": 196.2,
+      "end": 197.52,
+      "text": "就她刚才这一句话里面"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00138",
+      "start": 197.52,
+      "end": 198.76,
+      "text": "就已经有很多信息了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00139",
+      "start": 198.76,
+      "end": 199.36,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00140",
+      "start": 199.36,
+      "end": 200.56,
+      "text": "她爱喝清提"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00141",
+      "start": 200.56,
+      "end": 201.36,
+      "text": "是不是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00142",
+      "start": 201.36,
+      "end": 202.6,
+      "text": "然后三分糖"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00143",
+      "start": 202.6,
+      "end": 203.08,
+      "text": "是吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00144",
+      "start": 203.08,
+      "end": 204.96,
+      "text": "如果你也爱喝清提"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00145",
+      "start": 204.96,
+      "end": 206.68,
+      "text": "那是不是你俩就可以聊共同爱好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00146",
+      "start": 206.68,
+      "end": 207.76,
+      "text": "你说你爱喝这个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00147",
+      "start": 207.76,
+      "end": 208.48,
+      "text": "我也爱喝这个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00148",
+      "start": 208.48,
+      "end": 209.84,
+      "text": "但是我现在发现了一个新的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00149",
+      "start": 209.84,
+      "end": 210.68,
+      "text": "更好喝的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00150",
+      "start": 210.68,
+      "end": 211.2,
+      "text": "什么什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00151",
+      "start": 211.2,
+      "end": 212.16,
+      "text": "你可以尝尝这个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00152",
+      "start": 212.16,
+      "end": 212.6,
+      "text": "你看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00153",
+      "start": 212.6,
+      "end": 213.56,
+      "text": "这是不是话题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00154",
+      "start": 213.56,
+      "end": 214.32,
+      "text": "但是我没接"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00155",
+      "start": 214.32,
+      "end": 215.52,
+      "text": "因为我不爱喝清提"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00156",
+      "start": 215.52,
+      "end": 216.48,
+      "text": "那不然对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00157",
+      "start": 216.48,
+      "end": 218.4,
+      "text": "但是我听到了另一个信息"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00158",
+      "start": 218.4,
+      "end": 219.92,
+      "text": "就是她说三分糖"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00159",
+      "start": 219.92,
+      "end": 221.44,
+      "text": "三分糖代表着什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00160",
+      "start": 221.44,
+      "end": 223.24,
+      "text": "代表着女生都在控制身材"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00161",
+      "start": 223.24,
+      "end": 224.6,
+      "text": "都在减肥都不吃糖"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00162",
+      "start": 224.6,
+      "end": 225.0,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00163",
+      "start": 225.0,
+      "end": 226.32,
+      "text": "所以这个时候你可以跟她说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00164",
+      "start": 226.32,
+      "end": 228.72,
+      "text": "所有跟减肥跟身材有关的东西"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00165",
+      "start": 228.72,
+      "end": 230.48,
+      "text": "你看你这么瘦还这么自虑"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00166",
+      "start": 230.48,
+      "end": 232.32,
+      "text": "你最近在控制体重吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00167",
+      "start": 232.32,
+      "end": 233.64,
+      "text": "你平时健身吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00168",
+      "start": 233.64,
+      "end": 234.08,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00169",
+      "start": 234.08,
+      "end": 235.96,
+      "text": "就是说你要从女生的每一句话里面"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00170",
+      "start": 235.96,
+      "end": 237.32,
+      "text": "找到一些有效的信息"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00171",
+      "start": 237.32,
+      "end": 238.88,
+      "text": "然后来延展开"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00172",
+      "start": 238.88,
+      "end": 240.76,
+      "text": "比如说一些共同爱好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00173",
+      "start": 240.76,
+      "end": 241.96,
+      "text": "或者开一些玩笑"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00174",
+      "start": 241.96,
+      "end": 242.64,
+      "text": "这样的话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00175",
+      "start": 242.64,
+      "end": 244.56,
+      "text": "你跟女生的话甲子一下就打开了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00176",
+      "start": 244.56,
+      "end": 247.32,
+      "text": "女生会马上就觉得跟你有共同语言"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00177",
+      "start": 247.32,
+      "end": 249.0,
+      "text": "哪怕你说的这个话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00178",
+      "start": 249.0,
+      "end": 250.76,
+      "text": "并不是和她一致的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00179",
+      "start": 250.76,
+      "end": 252.84,
+      "text": "比如说她是一个控制身材的人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00180",
+      "start": 252.84,
+      "end": 253.4,
+      "text": "而你呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00181",
+      "start": 253.4,
+      "end": 254.24,
+      "text": "不在乎身材"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00182",
+      "start": 254.24,
+      "end": 255.48,
+      "text": "记住这无所谓"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00183",
+      "start": 255.48,
+      "end": 255.96,
+      "text": "为什么呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00184",
+      "start": 255.96,
+      "end": 257.68,
+      "text": "就很多人老实想复合女生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00185",
+      "start": 257.68,
+      "end": 259.4,
+      "text": "担心跟女生没有共同语言"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00186",
+      "start": 259.4,
+      "end": 260.08,
+      "text": "不是的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00187",
+      "start": 260.08,
+      "end": 262.84,
+      "text": "重点是你们能不能放开的表达"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00188",
+      "start": 262.84,
+      "end": 264.64,
+      "text": "当你们能放开的表达的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00189",
+      "start": 264.64,
+      "end": 266.24,
+      "text": "哪怕你们意见不一致"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00190",
+      "start": 266.24,
+      "end": 268.24,
+      "text": "但是女生会觉得跟你在一起"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00191",
+      "start": 268.24,
+      "end": 269.24,
+      "text": "不用有包袱"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00192",
+      "start": 269.24,
+      "end": 270.72,
+      "text": "想说啥说啥"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00193",
+      "start": 270.72,
+      "end": 271.8,
+      "text": "哪怕意见不一致"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00194",
+      "start": 271.8,
+      "end": 273.2,
+      "text": "大家也能聊得来"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00195",
+      "start": 273.2,
+      "end": 274.96,
+      "text": "君子合而不同"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00196",
+      "start": 274.96,
+      "end": 276.28,
+      "text": "小人同而不合"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00197",
+      "start": 276.28,
+      "end": 278.92,
+      "text": "就是说这个好人哪怕大家都不一样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00198",
+      "start": 278.92,
+      "end": 279.96,
+      "text": "大家也合得来"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00199",
+      "start": 279.96,
+      "end": 281.84,
+      "text": "你不一定非要什么都跟她一样的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00200",
+      "start": 281.84,
+      "end": 283.04,
+      "text": "只要你敢说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00201",
+      "start": 283.04,
+      "end": 283.96,
+      "text": "她也敢说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00202",
+      "start": 283.96,
+      "end": 286.16,
+      "text": "你的状态会影响她的状态"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00203",
+      "start": 286.16,
+      "end": 288.08,
+      "text": "很多哥们就是跟女生在一起"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00204",
+      "start": 288.08,
+      "end": 289.2,
+      "text": "她自己都不敢说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00205",
+      "start": 289.2,
+      "end": 290.52,
+      "text": "她生怕说错话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00206",
+      "start": 290.52,
+      "end": 292.24,
+      "text": "就会导致女生也端着"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00207",
+      "start": 292.24,
+      "end": 293.92,
+      "text": "然后你们两个人就会有距离感"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00208",
+      "start": 293.92,
+      "end": 295.12,
+      "text": "而你自己什么都敢说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00209",
+      "start": 295.12,
+      "end": 296.2,
+      "text": "你不怕说错话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00210",
+      "start": 296.2,
+      "end": 297.88,
+      "text": "女生她也会放下自己"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00211",
+      "start": 297.88,
+      "end": 298.88,
+      "text": "她也会变得松弛"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00212",
+      "start": 298.88,
+      "end": 300.52,
+      "text": "然后她也就跟你敞开心扉"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00213",
+      "start": 300.52,
+      "end": 301.44,
+      "text": "什么都跟你说了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00214",
+      "start": 301.44,
+      "end": 302.96,
+      "text": "你们两个关系就会瞬间拉近"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00215",
+      "start": 302.96,
+      "end": 304.36,
+      "text": "这就是跟女生相处的点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00216",
+      "start": 304.36,
+      "end": 305.68,
+      "text": "你这么瘦还这么自虑"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00217",
+      "start": 305.68,
+      "end": 307.4,
+      "text": "那一个一波健身的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00218",
+      "start": 307.4,
+      "end": 308.28,
+      "text": "给你一个慢点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00219",
+      "start": 308.28,
+      "end": 309.68,
+      "text": "假的这个脸头"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00220",
+      "start": 309.68,
+      "end": 311.12,
+      "text": "你怎么一直在捋你的头"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00221",
+      "start": 311.12,
+      "end": 313.36,
+      "text": "那个头发老实的Facebook"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00222",
+      "start": 313.36,
+      "end": 316.88,
+      "text": "还怕不光要从她的话里面找到信息"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00223",
+      "start": 316.88,
+      "end": 318.16,
+      "text": "还要看她的肢体语言"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00224",
+      "start": 318.16,
+      "end": 318.88,
+      "text": "看她的动作"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00225",
+      "start": 318.88,
+      "end": 320.28,
+      "text": "你看她一直在捋头发"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00226",
+      "start": 320.28,
+      "end": 321.64,
+      "text": "那么很多人跟女生约会的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00227",
+      "start": 321.64,
+      "end": 323.96,
+      "text": "就不会注意到这种小细节"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00228",
+      "start": 323.96,
+      "end": 324.92,
+      "text": "她就会忽略"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00229",
+      "start": 324.92,
+      "end": 326.12,
+      "text": "那你的话题就会变少"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00230",
+      "start": 326.12,
+      "end": 326.64,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00231",
+      "start": 326.64,
+      "end": 328.32,
+      "text": "那你看我要是跟女生约会的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00232",
+      "start": 328.32,
+      "end": 329.56,
+      "text": "我就会注意到很多细节"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00233",
+      "start": 329.56,
+      "end": 331.36,
+      "text": "比如说她带到耳环"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00234",
+      "start": 331.36,
+      "end": 332.96,
+      "text": "她是不是一直在捋头发"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00235",
+      "start": 332.96,
+      "end": 334.32,
+      "text": "然后她脸上可能长了一个段"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00236",
+      "start": 334.32,
+      "end": 335.12,
+      "text": "我都会注意到"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00237",
+      "start": 335.12,
+      "end": 337.4,
+      "text": "然后她今天这个眉甲是不是心动的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00238",
+      "start": 337.4,
+      "end": 339.32,
+      "text": "我全都会注意到"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00239",
+      "start": 339.32,
+      "end": 339.88,
+      "text": "懂吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00240",
+      "start": 339.88,
+      "end": 341.6,
+      "text": "然后这些东西都会变成话题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00241",
+      "start": 341.6,
+      "end": 343.0,
+      "text": "所以说你们以后"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00242",
+      "start": 343.0,
+      "end": 343.84,
+      "text": "跟女生约会的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00243",
+      "start": 343.84,
+      "end": 346.04,
+      "text": "你那个眼睛要像那个激光眼一样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00244",
+      "start": 346.04,
+      "end": 348.12,
+      "text": "上下扫"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00245",
+      "start": 348.12,
+      "end": 349.44,
+      "text": "就看她身上那种话题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00246",
+      "start": 349.44,
+      "end": 351.56,
+      "text": "你闭老光盯着人家那视野线"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00247",
+      "start": 351.56,
+      "end": 352.28,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00248",
+      "start": 352.28,
+      "end": 353.88,
+      "text": "咱得盯点有用的地儿"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00249",
+      "start": 353.88,
+      "end": 355.4,
+      "text": "我有偶像包袱"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00250",
+      "start": 355.4,
+      "end": 357.0,
+      "text": "你没事"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00251",
+      "start": 357.0,
+      "end": 358.56,
+      "text": "这个视频我拍完我给你美言"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00252",
+      "start": 358.56,
+      "end": 360.2,
+      "text": "让你成为抖音第一点美"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00253",
+      "start": 360.2,
+      "end": 362.76,
+      "text": "你知道你意思是我不美言不好看吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00254",
+      "start": 362.76,
+      "end": 363.72,
+      "text": "我没这么说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00255",
+      "start": 363.72,
+      "end": 365.76,
+      "text": "我是说你不是有偶像包袱嘛"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00256",
+      "start": 365.76,
+      "end": 367.72,
+      "text": "其实你不美言也好看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00257",
+      "start": 367.72,
+      "end": 368.92,
+      "text": "不然我干嘛搭讪你呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00258",
+      "start": 368.92,
+      "end": 370.84,
+      "text": "你就是我在这个春西路转了三圈"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00259",
+      "start": 370.84,
+      "end": 371.92,
+      "text": "看了上万个人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00260",
+      "start": 371.92,
+      "end": 372.92,
+      "text": "最后选择你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00261",
+      "start": 372.92,
+      "end": 374.12,
+      "text": "这是一个什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00262",
+      "start": 374.12,
+      "end": 375.44,
+      "text": "废物测试对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00263",
+      "start": 375.44,
+      "end": 377.32,
+      "text": "当时她抛出这个废物测试的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00264",
+      "start": 377.32,
+      "end": 378.12,
+      "text": "我还挺意外的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00265",
+      "start": 378.12,
+      "end": 379.56,
+      "text": "因为我没想到她能这么说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00266",
+      "start": 379.56,
+      "end": 380.16,
+      "text": "我美言"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00267",
+      "start": 380.16,
+      "end": 381.16,
+      "text": "我不美言不好看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00268",
+      "start": 381.16,
+      "end": 382.84,
+      "text": "就是我以为她会说真的吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00269",
+      "start": 382.84,
+      "end": 384.12,
+      "text": "那一定要给我美得漂漂亮亮的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00270",
+      "start": 384.12,
+      "end": 385.0,
+      "text": "这是我的预想"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00271",
+      "start": 385.0,
+      "end": 386.84,
+      "text": "但是没想到她这么刁难对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00272",
+      "start": 386.84,
+      "end": 388.76,
+      "text": "但是当我们遇到这种情况的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00273",
+      "start": 388.76,
+      "end": 390.92,
+      "text": "你稍微反映慢一点是无所谓的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00274",
+      "start": 390.92,
+      "end": 392.8,
+      "text": "你只要后面能远回来就行"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00275",
+      "start": 392.8,
+      "end": 394.68,
+      "text": "记住说错了那么一句两句话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00276",
+      "start": 394.68,
+      "end": 395.88,
+      "text": "是无所谓的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00277",
+      "start": 395.88,
+      "end": 397.2,
+      "text": "女生看的是整体"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00278",
+      "start": 397.2,
+      "end": 398.76,
+      "text": "然后第二个技巧就是什么呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00279",
+      "start": 398.76,
+      "end": 400.04,
+      "text": "就是这种情况"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00280",
+      "start": 400.04,
+      "end": 401.64,
+      "text": "我们一定要夸她好看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00281",
+      "start": 401.64,
+      "end": 403.56,
+      "text": "你千万不能说你不美言"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00282",
+      "start": 403.56,
+      "end": 405.04,
+      "text": "你就是个大丑八怪"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00283",
+      "start": 405.04,
+      "end": 406.56,
+      "text": "那你不废了嘛对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00284",
+      "start": 406.56,
+      "end": 408.4,
+      "text": "但是你夸她好看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00285",
+      "start": 408.4,
+      "end": 410.04,
+      "text": "你不能像跪舔的形式"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00286",
+      "start": 410.04,
+      "end": 411.12,
+      "text": "那怎么办呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00287",
+      "start": 411.12,
+      "end": 412.84,
+      "text": "你如果单纯的夸她好看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00288",
+      "start": 412.84,
+      "end": 413.96,
+      "text": "你一定是跪舔"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00289",
+      "start": 413.96,
+      "end": 414.2,
+      "text": "好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00290",
+      "start": 414.2,
+      "end": 415.08,
+      "text": "教大家一个技巧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00291",
+      "start": 415.08,
+      "end": 416.64,
+      "text": "就是你好看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00292",
+      "start": 416.64,
+      "end": 418.32,
+      "text": "但是我的标准很高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00293",
+      "start": 418.32,
+      "end": 419.2,
+      "text": "你要说自己"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00294",
+      "start": 419.2,
+      "end": 420.68,
+      "text": "你要说你不好看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00295",
+      "start": 420.68,
+      "end": 421.64,
+      "text": "我不会搭讪你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00296",
+      "start": 421.64,
+      "end": 423.8,
+      "text": "因为我是一个标准很高的人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00297",
+      "start": 423.8,
+      "end": 425.16,
+      "text": "我在春夕路转了三圈"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00298",
+      "start": 425.16,
+      "end": 426.24,
+      "text": "我看了上万个人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00299",
+      "start": 426.24,
+      "end": 427.24,
+      "text": "那么多的美女"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00300",
+      "start": 427.24,
+      "end": 428.24,
+      "text": "我都看不上"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00301",
+      "start": 428.24,
+      "end": 429.56,
+      "text": "我唯独看上你了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00302",
+      "start": 429.56,
+      "end": 431.68,
+      "text": "所以你得到了我的认可"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00303",
+      "start": 431.68,
+      "end": 434.12,
+      "text": "得到我的认可是一件很难的事"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00304",
+      "start": 434.12,
+      "end": 435.32,
+      "text": "哎你看到了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00305",
+      "start": 435.32,
+      "end": 436.48,
+      "text": "你一边夸她"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00306",
+      "start": 436.48,
+      "end": 438.36,
+      "text": "但一边把自己的价值拿高了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00307",
+      "start": 438.36,
+      "end": 440.96,
+      "text": "这样的话就不会形成一种高低公式"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00308",
+      "start": 440.96,
+      "end": 441.96,
+      "text": "跟女生相处"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00309",
+      "start": 441.96,
+      "end": 443.2,
+      "text": "最大的禁忌就是什么呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00310",
+      "start": 443.2,
+      "end": 445.28,
+      "text": "就是把女生的地位捧的高高的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00311",
+      "start": 445.28,
+      "end": 446.52,
+      "text": "把自己踩得滴滴的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00312",
+      "start": 446.52,
+      "end": 447.12,
+      "text": "这样的话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00313",
+      "start": 447.12,
+      "end": 448.68,
+      "text": "女生她就看不上你了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00314",
+      "start": 448.68,
+      "end": 449.96,
+      "text": "因为女生都是牧强的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00315",
+      "start": 449.96,
+      "end": 452.2,
+      "text": "她要找的是一个让她仰望的男人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00316",
+      "start": 452.2,
+      "end": 453.56,
+      "text": "所以说我们在夸她的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00317",
+      "start": 453.56,
+      "end": 455.4,
+      "text": "一定要反向牌子里的标准"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00318",
+      "start": 455.4,
+      "end": 456.6,
+      "text": "就是你很好看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00319",
+      "start": 456.6,
+      "end": 458.24,
+      "text": "是因为你符合了我的标准"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00320",
+      "start": 458.24,
+      "end": 459.52,
+      "text": "而不是我标准很低"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00321",
+      "start": 459.52,
+      "end": 460.68,
+      "text": "是个女的我都喜欢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00322",
+      "start": 460.68,
+      "end": 462.6,
+      "text": "但是你是我喜欢的所有女人中"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00323",
+      "start": 462.6,
+      "end": 464.0,
+      "text": "最漂亮的那一个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00324",
+      "start": 464.0,
+      "end": 466.12,
+      "text": "那女生就会觉得你这个人很漏"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00325",
+      "start": 466.12,
+      "end": 467.12,
+      "text": "明白了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00326",
+      "start": 467.12,
+      "end": 467.84,
+      "text": "最后选了你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00327",
+      "start": 467.84,
+      "end": 468.48,
+      "text": "春夕路顶"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00328",
+      "start": 468.48,
+      "end": 470.0,
+      "text": "对我为你转身"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00329",
+      "start": 470.0,
+      "end": 470.92,
+      "text": "你不是春夕路顶吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00330",
+      "start": 470.92,
+      "end": 471.88,
+      "text": "你成都顶吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00331",
+      "start": 471.88,
+      "end": 473.4,
+      "text": "不敢这样说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00332",
+      "start": 473.4,
+      "end": 474.32,
+      "text": "她被拍你了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00333",
+      "start": 474.32,
+      "end": 475.44,
+      "text": "别忘报了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00334",
+      "start": 476.44,
+      "end": 477.24,
+      "text": "谢谢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00335",
+      "start": 477.24,
+      "end": 478.08,
+      "text": "哇你这个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00336",
+      "start": 478.08,
+      "end": 479.08,
+      "text": "我请你喝点奶茶"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00337",
+      "start": 479.08,
+      "end": 479.96,
+      "text": "你尝尝吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00338",
+      "start": 479.96,
+      "end": 481.0,
+      "text": "可能更甜"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00339",
+      "start": 481.0,
+      "end": 482.4,
+      "text": "你不是要拍三分钟视频吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00340",
+      "start": 482.4,
+      "end": 483.0,
+      "text": "拍啥呀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00341",
+      "start": 483.0,
+      "end": 484.52,
+      "text": "拍我们的谢厚"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00342",
+      "start": 487.32,
+      "end": 488.52,
+      "text": "好游"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00343",
+      "start": 488.52,
+      "end": 490.08,
+      "text": "你看又没有接我的话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00344",
+      "start": 490.08,
+      "end": 491.2,
+      "text": "又是不配合的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00345",
+      "start": 491.2,
+      "end": 492.12,
+      "text": "各种测试"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00346",
+      "start": 492.76,
+      "end": 495.4,
+      "text": "我就是想借的这个游头"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00347",
+      "start": 495.4,
+      "end": 496.0,
+      "text": "搭讪你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00348",
+      "start": 496.0,
+      "end": 496.8,
+      "text": "想认识你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00349",
+      "start": 498.8,
+      "end": 501.04,
+      "text": "那我没见过这样的搭讪"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00350",
+      "start": 501.04,
+      "end": 502.0,
+      "text": "来干杯"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00351",
+      "start": 502.0,
+      "end": 502.68,
+      "text": "看到了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00352",
+      "start": 502.68,
+      "end": 504.6,
+      "text": "直接跟女生说出你的意图"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00353",
+      "start": 504.6,
+      "end": 506.04,
+      "text": "反而是没有问题的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00354",
+      "start": 506.04,
+      "end": 507.24,
+      "text": "如果你藏着一页着"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00355",
+      "start": 507.24,
+      "end": 508.72,
+      "text": "她明知道你是什么意图"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00356",
+      "start": 508.72,
+      "end": 509.88,
+      "text": "但是你又不承认"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00357",
+      "start": 509.88,
+      "end": 511.36,
+      "text": "她才会觉得你为所"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00358",
+      "start": 511.36,
+      "end": 512.0,
+      "text": "喝了奶茶"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00359",
+      "start": 512.0,
+      "end": 513.32,
+      "text": "咱俩就是好朋友了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00360",
+      "start": 513.32,
+      "end": 514.56,
+      "text": "来干杯"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00361",
+      "start": 514.56,
+      "end": 516.32,
+      "text": "好了我们的谢厚开始了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00362",
+      "start": 516.32,
+      "end": 517.32,
+      "text": "我一会请你吃饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00363",
+      "start": 517.32,
+      "end": 518.32,
+      "text": "好不好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00364",
+      "start": 518.32,
+      "end": 519.72,
+      "text": "我又直接表达意图"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00365",
+      "start": 519.72,
+      "end": 521.56,
+      "text": "这里为什么我会直接表达意图呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00366",
+      "start": 521.56,
+      "end": 522.76,
+      "text": "这因为几句聊天之后"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00367",
+      "start": 522.76,
+      "end": 523.64,
+      "text": "我就已经发现了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00368",
+      "start": 523.64,
+      "end": 524.84,
+      "text": "她跟我前几期的女生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00369",
+      "start": 524.84,
+      "end": 525.64,
+      "text": "有点不太一样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00370",
+      "start": 525.64,
+      "end": 525.92,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00371",
+      "start": 525.92,
+      "end": 526.84,
+      "text": "她有点老司机"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00372",
+      "start": 526.84,
+      "end": 527.84,
+      "text": "有点强势"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00373",
+      "start": 527.84,
+      "end": 529.52,
+      "text": "而且我的小心思"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00374",
+      "start": 529.52,
+      "end": 530.84,
+      "text": "已经完全被她看透了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00375",
+      "start": 530.84,
+      "end": 531.76,
+      "text": "那你记住"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00376",
+      "start": 531.76,
+      "end": 533.04,
+      "text": "当你面对一个人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00377",
+      "start": 533.04,
+      "end": 535.2,
+      "text": "已经完全看透你心思的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00378",
+      "start": 535.2,
+      "end": 537.44,
+      "text": "你就不要在她面前隐藏你的心思"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00379",
+      "start": 537.44,
+      "end": 537.92,
+      "text": "懂吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00380",
+      "start": 537.92,
+      "end": 538.8,
+      "text": "你越隐藏"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00381",
+      "start": 538.8,
+      "end": 539.92,
+      "text": "她越觉得你假"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00382",
+      "start": 539.92,
+      "end": 541.56,
+      "text": "你反而既然你已经看透了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00383",
+      "start": 541.56,
+      "end": 542.6,
+      "text": "咱俩都打名牌"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00384",
+      "start": 542.6,
+      "end": 543.76,
+      "text": "她觉得你真诚"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00385",
+      "start": 543.76,
+      "end": 545.0,
+      "text": "你的成功率更高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00386",
+      "start": 545.0,
+      "end": 547.16,
+      "text": "包括你在事业上的社交"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00387",
+      "start": 547.16,
+      "end": 548.28,
+      "text": "你也是一样的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00388",
+      "start": 548.28,
+      "end": 550.64,
+      "text": "为什么有人说事业上的社交"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00389",
+      "start": 550.64,
+      "end": 553.0,
+      "text": "越向上社交越要真诚呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00390",
+      "start": 553.0,
+      "end": 554.28,
+      "text": "因为比你厉害的人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00391",
+      "start": 554.28,
+      "end": 555.52,
+      "text": "总能一眼看穿你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00392",
+      "start": 555.52,
+      "end": 556.08,
+      "text": "所以这个时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00393",
+      "start": 556.08,
+      "end": 558.0,
+      "text": "你在她面前耍小心思的话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00394",
+      "start": 558.0,
+      "end": 560.32,
+      "text": "她反而会一眼看穿你的小心思"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00395",
+      "start": 560.32,
+      "end": 561.16,
+      "text": "然后就把你pass掉"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00396",
+      "start": 561.16,
+      "end": 562.04,
+      "text": "觉得你不真诚"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00397",
+      "start": 562.04,
+      "end": 563.32,
+      "text": "你反而真诚一点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00398",
+      "start": 563.32,
+      "end": 564.24,
+      "text": "暴露你的弱点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00399",
+      "start": 564.24,
+      "end": 566.0,
+      "text": "告诉她你的真实目的是什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00400",
+      "start": 566.0,
+      "end": 567.72,
+      "text": "她觉得你这个人可教"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00401",
+      "start": 567.72,
+      "end": 568.64,
+      "text": "就是这个技巧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00402",
+      "start": 568.64,
+      "end": 569.76,
+      "text": "不光是对女生有用"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00403",
+      "start": 569.76,
+      "end": 571.32,
+      "text": "在你生活中方方面面"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00404",
+      "start": 571.32,
+      "end": 572.16,
+      "text": "都是有功能"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00405",
+      "start": 572.16,
+      "end": 574.0,
+      "text": "你在很多地方都能用得上"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00406",
+      "start": 574.0,
+      "end": 575.08,
+      "text": "我一会请你吃饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00407",
+      "start": 575.08,
+      "end": 575.68,
+      "text": "好不好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00408",
+      "start": 576.88,
+      "end": 577.4,
+      "text": "不去"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00409",
+      "start": 579.08,
+      "end": 580.6,
+      "text": "把你回家吃玉芝菜"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00410",
+      "start": 580.6,
+      "end": 581.4,
+      "text": "你看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00411",
+      "start": 581.4,
+      "end": 582.6,
+      "text": "又不利于身体健康"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00412",
+      "start": 582.6,
+      "end": 584.08,
+      "text": "吃完汽车又不好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00413",
+      "start": 584.08,
+      "end": 584.52,
+      "text": "是不是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00414",
+      "start": 584.52,
+      "end": 585.6,
+      "text": "吃完皮肤会变黑的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00415",
+      "start": 585.6,
+      "end": 586.68,
+      "text": "你看现在这么白"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00416",
+      "start": 586.68,
+      "end": 587.56,
+      "text": "要珍惜你的皮肤"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00417",
+      "start": 587.56,
+      "end": 588.68,
+      "text": "我请你吃"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00418",
+      "start": 588.68,
+      "end": 589.56,
+      "text": "咱吃先炒的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00419",
+      "start": 589.56,
+      "end": 591.16,
+      "text": "不吃玉芝菜好不好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00420",
+      "start": 592.44,
+      "end": 594.28,
+      "text": "还是回家吃吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00421",
+      "start": 595.88,
+      "end": 597.28,
+      "text": "你这样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00422",
+      "start": 597.28,
+      "end": 598.08,
+      "text": "咱俩一会儿"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00423",
+      "start": 598.08,
+      "end": 599.96,
+      "text": "先在春夕路逛一会儿"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00424",
+      "start": 599.96,
+      "end": 600.92,
+      "text": "然后你要是觉得"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00425",
+      "start": 600.92,
+      "end": 602.72,
+      "text": "我比较好玩的话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00426",
+      "start": 602.72,
+      "end": 603.92,
+      "text": "你就跟我吃"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00427",
+      "start": 604.84,
+      "end": 606.44,
+      "text": "考虑一下吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00428",
+      "start": 606.44,
+      "end": 607.04,
+      "text": "你要是觉得"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00429",
+      "start": 607.04,
+      "end": 608.44,
+      "text": "我不好玩你就回家"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00430",
+      "start": 608.44,
+      "end": 609.56,
+      "text": "我给你打个豪华专车"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00431",
+      "start": 609.56,
+      "end": 610.32,
+      "text": "送你回家"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00432",
+      "start": 611.88,
+      "end": 613.16,
+      "text": "六座的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00433",
+      "start": 613.16,
+      "end": 614.48,
+      "text": "还有六座的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00434",
+      "start": 614.48,
+      "end": 615.24,
+      "text": "你几个人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00435",
+      "start": 615.24,
+      "end": 616.64,
+      "text": "你有保镖"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00436",
+      "start": 616.64,
+      "end": 618.32,
+      "text": "我腿这么长"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00437",
+      "start": 618.96,
+      "end": 619.92,
+      "text": "你要做最后一排"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00438",
+      "start": 619.92,
+      "end": 621.32,
+      "text": "然后把腿伸到四肌位"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00439",
+      "start": 621.32,
+      "end": 622.24,
+      "text": "是不是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00440",
+      "start": 622.24,
+      "end": 623.72,
+      "text": "那我也想做你的四肌"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00441",
+      "start": 625.12,
+      "end": 627.2,
+      "text": "你要把脚伸到我旁边"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00442",
+      "start": 627.2,
+      "end": 627.88,
+      "text": "一边开车"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00443",
+      "start": 627.88,
+      "end": 628.96,
+      "text": "一边看你的小脚"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00444",
+      "start": 628.96,
+      "end": 630.04,
+      "text": "你还想的没"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00445",
+      "start": 630.96,
+      "end": 632.36,
+      "text": "你多少粉丝"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00446",
+      "start": 632.36,
+      "end": 634.0,
+      "text": "我500万"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00447",
+      "start": 634.0,
+      "end": 635.0,
+      "text": "500万"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00448",
+      "start": 635.0,
+      "end": 636.16,
+      "text": "我但是我最近掉粉了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00449",
+      "start": 636.16,
+      "end": 637.32,
+      "text": "掉到480万"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00450",
+      "start": 637.32,
+      "end": 638.4,
+      "text": "你等你叫啥"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00451",
+      "start": 638.4,
+      "end": 639.68,
+      "text": "鱼小会"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00452",
+      "start": 639.68,
+      "end": 640.52,
+      "text": "你搜吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00453",
+      "start": 640.52,
+      "end": 641.36,
+      "text": "鱼小会"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00454",
+      "start": 641.36,
+      "end": 642.28,
+      "text": "你现在别搜了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00455",
+      "start": 642.28,
+      "end": 644.32,
+      "text": "因为最近掉了20万粉"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00456",
+      "start": 644.32,
+      "end": 645.64,
+      "text": "这是你吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00457",
+      "start": 645.64,
+      "end": 647.12,
+      "text": "这是我美颜之后的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00458",
+      "start": 647.12,
+      "end": 649.24,
+      "text": "就是我美完颜就这样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00459",
+      "start": 649.24,
+      "end": 650.32,
+      "text": "这不对是美颜吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00460",
+      "start": 650.32,
+      "end": 651.32,
+      "text": "这得整容吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00461",
+      "start": 651.32,
+      "end": 652.0,
+      "text": "我"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00462",
+      "start": 653.6,
+      "end": 654.76,
+      "text": "就是整容前后吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00463",
+      "start": 654.76,
+      "end": 655.16,
+      "text": "不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00464",
+      "start": 655.16,
+      "end": 656.68,
+      "text": "这整容应该是先"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00465",
+      "start": 656.68,
+      "end": 657.48,
+      "text": "整容先好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00466",
+      "start": 657.48,
+      "end": 658.24,
+      "text": "这怎么能开"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00467",
+      "start": 658.24,
+      "end": 659.04,
+      "text": "那我整的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00468",
+      "start": 659.6,
+      "end": 660.52,
+      "text": "看到了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00469",
+      "start": 660.52,
+      "end": 661.96,
+      "text": "鱼小会根本就不是我"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00470",
+      "start": 661.96,
+      "end": 663.32,
+      "text": "而且他也会现场去查"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00471",
+      "start": 663.32,
+      "end": 664.16,
+      "text": "你看这"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00472",
+      "start": 664.16,
+      "end": 666.24,
+      "text": "他知道我是开玩笑的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00473",
+      "start": 666.24,
+      "end": 666.92,
+      "text": "但是呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00474",
+      "start": 666.92,
+      "end": 669.4,
+      "text": "大家觉得跟你相处好玩"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00475",
+      "start": 669.4,
+      "end": 670.28,
+      "text": "无所谓"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00476",
+      "start": 670.28,
+      "end": 670.88,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00477",
+      "start": 670.88,
+      "end": 673.52,
+      "text": "没有人是真的冲你500万粉丝来的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00478",
+      "start": 673.52,
+      "end": 673.88,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00479",
+      "start": 673.88,
+      "end": 674.84,
+      "text": "老是有弹幕说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00480",
+      "start": 674.84,
+      "end": 675.8,
+      "text": "你就是500万粉丝"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00481",
+      "start": 675.8,
+      "end": 677.04,
+      "text": "你就是500万粉丝"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00482",
+      "start": 677.04,
+      "end": 678.0,
+      "text": "没有500万粉丝"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00483",
+      "start": 678.0,
+      "end": 679.04,
+      "text": "女的不搭理你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00484",
+      "start": 679.04,
+      "end": 680.52,
+      "text": "就是不是粉丝的问题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00485",
+      "start": 680.52,
+      "end": 681.32,
+      "text": "还是智慧的问题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00486",
+      "start": 682.04,
+      "end": 682.92,
+      "text": "帅不帅吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00487",
+      "start": 682.92,
+      "end": 683.4,
+      "text": "挺帅的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00488",
+      "start": 683.4,
+      "end": 684.4,
+      "text": "给他"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00489",
+      "start": 684.4,
+      "end": 686.08,
+      "text": "给给我打的分"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00490",
+      "start": 686.08,
+      "end": 686.52,
+      "text": "几分"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00491",
+      "start": 686.52,
+      "end": 687.12,
+      "text": "一到十分"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00492",
+      "start": 687.12,
+      "end": 688.04,
+      "text": "几分"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00493",
+      "start": 688.04,
+      "end": 689.52,
+      "text": "八到九分吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00494",
+      "start": 689.52,
+      "end": 690.16,
+      "text": "这么帅"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00495",
+      "start": 690.16,
+      "end": 691.36,
+      "text": "那我真人几分"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00496",
+      "start": 692.96,
+      "end": 694.56,
+      "text": "你这什么表情"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00497",
+      "start": 694.56,
+      "end": 696.04,
+      "text": "真人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00498",
+      "start": 697.0,
+      "end": 698.2,
+      "text": "你看他不觉得我帅"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00499",
+      "start": 698.2,
+      "end": 699.08,
+      "text": "但是无所谓"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00500",
+      "start": 699.08,
+      "end": 699.92,
+      "text": "看到了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00501",
+      "start": 699.92,
+      "end": 700.52,
+      "text": "很多人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00502",
+      "start": 700.52,
+      "end": 701.52,
+      "text": "最大的问题就是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00503",
+      "start": 701.52,
+      "end": 702.56,
+      "text": "你虽然不帅"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00504",
+      "start": 702.56,
+      "end": 705.12,
+      "text": "但是女人没有把你的不帅当回事"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00505",
+      "start": 705.12,
+      "end": 707.52,
+      "text": "但你自己把这个事当回事了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00506",
+      "start": 707.52,
+      "end": 708.72,
+      "text": "就是你自己觉得"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00507",
+      "start": 708.72,
+      "end": 710.56,
+      "text": "我不帅是一个很大的问题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00508",
+      "start": 710.56,
+      "end": 712.72,
+      "text": "他一定会嫌弃我的长相"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00509",
+      "start": 712.72,
+      "end": 714.48,
+      "text": "但其实人家不嫌弃"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00510",
+      "start": 714.48,
+      "end": 715.04,
+      "text": "懂吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00511",
+      "start": 715.04,
+      "end": 715.8,
+      "text": "这就好比什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00512",
+      "start": 715.8,
+      "end": 717.24,
+      "text": "你上一家餐厅吃饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00513",
+      "start": 717.24,
+      "end": 719.12,
+      "text": "这个厨师炒的菜很好吃"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00514",
+      "start": 719.12,
+      "end": 721.12,
+      "text": "那餐具炒了点无所谓"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00515",
+      "start": 721.12,
+      "end": 722.96,
+      "text": "用一次性快乐也无所谓"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00516",
+      "start": 722.96,
+      "end": 724.56,
+      "text": "可是这个厨师就会觉得"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00517",
+      "start": 724.56,
+      "end": 725.88,
+      "text": "哪怕我的饭再好吃"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00518",
+      "start": 725.88,
+      "end": 727.44,
+      "text": "可是我的这个盘子太丑了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00519",
+      "start": 727.44,
+      "end": 728.84,
+      "text": "顾客也不喜欢的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00520",
+      "start": 728.84,
+      "end": 730.08,
+      "text": "晚上把饭店关门了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00521",
+      "start": 730.08,
+      "end": 730.6,
+      "text": "不开了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00522",
+      "start": 730.6,
+      "end": 731.8,
+      "text": "因为盘子太丑了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00523",
+      "start": 731.8,
+      "end": 732.84,
+      "text": "我不开了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00524",
+      "start": 732.84,
+      "end": 733.68,
+      "text": "你不有病吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00525",
+      "start": 733.68,
+      "end": 735.36,
+      "text": "其实顾客不在乎"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00526",
+      "start": 735.36,
+      "end": 735.68,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00527",
+      "start": 735.68,
+      "end": 736.56,
+      "text": "你的盘子再丑"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00528",
+      "start": 736.56,
+      "end": 737.32,
+      "text": "黑色的白色的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00529",
+      "start": 737.32,
+      "end": 738.56,
+      "text": "黄色的盘子无所谓"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00530",
+      "start": 738.56,
+      "end": 739.76,
+      "text": "菜好吃就行了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00531",
+      "start": 739.76,
+      "end": 741.08,
+      "text": "那么女生也是一样的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00532",
+      "start": 741.08,
+      "end": 741.92,
+      "text": "就女生是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00533",
+      "start": 741.92,
+      "end": 742.96,
+      "text": "他觉得是你不帅"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00534",
+      "start": 742.96,
+      "end": 745.24,
+      "text": "但是女生可能不看重这个东西的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00535",
+      "start": 745.24,
+      "end": 746.4,
+      "text": "女生可能就是觉得"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00536",
+      "start": 746.4,
+      "end": 748.08,
+      "text": "你这个人有意思也可以"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00537",
+      "start": 748.08,
+      "end": 748.28,
+      "text": "对吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00538",
+      "start": 748.28,
+      "end": 749.32,
+      "text": "你有价值也可以"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00539",
+      "start": 749.32,
+      "end": 750.84,
+      "text": "你有品位也可以"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00540",
+      "start": 750.84,
+      "end": 751.96,
+      "text": "你有担当"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00541",
+      "start": 751.96,
+      "end": 753.28,
+      "text": "有责任性有安全感"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00542",
+      "start": 753.28,
+      "end": 755.12,
+      "text": "你但凡有任何其他优点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00543",
+      "start": 755.12,
+      "end": 756.28,
+      "text": "也可以"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00544",
+      "start": 756.28,
+      "end": 757.24,
+      "text": "明白了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00545",
+      "start": 757.24,
+      "end": 758.32,
+      "text": "怕的就是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00546",
+      "start": 758.32,
+      "end": 759.32,
+      "text": "你既不帅"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00547",
+      "start": 759.32,
+      "end": 760.2,
+      "text": "你还自卑"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00548",
+      "start": 760.2,
+      "end": 761.28,
+      "text": "你还不幽默"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00549",
+      "start": 761.28,
+      "end": 763.44,
+      "text": "你还老是找自己的毛病"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00550",
+      "start": 763.44,
+      "end": 764.44,
+      "text": "你自己都看不起你自己"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00551",
+      "start": 764.44,
+      "end": 766.0,
+      "text": "你什么优点都没有了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00552",
+      "start": 766.0,
+      "end": 767.68,
+      "text": "你就因为你一个缺点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00553",
+      "start": 767.68,
+      "end": 769.32,
+      "text": "掩盖了你所有的光芒"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00554",
+      "start": 769.32,
+      "end": 770.64,
+      "text": "那谁会喜欢你呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00555",
+      "start": 770.64,
+      "end": 771.72,
+      "text": "所以各位记住了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00556",
+      "start": 771.72,
+      "end": 774.96,
+      "text": "想办法无限的放大你的优点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00557",
+      "start": 774.96,
+      "end": 776.68,
+      "text": "多盯着自己的优点看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00558",
+      "start": 776.68,
+      "end": 778.24,
+      "text": "然后用这些优点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00559",
+      "start": 778.24,
+      "end": 779.72,
+      "text": "去掩盖掉那些缺点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00560",
+      "start": 779.72,
+      "end": 781.32,
+      "text": "不要盯着自己的缺点看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00561",
+      "start": 781.32,
+      "end": 782.8,
+      "text": "你天天盯着自己的缺点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00562",
+      "start": 782.8,
+      "end": 784.16,
+      "text": "你根本就不用活了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00563",
+      "start": 784.16,
+      "end": 785.2,
+      "text": "明白了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00564",
+      "start": 785.2,
+      "end": 786.56,
+      "text": "最近有点上火了嘛"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00565",
+      "start": 786.56,
+      "end": 787.52,
+      "text": "这是起个豆"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00566",
+      "start": 787.52,
+      "end": 788.48,
+      "text": "不仅有点上火"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00567",
+      "start": 788.48,
+      "end": 789.52,
+      "text": "还有点水肿感觉"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00568",
+      "start": 789.52,
+      "end": 791.12,
+      "text": "哈哈哈"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00569",
+      "start": 791.12,
+      "end": 791.52,
+      "text": "哎哟啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00570",
+      "start": 791.52,
+      "end": 792.84,
+      "text": "你抖音这么好看的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00571",
+      "start": 792.84,
+      "end": 795.2,
+      "text": "你这个抖音一直在露腿啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00572",
+      "start": 795.2,
+      "end": 797.0,
+      "text": "那必须的我大长腿"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00573",
+      "start": 797.0,
+      "end": 797.76,
+      "text": "你是哪人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00574",
+      "start": 797.76,
+      "end": 798.48,
+      "text": "我听口音一下都没人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00575",
+      "start": 798.48,
+      "end": 799.52,
+      "text": "我新疆人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00576",
+      "start": 799.52,
+      "end": 800.68,
+      "text": "你新疆人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00577",
+      "start": 800.68,
+      "end": 801.12,
+      "text": "对呀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00578",
+      "start": 801.12,
+      "end": 802.04,
+      "text": "你有多高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00579",
+      "start": 802.04,
+      "end": 803.84,
+      "text": "怪不得说新疆出没你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00580",
+      "start": 803.84,
+      "end": 805.68,
+      "text": "我精神高一七八"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00581",
+      "start": 805.68,
+      "end": 806.28,
+      "text": "看到了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00582",
+      "start": 806.28,
+      "end": 807.84,
+      "text": "这都是话题啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00583",
+      "start": 807.84,
+      "end": 809.08,
+      "text": "但是呢有一个重点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00584",
+      "start": 809.08,
+      "end": 810.28,
+      "text": "新疆没去过"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00585",
+      "start": 810.28,
+      "end": 812.0,
+      "text": "我也不知道新疆有什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00586",
+      "start": 812.0,
+      "end": 814.28,
+      "text": "这个这个确实是我自私盲区"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00587",
+      "start": 814.28,
+      "end": 814.96,
+      "text": "我也不知道"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00588",
+      "start": 814.96,
+      "end": 816.04,
+      "text": "你要跟我聊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00589",
+      "start": 816.04,
+      "end": 816.92,
+      "text": "法国"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00590",
+      "start": 816.92,
+      "end": 817.52,
+      "text": "意大利"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00591",
+      "start": 817.52,
+      "end": 817.96,
+      "text": "我知道"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00592",
+      "start": 817.96,
+      "end": 819.08,
+      "text": "但你聊新疆我确实"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00593",
+      "start": 819.08,
+      "end": 820.2,
+      "text": "我我不知道"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00594",
+      "start": 820.2,
+      "end": 820.88,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00595",
+      "start": 820.88,
+      "end": 822.24,
+      "text": "那这个时候怎么办呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00596",
+      "start": 822.24,
+      "end": 823.0,
+      "text": "那很简单"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00597",
+      "start": 823.0,
+      "end": 824.36,
+      "text": "马上转移一个话题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00598",
+      "start": 824.36,
+      "end": 825.24,
+      "text": "就不要跟他聊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00599",
+      "start": 825.24,
+      "end": 826.88,
+      "text": "你不熟悉的话题了啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00600",
+      "start": 826.88,
+      "end": 828.4,
+      "text": "马上去换下一个话题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00601",
+      "start": 828.4,
+      "end": 829.92,
+      "text": "赶紧去找你有多高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00602",
+      "start": 829.92,
+      "end": 830.84,
+      "text": "那这种话题啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00603",
+      "start": 830.84,
+      "end": 832.08,
+      "text": "或者说再去聊一个别的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00604",
+      "start": 832.08,
+      "end": 832.44,
+      "text": "哎"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00605",
+      "start": 832.44,
+      "end": 833.92,
+      "text": "你是什么星座都可以"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00606",
+      "start": 833.92,
+      "end": 834.4,
+      "text": "或者说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00607",
+      "start": 834.4,
+      "end": 835.68,
+      "text": "哎你为什么来成都了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00608",
+      "start": 835.68,
+      "end": 836.12,
+      "text": "那么远"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00609",
+      "start": 836.12,
+      "end": 836.92,
+      "text": "为什么来到成都"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00610",
+      "start": 836.92,
+      "end": 839.08,
+      "text": "你看遇到不会聊的话题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00611",
+      "start": 839.08,
+      "end": 840.6,
+      "text": "不要去强聊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00612",
+      "start": 840.6,
+      "end": 842.76,
+      "text": "没话找话这样就会尴尬冷场"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00613",
+      "start": 842.76,
+      "end": 843.88,
+      "text": "遇到不会聊的话题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00614",
+      "start": 843.88,
+      "end": 845.72,
+      "text": "马上带领队话去转移"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00615",
+      "start": 845.72,
+      "end": 847.92,
+      "text": "转移到你擅长的地方"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00616",
+      "start": 847.92,
+      "end": 848.24,
+      "text": "懂吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00617",
+      "start": 848.24,
+      "end": 849.76,
+      "text": "比如说你特别了解星座"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00618",
+      "start": 849.76,
+      "end": 851.92,
+      "text": "你就往星座上聊啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00619",
+      "start": 851.92,
+      "end": 853.2,
+      "text": "比如说你特别了解吃的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00620",
+      "start": 853.2,
+      "end": 854.04,
+      "text": "你就往吃的上聊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00621",
+      "start": 854.04,
+      "end": 855.24,
+      "text": "比如说你特别了解"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00622",
+      "start": 855.24,
+      "end": 856.16,
+      "text": "这个减肥什么的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00623",
+      "start": 856.16,
+      "end": 857.48,
+      "text": "你就往减肥上聊啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00624",
+      "start": 857.48,
+      "end": 857.92,
+      "text": "懂吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00625",
+      "start": 857.92,
+      "end": 859.84,
+      "text": "就一定是你主动把这个话题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00626",
+      "start": 859.84,
+      "end": 861.4,
+      "text": "带到你擅长的领域去聊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00627",
+      "start": 861.4,
+      "end": 861.64,
+      "text": "好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00628",
+      "start": 861.64,
+      "end": 862.56,
+      "text": "我也想搞个威露"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00629",
+      "start": 862.56,
+      "end": 864.08,
+      "text": "但我跟你这威露的不一样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00630",
+      "start": 864.08,
+      "end": 865.32,
+      "text": "我想攀上旅游威露"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00631",
+      "start": 865.32,
+      "end": 866.76,
+      "text": "但一直还没有检查"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00632",
+      "start": 869.08,
+      "end": 870.24,
+      "text": "这第一次见面"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00633",
+      "start": 870.24,
+      "end": 872.28,
+      "text": "又是吃饭又是一起旅游"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00634",
+      "start": 872.84,
+      "end": 873.92,
+      "text": "这不好吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00635",
+      "start": 873.92,
+      "end": 874.6,
+      "text": "你看啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00636",
+      "start": 874.6,
+      "end": 876.12,
+      "text": "你要找男朋友"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00637",
+      "start": 876.12,
+      "end": 877.68,
+      "text": "也得找一个像我这样的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00638",
+      "start": 877.68,
+      "end": 879.96,
+      "text": "能把未来安排的美名斑斑的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00639",
+      "start": 879.96,
+      "end": 881.36,
+      "text": "不可能我什么都问你吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00640",
+      "start": 882.04,
+      "end": 882.4,
+      "text": "对吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00641",
+      "start": 882.4,
+      "end": 884.12,
+      "text": "以后我们去哪里呀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00642",
+      "start": 884.12,
+      "end": 885.24,
+      "text": "你家有饭吃吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00643",
+      "start": 885.24,
+      "end": 886.44,
+      "text": "那确实我不喜欢这种"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00644",
+      "start": 886.44,
+      "end": 886.88,
+      "text": "对呀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00645",
+      "start": 886.88,
+      "end": 888.44,
+      "text": "我喜欢都给我安排好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00646",
+      "start": 888.44,
+      "end": 888.84,
+      "text": "对呀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00647",
+      "start": 888.84,
+      "end": 889.36,
+      "text": "你看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00648",
+      "start": 889.96,
+      "end": 891.2,
+      "text": "非常契合"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00649",
+      "start": 891.2,
+      "end": 891.6,
+      "text": "是不是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00650",
+      "start": 891.6,
+      "end": 892.52,
+      "text": "虽然是第一次见面"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00651",
+      "start": 892.52,
+      "end": 893.88,
+      "text": "但感情不分快慢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00652",
+      "start": 893.88,
+      "end": 894.8,
+      "text": "只分身浅"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00653",
+      "start": 894.8,
+      "end": 895.8,
+      "text": "合不合适"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00654",
+      "start": 895.8,
+      "end": 896.36,
+      "text": "不合适的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00655",
+      "start": 896.36,
+      "end": 897.52,
+      "text": "你认识的十年"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00656",
+      "start": 897.52,
+      "end": 898.4,
+      "text": "也只是普通朋友"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00657",
+      "start": 898.4,
+      "end": 899.16,
+      "text": "那也确实"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00658",
+      "start": 899.16,
+      "end": 900.64,
+      "text": "是不是你看你那些小学同学"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00659",
+      "start": 900.64,
+      "end": 901.76,
+      "text": "是不是还是普通朋友"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00660",
+      "start": 901.76,
+      "end": 902.32,
+      "text": "那确实"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00661",
+      "start": 902.32,
+      "end": 903.52,
+      "text": "我小学同学现在不认识"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00662",
+      "start": 905.16,
+      "end": 905.72,
+      "text": "好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00663",
+      "start": 905.72,
+      "end": 907.96,
+      "text": "这个是合理化自己的所有行为"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00664",
+      "start": 907.96,
+      "end": 909.52,
+      "text": "这个技巧已经讲过无数次了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00665",
+      "start": 909.52,
+      "end": 911.24,
+      "text": "我这里就不重复讲"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00666",
+      "start": 911.24,
+      "end": 911.92,
+      "text": "如果不会的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00667",
+      "start": 911.92,
+      "end": 913.16,
+      "text": "去看我前几期的视频"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00668",
+      "start": 913.16,
+      "end": 913.6,
+      "text": "好吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00669",
+      "start": 914.48,
+      "end": 916.0,
+      "text": "我没有小学同学"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00670",
+      "start": 916.0,
+      "end": 918.48,
+      "text": "那你跟我有没有擦出一袋小火花"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00671",
+      "start": 918.48,
+      "end": 920.48,
+      "text": "目前感觉还是体谊要聊的来"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00672",
+      "start": 921.36,
+      "end": 921.96,
+      "text": "真的假的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00673",
+      "start": 921.96,
+      "end": 922.8,
+      "text": "你这话说的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00674",
+      "start": 922.8,
+      "end": 924.24,
+      "text": "不是为了视频给我面子"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00675",
+      "start": 924.24,
+      "end": 925.6,
+      "text": "但其实是聊的来"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00676",
+      "start": 925.6,
+      "end": 927.6,
+      "text": "你没有说小火花是聊的来"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00677",
+      "start": 927.6,
+      "end": 929.36,
+      "text": "我现在只冒烟了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00678",
+      "start": 930.56,
+      "end": 930.96,
+      "text": "冒烟"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00679",
+      "start": 930.96,
+      "end": 933.28,
+      "text": "你说话很有东北人的感觉"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00680",
+      "start": 933.28,
+      "end": 934.48,
+      "text": "说话比较幽默"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00681",
+      "start": 934.48,
+      "end": 935.16,
+      "text": "嗯"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00682",
+      "start": 935.16,
+      "end": 935.96,
+      "text": "去过东北吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00683",
+      "start": 935.96,
+      "end": 936.52,
+      "text": "没有"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00684",
+      "start": 936.52,
+      "end": 938.2,
+      "text": "我去过长春"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00685",
+      "start": 938.2,
+      "end": 939.68,
+      "text": "他话题又延伸了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00686",
+      "start": 939.68,
+      "end": 939.92,
+      "text": "对吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00687",
+      "start": 939.92,
+      "end": 941.32,
+      "text": "因为他的幽默聊到东北"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00688",
+      "start": 941.32,
+      "end": 942.64,
+      "text": "再问他去没去过东北"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00689",
+      "start": 942.64,
+      "end": 943.4,
+      "text": "在东北玩了什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00690",
+      "start": 943.4,
+      "end": 945.0,
+      "text": "他这话题就可以无限延伸"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00691",
+      "start": 945.0,
+      "end": 946.96,
+      "text": "你们一定要练这个技巧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00692",
+      "start": 946.96,
+      "end": 948.6,
+      "text": "这个能力很重要"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00693",
+      "start": 948.6,
+      "end": 950.24,
+      "text": "我还去做早了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00694",
+      "start": 950.24,
+      "end": 950.72,
+      "text": "哦"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00695",
+      "start": 950.72,
+      "end": 951.44,
+      "text": "你还去做早了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00696",
+      "start": 951.44,
+      "end": 952.44,
+      "text": "下次我给你做"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00697",
+      "start": 954.0,
+      "end": 955.88,
+      "text": "农村还有这种男女共愈的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00698",
+      "start": 955.88,
+      "end": 956.56,
+      "text": "这种早早的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00699",
+      "start": 956.56,
+      "end": 957.08,
+      "text": "好吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00700",
+      "start": 957.08,
+      "end": 957.72,
+      "text": "不是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00701",
+      "start": 957.72,
+      "end": 959.92,
+      "text": "这个是我给你提供的专属服务"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00702",
+      "start": 959.92,
+      "end": 960.56,
+      "text": "哇"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00703",
+      "start": 960.56,
+      "end": 961.68,
+      "text": "那就是今天"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00704",
+      "start": 961.68,
+      "end": 962.64,
+      "text": "别人都是在二楼"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00705",
+      "start": 962.64,
+      "end": 963.76,
+      "text": "我们俩是在三楼是吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00706",
+      "start": 965.64,
+      "end": 966.72,
+      "text": "你怎么这么懂啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00707",
+      "start": 966.72,
+      "end": 967.52,
+      "text": "还二楼三楼"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00708",
+      "start": 967.52,
+      "end": 969.12,
+      "text": "我都没去过二楼"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00709",
+      "start": 969.12,
+      "end": 970.0,
+      "text": "没去过二楼的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00710",
+      "start": 970.0,
+      "end": 971.12,
+      "text": "一般都唱三楼呀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00711",
+      "start": 971.12,
+      "end": 971.8,
+      "text": "二楼"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00712",
+      "start": 971.8,
+      "end": 973.68,
+      "text": "我从来没去东北错过的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00713",
+      "start": 973.68,
+      "end": 974.64,
+      "text": "我很害羞"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00714",
+      "start": 974.64,
+      "end": 975.56,
+      "text": "其实我很保守"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00715",
+      "start": 975.56,
+      "end": 977.64,
+      "text": "你怕他给你翻面"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00716",
+      "start": 980.0,
+      "end": 980.84,
+      "text": "翻面不怕"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00717",
+      "start": 980.84,
+      "end": 982.68,
+      "text": "我怕提灯啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00718",
+      "start": 983.96,
+      "end": 985.24,
+      "text": "我给你拍这个视频"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00719",
+      "start": 985.24,
+      "end": 986.72,
+      "text": "这个镜头都得往上晾"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00720",
+      "start": 986.72,
+      "end": 988.88,
+      "text": "我要是平台根本拍不到你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00721",
+      "start": 988.88,
+      "end": 990.48,
+      "text": "只能拍到我和你的胸"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00722",
+      "start": 990.48,
+      "end": 991.4,
+      "text": "有没有安全感"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00723",
+      "start": 991.4,
+      "end": 992.48,
+      "text": "小心小心"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00724",
+      "start": 992.48,
+      "end": 994.08,
+      "text": "这个我来我来扶着你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00725",
+      "start": 994.08,
+      "end": 995.52,
+      "text": "这个这个太危险了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00726",
+      "start": 995.52,
+      "end": 996.96,
+      "text": "这个技巧很重要"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00727",
+      "start": 996.96,
+      "end": 998.08,
+      "text": "就是大家一定要记住"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00728",
+      "start": 998.08,
+      "end": 999.08,
+      "text": "跟女生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00729",
+      "start": 999.08,
+      "end": 999.96,
+      "text": "就是走路啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00730",
+      "start": 999.96,
+      "end": 1001.56,
+      "text": "或者约会啊的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00731",
+      "start": 1001.56,
+      "end": 1005.08,
+      "text": "一定要抓住一切时机去制造肢体接触"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00732",
+      "start": 1005.08,
+      "end": 1006.24,
+      "text": "很多人就是为什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00733",
+      "start": 1006.24,
+      "end": 1007.88,
+      "text": "他去牵女生的手会被拒绝"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00734",
+      "start": 1007.88,
+      "end": 1009.48,
+      "text": "是因为他没有去制造"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00735",
+      "start": 1009.48,
+      "end": 1011.16,
+      "text": "这种小的肢体接触"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00736",
+      "start": 1011.16,
+      "end": 1013.52,
+      "text": "上来就直接去牵手来把大的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00737",
+      "start": 1013.52,
+      "end": 1015.04,
+      "text": "那女生一定会抗拒"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00738",
+      "start": 1015.04,
+      "end": 1017.6,
+      "text": "而你一定要找到比如说过马路的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00739",
+      "start": 1017.6,
+      "end": 1019.44,
+      "text": "有狗狗卡卡的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00740",
+      "start": 1019.44,
+      "end": 1020.96,
+      "text": "就这么去扶特下"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00741",
+      "start": 1020.96,
+      "end": 1022.12,
+      "text": "这是礼貌性的服务"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00742",
+      "start": 1022.12,
+      "end": 1023.88,
+      "text": "那么一般女生是不会拒绝的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00743",
+      "start": 1023.88,
+      "end": 1025.16,
+      "text": "但是这有一个什么好处呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00744",
+      "start": 1025.16,
+      "end": 1028.68,
+      "text": "就是他会习惯你去触碰他"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00745",
+      "start": 1028.68,
+      "end": 1030.44,
+      "text": "等你这种小的接触多了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00746",
+      "start": 1030.44,
+      "end": 1032.0,
+      "text": "他就开始不抗拒你了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00747",
+      "start": 1032.0,
+      "end": 1033.08,
+      "text": "到时候你再去牵手"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00748",
+      "start": 1033.08,
+      "end": 1035.08,
+      "text": "成功率会高非常非常多"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00749",
+      "start": 1035.08,
+      "end": 1036.72,
+      "text": "如果前面你都没有这种"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00750",
+      "start": 1036.72,
+      "end": 1037.68,
+      "text": "礼貌性的参服"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00751",
+      "start": 1037.68,
+      "end": 1038.84,
+      "text": "或者这种触碰"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00752",
+      "start": 1038.84,
+      "end": 1040.28,
+      "text": "那么你直接去牵他手"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00753",
+      "start": 1040.28,
+      "end": 1041.2,
+      "text": "他会特别抗拒"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00754",
+      "start": 1041.2,
+      "end": 1042.28,
+      "text": "因为他会不习惯"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00755",
+      "start": 1042.28,
+      "end": 1042.72,
+      "text": "明白吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00756",
+      "start": 1042.72,
+      "end": 1045.16,
+      "text": "所以说要先去制造小的慈体接触"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00757",
+      "start": 1045.16,
+      "end": 1045.96,
+      "text": "好吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00758",
+      "start": 1045.96,
+      "end": 1047.24,
+      "text": "你是啥行动"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00759",
+      "start": 1047.24,
+      "end": 1048.28,
+      "text": "我是天蝎总"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00760",
+      "start": 1048.28,
+      "end": 1050.48,
+      "text": "这个他妈的路是谁扶的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00761",
+      "start": 1050.48,
+      "end": 1052.84,
+      "text": "是的 我好害怕"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00762",
+      "start": 1052.84,
+      "end": 1053.68,
+      "text": "这是什么鬼"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00763",
+      "start": 1053.68,
+      "end": 1055.36,
+      "text": "没事 我一直来拉着你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00764",
+      "start": 1055.36,
+      "end": 1057.6,
+      "text": "以后约会一定要走这样的路"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00765",
+      "start": 1058.68,
+      "end": 1059.92,
+      "text": "现在比我高了 你看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00766",
+      "start": 1059.92,
+      "end": 1061.48,
+      "text": "你找男朋友在乎身高吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00767",
+      "start": 1061.48,
+      "end": 1062.92,
+      "text": "其实还好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00768",
+      "start": 1062.92,
+      "end": 1064.0,
+      "text": "我对身高还好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00769",
+      "start": 1064.0,
+      "end": 1065.92,
+      "text": "因为你自己高是吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00770",
+      "start": 1065.92,
+      "end": 1068.56,
+      "text": "对 我更在乎这个人的人品"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00771",
+      "start": 1068.56,
+      "end": 1070.24,
+      "text": "那你觉得人品里"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00772",
+      "start": 1070.24,
+      "end": 1071.52,
+      "text": "最重要的是哪一条"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00773",
+      "start": 1071.52,
+      "end": 1073.28,
+      "text": "选一个最重要的 责任心"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00774",
+      "start": 1073.28,
+      "end": 1074.44,
+      "text": "就是能照顾你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00775",
+      "start": 1074.44,
+      "end": 1075.12,
+      "text": "替你扛事"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00776",
+      "start": 1075.12,
+      "end": 1076.56,
+      "text": "心里想着你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00777",
+      "start": 1076.56,
+      "end": 1077.52,
+      "text": "是的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00778",
+      "start": 1077.52,
+      "end": 1080.24,
+      "text": "说点我没有的特质呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00779",
+      "start": 1080.24,
+      "end": 1082.84,
+      "text": "长的事"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00780",
+      "start": 1082.84,
+      "end": 1085.2,
+      "text": "就是我跟这么多的女生接触之后"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00781",
+      "start": 1085.2,
+      "end": 1086.76,
+      "text": "我发现越漂亮的女生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00782",
+      "start": 1086.76,
+      "end": 1088.24,
+      "text": "越不在乎男人的延迟"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00783",
+      "start": 1088.24,
+      "end": 1089.32,
+      "text": "越高的女生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00784",
+      "start": 1089.32,
+      "end": 1090.64,
+      "text": "越不在乎男生的身高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00785",
+      "start": 1090.64,
+      "end": 1092.56,
+      "text": "她们可能更在乎男生的价值"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00786",
+      "start": 1092.56,
+      "end": 1094.72,
+      "text": "或者说智商 才华"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00787",
+      "start": 1094.72,
+      "end": 1095.84,
+      "text": "等其他方面的东西"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00788",
+      "start": 1095.84,
+      "end": 1096.64,
+      "text": "为什么呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00789",
+      "start": 1096.64,
+      "end": 1098.68,
+      "text": "因为一个女生想把自己打扮得漂亮"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00790",
+      "start": 1098.68,
+      "end": 1100.28,
+      "text": "她是需要花大量的成本的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00791",
+      "start": 1100.28,
+      "end": 1102.24,
+      "text": "比如说她想吃的东西都不能吃"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00792",
+      "start": 1102.24,
+      "end": 1103.16,
+      "text": "她这个很难受的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00793",
+      "start": 1103.16,
+      "end": 1104.52,
+      "text": "因为她要控制身材"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00794",
+      "start": 1104.52,
+      "end": 1107.08,
+      "text": "或者说她要天天户夫很累"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00795",
+      "start": 1107.08,
+      "end": 1109.28,
+      "text": "然后买大量的化妆品很贵"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00796",
+      "start": 1109.28,
+      "end": 1110.6,
+      "text": "还要保养头发"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00797",
+      "start": 1110.6,
+      "end": 1112.28,
+      "text": "还要搞这个搞那个的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00798",
+      "start": 1112.28,
+      "end": 1113.92,
+      "text": "反正就是成本很高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00799",
+      "start": 1113.92,
+      "end": 1115.32,
+      "text": "非常辛苦的一件事"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00800",
+      "start": 1115.32,
+      "end": 1116.8,
+      "text": "那她花了这么大的代价"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00801",
+      "start": 1116.8,
+      "end": 1118.24,
+      "text": "把自己变成了一个美女"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00802",
+      "start": 1118.24,
+      "end": 1119.84,
+      "text": "她一定不希望自己被一个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00803",
+      "start": 1119.84,
+      "end": 1124.04,
+      "text": "指挥浓妆淹没空有其表的小奶狗给白披的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00804",
+      "start": 1124.04,
+      "end": 1124.84,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00805",
+      "start": 1124.84,
+      "end": 1128.28,
+      "text": "她一定是希望我花了这么大的代价和成本"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00806",
+      "start": 1128.28,
+      "end": 1131.08,
+      "text": "打造出来的这个外表能换来一些"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00807",
+      "start": 1131.08,
+      "end": 1134.4,
+      "text": "真正实际的社会价值和资源"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00808",
+      "start": 1134.4,
+      "end": 1135.32,
+      "text": "所以这个时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00809",
+      "start": 1135.32,
+      "end": 1137.2,
+      "text": "他们就会更看重男人的什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00810",
+      "start": 1137.2,
+      "end": 1138.4,
+      "text": "实力和价值"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00811",
+      "start": 1138.4,
+      "end": 1139.36,
+      "text": "你的外表啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00812",
+      "start": 1139.36,
+      "end": 1142.24,
+      "text": "身高这些不实际的价值不重要"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00813",
+      "start": 1142.24,
+      "end": 1143.72,
+      "text": "重要是你的大脑"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00814",
+      "start": 1143.72,
+      "end": 1144.24,
+      "text": "你的智慧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00815",
+      "start": 1144.24,
+      "end": 1144.84,
+      "text": "你的才华"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00816",
+      "start": 1144.84,
+      "end": 1145.52,
+      "text": "你的实力"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00817",
+      "start": 1145.52,
+      "end": 1146.8,
+      "text": "你的社会地位"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00818",
+      "start": 1146.8,
+      "end": 1147.72,
+      "text": "你的社会资源"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00819",
+      "start": 1147.72,
+      "end": 1149.16,
+      "text": "这些东西才重要"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00820",
+      "start": 1149.16,
+      "end": 1152.48,
+      "text": "因为这些东西才能让我过上好的生活"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00821",
+      "start": 1152.48,
+      "end": 1155.32,
+      "text": "才不会让我白白的花了这么大的代价"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00822",
+      "start": 1155.32,
+      "end": 1156.8,
+      "text": "把自己打造成美女"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00823",
+      "start": 1156.8,
+      "end": 1157.44,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00824",
+      "start": 1157.44,
+      "end": 1160.2,
+      "text": "所以这个时候建盟就不重要了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00825",
+      "start": 1160.2,
+      "end": 1161.08,
+      "text": "重要的是什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00826",
+      "start": 1161.08,
+      "end": 1164.04,
+      "text": "要让她感觉到你是一个有实力的男人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00827",
+      "start": 1164.04,
+      "end": 1165.32,
+      "text": "那你是一个有品位的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00828",
+      "start": 1165.32,
+      "end": 1167.0,
+      "text": "有层次的男人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00829",
+      "start": 1167.0,
+      "end": 1167.88,
+      "text": "这个才重要"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00830",
+      "start": 1167.88,
+      "end": 1168.76,
+      "text": "那你说续哥"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00831",
+      "start": 1168.76,
+      "end": 1171.28,
+      "text": "那这是不是经济打法呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00832",
+      "start": 1171.28,
+      "end": 1172.12,
+      "text": "我告诉你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00833",
+      "start": 1172.12,
+      "end": 1174.32,
+      "text": "这法儿不需要砸什么经济"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00834",
+      "start": 1174.32,
+      "end": 1175.04,
+      "text": "为什么呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00835",
+      "start": 1175.04,
+      "end": 1177.72,
+      "text": "因为当你不停地向她砸米"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00836",
+      "start": 1177.72,
+      "end": 1179.2,
+      "text": "去追求她的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00837",
+      "start": 1179.2,
+      "end": 1181.08,
+      "text": "法儿显得你不自信"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00838",
+      "start": 1181.08,
+      "end": 1183.64,
+      "text": "她会判定你为一个低价值的男人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00839",
+      "start": 1183.64,
+      "end": 1185.92,
+      "text": "因为低价值的男生追女生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00840",
+      "start": 1185.92,
+      "end": 1187.8,
+      "text": "她觉得自己配不上这个女生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00841",
+      "start": 1187.8,
+      "end": 1190.32,
+      "text": "她才会疯狂的向这个女生砸经济"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00842",
+      "start": 1190.32,
+      "end": 1190.72,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00843",
+      "start": 1190.72,
+      "end": 1192.48,
+      "text": "她觉得这是对这个女生的一种弥补"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00844",
+      "start": 1192.48,
+      "end": 1194.08,
+      "text": "因为我高攀别人了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00845",
+      "start": 1194.08,
+      "end": 1194.36,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00846",
+      "start": 1194.36,
+      "end": 1195.48,
+      "text": "这个女生跟我在一起"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00847",
+      "start": 1195.48,
+      "end": 1196.12,
+      "text": "我占她便宜"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00848",
+      "start": 1196.12,
+      "end": 1196.92,
+      "text": "她吃亏了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00849",
+      "start": 1196.92,
+      "end": 1197.96,
+      "text": "所以我得弥补她"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00850",
+      "start": 1197.96,
+      "end": 1199.8,
+      "text": "才会不停地向这个女生砸经济"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00851",
+      "start": 1199.8,
+      "end": 1201.68,
+      "text": "而一个真正有价值的男人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00852",
+      "start": 1201.68,
+      "end": 1203.72,
+      "text": "她觉得是女人高攀我"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00853",
+      "start": 1203.72,
+      "end": 1205.8,
+      "text": "所以说她不会给这个女人砸一点经济的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00854",
+      "start": 1205.8,
+      "end": 1207.16,
+      "text": "她觉得你跟我在一起"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00855",
+      "start": 1207.16,
+      "end": 1208.24,
+      "text": "是你占我的便宜"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00856",
+      "start": 1208.24,
+      "end": 1210.24,
+      "text": "你应该请我吃饭才对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00857",
+      "start": 1210.24,
+      "end": 1211.72,
+      "text": "这个越有价值的男生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00858",
+      "start": 1211.72,
+      "end": 1213.12,
+      "text": "她是越自信的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00859",
+      "start": 1213.12,
+      "end": 1215.16,
+      "text": "她越觉得所有人靠近我"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00860",
+      "start": 1215.16,
+      "end": 1217.16,
+      "text": "都是想向我索取的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00861",
+      "start": 1217.16,
+      "end": 1217.88,
+      "text": "你要知道"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00862",
+      "start": 1217.88,
+      "end": 1218.36,
+      "text": "对吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00863",
+      "start": 1218.36,
+      "end": 1219.68,
+      "text": "越是有钱的大哥"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00864",
+      "start": 1219.68,
+      "end": 1221.04,
+      "text": "越是有社会地位的人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00865",
+      "start": 1221.04,
+      "end": 1222.04,
+      "text": "她都有这种想法"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00866",
+      "start": 1222.04,
+      "end": 1223.56,
+      "text": "因为确确实实"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00867",
+      "start": 1223.56,
+      "end": 1224.64,
+      "text": "靠近他们的那些人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00868",
+      "start": 1224.64,
+      "end": 1225.56,
+      "text": "都是有求于她的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00869",
+      "start": 1225.56,
+      "end": 1227.56,
+      "text": "所以她就建立起了这种自信"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00870",
+      "start": 1227.56,
+      "end": 1230.52,
+      "text": "而女人就是通过感知男生身上"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00871",
+      "start": 1230.52,
+      "end": 1231.96,
+      "text": "有没有这样的自信"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00872",
+      "start": 1231.96,
+      "end": 1234.56,
+      "text": "来判断你是不是一个真正的高价值男人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00873",
+      "start": 1234.56,
+      "end": 1237.72,
+      "text": "所以说我们更多的是要向女生展示这种自信"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00874",
+      "start": 1237.72,
+      "end": 1241.0,
+      "text": "一旦她感知到你身上有这种自信的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00875",
+      "start": 1241.0,
+      "end": 1242.68,
+      "text": "你不用向她砸一分经济"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00876",
+      "start": 1242.68,
+      "end": 1243.68,
+      "text": "她都盗罪你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00877",
+      "start": 1243.68,
+      "end": 1245.04,
+      "text": "如果你没有这种自信"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00878",
+      "start": 1245.04,
+      "end": 1246.48,
+      "text": "你向她砸再多的经济"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00879",
+      "start": 1246.48,
+      "end": 1247.96,
+      "text": "你会发现她都会判定"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00880",
+      "start": 1247.96,
+      "end": 1249.68,
+      "text": "你是一个低价值的弱者"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00881",
+      "start": 1249.68,
+      "end": 1251.0,
+      "text": "你砸再多都没有用"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00882",
+      "start": 1251.0,
+      "end": 1252.12,
+      "text": "她还是看不起你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00883",
+      "start": 1252.12,
+      "end": 1253.28,
+      "text": "所以你就可以看到"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00884",
+      "start": 1253.28,
+      "end": 1255.16,
+      "text": "当女生说我不好看的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00885",
+      "start": 1255.16,
+      "end": 1256.64,
+      "text": "说我身高不高的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00886",
+      "start": 1256.64,
+      "end": 1258.2,
+      "text": "我完全不在乎"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00887",
+      "start": 1258.2,
+      "end": 1259.68,
+      "text": "这个时候女生就能感受到"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00888",
+      "start": 1259.68,
+      "end": 1261.56,
+      "text": "这个男生她不在乎自己的身高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00889",
+      "start": 1261.56,
+      "end": 1262.76,
+      "text": "也不在乎自己的长相"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00890",
+      "start": 1262.76,
+      "end": 1265.12,
+      "text": "那说明她一定是有别的方面的实力"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00891",
+      "start": 1265.12,
+      "end": 1266.64,
+      "text": "她就能感受到你的自信"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00892",
+      "start": 1266.64,
+      "end": 1269.08,
+      "text": "而大部分人就是很容易被女生的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00893",
+      "start": 1269.08,
+      "end": 1270.24,
+      "text": "一句两句的打压"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00894",
+      "start": 1270.24,
+      "end": 1271.48,
+      "text": "把自己心态搞崩"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00895",
+      "start": 1271.48,
+      "end": 1274.12,
+      "text": "或者说女生三分钟不回你的信息"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00896",
+      "start": 1274.12,
+      "end": 1276.28,
+      "text": "你就蒙了就疯狂给别人发信息"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00897",
+      "start": 1276.28,
+      "end": 1277.92,
+      "text": "就生怕别人不要你不理你了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00898",
+      "start": 1277.92,
+      "end": 1279.28,
+      "text": "这都是一种自卑的体现"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00899",
+      "start": 1279.28,
+      "end": 1281.64,
+      "text": "女生一旦感受到这种信号出现的话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00900",
+      "start": 1281.64,
+      "end": 1282.84,
+      "text": "马上就把你趴死了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00901",
+      "start": 1282.84,
+      "end": 1283.48,
+      "text": "明白了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00902",
+      "start": 1283.48,
+      "end": 1286.84,
+      "text": "所以千万不要被别人的一两句评价"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00903",
+      "start": 1286.84,
+      "end": 1288.4,
+      "text": "影响了自己的心态"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00904",
+      "start": 1288.4,
+      "end": 1289.68,
+      "text": "永远相信自己"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00905",
+      "start": 1290.68,
+      "end": 1292.48,
+      "text": "要长得算重要吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00906",
+      "start": 1292.48,
+      "end": 1293.12,
+      "text": "不重要"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00907",
+      "start": 1293.12,
+      "end": 1294.24,
+      "text": "笑的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00908",
+      "start": 1294.24,
+      "end": 1295.32,
+      "text": "我都不在你身高了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00909",
+      "start": 1295.32,
+      "end": 1296.6,
+      "text": "我长相其实不重要"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00910",
+      "start": 1296.6,
+      "end": 1298.36,
+      "text": "那我要是只有1米5呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00911",
+      "start": 1298.36,
+      "end": 1299.32,
+      "text": "我要是正海呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00912",
+      "start": 1299.88,
+      "end": 1300.84,
+      "text": "这也太誇張了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00913",
+      "start": 1300.84,
+      "end": 1302.0,
+      "text": "我身上跟六狗一样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00914",
+      "start": 1303.32,
+      "end": 1304.16,
+      "text": "六狗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00915",
+      "start": 1304.16,
+      "end": 1306.36,
+      "text": "刚才有一个200多的双人套餐"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00916",
+      "start": 1310.52,
+      "end": 1311.32,
+      "text": "你选"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00917",
+      "start": 1311.32,
+      "end": 1312.32,
+      "text": "其他米苏吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00918",
+      "start": 1312.32,
+      "end": 1313.36,
+      "text": "让我女朋友选"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00919",
+      "start": 1314.0,
+      "end": 1315.12,
+      "text": "这是随女朋友了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00920",
+      "start": 1316.32,
+      "end": 1317.88,
+      "text": "那你的追求者很多"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00921",
+      "start": 1318.76,
+      "end": 1319.76,
+      "text": "也不算很多吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00922",
+      "start": 1319.76,
+      "end": 1320.84,
+      "text": "但是比较优质"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00923",
+      "start": 1323.44,
+      "end": 1324.04,
+      "text": "比较你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00924",
+      "start": 1325.88,
+      "end": 1326.6,
+      "text": "那不优质"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00925",
+      "start": 1326.6,
+      "end": 1328.84,
+      "text": "我为啥陪你拍三分钟小视频"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00926",
+      "start": 1328.84,
+      "end": 1330.4,
+      "text": "还拍到餐厅来了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00927",
+      "start": 1331.0,
+      "end": 1332.2,
+      "text": "优不优质"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00928",
+      "start": 1332.2,
+      "end": 1333.48,
+      "text": "不是最重要的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00929",
+      "start": 1333.48,
+      "end": 1335.4,
+      "text": "得气色才是最重要的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00930",
+      "start": 1335.4,
+      "end": 1335.88,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00931",
+      "start": 1335.88,
+      "end": 1336.56,
+      "text": "那切实"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00932",
+      "start": 1336.56,
+      "end": 1337.52,
+      "text": "得聊得来"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00933",
+      "start": 1337.52,
+      "end": 1338.72,
+      "text": "所以你看我搭讪你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00934",
+      "start": 1338.72,
+      "end": 1340.04,
+      "text": "只是因为你漂亮"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00935",
+      "start": 1340.04,
+      "end": 1341.08,
+      "text": "但是我请你吃饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00936",
+      "start": 1341.08,
+      "end": 1342.64,
+      "text": "是因为你跟我聊得来"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00937",
+      "start": 1342.64,
+      "end": 1344.6,
+      "text": "永远不要去跟女生讨论什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00938",
+      "start": 1344.6,
+      "end": 1345.52,
+      "text": "优不优质"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00939",
+      "start": 1345.52,
+      "end": 1346.64,
+      "text": "这个男生挺有钱"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00940",
+      "start": 1346.64,
+      "end": 1348.44,
+      "text": "物质这方面的话题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00941",
+      "start": 1348.44,
+      "end": 1350.72,
+      "text": "你一旦去跟女生聊这方面的话题的话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00942",
+      "start": 1350.72,
+      "end": 1352.8,
+      "text": "那么女生就会用物质来审视你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00943",
+      "start": 1352.8,
+      "end": 1354.2,
+      "text": "然后她就会找你要物质"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00944",
+      "start": 1354.2,
+      "end": 1356.2,
+      "text": "这就是为什么大部分的哥们"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00945",
+      "start": 1356.2,
+      "end": 1357.08,
+      "text": "她就总觉得"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00946",
+      "start": 1357.08,
+      "end": 1358.88,
+      "text": "为什么每个女生都那么物质呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00947",
+      "start": 1358.88,
+      "end": 1359.56,
+      "text": "不是他们的问题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00948",
+      "start": 1359.56,
+      "end": 1360.2,
+      "text": "是你的问题"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00949",
+      "start": 1360.2,
+      "end": 1361.92,
+      "text": "是你老把话题往那方面演"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00950",
+      "start": 1361.92,
+      "end": 1363.04,
+      "text": "就会引起别人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00951",
+      "start": 1363.04,
+      "end": 1365.0,
+      "text": "用这方面的东西去审视你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00952",
+      "start": 1365.0,
+      "end": 1366.56,
+      "text": "如果她去跟你聊物质"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00953",
+      "start": 1366.56,
+      "end": 1367.48,
+      "text": "这方面的话题的话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00954",
+      "start": 1367.48,
+      "end": 1368.48,
+      "text": "你马上切断对话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00955",
+      "start": 1368.48,
+      "end": 1369.72,
+      "text": "去跟她聊别的东西"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00956",
+      "start": 1369.72,
+      "end": 1370.72,
+      "text": "比如说聊不聊得来"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00957",
+      "start": 1370.72,
+      "end": 1371.56,
+      "text": "气不气和"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00958",
+      "start": 1371.56,
+      "end": 1373.52,
+      "text": "去向她传输你的价值观"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00959",
+      "start": 1373.52,
+      "end": 1374.44,
+      "text": "这样的话慢慢的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00960",
+      "start": 1374.44,
+      "end": 1377.24,
+      "text": "她也会被你带着往你想要的那个方向走"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00961",
+      "start": 1377.24,
+      "end": 1377.76,
+      "text": "懂吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00962",
+      "start": 1377.76,
+      "end": 1379.96,
+      "text": "就是女人的心理在想什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00963",
+      "start": 1379.96,
+      "end": 1381.08,
+      "text": "或者说你们的谈话方向"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00964",
+      "start": 1381.08,
+      "end": 1382.68,
+      "text": "都是由你带着走的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00965",
+      "start": 1382.68,
+      "end": 1385.56,
+      "text": "很多人就是为什么女生老找你要物质"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00966",
+      "start": 1385.56,
+      "end": 1386.12,
+      "text": "说白了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00967",
+      "start": 1386.12,
+      "end": 1389.04,
+      "text": "就是你没有聊情绪价值的能力"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00968",
+      "start": 1389.04,
+      "end": 1391.2,
+      "text": "她从你身上得不到情绪价值"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00969",
+      "start": 1391.2,
+      "end": 1392.56,
+      "text": "她才找你要物质"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00970",
+      "start": 1392.56,
+      "end": 1394.84,
+      "text": "她但凡从你身上得到了情绪价值"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00971",
+      "start": 1394.84,
+      "end": 1396.4,
+      "text": "她就不找你要物质了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00972",
+      "start": 1396.4,
+      "end": 1397.6,
+      "text": "就像一家餐厅"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00973",
+      "start": 1397.6,
+      "end": 1399.12,
+      "text": "你做的菜好吃"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00974",
+      "start": 1399.12,
+      "end": 1400.68,
+      "text": "那装修可能就不重要"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00975",
+      "start": 1400.68,
+      "end": 1400.92,
+      "text": "对吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00976",
+      "start": 1400.92,
+      "end": 1402.56,
+      "text": "仓营馆的我们也去吃"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00977",
+      "start": 1402.56,
+      "end": 1404.2,
+      "text": "但是你要菜很难吃"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00978",
+      "start": 1404.2,
+      "end": 1405.76,
+      "text": "那你可能就得装修好一点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00979",
+      "start": 1405.76,
+      "end": 1406.68,
+      "text": "服务好一点了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00980",
+      "start": 1406.68,
+      "end": 1407.32,
+      "text": "我们才去"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00981",
+      "start": 1407.32,
+      "end": 1407.6,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00982",
+      "start": 1407.6,
+      "end": 1408.24,
+      "text": "环境好一点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00983",
+      "start": 1408.24,
+      "end": 1409.4,
+      "text": "至少做得舒服"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00984",
+      "start": 1409.4,
+      "end": 1410.04,
+      "text": "明白不明白"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00985",
+      "start": 1410.04,
+      "end": 1411.2,
+      "text": "就是你这方面不行"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00986",
+      "start": 1411.2,
+      "end": 1412.64,
+      "text": "别人才找你要那方面"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00987",
+      "start": 1412.64,
+      "end": 1413.92,
+      "text": "你要是这方面行"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00988",
+      "start": 1413.92,
+      "end": 1415.4,
+      "text": "别人就不找你要那方面了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00989",
+      "start": 1415.4,
+      "end": 1415.76,
+      "text": "好不好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00990",
+      "start": 1415.76,
+      "end": 1416.72,
+      "text": "内在没有"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00991",
+      "start": 1416.72,
+      "end": 1418.4,
+      "text": "才找你要外在条件"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00992",
+      "start": 1418.4,
+      "end": 1420.48,
+      "text": "所以多去向女生展示自己的内在"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00993",
+      "start": 1420.48,
+      "end": 1421.88,
+      "text": "多去提升自己的内在"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00994",
+      "start": 1421.88,
+      "end": 1423.36,
+      "text": "那么女生自然而然"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00995",
+      "start": 1423.36,
+      "end": 1426.56,
+      "text": "就会对你的外在要求会少很多"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00996",
+      "start": 1426.56,
+      "end": 1428.8,
+      "text": "你看我扎扎你只是因为你漂亮"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00997",
+      "start": 1428.8,
+      "end": 1429.8,
+      "text": "但是我请你吃饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00998",
+      "start": 1429.8,
+      "end": 1431.44,
+      "text": "是因为你跟我聊得来"
+    },
+    {
+      "id": "BV1bXJF6iEXn-00999",
+      "start": 1431.44,
+      "end": 1432.96,
+      "text": "如果你只有漂亮的话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01000",
+      "start": 1432.96,
+      "end": 1435.2,
+      "text": "我不请你吃饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01001",
+      "start": 1435.2,
+      "end": 1436.48,
+      "text": "为什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01002",
+      "start": 1436.48,
+      "end": 1437.12,
+      "text": "因为你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01003",
+      "start": 1437.12,
+      "end": 1438.12,
+      "text": "这两个太多了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01004",
+      "start": 1438.12,
+      "end": 1438.32,
+      "text": "对啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01005",
+      "start": 1438.32,
+      "end": 1440.68,
+      "text": "没有灵魂的这个水乳交融"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01006",
+      "start": 1440.68,
+      "end": 1443.48,
+      "text": "水乳交融是这样用的吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01007",
+      "start": 1443.48,
+      "end": 1445.88,
+      "text": "你看你在镜头前好观众"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01008",
+      "start": 1445.88,
+      "end": 1448.8,
+      "text": "那我一般就这样就笑了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01009",
+      "start": 1448.8,
+      "end": 1450.88,
+      "text": "你上杠德了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01010",
+      "start": 1450.88,
+      "end": 1451.6,
+      "text": "你把鞋脱了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01011",
+      "start": 1451.6,
+      "end": 1452.56,
+      "text": "你这盘腿上"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01012",
+      "start": 1452.56,
+      "end": 1453.64,
+      "text": "上杠德了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01013",
+      "start": 1453.64,
+      "end": 1455.32,
+      "text": "你有点像大S"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01014",
+      "start": 1455.32,
+      "end": 1456.72,
+      "text": "还有女儿像谁"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01015",
+      "start": 1456.72,
+      "end": 1457.84,
+      "text": "像熊戴琳"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01016",
+      "start": 1457.84,
+      "end": 1459.4,
+      "text": "有人说我像"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01017",
+      "start": 1459.4,
+      "end": 1460.16,
+      "text": "那叫什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01018",
+      "start": 1460.16,
+      "end": 1461.56,
+      "text": "李嘉心"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01019",
+      "start": 1461.56,
+      "end": 1463.08,
+      "text": "李嘉心"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01020",
+      "start": 1463.08,
+      "end": 1463.88,
+      "text": "不不不"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01021",
+      "start": 1463.88,
+      "end": 1465.28,
+      "text": "你像熊戴琳"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01022",
+      "start": 1465.28,
+      "end": 1466.24,
+      "text": "因为你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01023",
+      "start": 1466.24,
+      "end": 1466.96,
+      "text": "高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01024",
+      "start": 1466.96,
+      "end": 1468.24,
+      "text": "对第一是高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01025",
+      "start": 1468.24,
+      "end": 1471.8,
+      "text": "第二是比较风满"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01026",
+      "start": 1471.8,
+      "end": 1473.48,
+      "text": "比较有女人味"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01027",
+      "start": 1473.48,
+      "end": 1474.84,
+      "text": "有韵味"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01028",
+      "start": 1474.84,
+      "end": 1477.08,
+      "text": "李嘉心是无感"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01029",
+      "start": 1477.08,
+      "end": 1477.92,
+      "text": "你是风满的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01030",
+      "start": 1477.92,
+      "end": 1479.04,
+      "text": "你喜欢别人说你风满"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01031",
+      "start": 1479.04,
+      "end": 1480.44,
+      "text": "还喜欢说你竹子"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01032",
+      "start": 1480.44,
+      "end": 1481.4,
+      "text": "风满"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01033",
+      "start": 1481.4,
+      "end": 1482.56,
+      "text": "我不喜欢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01034",
+      "start": 1482.56,
+      "end": 1484.2,
+      "text": "你是欧美神妹"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01035",
+      "start": 1484.2,
+      "end": 1485.2,
+      "text": "你不像欧美吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01036",
+      "start": 1485.2,
+      "end": 1487.28,
+      "text": "但我喜欢前途后悄"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01037",
+      "start": 1487.28,
+      "end": 1488.4,
+      "text": "就不是右胎神妹"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01038",
+      "start": 1488.4,
+      "end": 1488.68,
+      "text": "对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01039",
+      "start": 1488.68,
+      "end": 1491.24,
+      "text": "因为这种就是上到厅堂"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01040",
+      "start": 1491.24,
+      "end": 1492.96,
+      "text": "下到厨房"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01041",
+      "start": 1492.96,
+      "end": 1493.4,
+      "text": "不用"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01042",
+      "start": 1493.4,
+      "end": 1494.76,
+      "text": "你上到厅堂就好了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01043",
+      "start": 1494.76,
+      "end": 1495.88,
+      "text": "不用你下厨房"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01044",
+      "start": 1495.88,
+      "end": 1496.92,
+      "text": "你会做饭吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01045",
+      "start": 1496.92,
+      "end": 1498.6,
+      "text": "不会"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01046",
+      "start": 1498.6,
+      "end": 1499.4,
+      "text": "我会"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01047",
+      "start": 1499.4,
+      "end": 1501.32,
+      "text": "我给你做饭你给我记为群"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01048",
+      "start": 1501.32,
+      "end": 1502.48,
+      "text": "保我的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01049",
+      "start": 1502.48,
+      "end": 1503.28,
+      "text": "真的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01050",
+      "start": 1503.28,
+      "end": 1505.72,
+      "text": "真的从后面记"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01051",
+      "start": 1505.72,
+      "end": 1507.28,
+      "text": "从后面记"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01052",
+      "start": 1507.28,
+      "end": 1508.84,
+      "text": "从前面记不是更好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01053",
+      "start": 1508.84,
+      "end": 1511.64,
+      "text": "从前面记咱俩可以脸贴脸"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01054",
+      "start": 1511.64,
+      "end": 1512.4,
+      "text": "从前面记"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01055",
+      "start": 1512.4,
+      "end": 1513.6,
+      "text": "很浪漫"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01056",
+      "start": 1513.6,
+      "end": 1515.44,
+      "text": "这个好好看着"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01057",
+      "start": 1515.44,
+      "end": 1516.12,
+      "text": "铁子吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01058",
+      "start": 1516.12,
+      "end": 1517.56,
+      "text": "好美啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01059",
+      "start": 1517.56,
+      "end": 1520.68,
+      "text": "来干杯"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01060",
+      "start": 1520.68,
+      "end": 1521.88,
+      "text": "牛排哦兄弟们"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01061",
+      "start": 1521.88,
+      "end": 1524.12,
+      "text": "我从来没请女孩说牛排"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01062",
+      "start": 1524.12,
+      "end": 1525.72,
+      "text": "那请女孩一般都吃不吃"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01063",
+      "start": 1525.72,
+      "end": 1527.08,
+      "text": "我不请其他女孩吃饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01064",
+      "start": 1527.08,
+      "end": 1528.6,
+      "text": "你是第一个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01065",
+      "start": 1528.6,
+      "end": 1529.32,
+      "text": "我不信"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01066",
+      "start": 1529.32,
+      "end": 1531.76,
+      "text": "真的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01067",
+      "start": 1531.76,
+      "end": 1534.08,
+      "text": "上次教的就是跟女生聊天"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01068",
+      "start": 1534.08,
+      "end": 1536.12,
+      "text": "永远不要说其他女孩怎么怎么样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01069",
+      "start": 1536.12,
+      "end": 1537.44,
+      "text": "其他男孩怎么怎么样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01070",
+      "start": 1537.44,
+      "end": 1538.8,
+      "text": "只聊你一脸"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01071",
+      "start": 1538.8,
+      "end": 1539.16,
+      "text": "好不好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01072",
+      "start": 1539.16,
+      "end": 1540.6,
+      "text": "聊其他人就容易踩泪"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01073",
+      "start": 1540.6,
+      "end": 1542.88,
+      "text": "这个之前讲过就不重复的讲"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01074",
+      "start": 1542.88,
+      "end": 1544.64,
+      "text": "不会的看前面的讲解"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01075",
+      "start": 1547.64,
+      "end": 1548.52,
+      "text": "我吃吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01076",
+      "start": 1551.52,
+      "end": 1554.48,
+      "text": "看着跟女生相处的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01077",
+      "start": 1554.48,
+      "end": 1556.12,
+      "text": "不要一味的对她好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01078",
+      "start": 1556.12,
+      "end": 1557.8,
+      "text": "你第二口一定要为自己"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01079",
+      "start": 1557.8,
+      "end": 1559.4,
+      "text": "如果你一味的对她好的话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01080",
+      "start": 1559.4,
+      "end": 1560.64,
+      "text": "她就会觉得你是天狗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01081",
+      "start": 1560.64,
+      "end": 1562.16,
+      "text": "慢慢你把她捧得高高好地"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01082",
+      "start": 1562.16,
+      "end": 1563.24,
+      "text": "把自己踩得滴滴的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01083",
+      "start": 1563.24,
+      "end": 1563.68,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01084",
+      "start": 1563.68,
+      "end": 1565.52,
+      "text": "所以说你看我第二口叫为自己"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01085",
+      "start": 1565.52,
+      "end": 1566.68,
+      "text": "明白了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01086",
+      "start": 1566.68,
+      "end": 1569.28,
+      "text": "左手拿着茶"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01087",
+      "start": 1569.28,
+      "end": 1570.36,
+      "text": "对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01088",
+      "start": 1570.36,
+      "end": 1571.56,
+      "text": "右手拿着刀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01089",
+      "start": 1571.56,
+      "end": 1572.72,
+      "text": "对这样切"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01090",
+      "start": 1572.72,
+      "end": 1573.52,
+      "text": "学会了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01091",
+      "start": 1573.52,
+      "end": 1574.84,
+      "text": "法国说话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01092",
+      "start": 1574.84,
+      "end": 1576.12,
+      "text": "这个给你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01093",
+      "start": 1576.12,
+      "end": 1578.48,
+      "text": "真的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01094",
+      "start": 1578.48,
+      "end": 1579.6,
+      "text": "懂事"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01095",
+      "start": 1579.6,
+      "end": 1581.36,
+      "text": "给你加一分"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01096",
+      "start": 1581.36,
+      "end": 1582.8,
+      "text": "我她加了一分"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01097",
+      "start": 1582.8,
+      "end": 1584.2,
+      "text": "分点慢慢讲"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01098",
+      "start": 1584.2,
+      "end": 1586.76,
+      "text": "加多了我怕你教不珍惜我"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01099",
+      "start": 1586.76,
+      "end": 1587.64,
+      "text": "看这也是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01100",
+      "start": 1587.64,
+      "end": 1589.56,
+      "text": "就是对女生好拉伸关系"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01101",
+      "start": 1589.56,
+      "end": 1590.84,
+      "text": "不要一次拉到底"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01102",
+      "start": 1590.84,
+      "end": 1591.84,
+      "text": "一点一点拉"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01103",
+      "start": 1591.84,
+      "end": 1594.44,
+      "text": "让女生有一种欲游未尽的感觉"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01104",
+      "start": 1594.44,
+      "end": 1594.8,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01105",
+      "start": 1594.8,
+      "end": 1596.92,
+      "text": "欲擒故纵的感觉"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01106",
+      "start": 1596.92,
+      "end": 1597.36,
+      "text": "哇"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01107",
+      "start": 1597.36,
+      "end": 1598.48,
+      "text": "好会呀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01108",
+      "start": 1598.48,
+      "end": 1599.88,
+      "text": "聊过多少个女生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01109",
+      "start": 1599.88,
+      "end": 1600.64,
+      "text": "这么会"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01110",
+      "start": 1600.64,
+      "end": 1601.6,
+      "text": "刚才不是说了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01111",
+      "start": 1601.6,
+      "end": 1603.44,
+      "text": "没聊过别的女孩"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01112",
+      "start": 1603.44,
+      "end": 1604.84,
+      "text": "我不信"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01113",
+      "start": 1604.84,
+      "end": 1606.0,
+      "text": "你这么会"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01114",
+      "start": 1606.0,
+      "end": 1607.16,
+      "text": "又是签牛排"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01115",
+      "start": 1607.16,
+      "end": 1608.2,
+      "text": "又是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01116",
+      "start": 1608.2,
+      "end": 1609.08,
+      "text": "又是扶着"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01117",
+      "start": 1609.08,
+      "end": 1611.56,
+      "text": "肯定是在别的地方那"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01118",
+      "start": 1611.56,
+      "end": 1611.8,
+      "text": "会"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01119",
+      "start": 1611.8,
+      "end": 1613.8,
+      "text": "但不代表没标准"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01120",
+      "start": 1613.8,
+      "end": 1614.52,
+      "text": "懂吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01121",
+      "start": 1614.52,
+      "end": 1616.8,
+      "text": "越会的男生标准越高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01122",
+      "start": 1616.8,
+      "end": 1619.2,
+      "text": "一般女生得不到我的料"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01123",
+      "start": 1619.2,
+      "end": 1619.68,
+      "text": "看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01124",
+      "start": 1619.68,
+      "end": 1621.56,
+      "text": "这也是我刚才讲的那个技巧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01125",
+      "start": 1621.56,
+      "end": 1622.36,
+      "text": "就是什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01126",
+      "start": 1622.36,
+      "end": 1623.44,
+      "text": "抬高标准"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01127",
+      "start": 1623.44,
+      "end": 1624.16,
+      "text": "你对她好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01128",
+      "start": 1624.16,
+      "end": 1625.24,
+      "text": "但我的标准更高"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01129",
+      "start": 1625.24,
+      "end": 1627.36,
+      "text": "你觉得你是普通女孩吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01130",
+      "start": 1627.36,
+      "end": 1627.92,
+      "text": "不是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01131",
+      "start": 1627.92,
+      "end": 1628.6,
+      "text": "对呀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01132",
+      "start": 1628.6,
+      "end": 1629.6,
+      "text": "那你平常做什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01133",
+      "start": 1629.6,
+      "end": 1631.44,
+      "text": "你就平天拍这个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01134",
+      "start": 1631.44,
+      "end": 1631.96,
+      "text": "Vlog"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01135",
+      "start": 1631.96,
+      "end": 1632.24,
+      "text": "对呀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01136",
+      "start": 1632.24,
+      "end": 1634.48,
+      "text": "我平常干的事很多"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01137",
+      "start": 1634.48,
+      "end": 1636.04,
+      "text": "现在我喜欢旅游"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01138",
+      "start": 1636.04,
+      "end": 1638.6,
+      "text": "拍Vlog大山女山"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01139",
+      "start": 1638.6,
+      "end": 1639.4,
+      "text": "加微信"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01140",
+      "start": 1639.4,
+      "end": 1640.6,
+      "text": "平常"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01141",
+      "start": 1640.6,
+      "end": 1642.92,
+      "text": "平常我都是自己拍Vlog"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01142",
+      "start": 1642.92,
+      "end": 1643.64,
+      "text": "我是第一次"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01143",
+      "start": 1643.64,
+      "end": 1646.52,
+      "text": "就是跟女孩一起拍"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01144",
+      "start": 1646.52,
+      "end": 1649.08,
+      "text": "因为我自己拍太无聊了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01145",
+      "start": 1649.08,
+      "end": 1652.24,
+      "text": "从半万粉丝掉到了480万粉"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01146",
+      "start": 1652.24,
+      "end": 1654.24,
+      "text": "所以我今天我想"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01147",
+      "start": 1654.24,
+      "end": 1655.56,
+      "text": "我想长粉我不想掉粉"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01148",
+      "start": 1655.56,
+      "end": 1656.52,
+      "text": "所以我就想"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01149",
+      "start": 1656.52,
+      "end": 1658.2,
+      "text": "有一个女孩陪我拍"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01150",
+      "start": 1658.2,
+      "end": 1660.16,
+      "text": "和这不是想搭讪我"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01151",
+      "start": 1660.16,
+      "end": 1662.12,
+      "text": "想把我当你的抖章"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01152",
+      "start": 1663.44,
+      "end": 1664.92,
+      "text": "你看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01153",
+      "start": 1664.92,
+      "end": 1666.08,
+      "text": "就是我是想搭讪你的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01154",
+      "start": 1666.08,
+      "end": 1667.52,
+      "text": "但是一开始也确实是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01155",
+      "start": 1667.52,
+      "end": 1669.08,
+      "text": "只是想跟你拍个视频"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01156",
+      "start": 1669.08,
+      "end": 1670.36,
+      "text": "我实话实说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01157",
+      "start": 1670.36,
+      "end": 1672.16,
+      "text": "我不像别的男生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01158",
+      "start": 1672.16,
+      "end": 1673.84,
+      "text": "虚伪说假话"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01159",
+      "start": 1673.84,
+      "end": 1675.32,
+      "text": "但是搭讪你之后"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01160",
+      "start": 1675.32,
+      "end": 1677.92,
+      "text": "确实发现你的性格很吸引我"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01161",
+      "start": 1677.92,
+      "end": 1679.32,
+      "text": "所以我想跟你交个朋友"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01162",
+      "start": 1679.32,
+      "end": 1680.56,
+      "text": "哪怕这个视频不发"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01163",
+      "start": 1680.56,
+      "end": 1683.52,
+      "text": "我也愿意跟你一起玩"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01164",
+      "start": 1683.52,
+      "end": 1685.08,
+      "text": "挺真诚的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01165",
+      "start": 1685.08,
+      "end": 1688.16,
+      "text": "这里还是上一期讲过的技巧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01166",
+      "start": 1688.16,
+      "end": 1689.2,
+      "text": "就是你要说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01167",
+      "start": 1689.2,
+      "end": 1690.6,
+      "text": "你喜欢这个女孩的颜值"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01168",
+      "start": 1690.6,
+      "end": 1691.92,
+      "text": "但是你更要说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01169",
+      "start": 1691.92,
+      "end": 1692.6,
+      "text": "除了颜值"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01170",
+      "start": 1692.6,
+      "end": 1694.04,
+      "text": "我更喜欢你的性格"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01171",
+      "start": 1694.04,
+      "end": 1695.44,
+      "text": "千万不要单方面的去说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01172",
+      "start": 1695.44,
+      "end": 1696.64,
+      "text": "我只喜欢你的颜值"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01173",
+      "start": 1696.64,
+      "end": 1698.2,
+      "text": "那她会觉得你很负欠"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01174",
+      "start": 1698.2,
+      "end": 1699.16,
+      "text": "她会觉得你是胖胖公子"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01175",
+      "start": 1699.16,
+      "end": 1700.36,
+      "text": "会把你PASS掉的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01176",
+      "start": 1700.36,
+      "end": 1701.48,
+      "text": "你也不要去说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01177",
+      "start": 1701.48,
+      "end": 1702.72,
+      "text": "我不喜欢你的颜值"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01178",
+      "start": 1702.72,
+      "end": 1703.8,
+      "text": "她会觉得你虚伪"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01179",
+      "start": 1703.8,
+      "end": 1705.44,
+      "text": "就是你颜值也喜欢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01180",
+      "start": 1705.44,
+      "end": 1706.84,
+      "text": "性格我也喜欢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01181",
+      "start": 1706.84,
+      "end": 1707.56,
+      "text": "好吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01182",
+      "start": 1707.56,
+      "end": 1708.64,
+      "text": "那你什么星座"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01183",
+      "start": 1708.64,
+      "end": 1709.44,
+      "text": "我是白羊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01184",
+      "start": 1709.44,
+      "end": 1711.72,
+      "text": "你看过有一个12星座的星"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01185",
+      "start": 1711.72,
+      "end": 1713.88,
+      "text": "12星座的那个星的那个表面"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01186",
+      "start": 1713.88,
+      "end": 1716.24,
+      "text": "12星座的星在哪里"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01187",
+      "start": 1716.24,
+      "end": 1717.52,
+      "text": "那白羊在哪里"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01188",
+      "start": 1717.52,
+      "end": 1719.08,
+      "text": "我忘了白羊好像在哪里了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01189",
+      "start": 1719.08,
+      "end": 1720.04,
+      "text": "天蝎在白羊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01190",
+      "start": 1720.04,
+      "end": 1721.4,
+      "text": "天蝎在这"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01191",
+      "start": 1721.4,
+      "end": 1722.4,
+      "text": "天蝎好色"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01192",
+      "start": 1722.4,
+      "end": 1723.28,
+      "text": "白羊也好色"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01193",
+      "start": 1723.28,
+      "end": 1724.68,
+      "text": "对 但我忘了白羊在哪了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01194",
+      "start": 1724.68,
+      "end": 1726.0,
+      "text": "白羊怎么在这啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01195",
+      "start": 1726.0,
+      "end": 1726.8,
+      "text": "不对吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01196",
+      "start": 1726.8,
+      "end": 1727.04,
+      "text": "你看我"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01197",
+      "start": 1727.04,
+      "end": 1728.0,
+      "text": "你再卡不上"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01198",
+      "start": 1728.0,
+      "end": 1729.64,
+      "text": "你只对我的身体感兴趣"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01199",
+      "start": 1729.64,
+      "end": 1730.96,
+      "text": "但是我对你的灵魂感兴趣"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01200",
+      "start": 1730.96,
+      "end": 1732.48,
+      "text": "白羊在这"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01201",
+      "start": 1732.48,
+      "end": 1732.96,
+      "text": "对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01202",
+      "start": 1732.96,
+      "end": 1733.8,
+      "text": "天蝎在这"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01203",
+      "start": 1733.8,
+      "end": 1735.76,
+      "text": "白羊喜欢一个女孩"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01204",
+      "start": 1735.76,
+      "end": 1738.32,
+      "text": "看似是对这个女孩的身体感兴趣"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01205",
+      "start": 1738.32,
+      "end": 1739.52,
+      "text": "实际上是因为爱上了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01206",
+      "start": 1739.52,
+      "end": 1740.28,
+      "text": "这个女孩的女朋友"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01207",
+      "start": 1740.28,
+      "end": 1742.32,
+      "text": "就是你得产生感情"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01208",
+      "start": 1742.32,
+      "end": 1744.04,
+      "text": "产生感情以后才会有"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01209",
+      "start": 1744.04,
+      "end": 1744.2,
+      "text": "对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01210",
+      "start": 1744.2,
+      "end": 1746.08,
+      "text": "但是不能说是没有产生感情"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01211",
+      "start": 1746.08,
+      "end": 1746.8,
+      "text": "然后直接就"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01212",
+      "start": 1746.8,
+      "end": 1747.56,
+      "text": "对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01213",
+      "start": 1747.56,
+      "end": 1749.8,
+      "text": "但是你是纯属喜欢我的身体"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01214",
+      "start": 1749.8,
+      "end": 1750.84,
+      "text": "觉得我帅是吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01215",
+      "start": 1752.24,
+      "end": 1753.36,
+      "text": "你咋不说话了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01216",
+      "start": 1755.2,
+      "end": 1756.2,
+      "text": "哇 你好香"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01217",
+      "start": 1757.36,
+      "end": 1759.44,
+      "text": "好老套路啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01218",
+      "start": 1759.44,
+      "end": 1760.4,
+      "text": "我是真的要拿纸"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01219",
+      "start": 1760.4,
+      "end": 1761.0,
+      "text": "我嘴上"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01220",
+      "start": 1761.88,
+      "end": 1763.92,
+      "text": "你好香啊 妹妹"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01221",
+      "start": 1763.92,
+      "end": 1765.0,
+      "text": "我又不是老男人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01222",
+      "start": 1765.0,
+      "end": 1765.72,
+      "text": "不是老男人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01223",
+      "start": 1765.72,
+      "end": 1766.56,
+      "text": "不仅说你好像"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01224",
+      "start": 1766.56,
+      "end": 1768.0,
+      "text": "他要磨缩一下"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01225",
+      "start": 1768.0,
+      "end": 1769.0,
+      "text": "他得这样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01226",
+      "start": 1771.0,
+      "end": 1772.72,
+      "text": "为什么要这样呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01227",
+      "start": 1772.72,
+      "end": 1774.04,
+      "text": "老男人都是这样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01228",
+      "start": 1774.04,
+      "end": 1776.04,
+      "text": "老男人是这样的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01229",
+      "start": 1776.04,
+      "end": 1777.0,
+      "text": "妹妹 别干了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01230",
+      "start": 1777.0,
+      "end": 1778.88,
+      "text": "跟哥哥回家吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01231",
+      "start": 1778.88,
+      "end": 1780.8,
+      "text": "如果我通过你长份了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01232",
+      "start": 1780.8,
+      "end": 1782.88,
+      "text": "我就请你吃一个月的饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01233",
+      "start": 1782.88,
+      "end": 1784.52,
+      "text": "请我吃一个月的饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01234",
+      "start": 1784.52,
+      "end": 1785.76,
+      "text": "头半个月我请你吃"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01235",
+      "start": 1785.76,
+      "end": 1786.96,
+      "text": "你想吃他吃饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01236",
+      "start": 1786.96,
+      "end": 1788.32,
+      "text": "头半个月我给你做"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01237",
+      "start": 1788.32,
+      "end": 1790.6,
+      "text": "你想怎么做咱就怎么做"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01238",
+      "start": 1790.6,
+      "end": 1791.12,
+      "text": "可以"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01239",
+      "start": 1791.12,
+      "end": 1793.48,
+      "text": "我是一个说道做道的男人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01240",
+      "start": 1793.48,
+      "end": 1793.92,
+      "text": "可以"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01241",
+      "start": 1793.92,
+      "end": 1795.44,
+      "text": "我绝对不怕比喝"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01242",
+      "start": 1795.44,
+      "end": 1796.56,
+      "text": "请吃饭就可以"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01243",
+      "start": 1796.56,
+      "end": 1797.88,
+      "text": "做饭确实可以"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01244",
+      "start": 1797.88,
+      "end": 1798.48,
+      "text": "行"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01245",
+      "start": 1798.48,
+      "end": 1799.4,
+      "text": "咱俩现在不吃了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01246",
+      "start": 1799.4,
+      "end": 1800.6,
+      "text": "现在就去你家我给你做"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01247",
+      "start": 1802.24,
+      "end": 1803.44,
+      "text": "太着急了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01248",
+      "start": 1803.44,
+      "end": 1805.2,
+      "text": "你的心在这呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01249",
+      "start": 1805.2,
+      "end": 1806.4,
+      "text": "你的心是在这的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01250",
+      "start": 1806.4,
+      "end": 1807.52,
+      "text": "你看那个图饼"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01251",
+      "start": 1807.52,
+      "end": 1808.12,
+      "text": "不是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01252",
+      "start": 1808.12,
+      "end": 1809.12,
+      "text": "这你想过了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01253",
+      "start": 1809.12,
+      "end": 1810.72,
+      "text": "我说了给你做完饭我就做"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01254",
+      "start": 1810.72,
+      "end": 1811.64,
+      "text": "你的心在这"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01255",
+      "start": 1811.64,
+      "end": 1812.8,
+      "text": "你就往那方面想"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01256",
+      "start": 1812.8,
+      "end": 1813.24,
+      "text": "咱"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01257",
+      "start": 1813.24,
+      "end": 1814.36,
+      "text": "我只是在聊做饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01258",
+      "start": 1814.36,
+      "end": 1815.8,
+      "text": "你看你往那方面想"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01259",
+      "start": 1815.8,
+      "end": 1816.84,
+      "text": "那你说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01260",
+      "start": 1816.84,
+      "end": 1817.88,
+      "text": "这个叫什么呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01261",
+      "start": 1817.88,
+      "end": 1820.08,
+      "text": "这个叫死不认罪"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01262",
+      "start": 1820.08,
+      "end": 1820.84,
+      "text": "你知道吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01263",
+      "start": 1820.84,
+      "end": 1822.28,
+      "text": "就是知错改错"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01264",
+      "start": 1822.28,
+      "end": 1823.08,
+      "text": "不认错"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01265",
+      "start": 1823.08,
+      "end": 1823.48,
+      "text": "懂吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01266",
+      "start": 1823.48,
+      "end": 1825.52,
+      "text": "就是明明我就是那意思"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01267",
+      "start": 1825.52,
+      "end": 1826.56,
+      "text": "但是女生也接穿了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01268",
+      "start": 1826.56,
+      "end": 1827.28,
+      "text": "我就那意思"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01269",
+      "start": 1827.28,
+      "end": 1828.24,
+      "text": "但是在这种情况下"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01270",
+      "start": 1828.24,
+      "end": 1830.08,
+      "text": "咱就死不承认"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01271",
+      "start": 1830.08,
+      "end": 1831.52,
+      "text": "大家才会有这种拉扯的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01272",
+      "start": 1831.52,
+      "end": 1832.96,
+      "text": "好玩的感觉"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01273",
+      "start": 1832.96,
+      "end": 1834.8,
+      "text": "你要是直接承认了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01274",
+      "start": 1834.8,
+      "end": 1836.08,
+      "text": "那下次我怎么样"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01275",
+      "start": 1836.08,
+      "end": 1836.92,
+      "text": "太正经了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01276",
+      "start": 1836.92,
+      "end": 1838.2,
+      "text": "反而氛围就没了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01277",
+      "start": 1838.2,
+      "end": 1839.0,
+      "text": "很多时候女生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01278",
+      "start": 1839.0,
+      "end": 1841.16,
+      "text": "就是在跟你这种拉扯拉扯拉扯之间"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01279",
+      "start": 1841.16,
+      "end": 1842.44,
+      "text": "你们两个就慢慢的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01280",
+      "start": 1842.44,
+      "end": 1843.76,
+      "text": "真的变得很亲密了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01281",
+      "start": 1843.76,
+      "end": 1844.4,
+      "text": "懂了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01282",
+      "start": 1844.4,
+      "end": 1845.96,
+      "text": "有的时候不是我想"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01283",
+      "start": 1845.96,
+      "end": 1848.08,
+      "text": "一个陌生你的家"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01284",
+      "start": 1848.08,
+      "end": 1848.72,
+      "text": "做饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01285",
+      "start": 1848.72,
+      "end": 1849.6,
+      "text": "咱俩不陌生"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01286",
+      "start": 1849.6,
+      "end": 1850.64,
+      "text": "咱俩都一起吃饭了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01287",
+      "start": 1850.64,
+      "end": 1852.32,
+      "text": "哪里陌生啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01288",
+      "start": 1852.32,
+      "end": 1853.32,
+      "text": "也是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01289",
+      "start": 1853.32,
+      "end": 1853.92,
+      "text": "对啊"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01290",
+      "start": 1853.92,
+      "end": 1854.88,
+      "text": "我这个牵你的手"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01291",
+      "start": 1854.88,
+      "end": 1856.36,
+      "text": "我都得这样牵"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01292",
+      "start": 1857.36,
+      "end": 1858.4,
+      "text": "太伟核了咱俩"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01293",
+      "start": 1858.4,
+      "end": 1860.64,
+      "text": "现在去给你打豪华专车"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01294",
+      "start": 1860.64,
+      "end": 1861.12,
+      "text": "行"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01295",
+      "start": 1861.12,
+      "end": 1861.76,
+      "text": "答应你的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01296",
+      "start": 1861.76,
+      "end": 1862.24,
+      "text": "答应你的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01297",
+      "start": 1862.24,
+      "end": 1863.04,
+      "text": "说道做道"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01298",
+      "start": 1863.04,
+      "end": 1864.32,
+      "text": "豪华专车"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01299",
+      "start": 1864.32,
+      "end": 1865.16,
+      "text": "那你答应我"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01300",
+      "start": 1865.16,
+      "end": 1866.72,
+      "text": "都要去我家做饭的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01301",
+      "start": 1866.72,
+      "end": 1868.36,
+      "text": "看你表现"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01302",
+      "start": 1868.36,
+      "end": 1870.32,
+      "text": "看我表现"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01303",
+      "start": 1870.32,
+      "end": 1871.44,
+      "text": "你要是对我温柔一点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01304",
+      "start": 1871.44,
+      "end": 1871.92,
+      "text": "主动一点"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01305",
+      "start": 1871.92,
+      "end": 1872.88,
+      "text": "没事给我发新奇"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01306",
+      "start": 1872.88,
+      "end": 1873.92,
+      "text": "续含温暖"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01307",
+      "start": 1873.92,
+      "end": 1875.84,
+      "text": "我就给你去做"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01308",
+      "start": 1875.84,
+      "end": 1876.48,
+      "text": "续含温暖"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01309",
+      "start": 1876.48,
+      "end": 1877.32,
+      "text": "在忙在干嘛"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01310",
+      "start": 1877.32,
+      "end": 1877.76,
+      "text": "吃了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01311",
+      "start": 1877.76,
+      "end": 1878.32,
+      "text": "饿了吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01312",
+      "start": 1878.32,
+      "end": 1879.44,
+      "text": "那是续含温暖"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01313",
+      "start": 1879.44,
+      "end": 1880.64,
+      "text": "那是插不口"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01314",
+      "start": 1880.64,
+      "end": 1881.28,
+      "text": "那是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01315",
+      "start": 1881.28,
+      "end": 1882.68,
+      "text": "你看这个就是什么"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01316",
+      "start": 1882.68,
+      "end": 1884.08,
+      "text": "我对你好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01317",
+      "start": 1884.08,
+      "end": 1885.56,
+      "text": "但是有前之条件"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01318",
+      "start": 1885.56,
+      "end": 1886.16,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01319",
+      "start": 1886.16,
+      "end": 1887.72,
+      "text": "你不能平白无故的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01320",
+      "start": 1887.72,
+      "end": 1888.68,
+      "text": "对别人好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01321",
+      "start": 1888.68,
+      "end": 1889.36,
+      "text": "那么这个时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01322",
+      "start": 1889.36,
+      "end": 1890.52,
+      "text": "你的好就不值钱了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01323",
+      "start": 1890.52,
+      "end": 1891.56,
+      "text": "而且别人会觉得"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01324",
+      "start": 1891.56,
+      "end": 1892.28,
+      "text": "你对我的好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01325",
+      "start": 1892.28,
+      "end": 1893.56,
+      "text": "一定是图谋不轨的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01326",
+      "start": 1893.56,
+      "end": 1894.6,
+      "text": "黄鼠狼给击拜年"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01327",
+      "start": 1894.6,
+      "end": 1895.64,
+      "text": "你不安好心"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01328",
+      "start": 1895.64,
+      "end": 1897.0,
+      "text": "你无视不能三卖我店"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01329",
+      "start": 1897.0,
+      "end": 1897.96,
+      "text": "你为什么平白无故"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01330",
+      "start": 1897.96,
+      "end": 1898.72,
+      "text": "对我这么好"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01331",
+      "start": 1898.72,
+      "end": 1900.92,
+      "text": "那你肯定是对我别有所图"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01332",
+      "start": 1900.92,
+      "end": 1901.64,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01333",
+      "start": 1901.64,
+      "end": 1902.44,
+      "text": "所以说你看"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01334",
+      "start": 1902.44,
+      "end": 1903.56,
+      "text": "我答应给你做饭了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01335",
+      "start": 1903.56,
+      "end": 1905.04,
+      "text": "但是看你表现吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01336",
+      "start": 1905.04,
+      "end": 1907.12,
+      "text": "你的前之条件"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01337",
+      "start": 1907.12,
+      "end": 1908.52,
+      "text": "也不要太过分"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01338",
+      "start": 1908.52,
+      "end": 1910.32,
+      "text": "你先给我转个五千二的红包"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01339",
+      "start": 1910.32,
+      "end": 1911.12,
+      "text": "我再给你做"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01340",
+      "start": 1911.12,
+      "end": 1912.72,
+      "text": "一个月给我发五千块钱工资"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01341",
+      "start": 1912.72,
+      "end": 1913.2,
+      "text": "我给你做"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01342",
+      "start": 1913.2,
+      "end": 1914.4,
+      "text": "那你这个就过分了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01343",
+      "start": 1914.4,
+      "end": 1917.04,
+      "text": "就是你的前之条件要有"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01344",
+      "start": 1917.04,
+      "end": 1918.72,
+      "text": "但是是一个很容易达成的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01345",
+      "start": 1918.72,
+      "end": 1921.0,
+      "text": "而且是一个爱没点的前之条件"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01346",
+      "start": 1921.0,
+      "end": 1922.68,
+      "text": "这样的话两个人关系就会拉近"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01347",
+      "start": 1922.68,
+      "end": 1925.28,
+      "text": "而且女生不会觉得你很低价值"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01348",
+      "start": 1925.28,
+      "end": 1927.8,
+      "text": "那你明天干嘛呀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01349",
+      "start": 1927.8,
+      "end": 1929.32,
+      "text": "明天"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01350",
+      "start": 1929.32,
+      "end": 1930.2,
+      "text": "明天不知道呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01351",
+      "start": 1930.2,
+      "end": 1932.08,
+      "text": "可能我就不在这个城市了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01352",
+      "start": 1932.08,
+      "end": 1933.28,
+      "text": "我可能就去下一个城市"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01353",
+      "start": 1933.28,
+      "end": 1934.36,
+      "text": "拍伟老个了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01354",
+      "start": 1934.36,
+      "end": 1935.72,
+      "text": "下一个城市拍伟老个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01355",
+      "start": 1935.72,
+      "end": 1937.88,
+      "text": "又下一个找一个漂亮美女"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01356",
+      "start": 1937.88,
+      "end": 1941.2,
+      "text": "你看我一猜你就这样说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01357",
+      "start": 1941.2,
+      "end": 1943.6,
+      "text": "你不是说要给我做一个月的饭吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01358",
+      "start": 1943.6,
+      "end": 1945.72,
+      "text": "就是人都有损失厌恶心理"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01359",
+      "start": 1945.72,
+      "end": 1947.56,
+      "text": "如果你特别主动的跟女生说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01360",
+      "start": 1947.56,
+      "end": 1948.32,
+      "text": "我要去给你做饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01361",
+      "start": 1948.32,
+      "end": 1948.88,
+      "text": "我要去给你做饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01362",
+      "start": 1948.88,
+      "end": 1949.72,
+      "text": "我要去给你做饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01363",
+      "start": 1949.72,
+      "end": 1951.04,
+      "text": "她反而会拒绝你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01364",
+      "start": 1951.04,
+      "end": 1951.6,
+      "text": "但是呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01365",
+      "start": 1951.6,
+      "end": 1952.6,
+      "text": "你说我要去给你做饭"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01366",
+      "start": 1952.6,
+      "end": 1953.88,
+      "text": "但你又说我要走了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01367",
+      "start": 1953.88,
+      "end": 1955.2,
+      "text": "我要去别的地方了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01368",
+      "start": 1955.2,
+      "end": 1956.08,
+      "text": "她会觉得"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01369",
+      "start": 1956.08,
+      "end": 1957.32,
+      "text": "你去别的地方了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01370",
+      "start": 1957.32,
+      "end": 1959.2,
+      "text": "你要被别的女的抢走了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01371",
+      "start": 1959.2,
+      "end": 1961.36,
+      "text": "这个时候她会主动过来抢你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01372",
+      "start": 1961.36,
+      "end": 1961.8,
+      "text": "懂吗"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01373",
+      "start": 1961.8,
+      "end": 1964.32,
+      "text": "因为人就算她不喜欢你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01374",
+      "start": 1964.32,
+      "end": 1965.2,
+      "text": "但她也不希望"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01375",
+      "start": 1965.2,
+      "end": 1967.92,
+      "text": "原本属于自己的东西被抢走"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01376",
+      "start": 1967.92,
+      "end": 1969.16,
+      "text": "这就好比你一个"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01377",
+      "start": 1969.16,
+      "end": 1970.2,
+      "text": "你不要的东西"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01378",
+      "start": 1970.2,
+      "end": 1971.28,
+      "text": "但是你又不舍得扔"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01379",
+      "start": 1971.28,
+      "end": 1972.64,
+      "text": "你就给她放到抽屉里了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01380",
+      "start": 1972.64,
+      "end": 1973.8,
+      "text": "你到时候找不着了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01381",
+      "start": 1973.8,
+      "end": 1975.28,
+      "text": "你就特难受"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01382",
+      "start": 1975.28,
+      "end": 1976.52,
+      "text": "虽然这个东西可能对你来说"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01383",
+      "start": 1976.52,
+      "end": 1977.04,
+      "text": "作用不大"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01384",
+      "start": 1977.04,
+      "end": 1977.88,
+      "text": "你都很久没用了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01385",
+      "start": 1977.88,
+      "end": 1978.64,
+      "text": "你都把这东西忘了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01386",
+      "start": 1978.64,
+      "end": 1979.44,
+      "text": "但是你突然找不着"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01387",
+      "start": 1979.44,
+      "end": 1980.36,
+      "text": "你就是难受"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01388",
+      "start": 1980.36,
+      "end": 1981.4,
+      "text": "就是人就是这样的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01389",
+      "start": 1981.4,
+      "end": 1983.52,
+      "text": "人就是不希望失去"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01390",
+      "start": 1983.52,
+      "end": 1984.96,
+      "text": "我们在跟女生相处的时候"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01391",
+      "start": 1984.96,
+      "end": 1989.2,
+      "text": "我们永远要给女生留那么一点点危机感"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01392",
+      "start": 1989.2,
+      "end": 1990.08,
+      "text": "不要让她觉得"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01393",
+      "start": 1990.08,
+      "end": 1992.2,
+      "text": "她已经百分百得到你的"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01394",
+      "start": 1992.2,
+      "end": 1993.64,
+      "text": "永远让她觉得"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01395",
+      "start": 1993.64,
+      "end": 1995.28,
+      "text": "你是得到了我"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01396",
+      "start": 1995.28,
+      "end": 1997.12,
+      "text": "但是你不死死抓住"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01397",
+      "start": 1997.12,
+      "end": 1998.32,
+      "text": "你也会失去我"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01398",
+      "start": 1998.32,
+      "end": 2000.68,
+      "text": "这个时候她才会死死的抓住"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01399",
+      "start": 2000.68,
+      "end": 2001.92,
+      "text": "这就是爱情就像杀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01400",
+      "start": 2001.92,
+      "end": 2003.64,
+      "text": "你越想抓住她"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01401",
+      "start": 2003.64,
+      "end": 2004.92,
+      "text": "你越抓不住"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01402",
+      "start": 2004.92,
+      "end": 2006.04,
+      "text": "你松手"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01403",
+      "start": 2006.04,
+      "end": 2006.88,
+      "text": "你让她留走"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01404",
+      "start": 2006.88,
+      "end": 2008.12,
+      "text": "她反而不留走"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01405",
+      "start": 2008.12,
+      "end": 2010.56,
+      "text": "你想让我找下一个美女是吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01406",
+      "start": 2010.56,
+      "end": 2012.56,
+      "text": "你是不是吃醋了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01407",
+      "start": 2012.56,
+      "end": 2014.04,
+      "text": "哎"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01408",
+      "start": 2014.04,
+      "end": 2017.76,
+      "text": "这么快就吃醋了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01409",
+      "start": 2017.76,
+      "end": 2019.12,
+      "text": "你打不说话呢"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01410",
+      "start": 2019.12,
+      "end": 2020.48,
+      "text": "我才没有吃醋"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01411",
+      "start": 2020.48,
+      "end": 2022.72,
+      "text": "你的眼神已经出卖了你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01412",
+      "start": 2022.72,
+      "end": 2026.28,
+      "text": "你的眼睛出卖了你的心"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01413",
+      "start": 2026.28,
+      "end": 2027.4,
+      "text": "哎"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01414",
+      "start": 2027.4,
+      "end": 2029.28,
+      "text": "小心车小心车"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01415",
+      "start": 2029.28,
+      "end": 2030.24,
+      "text": "哎"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01416",
+      "start": 2032.68,
+      "end": 2033.92,
+      "text": "嘻嘻"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01417",
+      "start": 2035.44,
+      "end": 2036.88,
+      "text": "行了你车到了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01418",
+      "start": 2036.88,
+      "end": 2038.12,
+      "text": "我们白白了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01419",
+      "start": 2038.12,
+      "end": 2039.28,
+      "text": "来抱一个吧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01420",
+      "start": 2039.28,
+      "end": 2041.04,
+      "text": "哎呦"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01421",
+      "start": 2041.04,
+      "end": 2041.92,
+      "text": "好了"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01422",
+      "start": 2041.92,
+      "end": 2043.44,
+      "text": "白白我会联系你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01423",
+      "start": 2043.44,
+      "end": 2045.36,
+      "text": "好的兄弟们今天的干货就到这里"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01424",
+      "start": 2045.36,
+      "end": 2047.0,
+      "text": "总结一句话就是"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01425",
+      "start": 2047.0,
+      "end": 2048.2,
+      "text": "爱情就像杀"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01426",
+      "start": 2048.2,
+      "end": 2049.16,
+      "text": "抓得越紧"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01427",
+      "start": 2049.16,
+      "end": 2050.04,
+      "text": "流失得越快"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01428",
+      "start": 2050.04,
+      "end": 2050.96,
+      "text": "做好自己"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01429",
+      "start": 2050.96,
+      "end": 2051.96,
+      "text": "她会倒追你"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01430",
+      "start": 2051.96,
+      "end": 2053.48,
+      "text": "那如果你有喜欢的女生搞不定"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01431",
+      "start": 2053.48,
+      "end": 2054.72,
+      "text": "或者想要跟续哥学习"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01432",
+      "start": 2054.72,
+      "end": 2055.04,
+      "text": "报名私叫"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01433",
+      "start": 2055.04,
+      "end": 2055.88,
+      "text": "提升情商"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01434",
+      "start": 2055.88,
+      "end": 2058.04,
+      "text": "可以看置顶评论或者主页签名"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01435",
+      "start": 2058.04,
+      "end": 2059.36,
+      "text": "找到续哥本人"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01436",
+      "start": 2059.36,
+      "end": 2062.04,
+      "text": "好了 关注续哥一键三连一周一次"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01437",
+      "start": 2062.04,
+      "end": 2063.16,
+      "text": "最实用的情感干货"
+    },
+    {
+      "id": "BV1bXJF6iEXn-01438",
+      "start": 2063.16,
+      "end": 2064.92,
+      "text": "咱们下期再见"
+    }
+  ],
+  "video_bvid": "BV1bXJF6iEXn",
+  "source_url": "https://www.bilibili.com/video/BV1bXJF6iEXn/"
+}

@@ -1,0 +1,933 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-14",
+  "method": "Time ranges not covered by primary small ASR segment timestamp annotations. A gap is not a silence label or proof that a dialogue occurred. Lexical scene hints are prioritization clues only.",
+  "threshold_seconds": 5,
+  "listening_verified": false,
+  "expected_videos": 18,
+  "checked_videos": 18,
+  "total_gaps": 48,
+  "total_gap_duration_seconds": 596.68,
+  "videos": [
+    {
+      "bvid": "BV1vj6yBDE5r",
+      "episode": 1,
+      "decoded_duration_seconds": 684.825,
+      "segments": 458,
+      "gaps_over_5_seconds": 1,
+      "gap_duration_seconds": 6.0,
+      "gaps": [
+        {
+          "id": "BV1vj6yBDE5r-gap-001",
+          "start": 658.36,
+          "end": 664.36,
+          "duration": 6.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1vj6yBDE5r-00440",
+          "before_text": "上去陪你检查一下",
+          "after_segment_id": "BV1vj6yBDE5r-00441",
+          "after_text": "好的兄弟们",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [
+            "BV1vj6yBDE5r-0000-0685-medium.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1vj6yBDE5r/?t=658"
+        }
+      ]
+    },
+    {
+      "bvid": "BV14gFYzREk4",
+      "episode": 2,
+      "decoded_duration_seconds": 703.377,
+      "segments": 348,
+      "gaps_over_5_seconds": 5,
+      "gap_duration_seconds": 60.28,
+      "gaps": [
+        {
+          "id": "BV14gFYzREk4-gap-001",
+          "start": 38.2,
+          "end": 48.96,
+          "duration": 10.76,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV14gFYzREk4-00012",
+          "before_text": "好了顯化不多說咱們直接開始",
+          "after_segment_id": "BV14gFYzREk4-00013",
+          "after_text": "這句話兄弟們你們怎麼回上來虛哥就已經遲到了",
+          "scene_hint_from_lexical_context": true,
+          "supplemental_machine_files": [
+            "BV14gFYzREk4-0000-0704-turbo.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV14gFYzREk4/?t=38"
+        },
+        {
+          "id": "BV14gFYzREk4-gap-002",
+          "start": 118.2,
+          "end": 134.88,
+          "duration": 16.68,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV14gFYzREk4-00044",
+          "before_text": "一定要扛責然後我們付出代價去彌補就行了",
+          "after_segment_id": "BV14gFYzREk4-00045",
+          "after_text": "嘿嘿兄弟們",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [
+            "BV14gFYzREk4-0000-0704-turbo.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV14gFYzREk4/?t=118"
+        },
+        {
+          "id": "BV14gFYzREk4-gap-003",
+          "start": 188.12,
+          "end": 196.76,
+          "duration": 8.64,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV14gFYzREk4-00071",
+          "before_text": "好接下來看一下點菜的環節",
+          "after_segment_id": "BV14gFYzREk4-00072",
+          "after_text": "這句話你們會怎麼回",
+          "scene_hint_from_lexical_context": true,
+          "supplemental_machine_files": [
+            "BV14gFYzREk4-0000-0704-turbo.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV14gFYzREk4/?t=188"
+        },
+        {
+          "id": "BV14gFYzREk4-gap-004",
+          "start": 632.24,
+          "end": 650.16,
+          "duration": 17.92,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV14gFYzREk4-00313",
+          "before_text": "就出現了接下來的對話",
+          "after_segment_id": "BV14gFYzREk4-00314",
+          "after_text": "兄弟們",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [
+            "BV14gFYzREk4-0000-0704-turbo.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV14gFYzREk4/?t=632"
+        },
+        {
+          "id": "BV14gFYzREk4-gap-005",
+          "start": 675.0,
+          "end": 681.28,
+          "duration": 6.28,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV14gFYzREk4-00331",
+          "before_text": "氣氛都到了",
+          "after_segment_id": "BV14gFYzREk4-00332",
+          "after_text": "好的兄弟們",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [
+            "BV14gFYzREk4-0000-0704-turbo.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV14gFYzREk4/?t=675"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1kJP5z6EDw",
+      "episode": 3,
+      "decoded_duration_seconds": 1068.093,
+      "segments": 616,
+      "gaps_over_5_seconds": 5,
+      "gap_duration_seconds": 55.0,
+      "gaps": [
+        {
+          "id": "BV1kJP5z6EDw-gap-001",
+          "start": 757.08,
+          "end": 763.08,
+          "duration": 6.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1kJP5z6EDw-00433",
+          "before_text": "你还笑",
+          "after_segment_id": "BV1kJP5z6EDw-00434",
+          "after_text": "你这",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1kJP5z6EDw/?t=757"
+        },
+        {
+          "id": "BV1kJP5z6EDw-gap-002",
+          "start": 823.08,
+          "end": 838.08,
+          "duration": 15.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1kJP5z6EDw-00470",
+          "before_text": "是什么样的男人",
+          "after_segment_id": "BV1kJP5z6EDw-00471",
+          "after_text": "这里为什么我要拒绝",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [
+            "BV1kJP5z6EDw-0819-0842-medium.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1kJP5z6EDw/?t=823"
+        },
+        {
+          "id": "BV1kJP5z6EDw-gap-003",
+          "start": 884.08,
+          "end": 904.08,
+          "duration": 20.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1kJP5z6EDw-00510",
+          "before_text": "明白吗",
+          "after_segment_id": "BV1kJP5z6EDw-00511",
+          "after_text": "那一块当时也挺出乎我意料的",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [
+            "BV1kJP5z6EDw-0880-0924-medium.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1kJP5z6EDw/?t=884"
+        },
+        {
+          "id": "BV1kJP5z6EDw-gap-004",
+          "start": 912.08,
+          "end": 920.08,
+          "duration": 8.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1kJP5z6EDw-00515",
+          "before_text": "直接看叙哥领场发挥",
+          "after_segment_id": "BV1kJP5z6EDw-00516",
+          "after_text": "怎么样 兄弟们这个回答",
+          "scene_hint_from_lexical_context": true,
+          "supplemental_machine_files": [
+            "BV1kJP5z6EDw-0880-0924-medium.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1kJP5z6EDw/?t=912"
+        },
+        {
+          "id": "BV1kJP5z6EDw-gap-005",
+          "start": 1034.08,
+          "end": 1040.08,
+          "duration": 6.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1kJP5z6EDw-00597",
+          "before_text": "没有 我真得走了",
+          "after_segment_id": "BV1kJP5z6EDw-00598",
+          "after_text": "好了兄弟们",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1kJP5z6EDw/?t=1034"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1upQdBiEN1",
+      "episode": 4,
+      "decoded_duration_seconds": 1047.126,
+      "segments": 587,
+      "gaps_over_5_seconds": 2,
+      "gap_duration_seconds": 18.5,
+      "gaps": [
+        {
+          "id": "BV1upQdBiEN1-gap-001",
+          "start": 321.0,
+          "end": 334.0,
+          "duration": 13.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1upQdBiEN1-00157",
+          "before_text": "哎先看看她怎麼說啊",
+          "after_segment_id": "BV1upQdBiEN1-00158",
+          "after_text": "哎好兄弟們",
+          "scene_hint_from_lexical_context": true,
+          "supplemental_machine_files": [
+            "BV1upQdBiEN1-0317-0340-medium.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1upQdBiEN1/?t=321"
+        },
+        {
+          "id": "BV1upQdBiEN1-gap-002",
+          "start": 992.5,
+          "end": 998.0,
+          "duration": 5.5,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1upQdBiEN1-00559",
+          "before_text": "那你等我一下",
+          "after_segment_id": "BV1upQdBiEN1-00560",
+          "after_text": "那你去找你前男友啊",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1upQdBiEN1/?t=992"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ZX9KBUEip",
+      "episode": 5,
+      "decoded_duration_seconds": 853.727,
+      "segments": 504,
+      "gaps_over_5_seconds": 7,
+      "gap_duration_seconds": 73.84,
+      "gaps": [
+        {
+          "id": "BV1ZX9KBUEip-gap-001",
+          "start": 30.68,
+          "end": 55.88,
+          "duration": 25.2,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1ZX9KBUEip-00012",
+          "before_text": "好了 闲话不多说 咱们直接开始",
+          "after_segment_id": "BV1ZX9KBUEip-00013",
+          "after_text": "回顾一下 刚才这一整段第一个技巧是什么",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [
+            "BV1ZX9KBUEip-0027-0062-medium.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1ZX9KBUEip/?t=30"
+        },
+        {
+          "id": "BV1ZX9KBUEip-gap-002",
+          "start": 299.16,
+          "end": 308.16,
+          "duration": 9.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1ZX9KBUEip-00173",
+          "before_text": "我靠一会",
+          "after_segment_id": "BV1ZX9KBUEip-00174",
+          "after_text": "你家远吗",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1ZX9KBUEip/?t=299"
+        },
+        {
+          "id": "BV1ZX9KBUEip-gap-003",
+          "start": 343.96,
+          "end": 350.64,
+          "duration": 6.68,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1ZX9KBUEip-00192",
+          "before_text": "来我给你接着你上吧",
+          "after_segment_id": "BV1ZX9KBUEip-00193",
+          "after_text": "如果你们看了这个",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1ZX9KBUEip/?t=343"
+        },
+        {
+          "id": "BV1ZX9KBUEip-gap-004",
+          "start": 527.36,
+          "end": 533.72,
+          "duration": 6.36,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1ZX9KBUEip-00323",
+          "before_text": "我不能走吗",
+          "after_segment_id": "BV1ZX9KBUEip-00324",
+          "after_text": "我去换个衣服",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1ZX9KBUEip/?t=527"
+        },
+        {
+          "id": "BV1ZX9KBUEip-gap-005",
+          "start": 535.0,
+          "end": 546.32,
+          "duration": 11.32,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1ZX9KBUEip-00324",
+          "before_text": "我去换个衣服",
+          "after_segment_id": "BV1ZX9KBUEip-00325",
+          "after_text": "你不冷吗",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1ZX9KBUEip/?t=535"
+        },
+        {
+          "id": "BV1ZX9KBUEip-gap-006",
+          "start": 812.32,
+          "end": 818.88,
+          "duration": 6.56,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1ZX9KBUEip-00484",
+          "before_text": "那我下去买酒",
+          "after_segment_id": "BV1ZX9KBUEip-00485",
+          "after_text": "今天喝得够多了",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1ZX9KBUEip/?t=812"
+        },
+        {
+          "id": "BV1ZX9KBUEip-gap-007",
+          "start": 826.56,
+          "end": 835.28,
+          "duration": 8.72,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1ZX9KBUEip-00488",
+          "before_text": "我走 麦克",
+          "after_segment_id": "BV1ZX9KBUEip-00489",
+          "after_text": "好了兄弟们",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1ZX9KBUEip/?t=826"
+        }
+      ]
+    },
+    {
+      "bvid": "BV12GQiBrExv",
+      "episode": 6,
+      "decoded_duration_seconds": 3129.677,
+      "segments": 1703,
+      "gaps_over_5_seconds": 17,
+      "gap_duration_seconds": 193.64,
+      "gaps": [
+        {
+          "id": "BV12GQiBrExv-gap-001",
+          "start": 38.6,
+          "end": 59.68,
+          "duration": 21.08,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-00023",
+          "before_text": "咱們直接開始",
+          "after_segment_id": "BV12GQiBrExv-00024",
+          "after_text": "我看我看住不上那個鳥",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=38"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-002",
+          "start": 1316.44,
+          "end": 1322.2,
+          "duration": 5.76,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-00883",
+          "before_text": "看嗎 非常強勢 非常合理化",
+          "after_segment_id": "BV12GQiBrExv-00884",
+          "after_text": "你別靠我唱得近啊",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=1316"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-003",
+          "start": 1825.32,
+          "end": 1835.72,
+          "duration": 10.4,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01183",
+          "before_text": "這是跟著這個路走",
+          "after_segment_id": "BV12GQiBrExv-01184",
+          "after_text": "我到了",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=1825"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-004",
+          "start": 1858.12,
+          "end": 1865.72,
+          "duration": 7.6,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01195",
+          "before_text": "你不捨不得我",
+          "after_segment_id": "BV12GQiBrExv-01196",
+          "after_text": "不清一口再走嗎",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=1858"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-005",
+          "start": 1867.24,
+          "end": 1872.36,
+          "duration": 5.12,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01196",
+          "before_text": "不清一口再走嗎",
+          "after_segment_id": "BV12GQiBrExv-01197",
+          "after_text": "就這一間了",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=1867"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-006",
+          "start": 1880.52,
+          "end": 1886.2,
+          "duration": 5.68,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01200",
+          "before_text": "這是我住的地方",
+          "after_segment_id": "BV12GQiBrExv-01201",
+          "after_text": "現在約好了",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=1880"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-007",
+          "start": 2093.24,
+          "end": 2099.24,
+          "duration": 6.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01290",
+          "before_text": "看我啦",
+          "after_segment_id": "BV12GQiBrExv-01291",
+          "after_text": "走不動了前面有鱸魚可以起",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=2093"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-008",
+          "start": 2107.24,
+          "end": 2117.24,
+          "duration": 10.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01293",
+          "before_text": "你們不要一起跟我說話",
+          "after_segment_id": "BV12GQiBrExv-01294",
+          "after_text": "哇塞",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=2107"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-009",
+          "start": 2141.24,
+          "end": 2149.24,
+          "duration": 8.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01301",
+          "before_text": "不然我們一起合拍一個過來",
+          "after_segment_id": "BV12GQiBrExv-01302",
+          "after_text": "我一起拍一個",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=2141"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-010",
+          "start": 2155.24,
+          "end": 2169.24,
+          "duration": 14.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01304",
+          "before_text": "拍我們",
+          "after_segment_id": "BV12GQiBrExv-01305",
+          "after_text": "記住這個小翔啊",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=2155"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-011",
+          "start": 2553.24,
+          "end": 2565.24,
+          "duration": 12.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01488",
+          "before_text": "學你們的過學啊",
+          "after_segment_id": "BV12GQiBrExv-01489",
+          "after_text": "我們去搭一個這個什麼",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=2553"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-012",
+          "start": 2607.24,
+          "end": 2613.24,
+          "duration": 6.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01506",
+          "before_text": "你是上天拍的懲罰我的",
+          "after_segment_id": "BV12GQiBrExv-01507",
+          "after_text": "不能找槍筒",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=2607"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-013",
+          "start": 2697.24,
+          "end": 2703.24,
+          "duration": 6.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01541",
+          "before_text": "謝謝",
+          "after_segment_id": "BV12GQiBrExv-01542",
+          "after_text": "登頂了",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=2697"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-014",
+          "start": 2719.24,
+          "end": 2731.24,
+          "duration": 12.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01546",
+          "before_text": "搶答",
+          "after_segment_id": "BV12GQiBrExv-01547",
+          "after_text": "好美啊冰虎",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=2719"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-015",
+          "start": 2947.24,
+          "end": 2969.24,
+          "duration": 22.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01648",
+          "before_text": "走",
+          "after_segment_id": "BV12GQiBrExv-01649",
+          "after_text": "媽媽明天不要這樣哭",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=2947"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-016",
+          "start": 2971.24,
+          "end": 2995.24,
+          "duration": 24.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01649",
+          "before_text": "媽媽明天不要這樣哭",
+          "after_segment_id": "BV12GQiBrExv-01650",
+          "after_text": "你找那麼多女生拍攝視頻",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=2971"
+        },
+        {
+          "id": "BV12GQiBrExv-gap-017",
+          "start": 3085.24,
+          "end": 3103.24,
+          "duration": 18.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV12GQiBrExv-01690",
+          "before_text": "再見",
+          "after_segment_id": "BV12GQiBrExv-01691",
+          "after_text": "好那麼兄弟們",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV12GQiBrExv/?t=3085"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1dx9dBnE7d",
+      "episode": 7,
+      "decoded_duration_seconds": 2036.783,
+      "segments": 1400,
+      "gaps_over_5_seconds": 0,
+      "gap_duration_seconds": 0,
+      "gaps": []
+    },
+    {
+      "bvid": "BV14L5Y6GEcG",
+      "episode": 8,
+      "decoded_duration_seconds": 1826.062,
+      "segments": 1078,
+      "gaps_over_5_seconds": 1,
+      "gap_duration_seconds": 26.38,
+      "gaps": [
+        {
+          "id": "BV14L5Y6GEcG-gap-001",
+          "start": 3.62,
+          "end": 30.0,
+          "duration": 26.38,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV14L5Y6GEcG-00001",
+          "before_text": "吹笨 吹笨 吹笨 吹笨",
+          "after_segment_id": "BV14L5Y6GEcG-00002",
+          "after_text": "哥布林打反啊",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV14L5Y6GEcG/?t=3"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1sYLi6nEA6",
+      "episode": 9,
+      "decoded_duration_seconds": 1889.104,
+      "segments": 1206,
+      "gaps_over_5_seconds": 2,
+      "gap_duration_seconds": 50.6,
+      "gaps": [
+        {
+          "id": "BV1sYLi6nEA6-gap-001",
+          "start": 3.62,
+          "end": 30.0,
+          "duration": 26.38,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1sYLi6nEA6-00001",
+          "before_text": "订单订单订单订单订单订单订单!",
+          "after_segment_id": "BV1sYLi6nEA6-00002",
+          "after_text": "那么不会跟女生相属的兄弟这个视频看完你将会功力大掌好了闲话不多说我们直接开始",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1sYLi6nEA6/?t=3"
+        },
+        {
+          "id": "BV1sYLi6nEA6-gap-002",
+          "start": 36.7,
+          "end": 60.92,
+          "duration": 24.22,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1sYLi6nEA6-00002",
+          "before_text": "那么不会跟女生相属的兄弟这个视频看完你将会功力大掌好了闲话不多说我们直接开始",
+          "after_segment_id": "BV1sYLi6nEA6-00003",
+          "after_text": "你好我是一个旅游博主",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1sYLi6nEA6/?t=36"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1CjV16KEHe",
+      "episode": 10,
+      "decoded_duration_seconds": 2590.904,
+      "segments": 1701,
+      "gaps_over_5_seconds": 3,
+      "gap_duration_seconds": 33.68,
+      "gaps": [
+        {
+          "id": "BV1CjV16KEHe-gap-001",
+          "start": 1693.32,
+          "end": 1699.68,
+          "duration": 6.36,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1CjV16KEHe-01131",
+          "before_text": "你也吃啊",
+          "after_segment_id": "BV1CjV16KEHe-01132",
+          "after_text": "你是鸡牛做完啊",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1CjV16KEHe/?t=1693"
+        },
+        {
+          "id": "BV1CjV16KEHe-gap-002",
+          "start": 2171.88,
+          "end": 2189.88,
+          "duration": 18.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1CjV16KEHe-01466",
+          "before_text": "再进一步了",
+          "after_segment_id": "BV1CjV16KEHe-01467",
+          "after_text": "连续两个测试都通过了",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1CjV16KEHe/?t=2171"
+        },
+        {
+          "id": "BV1CjV16KEHe-gap-003",
+          "start": 2278.0,
+          "end": 2287.32,
+          "duration": 9.32,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1CjV16KEHe-01516",
+          "before_text": "语言上的测试",
+          "after_segment_id": "BV1CjV16KEHe-01517",
+          "after_text": "这是你的车吗",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1CjV16KEHe/?t=2278"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1bXJF6iEXn",
+      "episode": 11,
+      "decoded_duration_seconds": 2066.969,
+      "segments": 1438,
+      "gaps_over_5_seconds": 0,
+      "gap_duration_seconds": 0,
+      "gaps": []
+    },
+    {
+      "bvid": "BV1sFj26mEu1",
+      "episode": 12,
+      "decoded_duration_seconds": 1477.577,
+      "segments": 1009,
+      "gaps_over_5_seconds": 2,
+      "gap_duration_seconds": 19.0,
+      "gaps": [
+        {
+          "id": "BV1sFj26mEu1-gap-001",
+          "start": 1340.16,
+          "end": 1347.16,
+          "duration": 7.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1sFj26mEu1-00931",
+          "before_text": "失败了",
+          "after_segment_id": "BV1sFj26mEu1-00932",
+          "after_text": "送你了",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1sFj26mEu1/?t=1340"
+        },
+        {
+          "id": "BV1sFj26mEu1-gap-002",
+          "start": 1450.16,
+          "end": 1462.16,
+          "duration": 12.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1sFj26mEu1-00996",
+          "before_text": "拜拜",
+          "after_segment_id": "BV1sFj26mEu1-00997",
+          "after_text": "这位女生搞不定的",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1sFj26mEu1/?t=1450"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1tVKf6cE5G",
+      "episode": 13,
+      "decoded_duration_seconds": 783.718,
+      "segments": 472,
+      "gaps_over_5_seconds": 0,
+      "gap_duration_seconds": 0,
+      "gaps": []
+    },
+    {
+      "bvid": "BV1VrMt6tEEx",
+      "episode": 14,
+      "decoded_duration_seconds": 1521.579,
+      "segments": 1066,
+      "gaps_over_5_seconds": 1,
+      "gap_duration_seconds": 6.0,
+      "gaps": [
+        {
+          "id": "BV1VrMt6tEEx-gap-001",
+          "start": 1.0,
+          "end": 7.0,
+          "duration": 6.0,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1VrMt6tEEx-00001",
+          "before_text": "我不敢",
+          "after_segment_id": "BV1VrMt6tEEx-00002",
+          "after_text": "哈囉兄弟們我是畜哥",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1VrMt6tEEx/?t=1"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1BsuE63EhN",
+      "episode": 15,
+      "decoded_duration_seconds": 1402.786,
+      "segments": 894,
+      "gaps_over_5_seconds": 0,
+      "gap_duration_seconds": 0,
+      "gaps": []
+    },
+    {
+      "bvid": "BV1gb8M6nENB",
+      "episode": 16,
+      "decoded_duration_seconds": 1368.281,
+      "segments": 876,
+      "gaps_over_5_seconds": 0,
+      "gap_duration_seconds": 0,
+      "gaps": []
+    },
+    {
+      "bvid": "BV1f8Yj6aExQ",
+      "episode": 17,
+      "decoded_duration_seconds": 1885.947,
+      "segments": 1261,
+      "gaps_over_5_seconds": 1,
+      "gap_duration_seconds": 28.44,
+      "gaps": [
+        {
+          "id": "BV1f8Yj6aExQ-gap-001",
+          "start": 30.04,
+          "end": 58.48,
+          "duration": 28.44,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1f8Yj6aExQ-00013",
+          "before_text": "好了 先话不多说 咱们直接开始",
+          "after_segment_id": "BV1f8Yj6aExQ-00014",
+          "after_text": "我给你搜一下",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [
+            "BV1f8Yj6aExQ-0000-0060-turbo.json",
+            "BV1f8Yj6aExQ-0000-0060-medium.json"
+          ],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1f8Yj6aExQ/?t=30"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1P5he6SEys",
+      "episode": 18,
+      "decoded_duration_seconds": 1477.763,
+      "segments": 933,
+      "gaps_over_5_seconds": 1,
+      "gap_duration_seconds": 25.32,
+      "gaps": [
+        {
+          "id": "BV1P5he6SEys-gap-001",
+          "start": 34.48,
+          "end": 59.8,
+          "duration": 25.32,
+          "kind": "between_asr_segments",
+          "before_segment_id": "BV1P5he6SEys-00013",
+          "before_text": "咱们直接开始",
+          "after_segment_id": "BV1P5he6SEys-00014",
+          "after_text": "(音乐)",
+          "scene_hint_from_lexical_context": false,
+          "supplemental_machine_files": [],
+          "listening_verified": false,
+          "source_url": "https://www.bilibili.com/video/BV1P5he6SEys/?t=34"
+        }
+      ]
+    }
+  ]
+}

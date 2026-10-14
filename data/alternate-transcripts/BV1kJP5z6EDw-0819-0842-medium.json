@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1kJP5z6EDw",
+  "source_start": 819,
+  "source_end": 842,
+  "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+  "listening_verified": false,
+  "elapsed_seconds": 5.0,
+  "segments": [
+    {
+      "id": "BV1kJP5z6EDw-0819-0842-medium-0001",
+      "start": 819.0,
+      "end": 822.04,
+      "text": "就決定了你在女生眼中是什麼樣的男人"
+    }
+  ]
+}

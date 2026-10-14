@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1f8Yj6aExQ",
+  "source_start": 0,
+  "source_end": 60,
+  "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+  "listening_verified": false,
+  "elapsed_seconds": 52.5,
+  "segments": [
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0001",
+      "start": 0.0,
+      "end": 28.0,
+      "text": "好了,兄弟们,我是旭哥,今天给大家带来一期哥布林约会美女的技巧解析啊,这是一个开宝马的成熟姐姐,旭哥用了一系列的技巧,让她从一开始的抗拒到最后跟我亲密互动了,还开车送我们回家。那如果你不知道怎么快速的突破女生防备,拉近两个人的关系,今天这期视频看完,你将会功利大涨。"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0002",
+      "start": 28.0,
+      "end": 31.0,
+      "text": "好了,闲话不多说,咱们直接开始。"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0003",
+      "start": 31.0,
+      "end": 32.0,
+      "text": "你是渣男?"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0004",
+      "start": 32.0,
+      "end": 33.0,
+      "text": "我是渣男。"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0005",
+      "start": 33.0,
+      "end": 38.0,
+      "text": "我去,我就喜欢渣男。"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0006",
+      "start": 38.0,
+      "end": 40.0,
+      "text": "不好意思旭哥,你这是拍照呢?"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0007",
+      "start": 40.0,
+      "end": 45.0,
+      "text": "要不你这个,哎你帮我个忙吧,我也想在这拍,你帮我拍完我就走,我就让给你,好不好?"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0008",
+      "start": 45.0,
+      "end": 46.0,
+      "text": "我为啥帮你拍?"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0009",
+      "start": 46.0,
+      "end": 47.0,
+      "text": "求你了,谢谢。"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0010",
+      "start": 47.0,
+      "end": 51.0,
+      "text": "因为你帮我拍完我也帮你拍呗,我拍照真好看,我拿过那个拍照奖。"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0011",
+      "start": 51.0,
+      "end": 52.0,
+      "text": "拿过那个拍照奖?"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0012",
+      "start": 52.0,
+      "end": 57.0,
+      "text": "对,我是小红书那个拍照博主,你知道余晓辉吗?余晓辉的账号是我拍的。"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0013",
+      "start": 57.0,
+      "end": 58.56,
+      "text": "到多少網友粉絲啊"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0014",
+      "start": 58.56,
+      "end": 59.4,
+      "text": "我給你搜一下"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0000-0060-medium-0015",
+      "start": 59.4,
+      "end": 60.06,
+      "text": "這是魚躍王"
+    }
+  ]
+}

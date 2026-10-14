@@ -1,0 +1,620 @@
+{
+  "bvid": "BV14gFYzREk4",
+  "scope": "all_identifiable_dialogue_in_complete_asr",
+  "listening_verified": false,
+  "source_segment_count": 348,
+  "source_duration_seconds": 703.28,
+  "coverage_note": "完整读取small 348段和独立全片turbo 434段，整理12个可辨或部分缺答交流单元；small保留turbo漏掉的恐怖片和拿包。直接查看24张ASR空档原帧，恢复迟到补偿、点菜原问及影院离场后的电影邀请。去家回应两稿冲突仍不可靠，不能据短答推定同意；未识别付出前置问题不根据讲解冒充原声。实际音频听校0，字幕区间只表示采样出现。",
+  "rounds": [
+    {
+      "id": "BV14gFYzREk4-q009",
+      "title": "说迟到了半小时，怎样提出补偿？",
+      "category": "邀约与安排",
+      "start": 118.5,
+      "end": 126.75,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 118.5,
+          "end": 119.25,
+          "text": "迟到五分钟算迟到",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0016"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "other",
+          "start": 120,
+          "end": 120.75,
+          "text": "你都迟到半个小时了",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0017"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 123.75,
+          "end": 126.75,
+          "text": "明天玩密室的时候。我早到半个小时。咋样",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0018",
+            "BV14gFYzREk4-caption-reviewed-early-0019",
+            "BV14gFYzREk4-caption-reviewed-early-0020"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "对迟到的短句角色不能仅据静帧完全确定；字幕补偿提议更清楚，未音频复核。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。"
+    },
+    {
+      "id": "BV14gFYzREk4-q010",
+      "title": "什么时候说过明天玩密室了？",
+      "category": "邀约与安排",
+      "start": 127.5,
+      "end": 133.5,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 127.5,
+          "end": 129.0,
+          "text": "啥时候跟你说的明天玩密室",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0021"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 130.5,
+          "end": 133.5,
+          "text": "不是刚才迟到了吗。我就明天请你玩个密室。补偿你一下",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0022",
+            "BV14gFYzREk4-caption-reviewed-early-0023",
+            "BV14gFYzREk4-caption-reviewed-early-0024"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "现场问题与补偿回应经过原画面字幕核对，不能由邀请推断下一日确已安排。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。"
+    },
+    {
+      "id": "BV14gFYzREk4-q011",
+      "title": "喜欢吃什么，随后怎样点菜？",
+      "category": "偏好与选择",
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 189,
+          "end": 189.75,
+          "text": "你喜欢吃啥",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0001"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "other",
+          "start": 190.5,
+          "end": 191.25,
+          "text": "我都喜欢吃啊",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0002"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 192.75,
+          "end": 194.25,
+          "text": "那我就看着点了啊。我就不给你看了啊",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0003",
+            "BV14gFYzREk4-caption-reviewed-early-0004"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "这一轮的概括回答不代表任何特定菜品都接受。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。",
+      "start": 189,
+      "end": 194.25
+    },
+    {
+      "id": "BV14gFYzREk4-q001",
+      "title": "点的菜不喜欢吃，怎样回应？",
+      "category": "偏好与选择",
+      "start": 195,
+      "end": 278.14,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 195,
+          "end": 196.5,
+          "text": "万一你点的我不喜欢吃怎么办",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0005"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 274.08,
+          "end": 278.14,
+          "text": "那你就不吃吧。陪我吃完了。我再陪你去吃。你喜欢吃的呗",
+          "source_segment_ids": [
+            "BV14gFYzREk4-0000-0704-turbo-0183",
+            "BV14gFYzREk4-0000-0704-turbo-0184",
+            "BV14gFYzREk4-0000-0704-turbo-0185",
+            "BV14gFYzREk4-0000-0704-turbo-0186"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 196.76,
+          "end": 200.08,
+          "text": "這句話你們會怎麼回。女生說萬一你點的我不喜歡吃怎麼辦",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00072",
+            "BV14gFYzREk4-00073"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 216.28,
+          "end": 226.96,
+          "text": "記住如果你在跟女生相處的時候。你做了一個決定你就要堅持讓你這個決定是對的。堅持住不要來回搖擺不定。所以當時我說我來點菜的時候。哪怕他提出質疑了我們也要堅持我們的選擇",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00083",
+            "BV14gFYzREk4-00084",
+            "BV14gFYzREk4-00085",
+            "BV14gFYzREk4-00086",
+            "BV14gFYzREk4-00087"
+          ]
+        }
+      ],
+      "uncertainty": "原先缺失的点菜现场问题已在195秒原帧字幕核对，回应保留turbo机器原字，其余讲解独立。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。"
+    },
+    {
+      "id": "BV14gFYzREk4-q002",
+      "title": "不想看恐怖片，说害怕时怎样接话？",
+      "category": "邀约与安排",
+      "start": 291.16,
+      "end": 298.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 291.16,
+          "end": 292.56,
+          "text": "一會兒有恐怖片大家去看吧",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00121"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 293.44,
+          "end": 296.56,
+          "text": "我不想看恐怖片。我還怕",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00122",
+            "BV14gFYzREk4-00123"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 296.56,
+          "end": 298.16,
+          "text": "害怕你就叫好哥不就行了",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00124"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "回应“叫好哥”疑有机器错字，尚未回听。"
+    },
+    {
+      "id": "BV14gFYzREk4-q003",
+      "title": "是不是经常约女生看恐怖片占便宜？",
+      "category": "信任与质疑",
+      "start": 312.12,
+      "end": 357.76,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 333.48,
+          "end": 336.0,
+          "text": "你要占便宜是吧",
+          "source_segment_ids": [
+            "BV14gFYzREk4-0000-0704-turbo-0218"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 336.0,
+          "end": 343.8,
+          "text": "那你也太低估我了吧。我要是想占便宜的话。我还需要带你去看恐怖片吗。在哪不能占啊",
+          "source_segment_ids": [
+            "BV14gFYzREk4-0000-0704-turbo-0219",
+            "BV14gFYzREk4-0000-0704-turbo-0220",
+            "BV14gFYzREk4-0000-0704-turbo-0221",
+            "BV14gFYzREk4-0000-0704-turbo-0222"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 312.12,
+          "end": 317.56,
+          "text": "女生說你是不是經常約女生去看恐怖片。然後賺他們便宜呢",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00131",
+            "BV14gFYzREk4-00132"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 348.04,
+          "end": 357.76,
+          "text": "所以很多時候啊。我們遇到女生對我們產生質疑。千萬不用解釋。你要承認。有的時候大大方方的承認。反而女生喜歡",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00147",
+            "BV14gFYzREk4-00148",
+            "BV14gFYzREk4-00149",
+            "BV14gFYzREk4-00150",
+            "BV14gFYzREk4-00151",
+            "BV14gFYzREk4-00152"
+          ]
+        }
+      ],
+      "uncertainty": "04:59 起的同一质疑铺垫句不清，本轮保留 05:33 的 turbo 重播问答；未实际听校，但不把讲解里的假设回应当现场原声。"
+    },
+    {
+      "id": "BV14gFYzREk4-q004",
+      "title": "说不花钱就不爱，怎样谈付出？",
+      "category": "消费与付出",
+      "start": 436.48,
+      "end": 510.44,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 450.02,
+          "end": 468.14,
+          "text": "其实现在很多男生不是不付出。他是怕自己的付出得不到最等的回报。就很多男生付出了很多。最后女生还不是离开了吗。就是男生其实也缺安全感。你得让他觉得。我的付出你不会离开我。你得给男生安全感。所以有的时候不是男生的问题。其实也是女生的问题",
+          "source_segment_ids": [
+            "BV14gFYzREk4-0000-0704-turbo-0291",
+            "BV14gFYzREk4-0000-0704-turbo-0292",
+            "BV14gFYzREk4-0000-0704-turbo-0293",
+            "BV14gFYzREk4-0000-0704-turbo-0294",
+            "BV14gFYzREk4-0000-0704-turbo-0295",
+            "BV14gFYzREk4-0000-0704-turbo-0296",
+            "BV14gFYzREk4-0000-0704-turbo-0297",
+            "BV14gFYzREk4-0000-0704-turbo-0298",
+            "BV14gFYzREk4-0000-0704-turbo-0299",
+            "BV14gFYzREk4-0000-0704-turbo-0300"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 436.48,
+          "end": 447.92,
+          "text": "這句話你們會怎麼應對。很多女生都會說。哎呦男生都是靠嘴巴說說。從來不付出實際行動。給女生花錢的男人不一定是愛她的。但是不給她花錢的一定不愛她。你們會怎麼應對呢",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00198",
+            "BV14gFYzREk4-00199",
+            "BV14gFYzREk4-00200",
+            "BV14gFYzREk4-00201",
+            "BV14gFYzREk4-00202",
+            "BV14gFYzREk4-00203",
+            "BV14gFYzREk4-00204"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 499.08,
+          "end": 510.44,
+          "text": "我們真的就是要把我們的心理話。公平公正的說出來。我們就是要告訴女生。我們的價值觀是什麼樣子的。讓女生明白。我不是一個你可以隨意套路我騙我的傻子",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00234",
+            "BV14gFYzREk4-00235",
+            "BV14gFYzREk4-00236",
+            "BV14gFYzREk4-00237",
+            "BV14gFYzREk4-00238",
+            "BV14gFYzREk4-00239"
+          ]
+        }
+      ],
+      "uncertainty": "对方原声问题两稿仍缺失，讲解复述已分开。turbo 改善“缺安全感”，但“最等的回报”等词仍疑为错字，未听校改写。"
+    },
+    {
+      "id": "BV14gFYzREk4-q005",
+      "title": "男生也需要安全感吗？",
+      "category": "关系与意图",
+      "start": 468.84,
+      "end": 549.84,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 468.84,
+          "end": 471.04,
+          "text": "男生是需要安全感的",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00216"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 471.04,
+          "end": 476.68,
+          "text": "當然需要了。男生比女生更需要安全感。因為男生付出的是自己的血汗",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00217",
+            "BV14gFYzREk4-00218",
+            "BV14gFYzREk4-00219"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 530.64,
+          "end": 549.84,
+          "text": "就是我跟女生說。我們男生不向女生付出。有的時候是我們男生沒有安全感。你得向我們證明你是真的愛我們的。我們自然會向你付出。那麼如果女生她想要得到你的付出。她就得先向你證明她愛你。那她怎麼證明呢。就得她先向你付出了",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00252",
+            "BV14gFYzREk4-00253",
+            "BV14gFYzREk4-00254",
+            "BV14gFYzREk4-00255",
+            "BV14gFYzREk4-00256",
+            "BV14gFYzREk4-00257",
+            "BV14gFYzREk4-00258",
+            "BV14gFYzREk4-00259",
+            "BV14gFYzREk4-00260"
+          ]
+        }
+      ],
+      "uncertainty": "“男生是需要安全感的”可能为对方确认式提问，机器稿没有音色和问号证据，角色及语气待回听。"
+    },
+    {
+      "id": "BV14gFYzREk4-q006",
+      "title": "提出帮忙拿包，对方说不用怎样接话？",
+      "category": "消费与付出",
+      "start": 565.64,
+      "end": 572.48,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 565.64,
+          "end": 568.16,
+          "text": "要不我幫你拿高高。感覺有點重",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00272",
+            "BV14gFYzREk4-00273"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 568.16,
+          "end": 569.56,
+          "text": "不用",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00274"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 569.56,
+          "end": 572.48,
+          "text": "沒關係。我身世一點。來我幫你拿",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00275",
+            "BV14gFYzREk4-00276",
+            "BV14gFYzREk4-00277"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“高高／身世一点”识别不清；未把随后拿包结果或对方态度当作已确认事实。"
+    },
+    {
+      "id": "BV14gFYzREk4-q007",
+      "title": "拿包后说手冷，怎样提出握手？",
+      "category": "隐私与边界",
+      "start": 577.48,
+      "end": 596.92,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 577.48,
+          "end": 583.96,
+          "text": "我怎麼感覺。幫你拿包手有點冷。我有點後悔。要不這樣。你幫我握手吧",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00278",
+            "BV14gFYzREk4-00279",
+            "BV14gFYzREk4-00280",
+            "BV14gFYzREk4-00281",
+            "BV14gFYzREk4-00282"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 587.64,
+          "end": 596.92,
+          "text": "學會了嗎。這段不用解釋。唯一要注意的就是。必須要女生有窗口才能去用這招。怎麼去判斷女生有沒有窗口呢。記住了看女生看你的眼神",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00283",
+            "BV14gFYzREk4-00284",
+            "BV14gFYzREk4-00285",
+            "BV14gFYzREk4-00286",
+            "BV14gFYzREk4-00287",
+            "BV14gFYzREk4-00288"
+          ]
+        }
+      ],
+      "uncertainty": "只识别请求者连续台词，对方口头回答未可靠识别；未用眼神讲解推定肢体接触同意。"
+    },
+    {
+      "id": "BV14gFYzREk4-q012",
+      "title": "中途离场后再邀看恐怖片，对方问什么名字？",
+      "category": "邀约与安排",
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 633,
+          "end": 633.75,
+          "text": "我第一次中途离场",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0006"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "other",
+          "start": 634.5,
+          "end": 635.25,
+          "text": "我也是",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0007"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 636.75,
+          "end": 641.25,
+          "text": "我知道另一个电影特别好看。也是恐怖片。要不咱俩找个地方去看",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0008",
+            "BV14gFYzREk4-caption-reviewed-early-0009",
+            "BV14gFYzREk4-caption-reviewed-early-0010"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "other",
+          "start": 642,
+          "end": 642.75,
+          "text": "什么名字",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0011"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 643.5,
+          "end": 645.0,
+          "text": "老电影啊。现在电影院没有",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0012",
+            "BV14gFYzREk4-caption-reviewed-early-0013"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "问了电影名字，字幕所见答句只说“老电影”；没有可靠具体片名，不补造名称。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。",
+      "start": 633,
+      "end": 645.0
+    },
+    {
+      "id": "BV14gFYzREk4-q008",
+      "title": "提出去对方家时说了什么？",
+      "category": "邀约与安排",
+      "start": 646.5,
+      "end": 675.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 646.5,
+          "end": 647.25,
+          "text": "那去哪看",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0014"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 648,
+          "end": 648.75,
+          "text": "要不去你家",
+          "source_segment_ids": [
+            "BV14gFYzREk4-caption-reviewed-early-0015"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "other",
+          "start": 662.2,
+          "end": 663.44,
+          "text": "啊",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00322"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 663.44,
+          "end": 670.6,
+          "text": "不是。本來我想去私人院。當然我覺得私人院。我有潔癖你知道吧。去我家也不合適啊。去你家畢竟是你主場",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00323",
+            "BV14gFYzREk4-00324",
+            "BV14gFYzREk4-00325",
+            "BV14gFYzREk4-00326",
+            "BV14gFYzREk4-00327",
+            "BV14gFYzREk4-00328"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 670.6,
+          "end": 671.44,
+          "text": "是",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00329"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 672.8,
+          "end": 675.0,
+          "text": "哎呀走吧走吧走吧。氣氛都到了",
+          "source_segment_ids": [
+            "BV14gFYzREk4-00330",
+            "BV14gFYzREk4-00331"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "短句“是”的说话者不明；“私人院”疑为机器误识别，照稿保留。只凭“啊”等短音不能确认邀请已获同意。 turbo 同段又识别出零时长“不要去你家”，两稿有冲突，无法稳定分辨说话者和完整拒绝句；未听校，尤其不能按短回应推定邀请同意。 原帧646.5秒恢复“那去哪看”，648秒字幕“要不去你家”取代后续重播同句，其他回应沿用ASR，拒绝/接受仍未稳定判断。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。"
+    }
+  ],
+  "alternate_source_segment_count": 434,
+  "caption_frames_visually_reviewed": 24
+}

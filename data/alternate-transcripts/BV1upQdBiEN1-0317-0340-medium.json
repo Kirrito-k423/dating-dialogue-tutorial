@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1upQdBiEN1",
+  "source_start": 317,
+  "source_end": 340,
+  "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+  "listening_verified": false,
+  "elapsed_seconds": 11.6,
+  "segments": [
+    {
+      "id": "BV1upQdBiEN1-0317-0340-medium-0001",
+      "start": 317.0,
+      "end": 318.54,
+      "text": "覺得什麼男人值得珍惜呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-0317-0340-medium-0002",
+      "start": 318.54,
+      "end": 321.12,
+      "text": "哎 先看看他怎麼說啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-0317-0340-medium-0003",
+      "start": 321.12,
+      "end": 323.12,
+      "text": "對我好吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-0317-0340-medium-0004",
+      "start": 323.12,
+      "end": 325.12,
+      "text": "那怎麼才算對你好吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-0317-0340-medium-0005",
+      "start": 325.12,
+      "end": 327.12,
+      "text": "肯定是要照顧好我的情緒"
+    },
+    {
+      "id": "BV1upQdBiEN1-0317-0340-medium-0006",
+      "start": 327.12,
+      "end": 329.12,
+      "text": "然後每天給我做飯"
+    },
+    {
+      "id": "BV1upQdBiEN1-0317-0340-medium-0007",
+      "start": 329.12,
+      "end": 331.12,
+      "text": "然後什麼事都想著我"
+    },
+    {
+      "id": "BV1upQdBiEN1-0317-0340-medium-0008",
+      "start": 331.12,
+      "end": 334.12,
+      "text": "然後帶我去見他的父母"
+    },
+    {
+      "id": "BV1upQdBiEN1-0317-0340-medium-0009",
+      "start": 334.12,
+      "end": 336.12,
+      "text": "哎 好 兄弟們"
+    },
+    {
+      "id": "BV1upQdBiEN1-0317-0340-medium-0010",
+      "start": 336.12,
+      "end": 338.12,
+      "text": "請問這個時候我們應該怎麼說話呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-0317-0340-medium-0011",
+      "start": 338.12,
+      "end": 340.12,
+      "text": "很多兄弟在這個地方就會放一個"
+    }
+  ]
+}

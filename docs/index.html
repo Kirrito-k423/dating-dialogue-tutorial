@@ -6,28 +6,37 @@
   <meta name="description" content="逐帧约会视频的来源目录、回应练习和带时间点的对话笔记。">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'self'">
   <title>对话练习册 · 逐帧视频学习</title>
-  <link rel="stylesheet" href="styles.css?v=e160b67581">
-  <script src="data.js?v=c43fce928c" defer></script>
+  <link rel="stylesheet" href="styles.css?v=5c8cb2fe05">
+  <script src="data.js?v=6e82f1ac2f" defer></script>
   <script src="subtitles.js?v=9da9212938" defer></script>
-  <script src="app.js?v=aeb631f9ce" defer></script>
+  <script src="transcripts.js?v=5ecc8be0fd" defer></script>
+  <script src="app.js?v=502bfb9638" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">跳到正文</a>
-  <header class="topbar"><a href="#catalog" class="brand"><span class="mark" aria-hidden="true">↔</span>对话练习册</a><span class="edition">逐帧视频学习 / 2026.10</span></header>
+  <header class="topbar"><a href="#timeline" class="brand"><span class="mark" aria-hidden="true">↔</span>对话练习册</a><span class="edition">逐帧视频学习 / 2026.10</span></header>
   <main id="main">
     <section class="hero">
-      <p class="eyebrow">观察情境 · 练习回应 · 理解原因</p>
-      <h1>把对话看明白，<br>再练习回应。</h1>
-      <p class="intro">从“旭哥带你狙女神”的逐帧系列建立学习目录。每段记录都保留来源，练习从一个具体问题开始。</p>
+      <p class="eyebrow">按集整理 · 逐轮记录 · 时间点溯源</p>
+      <h1>顺着时间线，<br>梳理每轮对话。</h1>
+      <p class="intro">现场对话和博主讲解分别记录。每题标注分类、来源集数、时间范围与原视频跳转，原话不清楚的地方保留待核标记。</p>
       <div class="stats" id="stats"></div>
-      <p class="progress-note" id="progress-note">目录已核实；视频里的实际对话与讲解尚待获取、听校。<a href="#method">查看来源与进度</a></p>
+      <p class="progress-note" id="progress-note">已整理来源目录、完整机器稿与交流记录，实际音频听校尚未完成。<a href="#method">查看来源与进度</a></p>
     </section>
     <nav class="tabs" aria-label="学习模式">
+      <a href="#timeline" data-panel="timeline">对话梳理<span id="round-count"></span></a>
       <a href="#catalog" data-panel="catalog">系列目录<span id="video-count"></span></a>
-      <a href="#practice" data-panel="practice">回应练习<span id="exercise-count"></span></a>
+      <a href="#practice" data-panel="practice">示范练习<span id="exercise-count"></span></a>
       <a href="#notebook" data-panel="notebook">逐句笔记<span>本机</span></a>
     </nav>
-    <section id="catalog-panel" class="panel" aria-labelledby="catalog-heading">
+    <section id="timeline-panel" class="panel" aria-labelledby="timeline-heading">
+      <div class="section-heading"><div><p class="eyebrow">完整材料先行</p><h2 id="timeline-heading">按集查看对话与题目</h2></div><button id="export-dialogues" class="button secondary">导出对话题目</button></div>
+      <p class="info" id="timeline-progress"></p>
+      <div class="timeline-filters"><label>来源集数<select id="timeline-episode"><option value="all">全部集数 · 按发布时间</option></select></label><label>分类<select id="timeline-category"><option value="all">全部分类</option></select></label><label class="search"><span>搜索对话、题目、BV 号</span><input type="search" id="timeline-search" placeholder="搜索所有已整理的问答与讲解"></label><label>核查状态<select id="timeline-verification"><option value="all">全部状态</option><option value="asr_text_reviewed">机器稿已整理 · 待听校</option><option value="audio_listened">已实际回听</option><option value="uncertain">内容存疑</option></select></label></div>
+      <p class="small" id="timeline-results" aria-live="polite"></p>
+      <div id="timeline-list"></div>
+    </section>
+    <section id="catalog-panel" class="panel" hidden aria-labelledby="catalog-heading">
       <div class="section-heading"><div><p class="eyebrow">来源先行</p><h2 id="catalog-heading">系列视频目录</h2></div><button id="export-catalog" class="button secondary">导出目录</button></div>
       <div class="filters"><label class="search"><span>搜索</span><input type="search" id="catalog-search" placeholder="宝马、冷场、御姐、BV 号…"></label><label>系列范围<select id="catalog-scope"><option value="all">同名系列 + 标题变体</option><option value="exact_series">只看同名系列</option><option value="related_variant">只看标题变体</option><option value="saved">我的收藏</option></select></label><label>排序<select id="catalog-sort"><option value="date">按发布时间</option><option value="seed">典型视频优先</option><option value="duration">按时长</option></select></label></div>
       <p class="small" id="catalog-results" aria-live="polite"></p>
@@ -40,10 +49,11 @@
     </section>
     <section id="notebook-panel" class="panel" hidden aria-labelledby="notebook-heading">
       <div class="section-heading"><div><p class="eyebrow">把听到的话和讲解分开</p><h2 id="notebook-heading">带时间点的对话笔记</h2></div><button id="export-notebook" class="button secondary">导出当前笔记</button></div>
-      <p class="info">导入你有权使用的 SRT、VTT 或 JSON 字幕。文件在本浏览器处理，笔记保存在本机；说话者需听校标注。文件导入后即可逐句记录对话、讲解与自己的解析。</p>
+      <p class="info">可直接载入本集完整机器稿，也可导入 SRT、VTT 或 JSON 字幕，逐句记录说话者、讲解与自己的解析。笔记保存在本机；机器稿仍需逐句听校。</p>
       <div class="notebook-controls"><label>选择视频<select id="notebook-video"></select></label><label class="import-button button">导入字幕<input type="file" id="subtitle-file" accept=".srt,.vtt,.json,text/plain,application/json"></label><a id="notebook-source" class="button secondary" target="_blank" rel="noopener noreferrer">打开原视频 ↗</a></div>
       <p id="import-status" class="small" role="status"></p>
       <button id="undo-import" class="button secondary" disabled>撤回上次导入</button>
+      <button id="load-full-transcript" class="button secondary">载入本集完整机器稿</button>
       <div class="note-editor"><label>这集的学习笔记<textarea id="episode-notes" rows="4" placeholder="先记录发生了什么，再写为什么这样回应；博主讲解和自己的推断分开写。"></textarea></label></div>
       <div class="role-legend"><span>对方</span><span>回应者</span><span>博主讲解</span><span>旁白</span><span>待标注</span></div>
       <label class="search transcript-search"><span>查找</span><input type="search" id="transcript-search" placeholder="搜索已导入的句子"></label>

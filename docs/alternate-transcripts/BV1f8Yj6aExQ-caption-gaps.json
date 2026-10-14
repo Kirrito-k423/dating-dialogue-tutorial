@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1f8Yj6aExQ",
+  "method": "macOS Vision OCR of selected video frames at ASR timestamp gaps; frame subtitles, not audio transcription; 0.75-second sampling, intervals reflect caption samples not speech boundaries",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0001",
+      "start": 31.5,
+      "end": 32.25,
+      "text": "你是渣男",
+      "last_sample": 31.5,
+      "samples": [
+        "frame-0031.500.png"
+      ],
+      "first_frame_sha256": "c6068a1950e60ce812cf7f94203e6e7355343afe6bfcf0b2bad6450858e195cc",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0002",
+      "start": 32.25,
+      "end": 33.0,
+      "text": "嗯我是渣男",
+      "last_sample": 32.25,
+      "samples": [
+        "frame-0032.250.png"
+      ],
+      "first_frame_sha256": "14d7fc6ab21d57b832fc16e4c59baeab6271c1aca277b2c00482f7e85e126a2f",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0003",
+      "start": 33,
+      "end": 34.5,
+      "text": "我去我就喜欢渣男",
+      "last_sample": 33.75,
+      "samples": [
+        "frame-0033.000.png",
+        "frame-0033.750.png"
+      ],
+      "first_frame_sha256": "fcd35e1495e6353a8b114539c19e6b110fd695acdb5cf7ba0282c6da62c13015",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0004",
+      "start": 38.25,
+      "end": 39.0,
+      "text": "不好意思",
+      "last_sample": 38.25,
+      "samples": [
+        "frame-0038.250.png"
+      ],
+      "first_frame_sha256": "9d39beb38ab10c26d59661f1f1fe0ac1dab676795ce049ab004ea0022b3dc979",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0005",
+      "start": 39,
+      "end": 40.5,
+      "text": "帅哥在这拍照呢",
+      "last_sample": 39.75,
+      "samples": [
+        "frame-0039.000.png",
+        "frame-0039.750.png"
+      ],
+      "first_frame_sha256": "3423907406672fb40aeaf7f8113012d597b2073a150e061982bb70fdfc975174",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0006",
+      "start": 41.25,
+      "end": 42.0,
+      "text": "要不你这个哎",
+      "last_sample": 41.25,
+      "samples": [
+        "frame-0041.250.png"
+      ],
+      "first_frame_sha256": "a0dfa988d91ba18baa87bea2020630e0331f66bb8f5f003a5be8d7998489a368",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0007",
+      "start": 42.75,
+      "end": 44.25,
+      "text": "你帮我拍完我就走",
+      "last_sample": 43.5,
+      "samples": [
+        "frame-0042.750.png",
+        "frame-0043.500.png"
+      ],
+      "first_frame_sha256": "fce5d1313ca678dd727043aefbf16e9a634bc6a8d8ed6ddf7154afd25ca8bd23",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0008",
+      "start": 44.25,
+      "end": 45.0,
+      "text": "我就让给你好不好",
+      "last_sample": 44.25,
+      "samples": [
+        "frame-0044.250.png"
+      ],
+      "first_frame_sha256": "f71ff037ca6b769df1a324475229fac9741d484aca768a381231d384d2798d47",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0009",
+      "start": 45,
+      "end": 45.75,
+      "text": "平维",
+      "last_sample": 45,
+      "samples": [
+        "frame-0045.000.png"
+      ],
+      "first_frame_sha256": "8706acfcc688f1f9fcf4e74ea64a2fe8ca8d7caedc7419134b564a41842971fe",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0010",
+      "start": 47.25,
+      "end": 48.0,
+      "text": "我维蟲平国",
+      "last_sample": 47.25,
+      "samples": [
+        "frame-0047.250.png"
+      ],
+      "first_frame_sha256": "1d0535e206054b3a38a4c8cc807987bea83899b6d07cb95f2ec154b500a0d831",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0011",
+      "start": 48,
+      "end": 48.75,
+      "text": "因为你帮我拍完",
+      "last_sample": 48,
+      "samples": [
+        "frame-0048.000.png"
+      ],
+      "first_frame_sha256": "8fcba2ab114cf0de2b9f1fd4f9f71d114c94d4870f6f8ef72cbff695a10bb52d",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0012",
+      "start": 48.75,
+      "end": 49.5,
+      "text": "我也帮你拍呗",
+      "last_sample": 48.75,
+      "samples": [
+        "frame-0048.750.png"
+      ],
+      "first_frame_sha256": "cebfe26d0e551b07dae963d7e73fb7de36bd76f6fa5fd77787f5c69627b2aa96",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0013",
+      "start": 49.5,
+      "end": 50.25,
+      "text": "我拍照贼好看",
+      "last_sample": 49.5,
+      "samples": [
+        "frame-0049.500.png"
+      ],
+      "first_frame_sha256": "d2d03d0cd9a327af934849145db2aea63d0749893e91383111fbfed65faa7f0a",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0014",
+      "start": 50.25,
+      "end": 51.0,
+      "text": "我拿过那个拍照奖我是小",
+      "last_sample": 50.25,
+      "samples": [
+        "frame-0050.250.png"
+      ],
+      "first_frame_sha256": "d2de0c6790086b7a9d79d3dbc657f847bd48ccd76cdba7c96aa3eed73cd44f53",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0015",
+      "start": 51,
+      "end": 51.75,
+      "text": "中晋維养蹦比 進 書祥",
+      "last_sample": 51,
+      "samples": [
+        "frame-0051.000.png"
+      ],
+      "first_frame_sha256": "0feb0db68f9911e3aff1408a3053dcabd5629aee7725ff99067759fa78aeae86",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0016",
+      "start": 51.75,
+      "end": 52.5,
+      "text": "我拿过那个拍照奖我是小",
+      "last_sample": 51.75,
+      "samples": [
+        "frame-0051.750.png"
+      ],
+      "first_frame_sha256": "56df17d80d63e9bb47d42a1af96b34b20fdbbec39f676f1bc7c643cc6a960c24",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0017",
+      "start": 53.25,
+      "end": 55.5,
+      "text": "对我是小XX那个拍照博主",
+      "last_sample": 54.75,
+      "samples": [
+        "frame-0053.250.png",
+        "frame-0054.000.png",
+        "frame-0054.750.png"
+      ],
+      "first_frame_sha256": "424366eb9454e629e0ce60ed18ca69b4d5f57b5686cfdc4a3e7a61a5513f59d1",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0018",
+      "start": 55.5,
+      "end": 56.25,
+      "text": "你知道于小惠吗",
+      "last_sample": 55.5,
+      "samples": [
+        "frame-0055.500.png"
+      ],
+      "first_frame_sha256": "70c40fd382e0189c28348a1ec1e84d79b549d3fbed870ad623724cfcccddc637",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0019",
+      "start": 56.25,
+      "end": 57.75,
+      "text": "于小惠账号是我拍的",
+      "last_sample": 57,
+      "samples": [
+        "frame-0056.250.png",
+        "frame-0057.000.png"
+      ],
+      "first_frame_sha256": "9c1ee8e3f4c024bfbadcdd9f29855ed84c840c4b291919725e66a4bf3ba9562a",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-gap-0020",
+      "start": 57.75,
+      "end": 58.5,
+      "text": "她务少万粉丝啊",
+      "last_sample": 57.75,
+      "samples": [
+        "frame-0057.750.png"
+      ],
+      "first_frame_sha256": "26ffd3d12b727bb89f8af82c3489f0ed7abdd847194f75be67a928741f494ffd",
+      "visual_reviewed": false
+    }
+  ]
+}

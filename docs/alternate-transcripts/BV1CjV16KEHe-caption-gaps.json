@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1CjV16KEHe",
+  "method": "macOS Vision OCR of selected video frames at ASR timestamp gaps; frame subtitles, not audio transcription; 0.75-second sampling, intervals reflect caption samples not speech boundaries",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0001",
+      "start": 1695,
+      "end": 1698.75,
+      "text": "智智智",
+      "last_sample": 1698,
+      "samples": [
+        "frame-1695.000.png",
+        "frame-1695.750.png",
+        "frame-1697.250.png",
+        "frame-1698.000.png"
+      ],
+      "first_frame_sha256": "f32aedf38b8098c85835170ba5bfd11fa59904e944c2cc3c3068e9b57ef31a80",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0002",
+      "start": 1699.5,
+      "end": 1700.25,
+      "text": "你是全牛座啊",
+      "last_sample": 1699.5,
+      "samples": [
+        "frame-1699.500.png"
+      ],
+      "first_frame_sha256": "f621918c22a8fc10b383a3988895f42dfaa8fb1e1f86f6b840f19a22d8f654f5",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0003",
+      "start": 2172,
+      "end": 2173.5,
+      "text": "那你的指甲好看",
+      "last_sample": 2172.75,
+      "samples": [
+        "frame-2172.000.png",
+        "frame-2172.750.png"
+      ],
+      "first_frame_sha256": "88946187688a0df1eff00ae1cf47c486dd726a9f92431dd20952c626a8425e85",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0004",
+      "start": 2175,
+      "end": 2175.75,
+      "text": "这是什么",
+      "last_sample": 2175,
+      "samples": [
+        "frame-2175.000.png"
+      ],
+      "first_frame_sha256": "dd4829460dee9ea3a52cebb9cb7f209522753c43ac0e0bb089861a68f0a566e9",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0005",
+      "start": 2176.5,
+      "end": 2177.25,
+      "text": "钻啊",
+      "last_sample": 2176.5,
+      "samples": [
+        "frame-2176.500.png"
+      ],
+      "first_frame_sha256": "30903da2b49b100fccc376d6461b8d6822061c094c6a1402e81fa02fbd71ddea",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0006",
+      "start": 2177.25,
+      "end": 2178.0,
+      "text": "啊我想",
+      "last_sample": 2177.25,
+      "samples": [
+        "frame-2177.250.png"
+      ],
+      "first_frame_sha256": "a8ce21eeb430f47d44b901e7affb60d8808861ec030bf2601859185a83dc2ffa",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0007",
+      "start": 2178,
+      "end": 2178.75,
+      "text": "我以为是个蜗牛呢",
+      "last_sample": 2178,
+      "samples": [
+        "frame-2178.000.png"
+      ],
+      "first_frame_sha256": "c20ed6931d85f3566a870fa99eada47e15c99a0762df3a3e5c80279b05a5fb4c",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0008",
+      "start": 2178.75,
+      "end": 2180.25,
+      "text": "但其实有点不方便",
+      "last_sample": 2179.5,
+      "samples": [
+        "frame-2178.750.png",
+        "frame-2179.500.png"
+      ],
+      "first_frame_sha256": "c57a5d2f4b06c5b045632f3161988e5b802a0a226ffc857a80907faba7c6ea9e",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0009",
+      "start": 2180.25,
+      "end": 2181.75,
+      "text": "我都想去卸7",
+      "last_sample": 2181,
+      "samples": [
+        "frame-2180.250.png",
+        "frame-2181.000.png"
+      ],
+      "first_frame_sha256": "ccc8dce43d79e76e906bb0178e081f72a1af359b41d2bc8d0a28d851ef1a8356",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0010",
+      "start": 2181.75,
+      "end": 2182.5,
+      "text": "我来帮你卸",
+      "last_sample": 2181.75,
+      "samples": [
+        "frame-2181.750.png"
+      ],
+      "first_frame_sha256": "e041119602aba3d4af12c5eea72f9a1caf355baa2dba20de7f4e40bde28df2e2",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0011",
+      "start": 2182.5,
+      "end": 2183.25,
+      "text": "你现在拿来",
+      "last_sample": 2182.5,
+      "samples": [
+        "frame-2182.500.png"
+      ],
+      "first_frame_sha256": "e8b154a2cf2c52370c1182033ccc8a62b2728331da45cd1580f2b8e43ccfc687",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0012",
+      "start": 2183.25,
+      "end": 2184.0,
+      "text": "我来帮你卸",
+      "last_sample": 2183.25,
+      "samples": [
+        "frame-2183.250.png"
+      ],
+      "first_frame_sha256": "e0a641a5dd34e6665f1698671cab2b76cd759f7cc9513112b60b4715c6e442cc",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0013",
+      "start": 2184,
+      "end": 2184.75,
+      "text": "怎么卸",
+      "last_sample": 2184,
+      "samples": [
+        "frame-2184.000.png"
+      ],
+      "first_frame_sha256": "891e9fab9f5d61ec44cf17dc2ae17b1edd0fe33eff8573ce2af426e8167808e3",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0014",
+      "start": 2184.75,
+      "end": 2185.5,
+      "text": "嗯给我",
+      "last_sample": 2184.75,
+      "samples": [
+        "frame-2184.750.png"
+      ],
+      "first_frame_sha256": "93ef2f95bff60b0830f28f22a2e218b3d3b4c9e344c319c73c3c6feb9659f14a",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0015",
+      "start": 2187,
+      "end": 2188.5,
+      "text": "我给薅T来",
+      "last_sample": 2187.75,
+      "samples": [
+        "frame-2187.000.png",
+        "frame-2187.750.png"
+      ],
+      "first_frame_sha256": "b6610ae56d17e649512c612c4d93ac861e27cd9be0a4302477c55f748c3425d0",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1CjV16KEHe-caption-gap-0016",
+      "start": 2189.25,
+      "end": 2190.0,
+      "text": "妈呀你薅T来",
+      "last_sample": 2189.25,
+      "samples": [
+        "frame-2189.250.png"
+      ],
+      "first_frame_sha256": "5e4a70c681a8689aa2e06f5e1864e745506cf9acb7c8938612e450314a4e10aa",
+      "visual_reviewed": false
+    }
+  ]
+}

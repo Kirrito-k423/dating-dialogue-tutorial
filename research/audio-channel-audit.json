@@ -1,0 +1,60 @@
+{
+  "bvid": "BV1f8Yj6aExQ",
+  "method": "PCM channel correlation and RMS audit; no listening or speech-accuracy conclusion",
+  "segments": [
+    {
+      "start": 0,
+      "end": 20,
+      "correlation": 0.915455,
+      "left_rms": 4781.42,
+      "right_rms": 4808.9,
+      "mean_mono_rms": 4692.76,
+      "mono_energy_relative_channel_average_db": -0.188
+    },
+    {
+      "start": 25,
+      "end": 30,
+      "correlation": 0.998832,
+      "left_rms": 2915.31,
+      "right_rms": 2915.3,
+      "mean_mono_rms": 2914.45,
+      "mono_energy_relative_channel_average_db": -0.003
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "correlation": 0.884064,
+      "left_rms": 2006.49,
+      "right_rms": 1988.35,
+      "mean_mono_rms": 1938.62,
+      "mono_energy_relative_channel_average_db": -0.26
+    },
+    {
+      "start": 40,
+      "end": 50,
+      "correlation": 0.999949,
+      "left_rms": 3266.96,
+      "right_rms": 3266.93,
+      "mean_mono_rms": 3266.91,
+      "mono_energy_relative_channel_average_db": -0.0
+    },
+    {
+      "start": 50,
+      "end": 60,
+      "correlation": 0.9985,
+      "left_rms": 3035.7,
+      "right_rms": 3029.67,
+      "mean_mono_rms": 3031.54,
+      "mono_energy_relative_channel_average_db": -0.003
+    },
+    {
+      "start": 850,
+      "end": 920,
+      "correlation": 0.996937,
+      "left_rms": 3152.84,
+      "right_rms": 3151.29,
+      "mean_mono_rms": 3149.65,
+      "mono_energy_relative_channel_average_db": -0.007
+    }
+  ]
+}

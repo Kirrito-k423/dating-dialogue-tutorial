@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1kJP5z6EDw",
+  "method": "Selected original video caption checked via actual image input; not audio listening; sampled caption presence interval",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0001",
+      "start": 824.25,
+      "end": 825.0,
+      "text": "下周你跟我一起去泰国玩呗",
+      "visual_reviewed": true,
+      "frame_time": 824.25,
+      "frame_sha256": "b1ba1318dd75ea7e5d883893a7d4b3c8982f32afb8d2382b4df13b95ef866f7c",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0824.250.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0002",
+      "start": 827.25,
+      "end": 828.0,
+      "text": "我没钱",
+      "visual_reviewed": true,
+      "frame_time": 827.25,
+      "frame_sha256": "398e29af28b5253fb4525af553dad19259048a37789d6490afbf6cb498b11bdd",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0827.250.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0003",
+      "start": 828,
+      "end": 828.75,
+      "text": "不去",
+      "visual_reviewed": true,
+      "frame_time": 828,
+      "frame_sha256": "96c0a0bb86331257872dd8e4db0a300f672e1fe53d3c5369d13ae5f06402879d",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0828.000.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0004",
+      "start": 830.25,
+      "end": 831.0,
+      "text": "又不要你给钱",
+      "visual_reviewed": true,
+      "frame_time": 830.25,
+      "frame_sha256": "10d3592ba564592ccf4d9aed021dda31c52afcae7ed959a6c9e80a20adf0a26c",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0830.250.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0005",
+      "start": 832.5,
+      "end": 833.25,
+      "text": "你给啊",
+      "visual_reviewed": true,
+      "frame_time": 832.5,
+      "frame_sha256": "89fe1afa3c61329d1fccf8b2e04d2e1ed51b6dc42580794fe4efc0e31040c8f6",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0832.500.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0006",
+      "start": 833.25,
+      "end": 834.75,
+      "text": "我给啊",
+      "visual_reviewed": true,
+      "frame_time": 833.25,
+      "frame_sha256": "42c6a48f356445ed8665850ec7464f2cd9303faa02b8601b7f02dd2b5b7902c8",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0833.250.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0007",
+      "start": 834.75,
+      "end": 835.5,
+      "text": "算了吧",
+      "visual_reviewed": true,
+      "frame_time": 834.75,
+      "frame_sha256": "4cfdddbd0872500ceabf870d1d802f3f4b08cdb31cdd16c4046f6445009d5f81",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0834.750.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0008",
+      "start": 835.5,
+      "end": 837.0,
+      "text": "我不想占你便宜",
+      "visual_reviewed": true,
+      "frame_time": 835.5,
+      "frame_sha256": "6bb3219b6692202fa24de2b6114dada851cb5d0b3adc8d89fbdd5f68fcaef763",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0835.500.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0009",
+      "start": 884.25,
+      "end": 885.0,
+      "text": "这么快就1点了",
+      "visual_reviewed": true,
+      "frame_time": 884.25,
+      "frame_sha256": "30fb621d61e322c1cef80eb1272460b9f419d9e68895a19ba0805e9fcb14a8a6",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0884.250.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0010",
+      "start": 885.75,
+      "end": 887.25,
+      "text": "我得回家了",
+      "visual_reviewed": true,
+      "frame_time": 885.75,
+      "frame_sha256": "cf1b5b595dd65759c63e3926921c98c6b34f7e6702041c6809a995846f3f31cd",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0885.750.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0011",
+      "start": 888,
+      "end": 889.5,
+      "text": "你这么早回家干啥",
+      "visual_reviewed": true,
+      "frame_time": 888,
+      "frame_sha256": "18f6d2b1b4cb395c58c090efdd25036a95ecc106dfaa5857d2df643751effd62",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0888.000.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0012",
+      "start": 889.5,
+      "end": 891.75,
+      "text": "你见我就为了拍视频呗",
+      "visual_reviewed": true,
+      "frame_time": 889.5,
+      "frame_sha256": "3a8b1d753d6146b40c384f1f3621bc971db3ad999c54f0e49804755c6d92033f",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0889.500.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0013",
+      "start": 892.5,
+      "end": 894.75,
+      "text": "顺便看一下你变漂亮了吗",
+      "visual_reviewed": true,
+      "frame_time": 892.5,
+      "frame_sha256": "a004d9b58c3e042b70729a6348dbd3153653fefcd738b0d52c404ed7f2fe7590",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0892.500.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0014",
+      "start": 894.75,
+      "end": 896.25,
+      "text": "然后记录一下你美貌啊",
+      "visual_reviewed": true,
+      "frame_time": 894.75,
+      "frame_sha256": "a3bf7ab761389760bb8d85d40cf6c0fcd027bbe13141ea1b514f32126c03fb3b",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0894.750.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0015",
+      "start": 897,
+      "end": 899.25,
+      "text": "陪我那么短的时间",
+      "visual_reviewed": true,
+      "frame_time": 897,
+      "frame_sha256": "491ec895079312957c1dde78c77703d96a7e2a8fae2b0268c63f5fde580afa0a",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0897.000.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0016",
+      "start": 899.25,
+      "end": 902.25,
+      "text": "到底是奖励还是惩罚啊",
+      "visual_reviewed": true,
+      "frame_time": 899.25,
+      "frame_sha256": "b45397532c61a6d56de75ad4c32e05e3b77e08f4a6dbb9443d08f19bd4aefd84",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0899.250.png"
+    },
+    {
+      "id": "BV1kJP5z6EDw-caption-reviewed-early-0017",
+      "start": 902.25,
+      "end": 903.75,
+      "text": "问你话呢",
+      "visual_reviewed": true,
+      "frame_time": 902.25,
+      "frame_sha256": "1d1a839f986e15302e26608b42a3e38ea7d2fec8f5782c496759d1a72d00d976",
+      "frame_file": "frames-BV1kJP5z6EDw/frame-0902.250.png"
+    }
+  ]
+}

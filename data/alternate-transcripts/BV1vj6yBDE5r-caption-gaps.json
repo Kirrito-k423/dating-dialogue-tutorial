@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1vj6yBDE5r",
+  "method": "macOS Vision OCR of selected video frames at ASR timestamp gaps; frame subtitles, not audio transcription; 0.75-second sampling, intervals reflect caption samples not speech boundaries",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1vj6yBDE5r-caption-gap-0001",
+      "start": 658.5,
+      "end": 659.25,
+      "text": "那走吧上去陪你检查一下",
+      "last_sample": 658.5,
+      "samples": [
+        "frame-0658.500.png"
+      ],
+      "first_frame_sha256": "51975c619eb65a8257b28874b75cbc1f73c3725b72aa589e2a33fa82ea7a216e",
+      "visual_reviewed": false
+    }
+  ]
+}

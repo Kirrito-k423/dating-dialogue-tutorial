@@ -1,0 +1,822 @@
+{
+  "schema_version": 1,
+  "bvid": "BV12GQiBrExv",
+  "method": "macOS Vision OCR of selected video frames at ASR timestamp gaps; frame subtitles, not audio transcription; 0.75-second sampling, intervals reflect caption samples not speech boundaries",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV12GQiBrExv-caption-gap-0001",
+      "start": 39,
+      "end": 39.75,
+      "text": "你好",
+      "last_sample": 39,
+      "samples": [
+        "frame-0039.000.png"
+      ],
+      "first_frame_sha256": "773bf5637717b83a5a21c2ca8a1dfbb47b62e97a370393e65f73f3a14a071acb",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0002",
+      "start": 40.5,
+      "end": 41.25,
+      "text": "我爱你",
+      "last_sample": 40.5,
+      "samples": [
+        "frame-0040.500.png"
+      ],
+      "first_frame_sha256": "9b63d84929927d3faeddcbaa4f58fae0328b192a99af0b1b712555a07d985282",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0003",
+      "start": 47.25,
+      "end": 48.0,
+      "text": "第七拜",
+      "last_sample": 47.25,
+      "samples": [
+        "frame-0047.250.png"
+      ],
+      "first_frame_sha256": "49ffa78a3959975568b01c4ec9605f550fd91cdc1d741932e49e701a7f7c768e",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0004",
+      "start": 48,
+      "end": 50.25,
+      "text": "第七弹",
+      "last_sample": 49.5,
+      "samples": [
+        "frame-0048.000.png",
+        "frame-0048.750.png",
+        "frame-0049.500.png"
+      ],
+      "first_frame_sha256": "99bf69772a49fc323db70aff400e77f0a2eb21bc3ade03c1dab2dea8a9954de2",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0005",
+      "start": 50.25,
+      "end": 51.75,
+      "text": "到尼农了",
+      "last_sample": 51,
+      "samples": [
+        "frame-0050.250.png",
+        "frame-0051.000.png"
+      ],
+      "first_frame_sha256": "d0fb700d1f9ae8df351ff6806392d79a6c1145013278d1c04c061ef166500f35",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0006",
+      "start": 57,
+      "end": 58.5,
+      "text": "发展目标了",
+      "last_sample": 57.75,
+      "samples": [
+        "frame-0057.000.png",
+        "frame-0057.750.png"
+      ],
+      "first_frame_sha256": "911f6dffd0cd2bae18f1e4d3a0588f61e76c9e7d121d5df37d810d51179ff956",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0007",
+      "start": 59.25,
+      "end": 60.0,
+      "text": "我得快点走吧",
+      "last_sample": 59.25,
+      "samples": [
+        "frame-0059.250.png"
+      ],
+      "first_frame_sha256": "d4526ea34f5941f8381dc45e86e143feee8cf628e799a8331bf50c855a25a170",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0008",
+      "start": 1317,
+      "end": 1317.75,
+      "text": "看到了嘛非常强势非常合理化",
+      "last_sample": 1317,
+      "samples": [
+        "frame-1317.000.png"
+      ],
+      "first_frame_sha256": "83f271495466a95f8d90c871578a18af684b962df9918842ee4df066e39ded4f",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0009",
+      "start": 1825.5,
+      "end": 1826.25,
+      "text": "嗯跟着路",
+      "last_sample": 1825.5,
+      "samples": [
+        "frame-1825.500.png"
+      ],
+      "first_frame_sha256": "b985d3240f0b0827e98e16d22018e982c82ebc04b4e4ea471175e42871a58065",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0010",
+      "start": 1859.25,
+      "end": 1860.75,
+      "text": "你不舍不得我",
+      "last_sample": 1860,
+      "samples": [
+        "frame-1859.250.png",
+        "frame-1860.000.png"
+      ],
+      "first_frame_sha256": "9ca708e3328eec44c7c55efdab8919cbbd606f4568e8c54cf0804499146cfe26",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0011",
+      "start": 1867.5,
+      "end": 1869.75,
+      "text": "不亲一口再走吗",
+      "last_sample": 1869,
+      "samples": [
+        "frame-1867.500.png",
+        "frame-1868.250.png",
+        "frame-1869.000.png"
+      ],
+      "first_frame_sha256": "77438539befe54a04fc227cb3f957590a55a10d66443e3b15aeaf2060f5ea5e1",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0012",
+      "start": 1884,
+      "end": 1884.75,
+      "text": "關鞋区",
+      "last_sample": 1884,
+      "samples": [
+        "frame-1884.000.png"
+      ],
+      "first_frame_sha256": "cdb3096410ecca215be8d4e8f068a74c0250ff27ab338ac6943fbfb80809838d",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0013",
+      "start": 2094.75,
+      "end": 2095.5,
+      "text": "VCIEKCY",
+      "last_sample": 2094.75,
+      "samples": [
+        "frame-2094.750.png"
+      ],
+      "first_frame_sha256": "f677cbf0d27a523d2c0859706cf08d33d623d9e0a4c9f45c4b23b93a610abb05",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0014",
+      "start": 2095.5,
+      "end": 2096.25,
+      "text": "VYCIENUK",
+      "last_sample": 2095.5,
+      "samples": [
+        "frame-2095.500.png"
+      ],
+      "first_frame_sha256": "63364410c57f87a2c0ccc7d64ac76ffc37a00306b7642f6d17f857d0b61d0c6d",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0015",
+      "start": 2107.5,
+      "end": 2108.25,
+      "text": "能不能不要一直跟我说话",
+      "last_sample": 2107.5,
+      "samples": [
+        "frame-2107.500.png"
+      ],
+      "first_frame_sha256": "81d3047025b1175bea5207ac083bbba29ac280ae975f143d8e91e34632a40d0f",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0016",
+      "start": 2116.5,
+      "end": 2117.25,
+      "text": "VBSC.LEBAX",
+      "last_sample": 2116.5,
+      "samples": [
+        "frame-2116.500.png"
+      ],
+      "first_frame_sha256": "980ea8807e07db00d9ab26be157189d68ab117b4a87ceffcc9a9415ffd382a75",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0017",
+      "start": 2141.25,
+      "end": 2142.0,
+      "text": "过来我们一起合拍一个过来\nVSCIEBAX",
+      "last_sample": 2141.25,
+      "samples": [
+        "frame-2141.250.png"
+      ],
+      "first_frame_sha256": "d91c38e8fda0c7f06821a4a5efd7db3ca0e6dd1f3e54f8ea052e98da3fc750bc",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0018",
+      "start": 2142,
+      "end": 2142.75,
+      "text": "VCIESU\n过来我们一起合拍一个过来",
+      "last_sample": 2142,
+      "samples": [
+        "frame-2142.000.png"
+      ],
+      "first_frame_sha256": "f12db3be06d2eb018ee076ef36ae6b84933a4559312ba228ff31243770f44804",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0019",
+      "start": 2142.75,
+      "end": 2143.5,
+      "text": "VIC.LEKAX",
+      "last_sample": 2142.75,
+      "samples": [
+        "frame-2142.750.png"
+      ],
+      "first_frame_sha256": "b2975d0380e0316e0ed4f5bf6ac67f7ae1f188f8ae538f551f3ab4e8737ee3b6",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0020",
+      "start": 2557.5,
+      "end": 2558.25,
+      "text": "搭一个",
+      "last_sample": 2557.5,
+      "samples": [
+        "frame-2557.500.png"
+      ],
+      "first_frame_sha256": "45e4461fedd56b60a1b421aaec8c355663d63824a538374a558c43fccd1177f2",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0021",
+      "start": 2613,
+      "end": 2613.75,
+      "text": "找不能找相同搭的",
+      "last_sample": 2613,
+      "samples": [
+        "frame-2613.000.png"
+      ],
+      "first_frame_sha256": "a584eb4ce2ac5b9c74aa7f567f83651a8dbf0b2340202817d5b32b955a0177af",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0022",
+      "start": 2697.75,
+      "end": 2698.5,
+      "text": "快到了",
+      "last_sample": 2697.75,
+      "samples": [
+        "frame-2697.750.png"
+      ],
+      "first_frame_sha256": "0cb55c3939308f17fd70a0ba4b77de0098859f0bf46aadf7b1051ab0e7121cba",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0023",
+      "start": 2954.25,
+      "end": 2955.0,
+      "text": "WrSEUX",
+      "last_sample": 2954.25,
+      "samples": [
+        "frame-2954.250.png"
+      ],
+      "first_frame_sha256": "3b236b1feca5bc6e5acb0cb31b34f9dc87deb49036ab15958885ef73d27abee8",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0024",
+      "start": 2955,
+      "end": 2955.75,
+      "text": "WOLEKKX",
+      "last_sample": 2955,
+      "samples": [
+        "frame-2955.000.png"
+      ],
+      "first_frame_sha256": "f2ec8c81e7c6d2093694b15691aafa9bf41406ce04149408b156b01a058c95f1",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0025",
+      "start": 2955.75,
+      "end": 2956.5,
+      "text": "XYSETOM",
+      "last_sample": 2955.75,
+      "samples": [
+        "frame-2955.750.png"
+      ],
+      "first_frame_sha256": "ecb8d6258baded697c17c9d73367e4106a6f9229eea68cefa17984dd56cd332b",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0026",
+      "start": 2956.5,
+      "end": 2957.25,
+      "text": "XYSTO9",
+      "last_sample": 2956.5,
+      "samples": [
+        "frame-2956.500.png"
+      ],
+      "first_frame_sha256": "19ec29cc3e1c9ae2e757764bd87350f23d6496110e2103f4ae742dc4d3a26963",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0027",
+      "start": 2957.25,
+      "end": 2958.0,
+      "text": "VSCLLEBAX",
+      "last_sample": 2957.25,
+      "samples": [
+        "frame-2957.250.png"
+      ],
+      "first_frame_sha256": "52e83de82f2c5a259088049b805e8e6dd526438754ef0489f825a664a64fe53a",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0028",
+      "start": 2958,
+      "end": 2958.75,
+      "text": "XYSSTOS",
+      "last_sample": 2958,
+      "samples": [
+        "frame-2958.000.png"
+      ],
+      "first_frame_sha256": "e347f76a3e7d2e74f2bacd6f15b3782df125c0e59e95a20dd197164fedb1deff",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0029",
+      "start": 2958.75,
+      "end": 2959.5,
+      "text": "XYSETO",
+      "last_sample": 2958.75,
+      "samples": [
+        "frame-2958.750.png"
+      ],
+      "first_frame_sha256": "2761d9a2ccb0b894930fbe9d4e4f46a165535bb9b2b082ffb10b2cc3c5f72b22",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0030",
+      "start": 2959.5,
+      "end": 2960.25,
+      "text": "VSCLEKAX",
+      "last_sample": 2959.5,
+      "samples": [
+        "frame-2959.500.png"
+      ],
+      "first_frame_sha256": "2ebbfb14a9f6efecd8cd807dff7c9ed6657ff56a98cfbd7c28d33970b87bad41",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0031",
+      "start": 2960.25,
+      "end": 2961.0,
+      "text": "WSCLEKAX",
+      "last_sample": 2960.25,
+      "samples": [
+        "frame-2960.250.png"
+      ],
+      "first_frame_sha256": "9a7d94d91e6aed6f133f4a7681770a6317df2c829b7baf361fb660f9aba1916b",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0032",
+      "start": 2961,
+      "end": 2961.75,
+      "text": "VSCLEKXX",
+      "last_sample": 2961,
+      "samples": [
+        "frame-2961.000.png"
+      ],
+      "first_frame_sha256": "402d784f80f3bc2c80bf370799aa41e1aa53faa77053b790f55140ca283ec3fe",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0033",
+      "start": 2961.75,
+      "end": 2962.5,
+      "text": "XY9ETOSN",
+      "last_sample": 2961.75,
+      "samples": [
+        "frame-2961.750.png"
+      ],
+      "first_frame_sha256": "5d235ef3da050b29b0eaeb7544afa59e7d5350cceef636a09ba5b3070a4614e0",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0034",
+      "start": 2962.5,
+      "end": 2963.25,
+      "text": "WSCLEKAX",
+      "last_sample": 2962.5,
+      "samples": [
+        "frame-2962.500.png"
+      ],
+      "first_frame_sha256": "0ed14ffa7c721a387f81c946106af8545bd5536fba236bb92c34177ff7ddd0f8",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0035",
+      "start": 2963.25,
+      "end": 2964.0,
+      "text": "XYSSTR",
+      "last_sample": 2963.25,
+      "samples": [
+        "frame-2963.250.png"
+      ],
+      "first_frame_sha256": "9e321ce141667bbab9f9cd4499738b5d79ae5e268002293c2440f3dece0754bd",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0036",
+      "start": 2964,
+      "end": 2965.5,
+      "text": "VSCLEKAX",
+      "last_sample": 2964.75,
+      "samples": [
+        "frame-2964.000.png",
+        "frame-2964.750.png"
+      ],
+      "first_frame_sha256": "7c7b331f56a184396c11f54187a2c084a1eb6270241d6a88de91fedff4cfdf66",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0037",
+      "start": 2965.5,
+      "end": 2966.25,
+      "text": "VSG.LEKAX",
+      "last_sample": 2965.5,
+      "samples": [
+        "frame-2965.500.png"
+      ],
+      "first_frame_sha256": "731c39fc3ed4b0d273fe54d3005d4442bffde196e0cee99ea133ff57a403d11d",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0038",
+      "start": 2966.25,
+      "end": 2967.0,
+      "text": "VSCLEKAX",
+      "last_sample": 2966.25,
+      "samples": [
+        "frame-2966.250.png"
+      ],
+      "first_frame_sha256": "0e1434acf3c459317b463110777908d94900233b5f306fdb7d2ec4ec4d124517",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0039",
+      "start": 2967,
+      "end": 2967.75,
+      "text": "VSC.LEKAX",
+      "last_sample": 2967,
+      "samples": [
+        "frame-2967.000.png"
+      ],
+      "first_frame_sha256": "3dfcc256468e647874167868d1c0ea6afd2b46a40771e65812fa181b0906c846",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0040",
+      "start": 2967.75,
+      "end": 2968.5,
+      "text": "XYSETO9",
+      "last_sample": 2967.75,
+      "samples": [
+        "frame-2967.750.png"
+      ],
+      "first_frame_sha256": "3a0228d3eb3605a54c7a14609a432fc6e3a734cbe87b63871c88d357f773f715",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0041",
+      "start": 2968.5,
+      "end": 2969.25,
+      "text": "XYSETTOA",
+      "last_sample": 2968.5,
+      "samples": [
+        "frame-2968.500.png"
+      ],
+      "first_frame_sha256": "b22bd7865dcf92d178775f5505cbd52777194296eefc3ca2c172426981d30ec7",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0042",
+      "start": 2971.5,
+      "end": 2972.25,
+      "text": "WSCIEKAK",
+      "last_sample": 2971.5,
+      "samples": [
+        "frame-2971.500.png"
+      ],
+      "first_frame_sha256": "2d31254d19f720d70612155c1e887887a22e5483390fec53de52874f338fed42",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0043",
+      "start": 2972.25,
+      "end": 2973.0,
+      "text": "V8CLEKAX",
+      "last_sample": 2972.25,
+      "samples": [
+        "frame-2972.250.png"
+      ],
+      "first_frame_sha256": "fe67ca13085d6a2762d4807461aabf6317a489191241ca81f7c38bd76921568c",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0044",
+      "start": 2973,
+      "end": 2973.75,
+      "text": "XYSETO9A\n莫名其妙想哭",
+      "last_sample": 2973,
+      "samples": [
+        "frame-2973.000.png"
+      ],
+      "first_frame_sha256": "7526d3bb29f35c523ebceed078220a4da4501c328993e729139229c018f486e8",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0045",
+      "start": 2973.75,
+      "end": 2974.5,
+      "text": "VSCLEISAX\n莫名其妙想哭",
+      "last_sample": 2973.75,
+      "samples": [
+        "frame-2973.750.png"
+      ],
+      "first_frame_sha256": "dfef7679c04530855867fa5bb7705a1df477d5a43169632fa0c8ed157ce4bcf1",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0046",
+      "start": 2974.5,
+      "end": 2975.25,
+      "text": "VSC.LEISAX\n莫名其妙想哭",
+      "last_sample": 2974.5,
+      "samples": [
+        "frame-2974.500.png"
+      ],
+      "first_frame_sha256": "17d5fb3cf070f1af94c7317ecc9de2f540395509da16339b12bf2ad1592c93a6",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0047",
+      "start": 2975.25,
+      "end": 2976.0,
+      "text": "WSCIEISAX",
+      "last_sample": 2975.25,
+      "samples": [
+        "frame-2975.250.png"
+      ],
+      "first_frame_sha256": "14cf516ac6e8114d71aff7be9d213dcf5db207ad1b7a1fc58c2f07b5f260ac9d",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0048",
+      "start": 2976,
+      "end": 2977.5,
+      "text": "VSCLEKAX",
+      "last_sample": 2976.75,
+      "samples": [
+        "frame-2976.000.png",
+        "frame-2976.750.png"
+      ],
+      "first_frame_sha256": "845d4975bf9d220ce359816065e5af6a664eb7071c93aeffcf70dea16ada18a3",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0049",
+      "start": 2977.5,
+      "end": 2978.25,
+      "text": "XY9ET38A",
+      "last_sample": 2977.5,
+      "samples": [
+        "frame-2977.500.png"
+      ],
+      "first_frame_sha256": "7569d2581faa91233fe0bb950a201d309c758eb0d0ebe8e89f7c3e812c542b81",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0050",
+      "start": 2978.25,
+      "end": 2979.0,
+      "text": "VSCIEKAX",
+      "last_sample": 2978.25,
+      "samples": [
+        "frame-2978.250.png"
+      ],
+      "first_frame_sha256": "26c67e27ca7032900ca2b72a038ab11090a4f42b41e20775fd0e7db970585b20",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0051",
+      "start": 2979.75,
+      "end": 2980.5,
+      "text": "XYSETOAN",
+      "last_sample": 2979.75,
+      "samples": [
+        "frame-2979.750.png"
+      ],
+      "first_frame_sha256": "12a46d7c7b2807b9c1d6571b310abdcba239e911613cdbc8e8a2f6e15ed4e0e8",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0052",
+      "start": 2980.5,
+      "end": 2981.25,
+      "text": "XYSTOAA",
+      "last_sample": 2980.5,
+      "samples": [
+        "frame-2980.500.png"
+      ],
+      "first_frame_sha256": "40bfbcc7adf851dfeee42f5dce9f84072f2a95a3dfaca2f2c692502cb63dbbe2",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0053",
+      "start": 2981.25,
+      "end": 2982.0,
+      "text": "VSG-JESAX",
+      "last_sample": 2981.25,
+      "samples": [
+        "frame-2981.250.png"
+      ],
+      "first_frame_sha256": "de3ade2b852c686132f4300a335558705a5c9d828d673563e8aa079e43a083d8",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0054",
+      "start": 2982,
+      "end": 2982.75,
+      "text": "WCLEKKX",
+      "last_sample": 2982,
+      "samples": [
+        "frame-2982.000.png"
+      ],
+      "first_frame_sha256": "4235571ad81720ebd757fb427ddc2157ac9c833fb3cb47b3862879402e0ee867",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0055",
+      "start": 2982.75,
+      "end": 2984.25,
+      "text": "VSCLEKAX",
+      "last_sample": 2983.5,
+      "samples": [
+        "frame-2982.750.png",
+        "frame-2983.500.png"
+      ],
+      "first_frame_sha256": "afccc00aac11efc5558317148baff4334f1d60b8c935531dc3db2fb6e36f339d",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0056",
+      "start": 2985,
+      "end": 2985.75,
+      "text": "VCLEKAX",
+      "last_sample": 2985,
+      "samples": [
+        "frame-2985.000.png"
+      ],
+      "first_frame_sha256": "10c55c0f7bc4e854651b5a4b5e3daf6797b63a6d468d14155413711b9108c3fd",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0057",
+      "start": 2985.75,
+      "end": 2986.5,
+      "text": "WCLEKAX",
+      "last_sample": 2985.75,
+      "samples": [
+        "frame-2985.750.png"
+      ],
+      "first_frame_sha256": "8cb5fba830020566ff4a017acdfa336024d9c4a29f4ee75cc80b696cb89bb737",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0058",
+      "start": 2986.5,
+      "end": 2987.25,
+      "text": "BCLESAX",
+      "last_sample": 2986.5,
+      "samples": [
+        "frame-2986.500.png"
+      ],
+      "first_frame_sha256": "5eb7f2d14f85575f4b262044055ff5d7ff78779c7524c28008e018b8cac0f8dd",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0059",
+      "start": 2988,
+      "end": 2988.75,
+      "text": "XYEL！",
+      "last_sample": 2988,
+      "samples": [
+        "frame-2988.000.png"
+      ],
+      "first_frame_sha256": "8770133fdd832398d31966ccd07a8cc9ffa7b4820e32be944b18dbab11cb2235",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0060",
+      "start": 2989.5,
+      "end": 2990.25,
+      "text": "WCLEKAX",
+      "last_sample": 2989.5,
+      "samples": [
+        "frame-2989.500.png"
+      ],
+      "first_frame_sha256": "fdf5d9af07cd6e14190f7de11e024f96145a7e3f5748e9f4ea91c6238d88ca82",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0061",
+      "start": 2990.25,
+      "end": 2991.0,
+      "text": "XY9ETO",
+      "last_sample": 2990.25,
+      "samples": [
+        "frame-2990.250.png"
+      ],
+      "first_frame_sha256": "8d8d4989c684a5dedc8afb3130c2136e7308ca316545c6cee646e3b20325e703",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0062",
+      "start": 2991,
+      "end": 2991.75,
+      "text": "WCLEKAX",
+      "last_sample": 2991,
+      "samples": [
+        "frame-2991.000.png"
+      ],
+      "first_frame_sha256": "4cfd812be592738c37d2da150c6824c99b8cbc55b57c6ecc05f88851e9272d77",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0063",
+      "start": 2991.75,
+      "end": 2992.5,
+      "text": "WGIEKAX",
+      "last_sample": 2991.75,
+      "samples": [
+        "frame-2991.750.png"
+      ],
+      "first_frame_sha256": "81c8b19f7c38d314e7d0905d33b6d95e6adc43a6ae03bc2af33a757e195a4467",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0064",
+      "start": 2993.25,
+      "end": 2994.0,
+      "text": "VSCLEISAX",
+      "last_sample": 2993.25,
+      "samples": [
+        "frame-2993.250.png"
+      ],
+      "first_frame_sha256": "ca87d6d13586e0273b4264814a6fc6c3f588c29fbfa22ef233275eb0465e0595",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0065",
+      "start": 2994,
+      "end": 2994.75,
+      "text": "XYETOA",
+      "last_sample": 2994,
+      "samples": [
+        "frame-2994.000.png"
+      ],
+      "first_frame_sha256": "4368323ae59515fcca7a5b96f4b304ff833255e778d313a7c1e2446cad9faaef",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0066",
+      "start": 2994.75,
+      "end": 2995.5,
+      "text": "WCLEKAX",
+      "last_sample": 2994.75,
+      "samples": [
+        "frame-2994.750.png"
+      ],
+      "first_frame_sha256": "c3d7115fe6f9821f72cb5c8087193be2a57d2a648c21040d1d5c2cef4087ad63",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV12GQiBrExv-caption-gap-0067",
+      "start": 3086.25,
+      "end": 3087.0,
+      "text": "再见",
+      "last_sample": 3086.25,
+      "samples": [
+        "frame-3086.250.png"
+      ],
+      "first_frame_sha256": "c6d2ffac083de14e6306e9bc53a26fd5a15b5b7777267cf2b42ca3093cb274ff",
+      "visual_reviewed": false
+    }
+  ]
+}

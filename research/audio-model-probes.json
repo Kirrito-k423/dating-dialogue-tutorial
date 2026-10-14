@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-14",
+  "tool_commit": "d1be6fde11ac6e0407606b4e42fe72d34add8037",
+  "listening_verified": false,
+  "caution": "ASR probes have no ground-truth audio listening check. Timings include model initialization. The complete BV14gFYzREk4 turbo probe ran without another ASR process; other timings involved shared GPU work. This does not verify scene completeness or transcription accuracy.",
+  "models": [
+    {
+      "name": "ggml-large-v3-turbo-q5_0.bin",
+      "bytes": 574041195,
+      "sha256": "394221709cd5ad1f40c46e6031ca61bce88931e6e088c188294c6d5a55ffa7e2"
+    },
+    {
+      "name": "ggml-medium-q5_0.bin",
+      "bytes": 539212467,
+      "sha256": "19fea4b380c3a618ec4723c3eef2eb785ffba0d0538cf43f8f235e7b3b34220f"
+    },
+    {
+      "name": "ggml-small-q5_1.bin",
+      "bytes": 190085487,
+      "sha256": "ae85e4a935d7a567bd102fe55afc16bb595bdb618e11b2fc7591bc08120411bb"
+    }
+  ],
+  "results": [
+    {
+      "bvid": "BV14gFYzREk4",
+      "source_start": 0,
+      "source_end": 704,
+      "audio_duration_seconds": 703.377,
+      "method": "whisper.cpp v1.9.5 large-v3-turbo-q5_0; zh; Metal; beam_size=3; best_of=3; max_len=40; threads=4; independent machine crosscheck, not listening",
+      "segments": 434,
+      "elapsed_seconds": 177.6,
+      "seconds_per_audio_minute": 15.15,
+      "isolated_from_other_asr_processes": true,
+      "listening_verified": false
+    },
+    {
+      "bvid": "BV1ZX9KBUEip",
+      "source_start": 27,
+      "source_end": 62,
+      "audio_duration_seconds": 35.0,
+      "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+      "segments": 6,
+      "elapsed_seconds": 11.6,
+      "seconds_per_audio_minute": 19.89,
+      "isolated_from_other_asr_processes": false,
+      "listening_verified": false
+    },
+    {
+      "bvid": "BV1f8Yj6aExQ",
+      "source_start": 0,
+      "source_end": 60,
+      "audio_duration_seconds": 60.0,
+      "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+      "segments": 15,
+      "elapsed_seconds": 52.5,
+      "seconds_per_audio_minute": 52.5,
+      "isolated_from_other_asr_processes": false,
+      "listening_verified": false
+    },
+    {
+      "bvid": "BV1f8Yj6aExQ",
+      "source_start": 0,
+      "source_end": 60,
+      "audio_duration_seconds": 60.0,
+      "method": "whisper.cpp v1.9.5 large-v3-turbo-q5_0; zh; Metal; beam_size=3; best_of=3; max_len=40; threads=4; independent machine crosscheck, not listening",
+      "segments": 38,
+      "elapsed_seconds": 20.6,
+      "seconds_per_audio_minute": 20.6,
+      "isolated_from_other_asr_processes": false,
+      "listening_verified": false
+    },
+    {
+      "bvid": "BV1f8Yj6aExQ",
+      "source_start": 850,
+      "source_end": 920,
+      "audio_duration_seconds": 70.0,
+      "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+      "segments": 44,
+      "elapsed_seconds": 17.4,
+      "seconds_per_audio_minute": 14.91,
+      "isolated_from_other_asr_processes": false,
+      "listening_verified": false
+    },
+    {
+      "bvid": "BV1f8Yj6aExQ",
+      "source_start": 1125,
+      "source_end": 1185,
+      "audio_duration_seconds": 60.0,
+      "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+      "segments": 25,
+      "elapsed_seconds": 17.2,
+      "seconds_per_audio_minute": 17.2,
+      "isolated_from_other_asr_processes": false,
+      "listening_verified": false
+    },
+    {
+      "bvid": "BV1kJP5z6EDw",
+      "source_start": 819,
+      "source_end": 842,
+      "audio_duration_seconds": 23.0,
+      "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+      "segments": 1,
+      "elapsed_seconds": 5.0,
+      "seconds_per_audio_minute": 13.04,
+      "isolated_from_other_asr_processes": false,
+      "listening_verified": false
+    },
+    {
+      "bvid": "BV1kJP5z6EDw",
+      "source_start": 880,
+      "source_end": 924,
+      "audio_duration_seconds": 44.0,
+      "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+      "segments": 13,
+      "elapsed_seconds": 18.7,
+      "seconds_per_audio_minute": 25.5,
+      "isolated_from_other_asr_processes": false,
+      "listening_verified": false
+    },
+    {
+      "bvid": "BV1upQdBiEN1",
+      "source_start": 317,
+      "source_end": 340,
+      "audio_duration_seconds": 23.0,
+      "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+      "segments": 11,
+      "elapsed_seconds": 11.6,
+      "seconds_per_audio_minute": 30.26,
+      "isolated_from_other_asr_processes": false,
+      "listening_verified": false
+    },
+    {
+      "bvid": "BV1vj6yBDE5r",
+      "source_start": 0,
+      "source_end": 685,
+      "audio_duration_seconds": 684.825,
+      "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+      "segments": 400,
+      "elapsed_seconds": 301.5,
+      "seconds_per_audio_minute": 26.42,
+      "isolated_from_other_asr_processes": false,
+      "listening_verified": false
+    },
+    {
+      "bvid": "BV1vj6yBDE5r",
+      "source_start": 420,
+      "source_end": 510,
+      "audio_duration_seconds": 90.0,
+      "method": "whisper.cpp v1.9.5 large-v3-turbo-q5_0; zh; Metal; beam_size=3; best_of=3; max_len=40; threads=4; independent machine crosscheck, not listening",
+      "segments": 57,
+      "elapsed_seconds": 33.5,
+      "seconds_per_audio_minute": 22.33,
+      "isolated_from_other_asr_processes": false,
+      "listening_verified": false
+    }
+  ]
+}

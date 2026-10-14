@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "bvid": "BV14gFYzREk4",
+  "method": "Selected original video caption checked via actual image input; not audio listening; sampled caption presence interval",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0001",
+      "start": 189,
+      "end": 189.75,
+      "text": "你喜欢吃啥",
+      "visual_reviewed": true,
+      "frame_time": 189,
+      "frame_sha256": "e62117d63e77c37f9d773ec60a74bdc0f569129a26e49207831b627f05dcea58",
+      "frame_file": "frames-BV14gFYzREk4/frame-0189.000.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0002",
+      "start": 190.5,
+      "end": 191.25,
+      "text": "我都喜欢吃啊",
+      "visual_reviewed": true,
+      "frame_time": 190.5,
+      "frame_sha256": "e7343b5e4eb0b751b3f036b93dab4d373350e8c9e64e9c3614ac0f451d1f7ad9",
+      "frame_file": "frames-BV14gFYzREk4/frame-0190.500.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0003",
+      "start": 192.75,
+      "end": 193.5,
+      "text": "那我就看着点了啊",
+      "visual_reviewed": true,
+      "frame_time": 192.75,
+      "frame_sha256": "17a58e8039904010383f3df8d7a4d1e7db1624dc9452069703060aedc0e8ddc6",
+      "frame_file": "frames-BV14gFYzREk4/frame-0192.750.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0004",
+      "start": 193.5,
+      "end": 194.25,
+      "text": "我就不给你看了啊",
+      "visual_reviewed": true,
+      "frame_time": 193.5,
+      "frame_sha256": "cfd64070658f6c6a45015b794e7fe876753a3299529b1fe5f54d7972def7a228",
+      "frame_file": "frames-BV14gFYzREk4/frame-0193.500.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0005",
+      "start": 195,
+      "end": 196.5,
+      "text": "万一你点的我不喜欢吃怎么办",
+      "visual_reviewed": true,
+      "frame_time": 195,
+      "frame_sha256": "c637ffad147f4c5e646b1ddb6c504472d91b52b365baa64acf6102cf0db537b0",
+      "frame_file": "frames-BV14gFYzREk4/frame-0195.000.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0006",
+      "start": 633,
+      "end": 633.75,
+      "text": "我第一次中途离场",
+      "visual_reviewed": true,
+      "frame_time": 633,
+      "frame_sha256": "a1409343b858015547c8b29559142fbf8a2d80073c881cfea8d2de4dddabc2d6",
+      "frame_file": "frames-BV14gFYzREk4/frame-0633.000.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0007",
+      "start": 634.5,
+      "end": 635.25,
+      "text": "我也是",
+      "visual_reviewed": true,
+      "frame_time": 634.5,
+      "frame_sha256": "81600a236a166fa2311347330b7474c934b2ac3ffba825cc107c9eb626bc5b73",
+      "frame_file": "frames-BV14gFYzREk4/frame-0634.500.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0008",
+      "start": 636.75,
+      "end": 639.0,
+      "text": "我知道另一个电影特别好看",
+      "visual_reviewed": true,
+      "frame_time": 636.75,
+      "frame_sha256": "70a2d8cc49feb337da1b62f9a342d823f402414e5bcfd410b7b4a0beb240da3a",
+      "frame_file": "frames-BV14gFYzREk4/frame-0636.750.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0009",
+      "start": 639,
+      "end": 639.75,
+      "text": "也是恐怖片",
+      "visual_reviewed": true,
+      "frame_time": 639,
+      "frame_sha256": "f6f8b1def436cd9f0785a246e488cfa468517fdab86335db3b6ad38a34c1cf1a",
+      "frame_file": "frames-BV14gFYzREk4/frame-0639.000.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0010",
+      "start": 639.75,
+      "end": 641.25,
+      "text": "要不咱俩找个地方去看",
+      "visual_reviewed": true,
+      "frame_time": 639.75,
+      "frame_sha256": "9f3fafbd3f98d9128f74487286b1b3abfacea61f793c83c1191203452010b19b",
+      "frame_file": "frames-BV14gFYzREk4/frame-0639.750.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0011",
+      "start": 642,
+      "end": 642.75,
+      "text": "什么名字",
+      "visual_reviewed": true,
+      "frame_time": 642,
+      "frame_sha256": "b744563bf7c17d2b85539a58516ff64a275a8a32470cb3ac119dd72f702480f9",
+      "frame_file": "frames-BV14gFYzREk4/frame-0642.000.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0012",
+      "start": 643.5,
+      "end": 644.25,
+      "text": "老电影啊",
+      "visual_reviewed": true,
+      "frame_time": 643.5,
+      "frame_sha256": "5e071bc58892ab2631e8b3e6a1267747ac792cba1e78f24469e21a5716e21ecb",
+      "frame_file": "frames-BV14gFYzREk4/frame-0643.500.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0013",
+      "start": 644.25,
+      "end": 645.0,
+      "text": "现在电影院没有",
+      "visual_reviewed": true,
+      "frame_time": 644.25,
+      "frame_sha256": "d1522366be999c419cb77ae003a3a2074d7396ed477fbe0f9c6730d47eb76a08",
+      "frame_file": "frames-BV14gFYzREk4/frame-0644.250.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0014",
+      "start": 646.5,
+      "end": 647.25,
+      "text": "那去哪看",
+      "visual_reviewed": true,
+      "frame_time": 646.5,
+      "frame_sha256": "063fe33fe087f56e219fcdedda9a80423937ac4c11a2a745a14f03945e31525f",
+      "frame_file": "frames-BV14gFYzREk4/frame-0646.500.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0015",
+      "start": 648,
+      "end": 648.75,
+      "text": "要不去你家",
+      "visual_reviewed": true,
+      "frame_time": 648,
+      "frame_sha256": "02f285459f3644bf3a9142b12b79392b8cad2c24ce14cfdc18089d89e88a9003",
+      "frame_file": "frames-BV14gFYzREk4/frame-0648.000.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0016",
+      "start": 118.5,
+      "end": 119.25,
+      "text": "迟到五分钟算迟到",
+      "visual_reviewed": true,
+      "frame_time": 118.5,
+      "frame_sha256": "46fb0a6c5012ff7a7426bd2eef0930374c114c93a2af3b2b6cd7546bb494c260",
+      "frame_file": "frames-BV14gFYzREk4/frame-0118.500.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0017",
+      "start": 120,
+      "end": 120.75,
+      "text": "你都迟到半个小时了",
+      "visual_reviewed": true,
+      "frame_time": 120,
+      "frame_sha256": "a36a33b7b0380e3742da3e16c27e1a5a27b33593c92ded34ac1f5de3a9263b41",
+      "frame_file": "frames-BV14gFYzREk4/frame-0120.000.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0018",
+      "start": 123.75,
+      "end": 124.5,
+      "text": "明天玩密室的时候",
+      "visual_reviewed": true,
+      "frame_time": 123.75,
+      "frame_sha256": "b23a79791f25cbdbd5a397a807329b14d0060441d518779ba04297e410dfd55a",
+      "frame_file": "frames-BV14gFYzREk4/frame-0123.750.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0019",
+      "start": 124.5,
+      "end": 126.0,
+      "text": "我早到半个小时",
+      "visual_reviewed": true,
+      "frame_time": 124.5,
+      "frame_sha256": "98aeb4eb8c9beae75213f03854b7fa78802666381084bfe98248f872bdbc0b7a",
+      "frame_file": "frames-BV14gFYzREk4/frame-0124.500.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0020",
+      "start": 126,
+      "end": 126.75,
+      "text": "咋样",
+      "visual_reviewed": true,
+      "frame_time": 126,
+      "frame_sha256": "0539ddebf0a6ecaf833c535a6186ccae62eda176262cc24ea009728073262139",
+      "frame_file": "frames-BV14gFYzREk4/frame-0126.000.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0021",
+      "start": 127.5,
+      "end": 129.0,
+      "text": "啥时候跟你说的明天玩密室",
+      "visual_reviewed": true,
+      "frame_time": 127.5,
+      "frame_sha256": "7e186cddf9371b45914d7f088444ece64e2665843490922b47e6f370b6cec180",
+      "frame_file": "frames-BV14gFYzREk4/frame-0127.500.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0022",
+      "start": 130.5,
+      "end": 131.25,
+      "text": "不是刚才迟到了吗",
+      "visual_reviewed": true,
+      "frame_time": 130.5,
+      "frame_sha256": "ad27075efc0f07f71850cd96567a9d7f0c0f5e09f5f018746b4e27c66a6758f0",
+      "frame_file": "frames-BV14gFYzREk4/frame-0130.500.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0023",
+      "start": 131.25,
+      "end": 132.75,
+      "text": "我就明天请你玩个密室",
+      "visual_reviewed": true,
+      "frame_time": 131.25,
+      "frame_sha256": "0c47555231450a03667fb802a7a8ebdbc4285a384b6452ad40107bf3a8c55dd6",
+      "frame_file": "frames-BV14gFYzREk4/frame-0131.250.png"
+    },
+    {
+      "id": "BV14gFYzREk4-caption-reviewed-early-0024",
+      "start": 132.75,
+      "end": 133.5,
+      "text": "补偿你一下",
+      "visual_reviewed": true,
+      "frame_time": 132.75,
+      "frame_sha256": "59dabd46d8fee8c1a51135bef21145dc1ac238880ffb00d0a4af3f48e30a03db",
+      "frame_file": "frames-BV14gFYzREk4/frame-0132.750.png"
+    }
+  ]
+}

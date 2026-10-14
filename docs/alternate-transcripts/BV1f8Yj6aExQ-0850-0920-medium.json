@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1f8Yj6aExQ",
+  "source_start": 850,
+  "source_end": 920,
+  "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+  "listening_verified": false,
+  "elapsed_seconds": 17.4,
+  "segments": [
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0001",
+      "start": 850.0,
+      "end": 851.2,
+      "text": "我不会"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0002",
+      "start": 851.88,
+      "end": 853.16,
+      "text": "我这人只会"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0003",
+      "start": 853.16,
+      "end": 854.92,
+      "text": "你刚拍照拍那么好看"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0004",
+      "start": 854.92,
+      "end": 855.84,
+      "text": "大家注意"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0005",
+      "start": 855.84,
+      "end": 858.24,
+      "text": "这一段是一镜到底我没有剪辑"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0006",
+      "start": 859.24,
+      "end": 861.52,
+      "text": "一般男生都拍照拍特别丑"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0007",
+      "start": 861.52,
+      "end": 862.0,
+      "text": "你知道吧"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0008",
+      "start": 862.0,
+      "end": 863.52,
+      "text": "有多少个男的给你拍过照"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0009",
+      "start": 864.0,
+      "end": 864.96,
+      "text": "你看你这话说的"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0010",
+      "start": 864.96,
+      "end": 866.08,
+      "text": "你给多少女的拍过照"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0011",
+      "start": 866.08,
+      "end": 866.88,
+      "text": "你先说"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0012",
+      "start": 866.88,
+      "end": 868.0,
+      "text": "你先说你给多少个男的"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0013",
+      "start": 868.0,
+      "end": 869.16,
+      "text": "你先说多少个女的"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0014",
+      "start": 869.52,
+      "end": 870.36,
+      "text": "你先说快点"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0015",
+      "start": 870.64,
+      "end": 872.64,
+      "text": "在你面前他们都不叫女人"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0016",
+      "start": 874.96,
+      "end": 876.32,
+      "text": "都是老班丘"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0017",
+      "start": 877.2,
+      "end": 878.52,
+      "text": "你太会说话了"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0018",
+      "start": 878.52,
+      "end": 880.72,
+      "text": "只有今天我才遇到了真正"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0019",
+      "start": 881.08,
+      "end": 882.96,
+      "text": "让我觉得有女人味的女人"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0020",
+      "start": 883.32,
+      "end": 884.0,
+      "text": "真的吗"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0021",
+      "start": 884.6,
+      "end": 886.4,
+      "text": "我从来不给别的女的拍照"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0022",
+      "start": 887.0,
+      "end": 888.44,
+      "text": "他们找我拍照给钱"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0023",
+      "start": 888.6,
+      "end": 889.88,
+      "text": "你给我说的一愣一愣"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0024",
+      "start": 889.88,
+      "end": 890.8,
+      "text": "真的得给钱"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0025",
+      "start": 890.8,
+      "end": 891.68,
+      "text": "一愣一愣的"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0026",
+      "start": 891.68,
+      "end": 892.68,
+      "text": "你是哪儿的人"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0027",
+      "start": 892.92,
+      "end": 894.28,
+      "text": "你这话"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0028",
+      "start": 894.4,
+      "end": 896.12,
+      "text": "听着你是东北人"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0029",
+      "start": 896.4,
+      "end": 897.4,
+      "text": "你也是东北的吧"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0030",
+      "start": 897.8,
+      "end": 898.24,
+      "text": "对"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0031",
+      "start": 898.68,
+      "end": 899.48,
+      "text": "真假的"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0032",
+      "start": 899.48,
+      "end": 899.8,
+      "text": "对"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0033",
+      "start": 899.8,
+      "end": 900.2,
+      "text": "真假的"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0034",
+      "start": 900.2,
+      "end": 901.04,
+      "text": "你是哪儿的"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0035",
+      "start": 901.44,
+      "end": 902.04,
+      "text": "你猜"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0036",
+      "start": 902.48,
+      "end": 903.32,
+      "text": "你听我说你猜不猜"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0037",
+      "start": 903.32,
+      "end": 904.12,
+      "text": "是我没有"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0038",
+      "start": 904.12,
+      "end": 905.48,
+      "text": "我听你没口音的"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0039",
+      "start": 905.48,
+      "end": 907.56,
+      "text": "对我从小在香港长大了"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0040",
+      "start": 907.56,
+      "end": 908.64,
+      "text": "真假的"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0041",
+      "start": 909.76,
+      "end": 910.8,
+      "text": "新潮吗"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0042",
+      "start": 912.56,
+      "end": 914.04,
+      "text": "你也是香港长大的"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0043",
+      "start": 914.04,
+      "end": 916.4,
+      "text": "不是我是弯弯长大的"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-0850-0920-medium-0044",
+      "start": 917.6,
+      "end": 919.96,
+      "text": "刚才这一长段都是一镜到底"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1sFj26mEu1",
+  "method": "macOS Vision OCR of selected video frames at ASR timestamp gaps; frame subtitles, not audio transcription; 0.75-second sampling, intervals reflect caption samples not speech boundaries",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0001",
+      "start": 1340.25,
+      "end": 1341.0,
+      "text": "IIME ConbrE",
+      "last_sample": 1340.25,
+      "samples": [
+        "frame-1340.250.png"
+      ],
+      "first_frame_sha256": "177cf4d01268e67965b9f9d8a90215eeaa4e88663d92b61687d38ecbfac28c13",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0002",
+      "start": 1341,
+      "end": 1341.75,
+      "text": "mM2 conbre\n我靠哈哈哈我靠哈哈哈我操",
+      "last_sample": 1341,
+      "samples": [
+        "frame-1341.000.png"
+      ],
+      "first_frame_sha256": "2eb5fdfbffd7f5e8bef90c3978a11082ab51cf65dd5c7afdb8df9368084966a5",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0003",
+      "start": 1341.75,
+      "end": 1342.5,
+      "text": "MMe conbrE\n我靠哈哈哈我靠哈哈哈我操",
+      "last_sample": 1341.75,
+      "samples": [
+        "frame-1341.750.png"
+      ],
+      "first_frame_sha256": "2bcdc5163d52b958861bf9a1a6ad1b87b6e80cdfb22a298c0d2a6168798e4350",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0004",
+      "start": 1342.5,
+      "end": 1343.25,
+      "text": "MMe conbre\n我靠哈哈哈我靠哈哈哈我操",
+      "last_sample": 1342.5,
+      "samples": [
+        "frame-1342.500.png"
+      ],
+      "first_frame_sha256": "1e68de06ff961fd2b27654b4000ddf30a151da5b99e881f0c459e231a4a0ad9b",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0005",
+      "start": 1343.25,
+      "end": 1344.0,
+      "text": "MM2 ConbrE\n我靠哈哈哈秩靠哈哈哈我棵",
+      "last_sample": 1343.25,
+      "samples": [
+        "frame-1343.250.png"
+      ],
+      "first_frame_sha256": "9e4bda50a63e02f1fa7d0a11885be75b9f78e45107ed502f54b5b05d44ba2bd1",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0006",
+      "start": 1344,
+      "end": 1344.75,
+      "text": "IM2 conbre\n我靠哈哈哈我靠哈哈哈我操",
+      "last_sample": 1344,
+      "samples": [
+        "frame-1344.000.png"
+      ],
+      "first_frame_sha256": "a542366d1facc072d933514aa9372cf6b03f192d22f3824735880362e3da12c7",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0007",
+      "start": 1344.75,
+      "end": 1345.5,
+      "text": "aIe conbrE\n我靠哈哈哈我靠哈哈哈我操",
+      "last_sample": 1344.75,
+      "samples": [
+        "frame-1344.750.png"
+      ],
+      "first_frame_sha256": "68008cc99c6ecfa53714abaa0aba195be3253588b3ea33c80183dbe03b669a84",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0008",
+      "start": 1345.5,
+      "end": 1346.25,
+      "text": "BIMa conbrE",
+      "last_sample": 1345.5,
+      "samples": [
+        "frame-1345.500.png"
+      ],
+      "first_frame_sha256": "d5fa46cec0732ed68d7c36b66d28161ae7b33d12651b4f65b4a2ec73bda89a74",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0009",
+      "start": 1347,
+      "end": 1347.75,
+      "text": "TMa Conbre\n送你了",
+      "last_sample": 1347,
+      "samples": [
+        "frame-1347.000.png"
+      ],
+      "first_frame_sha256": "da1549d60f807688677e2e5fecd5c85f9866ff357ec3010c346422d2f73e2251",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0010",
+      "start": 1450.5,
+      "end": 1451.25,
+      "text": "拜拜",
+      "last_sample": 1450.5,
+      "samples": [
+        "frame-1450.500.png"
+      ],
+      "first_frame_sha256": "3cff5bae92962912549ffe2d1eefb4dc9e2c918b070be4310a68aefd6698a5bc",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0011",
+      "start": 1451.25,
+      "end": 1452.0,
+      "text": "好兄弟们",
+      "last_sample": 1451.25,
+      "samples": [
+        "frame-1451.250.png"
+      ],
+      "first_frame_sha256": "b5217de9d68cb2d8766b98ee3f615fa14533f31bdb20922d2f91aca77cf0a0e0",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0012",
+      "start": 1452,
+      "end": 1453.5,
+      "text": "看到这觉得学到东西的",
+      "last_sample": 1452.75,
+      "samples": [
+        "frame-1452.000.png",
+        "frame-1452.750.png"
+      ],
+      "first_frame_sha256": "1d699ea30809be38d17c43c6466e03b3669078c3eea33b776e341e3211614739",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0013",
+      "start": 1453.5,
+      "end": 1455.0,
+      "text": "666给我扣出来",
+      "last_sample": 1454.25,
+      "samples": [
+        "frame-1453.500.png",
+        "frame-1454.250.png"
+      ],
+      "first_frame_sha256": "0661981fae95f7d790add993947618b0ffe77e6c9039be631faf45c39426e9b0",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0014",
+      "start": 1455,
+      "end": 1456.5,
+      "text": "怠结一句话啊",
+      "last_sample": 1455.75,
+      "samples": [
+        "frame-1455.000.png",
+        "frame-1455.750.png"
+      ],
+      "first_frame_sha256": "39b69167fcb887083f2b8c069c1ee4ed446db34bcfa45794d6114e873f2092f4",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0015",
+      "start": 1456.5,
+      "end": 1458.0,
+      "text": "沒有坏的套路",
+      "last_sample": 1457.25,
+      "samples": [
+        "frame-1456.500.png",
+        "frame-1457.250.png"
+      ],
+      "first_frame_sha256": "8982dc71e48a1f1b954784534941daa01898a98fc11ce7aef5ec382a272694bd",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0016",
+      "start": 1458,
+      "end": 1458.75,
+      "text": "只有坏的人",
+      "last_sample": 1458,
+      "samples": [
+        "frame-1458.000.png"
+      ],
+      "first_frame_sha256": "f1bfdd8c3f5fd51c11010cd589e89c1cb10b731f300400e4baaf07326fb4fa7d",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0017",
+      "start": 1458.75,
+      "end": 1460.25,
+      "text": "只要你心是好的",
+      "last_sample": 1459.5,
+      "samples": [
+        "frame-1458.750.png",
+        "frame-1459.500.png"
+      ],
+      "first_frame_sha256": "607fcd66f9188a161100456779e06e4f8ee84f0ef8f370af57b9efd8dfef5aeb",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0018",
+      "start": 1460.25,
+      "end": 1461.75,
+      "text": "套路就是好的",
+      "last_sample": 1461,
+      "samples": [
+        "frame-1460.250.png",
+        "frame-1461.000.png"
+      ],
+      "first_frame_sha256": "e7297a169ca35b281222efdf2166a3bcf660c5f3b77cffc0831e35eee3da4721",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1sFj26mEu1-caption-gap-0019",
+      "start": 1461.75,
+      "end": 1462.5,
+      "text": "那公如果你有喜欢的女生搞不定的",
+      "last_sample": 1461.75,
+      "samples": [
+        "frame-1461.750.png"
+      ],
+      "first_frame_sha256": "db5f80330abd7296870999c855da41513c82cfd5a815e5212c147682845b5d02",
+      "visual_reviewed": false
+    }
+  ]
+}

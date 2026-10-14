@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-14",
+  "method": "Text-only repetition candidates from unchanged ASR drafts; a flag does not prove hallucination, silence, or absence of real repeated speech. No listening check was performed.",
+  "listening_verified": false,
+  "checked_videos": 18,
+  "total_flags": 11,
+  "videos": [
+    {
+      "bvid": "BV1vj6yBDE5r",
+      "episode": 1,
+      "flag_count": 0,
+      "flags": []
+    },
+    {
+      "bvid": "BV14gFYzREk4",
+      "episode": 2,
+      "flag_count": 0,
+      "flags": []
+    },
+    {
+      "bvid": "BV1kJP5z6EDw",
+      "episode": 3,
+      "flag_count": 0,
+      "flags": []
+    },
+    {
+      "bvid": "BV1upQdBiEN1",
+      "episode": 4,
+      "flag_count": 1,
+      "flags": [
+        {
+          "kind": "same_text_consecutive_segments",
+          "start": 1021.8,
+          "end": 1025.7,
+          "segment_ids": [
+            "BV1upQdBiEN1-00573",
+            "BV1upQdBiEN1-00574",
+            "BV1upQdBiEN1-00575"
+          ],
+          "text": "嗯",
+          "repeat_count": 3,
+          "listening_verified": false
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ZX9KBUEip",
+      "episode": 5,
+      "flag_count": 0,
+      "flags": []
+    },
+    {
+      "bvid": "BV12GQiBrExv",
+      "episode": 6,
+      "flag_count": 2,
+      "flags": [
+        {
+          "kind": "same_text_consecutive_segments",
+          "start": 601.28,
+          "end": 603.8,
+          "segment_ids": [
+            "BV12GQiBrExv-00368",
+            "BV12GQiBrExv-00369",
+            "BV12GQiBrExv-00370"
+          ],
+          "text": "我去冰湖",
+          "repeat_count": 3,
+          "listening_verified": false
+        },
+        {
+          "kind": "same_text_consecutive_segments",
+          "start": 3061.24,
+          "end": 3067.24,
+          "segment_ids": [
+            "BV12GQiBrExv-01681",
+            "BV12GQiBrExv-01682",
+            "BV12GQiBrExv-01683"
+          ],
+          "text": "再見了",
+          "repeat_count": 3,
+          "listening_verified": false
+        }
+      ]
+    },
+    {
+      "bvid": "BV1dx9dBnE7d",
+      "episode": 7,
+      "flag_count": 0,
+      "flags": []
+    },
+    {
+      "bvid": "BV14L5Y6GEcG",
+      "episode": 8,
+      "flag_count": 1,
+      "flags": [
+        {
+          "kind": "substring_repetition_in_segment",
+          "start": 0.0,
+          "end": 3.62,
+          "segment_ids": [
+            "BV14L5Y6GEcG-00001"
+          ],
+          "text": "吹笨 吹笨 吹笨 吹笨",
+          "repeated_substring": "吹笨",
+          "listening_verified": false
+        }
+      ]
+    },
+    {
+      "bvid": "BV1sYLi6nEA6",
+      "episode": 9,
+      "flag_count": 3,
+      "flags": [
+        {
+          "kind": "substring_repetition_in_segment",
+          "start": 0.0,
+          "end": 3.62,
+          "segment_ids": [
+            "BV1sYLi6nEA6-00001"
+          ],
+          "text": "订单订单订单订单订单订单订单!",
+          "repeated_substring": "订单",
+          "listening_verified": false
+        },
+        {
+          "kind": "substring_repetition_in_segment",
+          "start": 801.1,
+          "end": 802.6,
+          "segment_ids": [
+            "BV1sYLi6nEA6-00483"
+          ],
+          "text": "那这个这个这个这个东西",
+          "repeated_substring": "这个",
+          "listening_verified": false
+        },
+        {
+          "kind": "substring_repetition_in_segment",
+          "start": 863.0,
+          "end": 865.4,
+          "segment_ids": [
+            "BV1sYLi6nEA6-00530"
+          ],
+          "text": "牛逼牛逼牛逼牛逼",
+          "repeated_substring": "牛逼",
+          "listening_verified": false
+        }
+      ]
+    },
+    {
+      "bvid": "BV1CjV16KEHe",
+      "episode": 10,
+      "flag_count": 0,
+      "flags": []
+    },
+    {
+      "bvid": "BV1bXJF6iEXn",
+      "episode": 11,
+      "flag_count": 1,
+      "flags": [
+        {
+          "kind": "same_text_consecutive_segments",
+          "start": 1947.56,
+          "end": 1949.72,
+          "segment_ids": [
+            "BV1bXJF6iEXn-01360",
+            "BV1bXJF6iEXn-01361",
+            "BV1bXJF6iEXn-01362"
+          ],
+          "text": "我要去给你做饭",
+          "repeat_count": 3,
+          "listening_verified": false
+        }
+      ]
+    },
+    {
+      "bvid": "BV1sFj26mEu1",
+      "episode": 12,
+      "flag_count": 1,
+      "flags": [
+        {
+          "kind": "same_text_consecutive_segments",
+          "start": 278.16,
+          "end": 282.16,
+          "segment_ids": [
+            "BV1sFj26mEu1-00179",
+            "BV1sFj26mEu1-00180",
+            "BV1sFj26mEu1-00181",
+            "BV1sFj26mEu1-00182"
+          ],
+          "text": "你好",
+          "repeat_count": 4,
+          "listening_verified": false
+        }
+      ]
+    },
+    {
+      "bvid": "BV1tVKf6cE5G",
+      "episode": 13,
+      "flag_count": 0,
+      "flags": []
+    },
+    {
+      "bvid": "BV1VrMt6tEEx",
+      "episode": 14,
+      "flag_count": 0,
+      "flags": []
+    },
+    {
+      "bvid": "BV1BsuE63EhN",
+      "episode": 15,
+      "flag_count": 0,
+      "flags": []
+    },
+    {
+      "bvid": "BV1gb8M6nENB",
+      "episode": 16,
+      "flag_count": 2,
+      "flags": [
+        {
+          "kind": "same_text_consecutive_segments",
+          "start": 296.12,
+          "end": 297.76,
+          "segment_ids": [
+            "BV1gb8M6nENB-00147",
+            "BV1gb8M6nENB-00148",
+            "BV1gb8M6nENB-00149"
+          ],
+          "text": "你好",
+          "repeat_count": 3,
+          "listening_verified": false
+        },
+        {
+          "kind": "substring_repetition_in_segment",
+          "start": 883.08,
+          "end": 884.36,
+          "segment_ids": [
+            "BV1gb8M6nENB-00543"
+          ],
+          "text": "我掃我掃我掃我掃",
+          "repeated_substring": "我掃",
+          "listening_verified": false
+        }
+      ]
+    },
+    {
+      "bvid": "BV1f8Yj6aExQ",
+      "episode": 17,
+      "flag_count": 0,
+      "flags": []
+    },
+    {
+      "bvid": "BV1P5he6SEys",
+      "episode": 18,
+      "flag_count": 0,
+      "flags": []
+    }
+  ]
+}

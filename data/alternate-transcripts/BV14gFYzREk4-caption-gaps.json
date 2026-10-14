@@ -1,0 +1,579 @@
+{
+  "schema_version": 1,
+  "bvid": "BV14gFYzREk4",
+  "method": "macOS Vision OCR of selected video frames at ASR timestamp gaps; frame subtitles, not audio transcription; 0.75-second sampling, intervals reflect caption samples not speech boundaries",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV14gFYzREk4-caption-gap-0001",
+      "start": 39,
+      "end": 39.75,
+      "text": "到了啊",
+      "last_sample": 39,
+      "samples": [
+        "frame-0039.000.png"
+      ],
+      "first_frame_sha256": "38cef86e5dbc507755db02e826327f5fc656e24143365eb39f6d89be99aea27e",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0002",
+      "start": 39.75,
+      "end": 40.5,
+      "text": "鉄子们",
+      "last_sample": 39.75,
+      "samples": [
+        "frame-0039.750.png"
+      ],
+      "first_frame_sha256": "4d2a01009cfecfa02cf438c259bfb3477aa676f02d83d0bf43da07fd6348c170",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0003",
+      "start": 40.5,
+      "end": 41.25,
+      "text": "看我表演",
+      "last_sample": 40.5,
+      "samples": [
+        "frame-0040.500.png"
+      ],
+      "first_frame_sha256": "97a3fe4d3c6b9c96a8ae5ebfa73085d0d118c92eed3e8a2273cb1a9542d66ae0",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0004",
+      "start": 41.25,
+      "end": 42.0,
+      "text": "38附\n看我表演",
+      "last_sample": 41.25,
+      "samples": [
+        "frame-0041.250.png"
+      ],
+      "first_frame_sha256": "db6d5305f5f7a04e6c89ce17beeab1e471958243170057f6cab1dc5bd83741fa",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0005",
+      "start": 43.5,
+      "end": 44.25,
+      "text": "抱歉啊抱歉啊",
+      "last_sample": 43.5,
+      "samples": [
+        "frame-0043.500.png"
+      ],
+      "first_frame_sha256": "ca6bebe2d2e7e5ce25f01291e082300811cf8733a172681148909f77290cb750",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0006",
+      "start": 44.25,
+      "end": 45.0,
+      "text": "迟到7迟到7",
+      "last_sample": 44.25,
+      "samples": [
+        "frame-0044.250.png"
+      ],
+      "first_frame_sha256": "6bab8554ff32a1886452ca33b21bb451ee90991ca1017ff906cc770f7aa28afb",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0007",
+      "start": 45,
+      "end": 45.75,
+      "text": "迟到7起到了",
+      "last_sample": 45,
+      "samples": [
+        "frame-0045.000.png"
+      ],
+      "first_frame_sha256": "44b8cf31d666549da156efa6b5270cb7110489ac1e817820788203c1fcb21d54",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0008",
+      "start": 46.5,
+      "end": 47.25,
+      "text": "退到5分钟算迟到",
+      "last_sample": 46.5,
+      "samples": [
+        "frame-0046.500.png"
+      ],
+      "first_frame_sha256": "64f0a0d975b27e26ef51fa6c79d3d657a68e41f9ae7dc2192c4eed95521beace",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0009",
+      "start": 47.25,
+      "end": 48.0,
+      "text": "迟到5分钟算迟到",
+      "last_sample": 47.25,
+      "samples": [
+        "frame-0047.250.png"
+      ],
+      "first_frame_sha256": "cf2022104ed8a04b5d4c5066ed6aa9f356aa881df8655d03ea988605bcf8ec00",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0010",
+      "start": 48,
+      "end": 48.75,
+      "text": "你都迟到半个小时7",
+      "last_sample": 48,
+      "samples": [
+        "frame-0048.000.png"
+      ],
+      "first_frame_sha256": "86d7c868a9cc3e0e00cc0f4780b117d12bea7c7986986d0ebb5a067bbbc10577",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0011",
+      "start": 48.75,
+      "end": 49.5,
+      "text": "你都迟到半个小时了",
+      "last_sample": 48.75,
+      "samples": [
+        "frame-0048.750.png"
+      ],
+      "first_frame_sha256": "b4c2bcb33c7756302c457d2296c6bf9188a63214902df5072c6839372cc5a092",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0012",
+      "start": 118.5,
+      "end": 119.25,
+      "text": "迟到五分钟算迉到",
+      "last_sample": 118.5,
+      "samples": [
+        "frame-0118.500.png"
+      ],
+      "first_frame_sha256": "46fb0a6c5012ff7a7426bd2eef0930374c114c93a2af3b2b6cd7546bb494c260",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0013",
+      "start": 119.25,
+      "end": 120.0,
+      "text": "迟到五分钟算迟到",
+      "last_sample": 119.25,
+      "samples": [
+        "frame-0119.250.png"
+      ],
+      "first_frame_sha256": "97eb19230437d1794f9506d945ada0a23d48e84cb022cce93f79091e07f27294",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0014",
+      "start": 120,
+      "end": 120.75,
+      "text": "你都迟到半个小时了",
+      "last_sample": 120,
+      "samples": [
+        "frame-0120.000.png"
+      ],
+      "first_frame_sha256": "a36a33b7b0380e3742da3e16c27e1a5a27b33593c92ded34ac1f5de3a9263b41",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0015",
+      "start": 120.75,
+      "end": 121.5,
+      "text": "你都退到半个小时了",
+      "last_sample": 120.75,
+      "samples": [
+        "frame-0120.750.png"
+      ],
+      "first_frame_sha256": "379d21571421542578d1a10166b9ac6d4b4aaab7a2b077472dfeac72845c4b7d",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0016",
+      "start": 122.25,
+      "end": 123.0,
+      "text": "那这样吧",
+      "last_sample": 122.25,
+      "samples": [
+        "frame-0122.250.png"
+      ],
+      "first_frame_sha256": "55eaac797959deeab9b8fd16787733e9aa77bc9d0dc6f5be1b017e572a0e2ad9",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0017",
+      "start": 123,
+      "end": 123.75,
+      "text": "咀天玩密室的时候",
+      "last_sample": 123,
+      "samples": [
+        "frame-0123.000.png"
+      ],
+      "first_frame_sha256": "3e6238fadff7de25fb0d48a14c1634dc461235a955c6d9038b57f1e95e940ad5",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0018",
+      "start": 123.75,
+      "end": 124.5,
+      "text": "明天玩密室的时候",
+      "last_sample": 123.75,
+      "samples": [
+        "frame-0123.750.png"
+      ],
+      "first_frame_sha256": "b23a79791f25cbdbd5a397a807329b14d0060441d518779ba04297e410dfd55a",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0019",
+      "start": 124.5,
+      "end": 126.0,
+      "text": "我早到半个小时",
+      "last_sample": 125.25,
+      "samples": [
+        "frame-0124.500.png",
+        "frame-0125.250.png"
+      ],
+      "first_frame_sha256": "98aeb4eb8c9beae75213f03854b7fa78802666381084bfe98248f872bdbc0b7a",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0020",
+      "start": 126,
+      "end": 126.75,
+      "text": "咋样",
+      "last_sample": 126,
+      "samples": [
+        "frame-0126.000.png"
+      ],
+      "first_frame_sha256": "0539ddebf0a6ecaf833c535a6186ccae62eda176262cc24ea009728073262139",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0021",
+      "start": 127.5,
+      "end": 129.0,
+      "text": "啥时候跟你说的明天玩密室",
+      "last_sample": 128.25,
+      "samples": [
+        "frame-0127.500.png",
+        "frame-0128.250.png"
+      ],
+      "first_frame_sha256": "7e186cddf9371b45914d7f088444ece64e2665843490922b47e6f370b6cec180",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0022",
+      "start": 130.5,
+      "end": 131.25,
+      "text": "不是刚才迟到7吗",
+      "last_sample": 130.5,
+      "samples": [
+        "frame-0130.500.png"
+      ],
+      "first_frame_sha256": "ad27075efc0f07f71850cd96567a9d7f0c0f5e09f5f018746b4e27c66a6758f0",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0023",
+      "start": 131.25,
+      "end": 132.75,
+      "text": "我就明天请你玩个密室",
+      "last_sample": 132,
+      "samples": [
+        "frame-0131.250.png",
+        "frame-0132.000.png"
+      ],
+      "first_frame_sha256": "0c47555231450a03667fb802a7a8ebdbc4285a384b6452ad40107bf3a8c55dd6",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0024",
+      "start": 132.75,
+      "end": 133.5,
+      "text": "补偿你一下",
+      "last_sample": 132.75,
+      "samples": [
+        "frame-0132.750.png"
+      ],
+      "first_frame_sha256": "59dabd46d8fee8c1a51135bef21145dc1ac238880ffb00d0a4af3f48e30a03db",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0025",
+      "start": 133.5,
+      "end": 134.25,
+      "text": "补偿你一T",
+      "last_sample": 133.5,
+      "samples": [
+        "frame-0133.500.png"
+      ],
+      "first_frame_sha256": "6f02217b99f9948c40acec8a28c10d2ea7fbb20e34dba4af7980c505b8bb5099",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0026",
+      "start": 188.25,
+      "end": 189.0,
+      "text": "接下来看一下点菜的环节啊",
+      "last_sample": 188.25,
+      "samples": [
+        "frame-0188.250.png"
+      ],
+      "first_frame_sha256": "b80efb38e8bb1c5fff1ee842a9bd39120ddaf31a4bceec7c5fbb2f97f88c449a",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0027",
+      "start": 189,
+      "end": 189.75,
+      "text": "你喜欢吃啥",
+      "last_sample": 189,
+      "samples": [
+        "frame-0189.000.png"
+      ],
+      "first_frame_sha256": "e62117d63e77c37f9d773ec60a74bdc0f569129a26e49207831b627f05dcea58",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0028",
+      "start": 190.5,
+      "end": 191.25,
+      "text": "我都喜欢吃啊",
+      "last_sample": 190.5,
+      "samples": [
+        "frame-0190.500.png"
+      ],
+      "first_frame_sha256": "e7343b5e4eb0b751b3f036b93dab4d373350e8c9e64e9c3614ac0f451d1f7ad9",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0029",
+      "start": 192.75,
+      "end": 193.5,
+      "text": "那我就看着点了啊",
+      "last_sample": 192.75,
+      "samples": [
+        "frame-0192.750.png"
+      ],
+      "first_frame_sha256": "17a58e8039904010383f3df8d7a4d1e7db1624dc9452069703060aedc0e8ddc6",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0030",
+      "start": 193.5,
+      "end": 194.25,
+      "text": "我就不给你看了啊",
+      "last_sample": 193.5,
+      "samples": [
+        "frame-0193.500.png"
+      ],
+      "first_frame_sha256": "cfd64070658f6c6a45015b794e7fe876753a3299529b1fe5f54d7972def7a228",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0031",
+      "start": 195,
+      "end": 196.5,
+      "text": "万一你点的我不喜欢吃怎么办",
+      "last_sample": 195.75,
+      "samples": [
+        "frame-0195.000.png",
+        "frame-0195.750.png"
+      ],
+      "first_frame_sha256": "c637ffad147f4c5e646b1ddb6c504472d91b52b365baa64acf6102cf0db537b0",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0032",
+      "start": 632.25,
+      "end": 633.0,
+      "text": "就出现了接下来的对话",
+      "last_sample": 632.25,
+      "samples": [
+        "frame-0632.250.png"
+      ],
+      "first_frame_sha256": "f24e068c2e4d7c6837d82ce5968718afdfc0fb9f0efaa7a46abfcf5db1ed446e",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0033",
+      "start": 633,
+      "end": 633.75,
+      "text": "我第一次中途离场",
+      "last_sample": 633,
+      "samples": [
+        "frame-0633.000.png"
+      ],
+      "first_frame_sha256": "a1409343b858015547c8b29559142fbf8a2d80073c881cfea8d2de4dddabc2d6",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0034",
+      "start": 633.75,
+      "end": 634.5,
+      "text": "我第一欧中途离场",
+      "last_sample": 633.75,
+      "samples": [
+        "frame-0633.750.png"
+      ],
+      "first_frame_sha256": "5e360c4057e68cb2fa7c8c8891c12a48efc79ee28ea4761e13691f2341691411",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0035",
+      "start": 634.5,
+      "end": 635.25,
+      "text": "我也是",
+      "last_sample": 634.5,
+      "samples": [
+        "frame-0634.500.png"
+      ],
+      "first_frame_sha256": "81600a236a166fa2311347330b7474c934b2ac3ffba825cc107c9eb626bc5b73",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0036",
+      "start": 635.25,
+      "end": 636.0,
+      "text": "DOKOXO",
+      "last_sample": 635.25,
+      "samples": [
+        "frame-0635.250.png"
+      ],
+      "first_frame_sha256": "b53d0144fe576c18bfc57f3672df315df3b60d0da30c909294d20f321c94ab59",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0037",
+      "start": 636,
+      "end": 636.75,
+      "text": "CKO~",
+      "last_sample": 636,
+      "samples": [
+        "frame-0636.000.png"
+      ],
+      "first_frame_sha256": "452907d8a9aee2292b6503610f3edc72a4962c28dbc1ded82516c1828edbb528",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0038",
+      "start": 636.75,
+      "end": 639.0,
+      "text": "我知道另一个电影特別好看",
+      "last_sample": 638.25,
+      "samples": [
+        "frame-0636.750.png",
+        "frame-0637.500.png",
+        "frame-0638.250.png"
+      ],
+      "first_frame_sha256": "70a2d8cc49feb337da1b62f9a342d823f402414e5bcfd410b7b4a0beb240da3a",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0039",
+      "start": 639,
+      "end": 639.75,
+      "text": "也是恐怖片",
+      "last_sample": 639,
+      "samples": [
+        "frame-0639.000.png"
+      ],
+      "first_frame_sha256": "f6f8b1def436cd9f0785a246e488cfa468517fdab86335db3b6ad38a34c1cf1a",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0040",
+      "start": 639.75,
+      "end": 641.25,
+      "text": "要不咱俩找个地方去看",
+      "last_sample": 640.5,
+      "samples": [
+        "frame-0639.750.png",
+        "frame-0640.500.png"
+      ],
+      "first_frame_sha256": "9f3fafbd3f98d9128f74487286b1b3abfacea61f793c83c1191203452010b19b",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0041",
+      "start": 642,
+      "end": 642.75,
+      "text": "什么名字",
+      "last_sample": 642,
+      "samples": [
+        "frame-0642.000.png"
+      ],
+      "first_frame_sha256": "b744563bf7c17d2b85539a58516ff64a275a8a32470cb3ac119dd72f702480f9",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0042",
+      "start": 643.5,
+      "end": 644.25,
+      "text": "老电影啊",
+      "last_sample": 643.5,
+      "samples": [
+        "frame-0643.500.png"
+      ],
+      "first_frame_sha256": "5e071bc58892ab2631e8b3e6a1267747ac792cba1e78f24469e21a5716e21ecb",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0043",
+      "start": 644.25,
+      "end": 645.0,
+      "text": "现在电影院沒有",
+      "last_sample": 644.25,
+      "samples": [
+        "frame-0644.250.png"
+      ],
+      "first_frame_sha256": "d1522366be999c419cb77ae003a3a2074d7396ed477fbe0f9c6730d47eb76a08",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0044",
+      "start": 645.75,
+      "end": 646.5,
+      "text": "邢去哪看",
+      "last_sample": 645.75,
+      "samples": [
+        "frame-0645.750.png"
+      ],
+      "first_frame_sha256": "b55bfb6e1b6c622b0c68c1b99bbcbc52889a455fcfbac22490e237ea08c5894b",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0045",
+      "start": 646.5,
+      "end": 647.25,
+      "text": "那去哪看",
+      "last_sample": 646.5,
+      "samples": [
+        "frame-0646.500.png"
+      ],
+      "first_frame_sha256": "063fe33fe087f56e219fcdedda9a80423937ac4c11a2a745a14f03945e31525f",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0046",
+      "start": 648,
+      "end": 648.75,
+      "text": "要不去你家",
+      "last_sample": 648,
+      "samples": [
+        "frame-0648.000.png"
+      ],
+      "first_frame_sha256": "02f285459f3644bf3a9142b12b79392b8cad2c24ce14cfdc18089d89e88a9003",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14gFYzREk4-caption-gap-0047",
+      "start": 675,
+      "end": 675.75,
+      "text": "气氛都到这7",
+      "last_sample": 675,
+      "samples": [
+        "frame-0675.000.png"
+      ],
+      "first_frame_sha256": "7c3669d8182f6a066ca269603f055551929fd8a00a657eb450730de2685c0772",
+      "visual_reviewed": false
+    }
+  ]
+}

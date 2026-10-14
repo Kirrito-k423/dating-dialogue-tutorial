@@ -1,0 +1,1135 @@
+{
+  "bvid": "BV1upQdBiEN1",
+  "scope": "all_identifiable_dialogue_in_complete_asr",
+  "listening_verified": false,
+  "source_segment_count": 587,
+  "source_duration_seconds": 1044.4,
+  "coverage_note": "完整读取small 587段和05:17–05:40独立medium 11段，整理23个现场或部分缺答交流单元，包含2个明确标记的第三人辅助电话。直接查看5张原帧核对如何对好的条件；字幕写“她的父母”，未据语法改成“他”。前男友、场所及拍摄承诺只记为视频发言。实际音频听校0，字幕时段为采样出现区间。",
+  "rounds": [
+    {
+      "id": "BV1upQdBiEN1-q001",
+      "title": "初见时怎样谈瑜伽穿着？",
+      "category": "开场与认识",
+      "start": 41.2,
+      "end": 73.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 41.2,
+          "end": 45.4,
+          "text": "嘿嘿嘿 這是呢 今天穿的這麼有心臟力啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00007"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 45.4,
+          "end": 46.8,
+          "text": "那瑜伽不都這麼漂亮呀",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00008"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 46.8,
+          "end": 49.6,
+          "text": "就是誇你太好看了 看著我都跳乾了",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00009"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 55.4,
+          "end": 73.2,
+          "text": "這就是我們約會要做的第一件事啊。大開氛圍 也就是說我們必須要在三分鐘之內啊。馬上把女生逗笑 如果你沒有在三分鐘之內把女生逗笑。那麼你們的約會整個格調就變得很嚴肅了。那後面你拉近關係啊什麼的 你就會發現這個女生很不配合。很容易尷尬冷場",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00013",
+            "BV1upQdBiEN1-00014",
+            "BV1upQdBiEN1-00015",
+            "BV1upQdBiEN1-00016",
+            "BV1upQdBiEN1-00017",
+            "BV1upQdBiEN1-00018"
+          ]
+        }
+      ],
+      "uncertainty": "“心脏力／跳干了”等机器错字保留；不据讲解替换原声词。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q002",
+      "title": "对方问什么意思，怎样解释？",
+      "category": "玩笑与调侃",
+      "start": 49.6,
+      "end": 152.4,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 49.6,
+          "end": 50.8,
+          "text": "啥意思啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00010"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 50.8,
+          "end": 53.0,
+          "text": "就是 調起來愛你的旗桿",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00011"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 53.0,
+          "end": 55.4,
+          "text": "呵呵呵 好煩啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00012"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 137.4,
+          "end": 152.4,
+          "text": "如果你真的想用這種土耳情話撩到她。那她就會覺得你很猶膩了。所以你看我說話的語氣很重要。是把這女生逗笑了的。知道吧。而且這裡面呢有一點點小插邊。那如果你說這個插邊段子。女生聽懂了",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00047",
+            "BV1upQdBiEN1-00048",
+            "BV1upQdBiEN1-00049",
+            "BV1upQdBiEN1-00050",
+            "BV1upQdBiEN1-00051",
+            "BV1upQdBiEN1-00052",
+            "BV1upQdBiEN1-00053",
+            "BV1upQdBiEN1-00054"
+          ]
+        }
+      ],
+      "uncertainty": "“调起来爱你的旗杆”疑有错字，原样保留；关联讲解是博主对玩笑语气的说法。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q003",
+      "title": "在拍什么？",
+      "category": "隐私与边界",
+      "start": 170.8,
+      "end": 174.4,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 170.8,
+          "end": 172.4,
+          "text": "在拍什麼呀",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00066"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 172.4,
+          "end": 174.4,
+          "text": "就記錄生活啊Vlog",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00067"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1upQdBiEN1-q004",
+      "title": "拍的视频要发到哪里？",
+      "category": "隐私与边界",
+      "start": 174.4,
+      "end": 180.0,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 174.4,
+          "end": 176.6,
+          "text": "那你是要發哪裡啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00068"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 176.6,
+          "end": 180.0,
+          "text": "我哪兒不發。就平時自己看。手打的時候自己看",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00069",
+            "BV1upQdBiEN1-00070",
+            "BV1upQdBiEN1-00071"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1upQdBiEN1-q005",
+      "title": "说手打的时候看，是指什么？",
+      "category": "玩笑与调侃",
+      "start": 180.0,
+      "end": 201.6,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 180.0,
+          "end": 181.6,
+          "text": "手打是嗎",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00072"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 181.6,
+          "end": 185.8,
+          "text": "就是打雞蛋啊。就做早餐的時候。打雞蛋 手打雞蛋",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00073",
+            "BV1upQdBiEN1-00074",
+            "BV1upQdBiEN1-00075"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 185.8,
+          "end": 187.6,
+          "text": "哈哈哈哈",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00076"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 190.0,
+          "end": 201.6,
+          "text": "我又說了一個插邊段子。做這種插邊段子的時候呢。我們一定要注意這個女生的反應。你的狀態是非常重要的。而且你要敏銳的觀察她的表情",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00079",
+            "BV1upQdBiEN1-00080",
+            "BV1upQdBiEN1-00081",
+            "BV1upQdBiEN1-00082",
+            "BV1upQdBiEN1-00083"
+          ]
+        }
+      ],
+      "uncertainty": "笑声说话者不明，未把笑当作接受拍摄或玩笑的证明。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q006",
+      "title": "会做饭吗？",
+      "category": "信息与经历",
+      "start": 240.2,
+      "end": 264.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 240.2,
+          "end": 241.4,
+          "text": "會吧",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00110"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 241.4,
+          "end": 243.2,
+          "text": "會啊。這有什麼好奇怪的",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00111",
+            "BV1upQdBiEN1-00112"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 243.2,
+          "end": 246.2,
+          "text": "有那樣的男生都不怎麼說吧",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00113"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 246.2,
+          "end": 248.6,
+          "text": "那你不更得珍惜我啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00114"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 253.2,
+          "end": 264.0,
+          "text": "這裡呢我用了一個技巧。就展示價值。咱們不能光給女生說插邊段子。對吧。那樣會顯得我們是一個老油膩男啊。老色皮。所以說我給她展示了我會做飯。好。那麼成功的引起了女生的好奇啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00117",
+            "BV1upQdBiEN1-00118",
+            "BV1upQdBiEN1-00119",
+            "BV1upQdBiEN1-00120",
+            "BV1upQdBiEN1-00121",
+            "BV1upQdBiEN1-00122",
+            "BV1upQdBiEN1-00123",
+            "BV1upQdBiEN1-00124",
+            "BV1upQdBiEN1-00125"
+          ]
+        }
+      ],
+      "uncertainty": "现场提问仅识别“会吧”，标题的做饭语境来自明确标注的讲解；“有那样的男生都不怎么说吧”疑有机器错字。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q007",
+      "title": "为什么值得珍惜，你觉得什么值得珍惜？",
+      "category": "关系与意图",
+      "start": 248.6,
+      "end": 323.12,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 248.6,
+          "end": 251.2,
+          "text": "你說她為什麼要值得珍惜啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00115"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 251.2,
+          "end": 253.2,
+          "text": "那你覺得什麼東西值得珍惜呢",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00116"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 321.12,
+          "end": 323.12,
+          "text": "對我好吧",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-0317-0340-medium-0003"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 286.6,
+          "end": 298.4,
+          "text": "你需要得到她的認同。那麼這個時候你的吸引力就在下降啊。你看很多兄弟。她就是沒有意識到這一點。她就不停的想向女生證明。哎呀我多好我多好我會對你好的。想得到這個女生的認可",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00139",
+            "BV1upQdBiEN1-00140",
+            "BV1upQdBiEN1-00141",
+            "BV1upQdBiEN1-00142",
+            "BV1upQdBiEN1-00143",
+            "BV1upQdBiEN1-00144",
+            "BV1upQdBiEN1-00145"
+          ]
+        }
+      ],
+      "uncertainty": "原始追问含“你说她为什么要值得珍惜”不清句子，照 small 原稿；medium 在 05:21 补回对方答“对我好吧”，但尚未原声听校。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q023",
+      "title": "怎样才算对你好？",
+      "category": "关系与意图",
+      "start": 323.25,
+      "end": 334.5,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 323.25,
+          "end": 324.0,
+          "text": "那怎么才算对你好呢",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-caption-reviewed-early-0001"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "other",
+          "start": 325.5,
+          "end": 334.5,
+          "text": "嗯肯定是要照顾好我的情绪。然后每天给我做饭。然后什么事都想着我。啊带我去见她的父母",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-caption-reviewed-early-0002",
+            "BV1upQdBiEN1-caption-reviewed-early-0003",
+            "BV1upQdBiEN1-caption-reviewed-early-0004",
+            "BV1upQdBiEN1-caption-reviewed-early-0005"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "问句与条件在5张原帧字幕核对，字幕实际写“她的父母”，与medium“他的父母”有同音字差异；仅照所选字幕记录，口语代词未回听。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q008",
+      "title": "怎样才算真正对我好？",
+      "category": "关系与意图",
+      "start": 461.2,
+      "end": 504.5,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 461.2,
+          "end": 464.8,
+          "text": "我覺得這些好處挺嚴格。就很多男生都能做到",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00223",
+            "BV1upQdBiEN1-00224"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 464.8,
+          "end": 467.1,
+          "text": "那你說什麼才對我好",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00225"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 467.1,
+          "end": 486.5,
+          "text": "我覺得真正的對你好。就是把自己變成一個。值得你愛的男人。就如果你不愛這個男生。他對你再好。你都會覺得很痛苦。但如果努力把自己。變成一個值得你愛的男人。哎你跟他在一起的每時每刻。你都是很開心的。他什麼都不用做。就陪在你身邊。你都會覺得很幸福。我覺得這種才是真正的對你好",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00226",
+            "BV1upQdBiEN1-00227",
+            "BV1upQdBiEN1-00228",
+            "BV1upQdBiEN1-00229",
+            "BV1upQdBiEN1-00230",
+            "BV1upQdBiEN1-00231",
+            "BV1upQdBiEN1-00232",
+            "BV1upQdBiEN1-00233",
+            "BV1upQdBiEN1-00234",
+            "BV1upQdBiEN1-00235",
+            "BV1upQdBiEN1-00236",
+            "BV1upQdBiEN1-00237",
+            "BV1upQdBiEN1-00238",
+            "BV1upQdBiEN1-00239"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 488.0,
+          "end": 489.6,
+          "text": "我覺得一些朋友知道你的",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00240"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 490.8,
+          "end": 504.5,
+          "text": "這一段就叫價值觀輸出。價值觀輸出是一種。非常吸引女生的手段。就是為什麼很多兄弟。他跟女生在一起。女生會覺得他幼稚。會覺得這個男生沒有魅力。沒有吸引力",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00242",
+            "BV1upQdBiEN1-00243",
+            "BV1upQdBiEN1-00244",
+            "BV1upQdBiEN1-00245",
+            "BV1upQdBiEN1-00246",
+            "BV1upQdBiEN1-00247",
+            "BV1upQdBiEN1-00248",
+            "BV1upQdBiEN1-00249"
+          ]
+        }
+      ],
+      "uncertainty": "开头“这些好处挺严格”及尾句“一些朋友知道你的”识别不清，尾句角色未知；核心问句和长回应仅为机器稿语义检查。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q009",
+      "title": "这就是你的车吗？",
+      "category": "邀约与安排",
+      "start": 579.0,
+      "end": 583.4,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 579.0,
+          "end": 580.5,
+          "text": "這就是你的車",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00305"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 580.5,
+          "end": 583.4,
+          "text": "對啊。距離比較近期這個方便。走嗎",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00306",
+            "BV1upQdBiEN1-00307",
+            "BV1upQdBiEN1-00308"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“距离比较近期”疑有机器错字，原样保留。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q010",
+      "title": "穿裙子高跟鞋坐车觉得丢人，怎样接话？",
+      "category": "玩笑与调侃",
+      "start": 583.4,
+      "end": 591.8,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 583.4,
+          "end": 586.6,
+          "text": "我覺得好丟人了。穿這身。還有高跟鞋有裙子",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00309",
+            "BV1upQdBiEN1-00310",
+            "BV1upQdBiEN1-00311"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 586.6,
+          "end": 591.8,
+          "text": "哪裡丟人了。王家爾騎摩托車帶你玩。別人羨慕還來不及呢。走上車上車上",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00312",
+            "BV1upQdBiEN1-00313",
+            "BV1upQdBiEN1-00314",
+            "BV1upQdBiEN1-00315"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1upQdBiEN1-q011",
+      "title": "说你是胖的王嘉尔，怎样回应？",
+      "category": "玩笑与调侃",
+      "start": 591.8,
+      "end": 596.5,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 591.8,
+          "end": 593.4,
+          "text": "這麼胖的王家爾呀",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00316"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 593.4,
+          "end": 596.5,
+          "text": "胖說明我有安全感。你看你抱著這不是軟軟了嗎",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00317",
+            "BV1upQdBiEN1-00318"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "人物名“王家尔”照机器稿，未进行原声校正。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q012",
+      "title": "担心衣裙被抱坏，怎样接话？",
+      "category": "消费与付出",
+      "start": 596.5,
+      "end": 599.9,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 596.5,
+          "end": 597.5,
+          "text": "這是抱群死定了",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00319"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 597.5,
+          "end": 599.9,
+          "text": "抱群我連續給你做一個月早餐",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00320"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“抱群死定了／抱群”含义未可靠识别，题目仅按相邻裙装语境暂概括；不能认定具体担心。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q013",
+      "title": "这家好吃吗，随后怎样谈安排？",
+      "category": "偏好与选择",
+      "start": 621.7,
+      "end": 642.5,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 621.7,
+          "end": 623.3,
+          "text": "怎麼樣好吃吧",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00335"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 623.3,
+          "end": 626.6,
+          "text": "譬如。不錯酸牛品味",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00336",
+            "BV1upQdBiEN1-00337"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 626.6,
+          "end": 631.4,
+          "text": "所以以後我說去哪兒你都得聽我的。就啥事你都得聽我的。這沒錯你知道吧",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00338",
+            "BV1upQdBiEN1-00339",
+            "BV1upQdBiEN1-00340"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 631.8,
+          "end": 642.5,
+          "text": "這又是一個領導力的建立啊。我們跟女生相處的過程中呢。要不停的去建立自己的領導力啊。建立自己的高位。然後慢慢的呢。女生就會越來越覺得你值得依靠。然後本能的呢",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00342",
+            "BV1upQdBiEN1-00343",
+            "BV1upQdBiEN1-00344",
+            "BV1upQdBiEN1-00345",
+            "BV1upQdBiEN1-00346",
+            "BV1upQdBiEN1-00347",
+            "BV1upQdBiEN1-00348"
+          ]
+        }
+      ],
+      "uncertainty": "回应“譬如／不错酸牛品味”说话者和内容不清；后面“好”的说话者也未确定，不用于推定接受全部安排。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q014",
+      "title": "喜欢有安全感的男生吗？",
+      "category": "偏好与选择",
+      "start": 775.0,
+      "end": 785.9,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 775.0,
+          "end": 778.5,
+          "text": "會吃的男生都不要務實專一。有安全感你知道吧",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00448",
+            "BV1upQdBiEN1-00449"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 779.3,
+          "end": 780.7,
+          "text": "有這麼誇張的嗎",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00450"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 781.3,
+          "end": 783.1,
+          "text": "那你喜不喜歡有安全感的男生",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00451"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 783.1,
+          "end": 784.1,
+          "text": "肯定喜歡呀",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00452"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 784.6,
+          "end": 785.9,
+          "text": "對呀那不就得了嗎",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00453"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "前置“会吃的男生都不要务实专一”明显含机器错字，原样保留；核心问答较可辨认但未听校。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q015",
+      "title": "去看电影的地方正规吗？",
+      "category": "信任与质疑",
+      "start": 813.1,
+      "end": 873.8,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 813.1,
+          "end": 823.6,
+          "text": "大家去看這個這個電影。咱們去私人園看。不去那個影園看。就是我朋友開的一個私人園。特別舒服。還有免費的小吃飲料咔的。很好的",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00464",
+            "BV1upQdBiEN1-00465",
+            "BV1upQdBiEN1-00466",
+            "BV1upQdBiEN1-00467",
+            "BV1upQdBiEN1-00468",
+            "BV1upQdBiEN1-00469",
+            "BV1upQdBiEN1-00470"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 823.6,
+          "end": 825.3,
+          "text": "是正規的嗎",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00471"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 825.3,
+          "end": 828.1,
+          "text": "不是你還去過不正規的嗎。你想去不正規的",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00472",
+            "BV1upQdBiEN1-00473"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 828.1,
+          "end": 829.7,
+          "text": "沒有不是",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00474"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 829.7,
+          "end": 833.3,
+          "text": "放心啊。我不抽菸不喝酒不打牌。我只去綠色藏口",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00475",
+            "BV1upQdBiEN1-00476",
+            "BV1upQdBiEN1-00477"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 836.7,
+          "end": 842.7,
+          "text": "那麼這一段呢。有一個技巧點。就是我們在跟女生拉近關係的時候呢。一定要學會一個東西叫台積",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00480",
+            "BV1upQdBiEN1-00481",
+            "BV1upQdBiEN1-00482",
+            "BV1upQdBiEN1-00483"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 862.5,
+          "end": 873.8,
+          "text": "找一個合理的理由。讓她有一個台階下。比如說我說這是我朋友開的啊。會送你免費的水果啊。零食啊可舒服了那個地兒啊。而且這個電影呢。電影院裡面沒有啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00497",
+            "BV1upQdBiEN1-00498",
+            "BV1upQdBiEN1-00499",
+            "BV1upQdBiEN1-00500",
+            "BV1upQdBiEN1-00501",
+            "BV1upQdBiEN1-00502",
+            "BV1upQdBiEN1-00503"
+          ]
+        }
+      ],
+      "uncertainty": "“私人园／绿色情口”等地点描述识别不清，保留原稿；不对场所正规性作事实背书。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q016",
+      "title": "打到车了吗？",
+      "category": "邀约与安排",
+      "start": 833.3,
+      "end": 835.3,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 833.3,
+          "end": 834.5,
+          "text": "我我打到車了",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00478"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 834.5,
+          "end": 835.3,
+          "text": "你打到車了",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00479"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "只有对方报打到车及请求者复述确认，没有后续回答；两人身份按语境暂分。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q017",
+      "title": "前男友来电话后，你怎么想？",
+      "category": "关系与意图",
+      "start": 937.3,
+      "end": 945.5,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 937.3,
+          "end": 939.1,
+          "text": "前男友打電話又有件事",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00533"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 939.9,
+          "end": 941.3,
+          "text": "呃那你咋想啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00534"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 941.3,
+          "end": 942.3,
+          "text": "我也不知道啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00535"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 943.4,
+          "end": 945.5,
+          "text": "嗯那你等我一會啊我上個廁所",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00536"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“又有件事”识别不清；前男友身份来自现场及博主解释，未独立核实。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q018",
+      "title": "后来想好怎么安排了吗？",
+      "category": "邀约与安排",
+      "start": 973.9,
+      "end": 977.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 973.9,
+          "end": 975.2,
+          "text": "打樣想好了嗎",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00548"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 975.2,
+          "end": 976.0,
+          "text": "沒有呢",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00549"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 976.0,
+          "end": 977.2,
+          "text": "等會啊我接個電話啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00550"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "问句“打样”疑为机器错字，照录；对话随接电话中断。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q019",
+      "title": "辅助电话里问在干嘛，怎样回应？",
+      "category": "信息与经历",
+      "start": 977.9,
+      "end": 982.6,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 977.9,
+          "end": 978.3,
+          "text": "喂",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00551"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 978.3,
+          "end": 980.4,
+          "text": "喂。你在幹嘛呢",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00552",
+            "BV1upQdBiEN1-00553"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 980.4,
+          "end": 982.6,
+          "text": "我跟朋友關鍵呢",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00554"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "这是博主安排的第三人辅助通话，非当前约会对象提问；电话方音色未核验，“关键呢”识别不清。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q020",
+      "title": "辅助电话里的吃饭邀请怎样接话？",
+      "category": "邀约与安排",
+      "start": 983.5,
+      "end": 992.5,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 983.5,
+          "end": 985.1,
+          "text": "那你今晚要吃飯吧",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00555"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 985.1,
+          "end": 986.8,
+          "text": "我就是在喝我的酒呀",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00556"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 987.5,
+          "end": 989.9,
+          "text": "我一會嗎。這",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00557",
+            "BV1upQdBiEN1-00558"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 991.3,
+          "end": 992.5,
+          "text": "那你等我一下",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00559"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "同为第三人辅助通话，问答内容含“我就是在喝我的酒呀／我一会吗”等不清句子，不补造电话邀约。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q021",
+      "title": "去找前男友还是继续看电影？",
+      "category": "邀约与安排",
+      "start": 998.0,
+      "end": 1011.8,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 998.0,
+          "end": 999.9,
+          "text": "那你去找你前男友啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00560"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1000.7,
+          "end": 1002.0,
+          "text": "你剛剛是誰啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00561"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1002.6,
+          "end": 1006.2,
+          "text": "你還沒回答我呢。你是去找你前男友還是跟我去看電影",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00562",
+            "BV1upQdBiEN1-00563"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1007.2,
+          "end": 1007.8,
+          "text": "想知道",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00564"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1008.9,
+          "end": 1011.8,
+          "text": "那那走吧那我剛好打車。咱們去看電影",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00565",
+            "BV1upQdBiEN1-00566"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“想知道”说话者与含义不清，未当作明确选择看电影的回答。对方反问刚刚是谁，回应者改问去向，均按稿保留。"
+    },
+    {
+      "id": "BV1upQdBiEN1-q022",
+      "title": "刚刚电话里的到底是谁？",
+      "category": "信任与质疑",
+      "start": 1012.3,
+      "end": 1021.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1012.3,
+          "end": 1013.6,
+          "text": "哥哥那到底是誰啊",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00567"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1014.3,
+          "end": 1015.4,
+          "text": "咋你吃醋了",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00568"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1015.4,
+          "end": 1017.8,
+          "text": "我才沒有吃醋。我問你到底是誰",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00569",
+            "BV1upQdBiEN1-00570"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1018.2,
+          "end": 1019.7,
+          "text": "那你對我好一點我就告訴你",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00571"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1020.2,
+          "end": 1021.0,
+          "text": "哎呀",
+          "source_segment_ids": [
+            "BV1upQdBiEN1-00572"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "最后“哎呀”角色未确定；没有可靠识别到第三人身份的实际说明。"
+    }
+  ],
+  "caption_frames_visually_reviewed": 5
+}

@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "bvid": "BV14L5Y6GEcG",
+  "method": "macOS Vision OCR of selected video frames at ASR timestamp gaps; frame subtitles, not audio transcription; 0.75-second sampling, intervals reflect caption samples not speech boundaries",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0001",
+      "start": 7.5,
+      "end": 8.25,
+      "text": "哈喽兄弟们",
+      "last_sample": 7.5,
+      "samples": [
+        "frame-0007.500.png"
+      ],
+      "first_frame_sha256": "d5fe5c001c5e4080e462c20e13789d7fd2f7e585449a8cdfd4b8b52d262af0ba",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0002",
+      "start": 8.25,
+      "end": 9.0,
+      "text": "我是旭哥",
+      "last_sample": 8.25,
+      "samples": [
+        "frame-0008.250.png"
+      ],
+      "first_frame_sha256": "0f2a9406a042b22c708c7fe60db7fddc80b0a2b70dc19fe198811bd2bbf743c2",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0003",
+      "start": 9,
+      "end": 9.75,
+      "text": "今天给大家带来一期",
+      "last_sample": 9,
+      "samples": [
+        "frame-0009.000.png"
+      ],
+      "first_frame_sha256": "9efb129994c513acd17e50d1cf4f009d956655ffa8a30fc23594f9c57e273bd6",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0004",
+      "start": 9.75,
+      "end": 11.25,
+      "text": "哥布林街头邂逅美女",
+      "last_sample": 10.5,
+      "samples": [
+        "frame-0009.750.png",
+        "frame-0010.500.png"
+      ],
+      "first_frame_sha256": "40efa2f679bead468530091be4b6c2bc62733af8ed4f7ba4e28635d273faa1ba",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0005",
+      "start": 11.25,
+      "end": 12.0,
+      "text": "晋场约会的技巧解析啊",
+      "last_sample": 11.25,
+      "samples": [
+        "frame-0011.250.png"
+      ],
+      "first_frame_sha256": "08b44fe0b2546d1985f09c4281cb41c94019b62872c683476302359c6d4770b7",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0006",
+      "start": 12,
+      "end": 13.5,
+      "text": "舀场约会的技巧解析啊",
+      "last_sample": 12.75,
+      "samples": [
+        "frame-0012.000.png",
+        "frame-0012.750.png"
+      ],
+      "first_frame_sha256": "ac8ad61eec651393da497d3ecc54d00324ea1641b88d3a4ee8fe2824c74bdb71",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0007",
+      "start": 13.5,
+      "end": 15.0,
+      "text": "今天女主角很漂亮啊",
+      "last_sample": 14.25,
+      "samples": [
+        "frame-0013.500.png",
+        "frame-0014.250.png"
+      ],
+      "first_frame_sha256": "6422015eb65b23e903ea39f77cb0284a5c0a277689919bb268085c1f56b44ac8",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0008",
+      "start": 15,
+      "end": 15.75,
+      "text": "长稈很像克拉拉",
+      "last_sample": 15,
+      "samples": [
+        "frame-0015.000.png"
+      ],
+      "first_frame_sha256": "9bdff45823afbea80d03b362f45223b8ca4cf7e56964ec9b1210a6717f5463ad",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0009",
+      "start": 15.75,
+      "end": 16.5,
+      "text": "伥得很像克拉拉",
+      "last_sample": 15.75,
+      "samples": [
+        "frame-0015.750.png"
+      ],
+      "first_frame_sha256": "88cbdbd6ffca7f4dc57700fa3daec0739989862c9feab1d1f30bc3fb704fce84",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0010",
+      "start": 16.5,
+      "end": 17.25,
+      "text": "搭讪认识",
+      "last_sample": 16.5,
+      "samples": [
+        "frame-0016.500.png"
+      ],
+      "first_frame_sha256": "6e049d9a5d87a7986f20357824390bd2b1aa2f1e5fb2959992156ce0a26f41fb",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0011",
+      "start": 17.25,
+      "end": 18.0,
+      "text": "当场约会",
+      "last_sample": 17.25,
+      "samples": [
+        "frame-0017.250.png"
+      ],
+      "first_frame_sha256": "1b26fc0be22b858c537e03b483b42a4f755f62e89d6f7d41b3e6b57e554bbd14",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0012",
+      "start": 18,
+      "end": 18.75,
+      "text": "道接牵手升膃",
+      "last_sample": 18,
+      "samples": [
+        "frame-0018.000.png"
+      ],
+      "first_frame_sha256": "2d33ed2ad694c3e6d20253de31356f4221c2af4f5b1227c24c7139d535aed81b",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0013",
+      "start": 18.75,
+      "end": 19.5,
+      "text": "直接牵手升溫",
+      "last_sample": 18.75,
+      "samples": [
+        "frame-0018.750.png"
+      ],
+      "first_frame_sha256": "8a18bdbbe6d893731ec3c60b61cbfcc0b74fea86d019cf06da14e4e71413edf9",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0014",
+      "start": 19.5,
+      "end": 21.0,
+      "text": "女生一开始很高冷",
+      "last_sample": 20.25,
+      "samples": [
+        "frame-0019.500.png",
+        "frame-0020.250.png"
+      ],
+      "first_frame_sha256": "51dff82502affe99ba5f7c142d2b20be6d9ee0d2c6331c456b14687acc14b7a0",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0015",
+      "start": 21,
+      "end": 23.25,
+      "text": "后来对我们越来越热情了",
+      "last_sample": 22.5,
+      "samples": [
+        "frame-0021.000.png",
+        "frame-0021.750.png",
+        "frame-0022.500.png"
+      ],
+      "first_frame_sha256": "11c1e3f83849932e5d26d798f53805505322258f171e4d14387439d3f436b034",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0016",
+      "start": 23.25,
+      "end": 24.0,
+      "text": "今天我会告诉你",
+      "last_sample": 23.25,
+      "samples": [
+        "frame-0023.250.png"
+      ],
+      "first_frame_sha256": "4e8b133e7571a09a8fcd632c4facceeb20db4372706bcb622df88f642b56b357",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0017",
+      "start": 24,
+      "end": 25.5,
+      "text": "不帅的男生怎么通过",
+      "last_sample": 24.75,
+      "samples": [
+        "frame-0024.000.png",
+        "frame-0024.750.png"
+      ],
+      "first_frame_sha256": "3139e4a6436459f8296dbf7d8b610cf754a6a02ea668b740cc002a09e58c4527",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0018",
+      "start": 25.5,
+      "end": 26.25,
+      "text": "互动让標亮的女生喜欢你",
+      "last_sample": 25.5,
+      "samples": [
+        "frame-0025.500.png"
+      ],
+      "first_frame_sha256": "11c523be880afede12b73847d3ea1ac924de23d75644d0b03f8a0198c50ce904",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0019",
+      "start": 26.25,
+      "end": 27.0,
+      "text": "互动让漂亮的女生喜欢你",
+      "last_sample": 26.25,
+      "samples": [
+        "frame-0026.250.png"
+      ],
+      "first_frame_sha256": "e01ea016394fa3cbc6e59c982fdcaf8b1d128592229f15e935b29ec51d471967",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0020",
+      "start": 27,
+      "end": 27.75,
+      "text": "互动逃漂亮的女生喜欢你",
+      "last_sample": 27,
+      "samples": [
+        "frame-0027.000.png"
+      ],
+      "first_frame_sha256": "45e28f0b3f5bd1cbfdaed6a7f6f9a1085dfb37f9d0dbf1d042cea03b1868aa1e",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0021",
+      "start": 27.75,
+      "end": 29.25,
+      "text": "不会跟女生互动的兄弟",
+      "last_sample": 28.5,
+      "samples": [
+        "frame-0027.750.png",
+        "frame-0028.500.png"
+      ],
+      "first_frame_sha256": "563c06b6e03c0c4ebb7a7d86a16d681077e43da5b0ec4d46240620ff77ab4690",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0022",
+      "start": 29.25,
+      "end": 30.0,
+      "text": "看完今天这个叔频",
+      "last_sample": 29.25,
+      "samples": [
+        "frame-0029.250.png"
+      ],
+      "first_frame_sha256": "a145e3a0788597fd968ddf0338b9b1bfe36742ce1ac9ea9d763f5a3e53bda31a",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV14L5Y6GEcG-caption-gap-0023",
+      "start": 30,
+      "end": 30.75,
+      "text": "看完今天这个砚频",
+      "last_sample": 30,
+      "samples": [
+        "frame-0030.000.png"
+      ],
+      "first_frame_sha256": "8a7fb4383398f7e8980a8cc20760564778b628f005820487adf762cc151264b0",
+      "visual_reviewed": false
+    }
+  ]
+}

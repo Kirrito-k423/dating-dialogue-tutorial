@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1P5he6SEys",
+  "method": "Selected burned-in captions directly checked against source video frames; 0.75-second sample intervals are not exact speech boundaries; no audio listening",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1P5he6SEys-caption-reviewed-0003",
+      "start": 37.5,
+      "end": 39.0,
+      "text": "哎请问这有人吗",
+      "last_sample": 38.25,
+      "samples": [
+        "frame-0037.500.png",
+        "frame-0038.250.png"
+      ],
+      "first_frame_sha256": "249b6258d3339d92607ca5b3d482fb02ed82c11a4d6897354972fc008f680bde",
+      "visual_reviewed": true,
+      "review_basis": "直接查看首张来源帧核对画面烧录字幕字形；非音频回听"
+    },
+    {
+      "id": "BV1P5he6SEys-caption-reviewed-0004",
+      "start": 39.75,
+      "end": 41.25,
+      "text": "呃你什么事",
+      "last_sample": 40.5,
+      "samples": [
+        "frame-0039.750.png",
+        "frame-0040.500.png"
+      ],
+      "first_frame_sha256": "8fb83e9477a405a973a503d880c5ff15750a321773fe7ce0ddf9ba7207f4b9d9",
+      "visual_reviewed": true,
+      "review_basis": "直接查看首张来源帧核对画面烧录字幕字形；非音频回听"
+    },
+    {
+      "id": "BV1P5he6SEys-caption-reviewed-0005",
+      "start": 41.25,
+      "end": 42.75,
+      "text": "就是没人的话我能坐这吗",
+      "last_sample": 42,
+      "samples": [
+        "frame-0041.250.png",
+        "frame-0042.000.png"
+      ],
+      "first_frame_sha256": "9153b459e2ffdeb9639134ba11c45da8513bdf779b505b949d2e90c15a6dbf0d",
+      "visual_reviewed": true,
+      "review_basis": "直接查看首张来源帧核对画面烧录字幕字形；非音频回听"
+    },
+    {
+      "id": "BV1P5he6SEys-caption-reviewed-0007",
+      "start": 43.5,
+      "end": 44.25,
+      "text": "就咱俩能拼个桌吗",
+      "last_sample": 43.5,
+      "samples": [
+        "frame-0043.500.png"
+      ],
+      "first_frame_sha256": "75c203a132020d272cb86d7e3d08fe25d8085f4c983c48182dca5bf756a698ee",
+      "visual_reviewed": true,
+      "review_basis": "直接查看首张来源帧核对画面烧录字幕字形；非音频回听"
+    },
+    {
+      "id": "BV1P5he6SEys-caption-reviewed-0015",
+      "start": 53.25,
+      "end": 54.75,
+      "text": "不太好吧",
+      "last_sample": 54,
+      "samples": [
+        "frame-0053.250.png",
+        "frame-0054.000.png"
+      ],
+      "first_frame_sha256": "f735d1347d11beba3eb2a3d01cd907d269ce934af570c637dbef659d5ec04053",
+      "visual_reviewed": true,
+      "review_basis": "直接查看首张来源帧核对画面烧录字幕字形；非音频回听"
+    },
+    {
+      "id": "BV1P5he6SEys-caption-reviewed-0017",
+      "start": 56.25,
+      "end": 57.75,
+      "text": "我你这桌我帮你买单吧",
+      "last_sample": 57,
+      "samples": [
+        "frame-0056.250.png",
+        "frame-0057.000.png"
+      ],
+      "first_frame_sha256": "2e70e07e4cdc20b363186044886e0b1f11ac4019fe3dc3750b219c4d5eaccb47",
+      "visual_reviewed": true,
+      "review_basis": "直接查看首张来源帧核对画面烧录字幕字形；非音频回听"
+    }
+  ]
+}

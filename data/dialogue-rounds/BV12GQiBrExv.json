@@ -1,0 +1,3951 @@
+{
+  "bvid": "BV12GQiBrExv",
+  "scope": "all_identifiable_dialogue_in_complete_asr",
+  "listening_verified": false,
+  "source_segment_count": 1703,
+  "source_duration_seconds": 3129.24,
+  "coverage_note": "完整读取small 1703段，整理83个可辨或部分缺答交流单元，涵盖初识拍摄、山路/叫车、边界争执、同行与次日质疑、雪山/石堆及冰湖爱的讨论。32:32起大量规则两秒片段，逐题标时轴可能漂移。47:07–48:03重复“爱是不一样的/所以”无新问题，原稿不删，尾段其余可辨问答保留存疑。直接查看9张原帧，补明确减少交谈请求，核对送别/合拍/石堆；开头“你好/我爱你”及2973秒情绪陈述缺可辨对答，不凑题。实际音频听校0，字幕采样不证明精确口语时间。",
+  "rounds": [
+    {
+      "id": "BV12GQiBrExv-q001",
+      "title": "初见说我爱你，为什么吓一跳？",
+      "category": "开场与认识",
+      "start": 75.44,
+      "end": 83.76,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 75.44,
+          "end": 76.04,
+          "text": "你好",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00030"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 76.76,
+          "end": 77.44,
+          "text": "我愛你",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00031"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 82.44,
+          "end": 83.76,
+          "text": "你怎麼嚇一跳啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00032"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "只有搭话者开场与追问，对方可靠答句未识别。"
+    },
+    {
+      "id": "BV12GQiBrExv-q002",
+      "title": "自己一个人来吗，为什么不停下看风景？",
+      "category": "信息与经历",
+      "start": 85.76,
+      "end": 96.28,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 85.76,
+          "end": 86.96,
+          "text": "你自己來的是吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00033"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 90.0,
+          "end": 92.92,
+          "text": "OK。這大褲啊。哇 好美啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00034",
+            "BV12GQiBrExv-00035",
+            "BV12GQiBrExv-00036"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 94.6,
+          "end": 96.28,
+          "text": "你怎麼不停下來看風景啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00037"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "中间“这大裤”等短句识别和角色不明，两问题均缺可靠答句，不推定是否独自来。"
+    },
+    {
+      "id": "BV12GQiBrExv-q003",
+      "title": "你也用什么设备，包上夹了什么？",
+      "category": "信息与经历",
+      "start": 98.32,
+      "end": 117.28,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 98.32,
+          "end": 103.16,
+          "text": "你也用大褲嗎。不是你也用褲嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00038",
+            "BV12GQiBrExv-00039"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 103.16,
+          "end": 104.28,
+          "text": "不用了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00040"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 105.28,
+          "end": 107.08,
+          "text": "那你包上夾的什麼",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00041"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 108.08,
+          "end": 109.04,
+          "text": "沒有啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00042"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 109.04,
+          "end": 111.24,
+          "text": "有 你看我包上了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00043"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 113.88,
+          "end": 117.28,
+          "text": "吃了。吃了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00044",
+            "BV12GQiBrExv-00045"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“大裤／裤／吃了”等机器词不清，未推定具体品牌或物件。"
+    },
+    {
+      "id": "BV12GQiBrExv-q004",
+      "title": "一个人会无聊吗，你看我像坏人吗？",
+      "category": "信任与质疑",
+      "start": 119.68,
+      "end": 129.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 119.68,
+          "end": 125.84,
+          "text": "這把我逗逗你。你自己一個人會有無聊嗎。你看我笑壞什麼",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00046",
+            "BV12GQiBrExv-00047",
+            "BV12GQiBrExv-00048"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 128.2,
+          "end": 129.2,
+          "text": "我還笑壞人",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00049"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“笑坏什么／笑坏人”识别不清，且对方回答缺失，标题只是暂概括可能的问题。"
+    },
+    {
+      "id": "BV12GQiBrExv-q005",
+      "title": "帮拿麦克风，为什么放在我这里？",
+      "category": "隐私与边界",
+      "start": 129.2,
+      "end": 144.64,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 129.2,
+          "end": 133.64,
+          "text": "你幫我拿一下。我實在沒手拿這個麥克了。放一下 放你這裡",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00050",
+            "BV12GQiBrExv-00051",
+            "BV12GQiBrExv-00052"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 133.64,
+          "end": 134.96,
+          "text": "為什麼要放我這樣",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00053"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 134.96,
+          "end": 136.92,
+          "text": "你夾一下 夾一下。別動",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00054",
+            "BV12GQiBrExv-00055"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 138.04,
+          "end": 138.52,
+          "text": "好",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00056"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 139.52,
+          "end": 144.64,
+          "text": "我放一下 我沒地方放了。這兩個會刺麥的。你的頭髮好笑",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00057",
+            "BV12GQiBrExv-00058",
+            "BV12GQiBrExv-00059"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“刺麦／头发好笑”含错字，短“好”角色不清；没有把它当明确许可或确认动作发生。"
+    },
+    {
+      "id": "BV12GQiBrExv-q006",
+      "title": "为什么一定要帮带着，我能带走吗？",
+      "category": "消费与付出",
+      "start": 148.0,
+      "end": 160.76,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 148.0,
+          "end": 149.84,
+          "text": "對 放你這一下",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00061"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 149.84,
+          "end": 153.64,
+          "text": "不用 我帶兩回刺麥。我實在沒地方放了。謝謝你啊。這樣怎麼",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00062",
+            "BV12GQiBrExv-00063",
+            "BV12GQiBrExv-00064",
+            "BV12GQiBrExv-00065"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 154.4,
+          "end": 157.08,
+          "text": "你就幫我帶一下。我沒地方放了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00066",
+            "BV12GQiBrExv-00067"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 157.08,
+          "end": 158.12,
+          "text": "那我帶走了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00068"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 158.12,
+          "end": 160.76,
+          "text": "你能帶走去哪啊。我們一個路線",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00069",
+            "BV12GQiBrExv-00070"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“不用／我带两回刺麦／这样怎么”的说话者交替不清，保留未知段，不改拒绝或物品约定。"
+    },
+    {
+      "id": "BV12GQiBrExv-q007",
+      "title": "也去雨崩吗，是自己一个人吗？",
+      "category": "邀约与安排",
+      "start": 160.76,
+      "end": 167.2,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 160.76,
+          "end": 162.4,
+          "text": "你是不是去雨崩啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00071"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 162.4,
+          "end": 163.24,
+          "text": "對啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00072"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 163.92,
+          "end": 165.56,
+          "text": "這麼巧啊。我會去雨崩",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00073",
+            "BV12GQiBrExv-00074"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 165.56,
+          "end": 166.32,
+          "text": "自己一個人",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00075"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 166.32,
+          "end": 167.2,
+          "text": "對啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00076"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV12GQiBrExv-q008",
+      "title": "手这样挡着路，怎样回应？",
+      "category": "隐私与边界",
+      "start": 167.2,
+      "end": 171.84,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 167.2,
+          "end": 169.76,
+          "text": "你這樣拿手去堵肉好習慣",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00077"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 169.76,
+          "end": 171.84,
+          "text": "好的 那我不拿手去堵你",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00078"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“堵肉好习惯／堵你”等词句识别不清，不能确定具体姿势或接触。"
+    },
+    {
+      "id": "BV12GQiBrExv-q009",
+      "title": "徒步还拍摄，不累吗，是博主吗？",
+      "category": "信息与经历",
+      "start": 171.84,
+      "end": 183.28,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 171.84,
+          "end": 174.32,
+          "text": "你塗布還攀射 你不累嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00079"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 174.32,
+          "end": 178.12,
+          "text": "跟無所謂的堵在手之類的。對 跟無所謂的堵在手之類的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00080",
+            "BV12GQiBrExv-00081"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 178.12,
+          "end": 179.4,
+          "text": "那博主嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00082"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 180.4,
+          "end": 183.28,
+          "text": "小博主吧。我剛開始做。做那個",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00083",
+            "BV12GQiBrExv-00084",
+            "BV12GQiBrExv-00085"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“塗布／堵在手”等错字影响含义，中间短句角色不清；博主身份仅为自述。"
+    },
+    {
+      "id": "BV12GQiBrExv-q010",
+      "title": "你也是做博主吗，为什么来徒步？",
+      "category": "信息与经历",
+      "start": 434.08,
+      "end": 507.72,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 434.08,
+          "end": 442.36,
+          "text": "剛開始做那個笑。你呢。你笑什麼",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00244",
+            "BV12GQiBrExv-00245",
+            "BV12GQiBrExv-00246"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 442.36,
+          "end": 446.88,
+          "text": "我看你長得很漂亮。你也是。做這些東西吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00247",
+            "BV12GQiBrExv-00248",
+            "BV12GQiBrExv-00249"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 446.88,
+          "end": 448.12,
+          "text": "我又沒拍手",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00250"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 499.36,
+          "end": 503.16,
+          "text": "我來普遍的。感情下大自然的感覺",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00291",
+            "BV12GQiBrExv-00292"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 503.16,
+          "end": 507.72,
+          "text": "是的。跟人接觸多了。就是多接觸接觸大自然的感覺",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00293",
+            "BV12GQiBrExv-00294",
+            "BV12GQiBrExv-00295"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 451.68,
+          "end": 459.56,
+          "text": "但是他誇這個女生。是不是一點需求感都沒有。一點討好的感覺都沒有。為什麼呢。因為他說。我看你長得很漂亮。你也是做博主的嗎。看到了嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00254",
+            "BV12GQiBrExv-00255",
+            "BV12GQiBrExv-00256",
+            "BV12GQiBrExv-00257",
+            "BV12GQiBrExv-00258",
+            "BV12GQiBrExv-00259",
+            "BV12GQiBrExv-00260",
+            "BV12GQiBrExv-00261"
+          ]
+        }
+      ],
+      "uncertainty": "“笑／没拍手／普遍”等机器词不清；讲解间断后的自然话题仅按相邻语义关联，不认为答复完整。"
+    },
+    {
+      "id": "BV12GQiBrExv-q011",
+      "title": "看风景时怎么不停下等我？",
+      "category": "邀约与安排",
+      "start": 507.72,
+      "end": 518.84,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 507.72,
+          "end": 513.2,
+          "text": "你好無情啊。你為什麼我看風景的時候。你不停下來等我呀",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00296",
+            "BV12GQiBrExv-00297",
+            "BV12GQiBrExv-00298"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 513.2,
+          "end": 515.76,
+          "text": "我趕路啊。天天之前我得到啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00299",
+            "BV12GQiBrExv-00300"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 515.76,
+          "end": 518.84,
+          "text": "加油啊加油啊。天姐加油",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00301",
+            "BV12GQiBrExv-00302"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“天天之前我得到”识别不清，未补造天黑前到达等时限。"
+    },
+    {
+      "id": "BV12GQiBrExv-q012",
+      "title": "以前来过吗？",
+      "category": "信息与经历",
+      "start": 518.84,
+      "end": 524.84,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 518.84,
+          "end": 524.84,
+          "text": "你來過嗎。沒有。我來過。你來過了。你二十八了已經",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00303",
+            "BV12GQiBrExv-00304",
+            "BV12GQiBrExv-00305",
+            "BV12GQiBrExv-00306",
+            "BV12GQiBrExv-00307"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "没有/来过/二十八等短句角色和词句混合，未稳定区分谁来过、来过几次。"
+    },
+    {
+      "id": "BV12GQiBrExv-q013",
+      "title": "去哪个路线，为什么要先说？",
+      "category": "邀约与安排",
+      "start": 524.84,
+      "end": 558.88,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 524.84,
+          "end": 526.48,
+          "text": "你去哪個線啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00308"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 526.48,
+          "end": 528.32,
+          "text": "你先說你去哪個",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00309"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 528.32,
+          "end": 529.6,
+          "text": "為什麼",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00310"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 529.6,
+          "end": 532.84,
+          "text": "因為我感覺你肯定會說。我去哪個你就會去哪個",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00311",
+            "BV12GQiBrExv-00312"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 532.84,
+          "end": 538.0,
+          "text": "怎麼可能啊。我跟你去一個下幹嘛。我是來。我是旅遊博主",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00313",
+            "BV12GQiBrExv-00314",
+            "BV12GQiBrExv-00315",
+            "BV12GQiBrExv-00316"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 538.0,
+          "end": 540.4,
+          "text": "那你去哪個。我是工作呀。你去哪個",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00317",
+            "BV12GQiBrExv-00318",
+            "BV12GQiBrExv-00319"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 540.4,
+          "end": 547.84,
+          "text": "我先去那個那個。我去那個叫什麼呢。三里屯。不是。不是。這個。那個。叫什麼呢。是二十",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00320",
+            "BV12GQiBrExv-00321",
+            "BV12GQiBrExv-00322",
+            "BV12GQiBrExv-00323",
+            "BV12GQiBrExv-00324",
+            "BV12GQiBrExv-00325",
+            "BV12GQiBrExv-00326",
+            "BV12GQiBrExv-00327",
+            "BV12GQiBrExv-00328"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 549.36,
+          "end": 558.88,
+          "text": "女生最不喜歡的男生。是什麼呢。就是一問一答。而且他問什麼。你就很認真的回答。很多人覺得。女生問我任何問題。我都要很認真的回答。來體現出我對他的尊重",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00330",
+            "BV12GQiBrExv-00331",
+            "BV12GQiBrExv-00332",
+            "BV12GQiBrExv-00333",
+            "BV12GQiBrExv-00334",
+            "BV12GQiBrExv-00335",
+            "BV12GQiBrExv-00336",
+            "BV12GQiBrExv-00337",
+            "BV12GQiBrExv-00338"
+          ]
+        }
+      ],
+      "uncertainty": "“三里屯／是二十”等路线名称识别不清，保留原稿，不推定实际目的地。"
+    },
+    {
+      "id": "BV12GQiBrExv-q014",
+      "title": "去神瀑还是冰湖，为什么选冰湖？",
+      "category": "邀约与安排",
+      "start": 569.52,
+      "end": 590.84,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 569.52,
+          "end": 579.6,
+          "text": "神舖啊。我先去神舖啊。神舖我之前去的就是什麼。我之前去神舖。來兩次了。那這次你去哪。我要去冰湖",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00347",
+            "BV12GQiBrExv-00348",
+            "BV12GQiBrExv-00349",
+            "BV12GQiBrExv-00350",
+            "BV12GQiBrExv-00351",
+            "BV12GQiBrExv-00352",
+            "BV12GQiBrExv-00353"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 582.04,
+          "end": 590.84,
+          "text": "你為什麼要去冰湖。其實剛剛我說了。我去過神舖的什麼。不是我先。所以你去冰湖唄。我不知道",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00354",
+            "BV12GQiBrExv-00355",
+            "BV12GQiBrExv-00356",
+            "BV12GQiBrExv-00357",
+            "BV12GQiBrExv-00358",
+            "BV12GQiBrExv-00359"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "这段来过神瀑/去冰湖的角色交替不稳，保留未知角色；09:52 后讲解复述包含反复同句，未作为新的现场轮次。"
+    },
+    {
+      "id": "BV12GQiBrExv-q015",
+      "title": "以前徒步过吗，在哪里徒过？",
+      "category": "信息与经历",
+      "start": 637.28,
+      "end": 660.48,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 637.28,
+          "end": 640.12,
+          "text": "你之前圖過嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00403"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 640.12,
+          "end": 642.64,
+          "text": "我之前圖過呀。圖呢。在那個泰國里",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00404",
+            "BV12GQiBrExv-00405",
+            "BV12GQiBrExv-00406"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 644.84,
+          "end": 645.56,
+          "text": "咋了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00407"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 649.16,
+          "end": 652.76,
+          "text": "你咋不說你。從你家房間圖那個客廳呢",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00408",
+            "BV12GQiBrExv-00409"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 658.64,
+          "end": 660.48,
+          "text": "也算了。也要走一會兒的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00415",
+            "BV12GQiBrExv-00416"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 652.76,
+          "end": 658.64,
+          "text": "看到了嗎。這個玩笑已經開起來了。氛圍已經編好了。看這就是調動情緒。控場的能力",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00410",
+            "BV12GQiBrExv-00411",
+            "BV12GQiBrExv-00412",
+            "BV12GQiBrExv-00413",
+            "BV12GQiBrExv-00414"
+          ]
+        }
+      ],
+      "uncertainty": "“图／泰国里”等词不清，未改成具体地区或品牌。"
+    },
+    {
+      "id": "BV12GQiBrExv-q016",
+      "title": "为什么没有叫车，徒步还是坐车？",
+      "category": "邀约与安排",
+      "start": 676.48,
+      "end": 693.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 676.48,
+          "end": 693.16,
+          "text": "好乖呀。你這個人。那你為什麼沒有轎車呢。你轎到我車。我不知道圖是嗎。沒有轎。我就到下雨路補給點。他你就會有轎。其實這道路我也能圖。我對它路是最容易做的。是。但是。我有轎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00423",
+            "BV12GQiBrExv-00424",
+            "BV12GQiBrExv-00425",
+            "BV12GQiBrExv-00426",
+            "BV12GQiBrExv-00427",
+            "BV12GQiBrExv-00428",
+            "BV12GQiBrExv-00429",
+            "BV12GQiBrExv-00430",
+            "BV12GQiBrExv-00431",
+            "BV12GQiBrExv-00432",
+            "BV12GQiBrExv-00433",
+            "BV12GQiBrExv-00434",
+            "BV12GQiBrExv-00435"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“轿车／轿／图／下雨路补给点”等严重误识别，角色无法可靠区分，题目仅概括叫车与徒步话题。"
+    },
+    {
+      "id": "BV12GQiBrExv-q017",
+      "title": "在哪里、能叫到车吗？",
+      "category": "邀约与安排",
+      "start": 697.08,
+      "end": 828.28,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 697.08,
+          "end": 708.24,
+          "text": "你坐在哪。你坐在那。我看嘛。你這樣看我。我一個電話。我在哪都有人的。你可能不了解我。我很厲害的。我全國都有粉絲的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00436",
+            "BV12GQiBrExv-00437",
+            "BV12GQiBrExv-00438",
+            "BV12GQiBrExv-00439",
+            "BV12GQiBrExv-00440",
+            "BV12GQiBrExv-00441",
+            "BV12GQiBrExv-00442",
+            "BV12GQiBrExv-00443",
+            "BV12GQiBrExv-00444"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 818.0,
+          "end": 828.28,
+          "text": "我在哪裡。哪裡給我整個車來。我一個電話就來。你去嘛。拿著。你來呢。你等我玩。我沒時間。拿車啊。你別搓",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00530",
+            "BV12GQiBrExv-00531",
+            "BV12GQiBrExv-00532",
+            "BV12GQiBrExv-00533",
+            "BV12GQiBrExv-00534",
+            "BV12GQiBrExv-00535",
+            "BV12GQiBrExv-00536",
+            "BV12GQiBrExv-00537",
+            "BV12GQiBrExv-00538",
+            "BV12GQiBrExv-00539"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 709.24,
+          "end": 726.36,
+          "text": "展示價值了。對吧。你如果光幽默的話。其實產生的吸引力是有限的。因為幽默多了。女生就只會覺得。你是一個油嘴滑舌的人了。那麼怎麼才能讓女生。不覺得你是一個。油嘴滑舌的人呢。不是說減少幽默的成分。而是增加價值的成分",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00447",
+            "BV12GQiBrExv-00448",
+            "BV12GQiBrExv-00449",
+            "BV12GQiBrExv-00450",
+            "BV12GQiBrExv-00451",
+            "BV12GQiBrExv-00452",
+            "BV12GQiBrExv-00453",
+            "BV12GQiBrExv-00454",
+            "BV12GQiBrExv-00455",
+            "BV12GQiBrExv-00456",
+            "BV12GQiBrExv-00457",
+            "BV12GQiBrExv-00458"
+          ]
+        }
+      ],
+      "uncertainty": "含可能第三人电话与携物指令，不能区分电话方/同行者；中间长讲解只是人脉观点，不能确认实际叫车结果。"
+    },
+    {
+      "id": "BV12GQiBrExv-q018",
+      "title": "带着东西为什么走了，你在干嘛？",
+      "category": "话题延伸",
+      "start": 877.44,
+      "end": 903.28,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 877.44,
+          "end": 891.0,
+          "text": "誰呢。你等我玩。我沒時間。拿著。你別走。你怎麼把我拿著。都這樣走了。幹嘛。你幹嘛。你這個人很卑鄙。你騙了我的麥。你別給我玩。如果沒有臭",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00579",
+            "BV12GQiBrExv-00580",
+            "BV12GQiBrExv-00581",
+            "BV12GQiBrExv-00582",
+            "BV12GQiBrExv-00583",
+            "BV12GQiBrExv-00584",
+            "BV12GQiBrExv-00585",
+            "BV12GQiBrExv-00586",
+            "BV12GQiBrExv-00587",
+            "BV12GQiBrExv-00588",
+            "BV12GQiBrExv-00589",
+            "BV12GQiBrExv-00590",
+            "BV12GQiBrExv-00591"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 892.72,
+          "end": 903.28,
+          "text": "表示不敢說這種話了。他特別怕說這種話。女生生氣。但是我跟你說。當你足夠強勢的人說。你越說這些話。其實女生越覺得跟你在一起。可以卸下包袱。而當她的包袱卸下之後",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00593",
+            "BV12GQiBrExv-00594",
+            "BV12GQiBrExv-00595",
+            "BV12GQiBrExv-00596",
+            "BV12GQiBrExv-00597",
+            "BV12GQiBrExv-00598",
+            "BV12GQiBrExv-00599",
+            "BV12GQiBrExv-00600",
+            "BV12GQiBrExv-00601"
+          ]
+        }
+      ],
+      "uncertainty": "“你等我玩／如果没有臭”等词和角色不稳，“骗了我的麦”只记录发言，不能推定真实盗取或纠纷。"
+    },
+    {
+      "id": "BV12GQiBrExv-q019",
+      "title": "补给点还要多久，哪里人？",
+      "category": "信息与经历",
+      "start": 914.12,
+      "end": 929.28,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 914.12,
+          "end": 917.84,
+          "text": "前走。上個不急點。上個不急點。多久到",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00608",
+            "BV12GQiBrExv-00609",
+            "BV12GQiBrExv-00610",
+            "BV12GQiBrExv-00611"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 917.84,
+          "end": 920.24,
+          "text": "不知道。不急到",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00612",
+            "BV12GQiBrExv-00613"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 920.24,
+          "end": 921.64,
+          "text": "你是廣東的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00614"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 921.64,
+          "end": 923.16,
+          "text": "不是",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00615"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 923.16,
+          "end": 929.28,
+          "text": "你不是廣東。你不急到。狗狗狗咖用狗咖咖的狗咖。你是廣東。你不急到",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00616",
+            "BV12GQiBrExv-00617",
+            "BV12GQiBrExv-00618",
+            "BV12GQiBrExv-00619",
+            "BV12GQiBrExv-00620"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“不急点／不急到／狗咖”等错字保留；对方原句“不 是”不能改成广东人。"
+    },
+    {
+      "id": "BV12GQiBrExv-q020",
+      "title": "叫车时现在在哪里？",
+      "category": "邀约与安排",
+      "start": 934.56,
+      "end": 947.96,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 934.56,
+          "end": 947.96,
+          "text": "你現在在哪裡。我要去用車。在哪裡啊你。我現在在半山腰。那我們兩個人。啊哈。好的確定。你要在這裡啊。啊。好的好的。搞不好反應",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00624",
+            "BV12GQiBrExv-00625",
+            "BV12GQiBrExv-00626",
+            "BV12GQiBrExv-00627",
+            "BV12GQiBrExv-00628",
+            "BV12GQiBrExv-00629",
+            "BV12GQiBrExv-00630",
+            "BV12GQiBrExv-00631",
+            "BV12GQiBrExv-00632",
+            "BV12GQiBrExv-00633",
+            "BV12GQiBrExv-00634"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "可能与第三人通话，角色交替无法稳定确定，“用车”等词不清，未核验人数、位置或安排。"
+    },
+    {
+      "id": "BV12GQiBrExv-q021",
+      "title": "为什么要和你一起走？",
+      "category": "关系与意图",
+      "start": 947.96,
+      "end": 976.64,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 947.96,
+          "end": 949.84,
+          "text": "那我為什麼跟你不換",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00635"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 949.84,
+          "end": 953.4,
+          "text": "那你。那你直接上車了。我上車走了。我叫的車呀",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00636",
+            "BV12GQiBrExv-00637",
+            "BV12GQiBrExv-00638",
+            "BV12GQiBrExv-00639"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 956.08,
+          "end": 958.52,
+          "text": "其實我也可以勉強做一下",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00640"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 963.16,
+          "end": 976.64,
+          "text": "女生說。我為什麼要跟你一起走啊。如果是一個普通男生。絕對會說。啊你走累了。怎麼這樣。就會去拉。就會去想辦法。拉著這個女生。跟她一起走。需求感瞬間暴露。而且地位一下就變低了。變成一個討好的姿態了。那你就廢了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00646",
+            "BV12GQiBrExv-00647",
+            "BV12GQiBrExv-00648",
+            "BV12GQiBrExv-00649",
+            "BV12GQiBrExv-00650",
+            "BV12GQiBrExv-00651",
+            "BV12GQiBrExv-00652",
+            "BV12GQiBrExv-00653",
+            "BV12GQiBrExv-00654",
+            "BV12GQiBrExv-00655",
+            "BV12GQiBrExv-00656",
+            "BV12GQiBrExv-00657",
+            "BV12GQiBrExv-00658",
+            "BV12GQiBrExv-00659"
+          ]
+        }
+      ],
+      "uncertainty": "问题“跟你不换”有错字，但讲解明确复述一起走；未反改原声。17:53 同一答句重播，保留首次。"
+    },
+    {
+      "id": "BV12GQiBrExv-q022",
+      "title": "为什么不徒步走上去？",
+      "category": "邀约与安排",
+      "start": 1077.04,
+      "end": 1086.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1077.04,
+          "end": 1080.28,
+          "text": "兩個人。為什麼我們不走上去",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00722",
+            "BV12GQiBrExv-00723"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1080.28,
+          "end": 1086.0,
+          "text": "因為我要趕時間。我要不想這條路。這條路我已經來過一次了。然後我想塗另外一條路",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00724",
+            "BV12GQiBrExv-00725",
+            "BV12GQiBrExv-00726",
+            "BV12GQiBrExv-00727"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“我要不想这条路／塗另外”含错字，照录，不能确认实际行程。"
+    },
+    {
+      "id": "BV12GQiBrExv-q023",
+      "title": "什么星座，怎么说和我配？",
+      "category": "关系与意图",
+      "start": 1091.2,
+      "end": 1111.08,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1091.2,
+          "end": 1092.88,
+          "text": "你什麼星座",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00731"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1092.88,
+          "end": 1094.28,
+          "text": "再問你吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00732"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1094.28,
+          "end": 1096.28,
+          "text": "我金牛座",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00733"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1096.28,
+          "end": 1098.36,
+          "text": "那我天蝎座",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00734"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1098.36,
+          "end": 1099.64,
+          "text": "什麼就那你天蝎座",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00735"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1099.64,
+          "end": 1105.32,
+          "text": "天蝎座就找一個跟我配的。對吧。跟我。什麼就跟你配的。那什麼就那你天蝎座",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00736",
+            "BV12GQiBrExv-00737",
+            "BV12GQiBrExv-00738",
+            "BV12GQiBrExv-00739",
+            "BV12GQiBrExv-00740"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1105.32,
+          "end": 1111.08,
+          "text": "這什麼假定追逐之前教過大家的。不做過多解釋。不懂的可以看我之前的視頻",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00741",
+            "BV12GQiBrExv-00742",
+            "BV12GQiBrExv-00743"
+          ]
+        }
+      ],
+      "uncertainty": "后半“找一个跟我配”的角色不稳；星座相配只是对话，不是关系事实。"
+    },
+    {
+      "id": "BV12GQiBrExv-q024",
+      "title": "刻意说星座和我相配吗？",
+      "category": "信任与质疑",
+      "start": 1111.08,
+      "end": 1117.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1111.08,
+          "end": 1115.28,
+          "text": "因為我怕…。你是處心機率要跟我搞一個。就是配合都相比較高",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00744",
+            "BV12GQiBrExv-00745",
+            "BV12GQiBrExv-00746"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1115.28,
+          "end": 1117.2,
+          "text": "誰說天蝎座跟金牛配",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00747"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“处心机率／配合都相比”识别不清，前几句说话者未稳分。"
+    },
+    {
+      "id": "BV12GQiBrExv-q025",
+      "title": "为什么一直拍，为什么不多说话？",
+      "category": "隐私与边界",
+      "start": 1117.2,
+      "end": 1131.84,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1117.2,
+          "end": 1122.32,
+          "text": "剛才一路上來很狼狽。沒有路。我們現在在第二個不積點。你怎麼還一直拍",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00748",
+            "BV12GQiBrExv-00749",
+            "BV12GQiBrExv-00750",
+            "BV12GQiBrExv-00751"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1124.0,
+          "end": 1126.92,
+          "text": "你這兒很冷漠。跟你說話也不理",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00752",
+            "BV12GQiBrExv-00753"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1126.92,
+          "end": 1131.84,
+          "text": "哪有那麼多話說。本來就來塗布了。你這個拍的會發出是嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00754",
+            "BV12GQiBrExv-00755",
+            "BV12GQiBrExv-00756"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "最后对拍摄是否发布的追问在下一单元继续；“没那么多话”原句保留，不改成主动聊天意愿。"
+    },
+    {
+      "id": "BV12GQiBrExv-q026",
+      "title": "拍的视频会发出去吗，不想一直被拍怎么办？",
+      "category": "隐私与边界",
+      "start": 1136.32,
+      "end": 1155.32,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1136.32,
+          "end": 1139.76,
+          "text": "你問他。你唱的會是怎麼了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00757",
+            "BV12GQiBrExv-00758"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1139.76,
+          "end": 1142.08,
+          "text": "你拍的你會發出是嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00759"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1142.08,
+          "end": 1145.44,
+          "text": "我會。我不發我拍的啦",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00760",
+            "BV12GQiBrExv-00761"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1145.44,
+          "end": 1148.4,
+          "text": "但我現在這個樣子很醜。我還感覺",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00762",
+            "BV12GQiBrExv-00763"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1148.4,
+          "end": 1150.72,
+          "text": "你很美啊。哪裡醜了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00764",
+            "BV12GQiBrExv-00765"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1152.96,
+          "end": 1155.32,
+          "text": "那就別一直拍我什麼樣子",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00766"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "前置“你问他／你唱的会”角色和词句不清；对方最后“别一直拍”明确保留，不能根据夸漂亮改成拍摄许可。"
+    },
+    {
+      "id": "BV12GQiBrExv-q027",
+      "title": "怎么不给我吃，是不是朋友该分享？",
+      "category": "消费与付出",
+      "start": 1157.52,
+      "end": 1314.08,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1157.52,
+          "end": 1161.44,
+          "text": "你都不給我吃一個是吧。你這人怎麼這麼冷血",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00767",
+            "BV12GQiBrExv-00768"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1307.44,
+          "end": 1312.44,
+          "text": "我們現在已經是募友了。我們現在已經募友了 你現在。拿過來",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00879",
+            "BV12GQiBrExv-00880",
+            "BV12GQiBrExv-00881"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1312.44,
+          "end": 1314.08,
+          "text": "哪有車手人啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00882"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1162.48,
+          "end": 1173.4,
+          "text": "我去找你要東西。但是我不是一個貴舔的姿態。你不給我吃是你的錯。你這人怎麼那麼冷血。看到了嗎。昨天的索取都要變成。你不給我是你的錯。就不是索取了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00770",
+            "BV12GQiBrExv-00771",
+            "BV12GQiBrExv-00772",
+            "BV12GQiBrExv-00773",
+            "BV12GQiBrExv-00774",
+            "BV12GQiBrExv-00775",
+            "BV12GQiBrExv-00776",
+            "BV12GQiBrExv-00777"
+          ]
+        }
+      ],
+      "uncertainty": "19:17 的同一问题 21:43 重播后继续朋友/拿过来，本轮合并；“募友／车手人”等错字保留，对方回答不清，不认定义务或同意。"
+    },
+    {
+      "id": "BV12GQiBrExv-q028",
+      "title": "能别靠这么近吗？",
+      "category": "隐私与边界",
+      "start": 1322.2,
+      "end": 1341.52,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1322.2,
+          "end": 1324.92,
+          "text": "你別靠我唱得近啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00884"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1324.92,
+          "end": 1326.88,
+          "text": "讓你來看一下建謀了嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00885"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1330.2,
+          "end": 1333.16,
+          "text": "來。你",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00886",
+            "BV12GQiBrExv-00887"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1337.72,
+          "end": 1341.52,
+          "text": "讓你來審視一下我的建謀。風暴的頭都吹亂了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00888",
+            "BV12GQiBrExv-00889"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "对方要求别靠近明确保留；回应“建谋／风暴”有错字，不能据其忽视请求的发言推定同意接近。"
+    },
+    {
+      "id": "BV12GQiBrExv-q029",
+      "title": "爬山时热情，为什么坐近后觉得怪？",
+      "category": "关系与意图",
+      "start": 1346.36,
+      "end": 1370.36,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1346.36,
+          "end": 1351.04,
+          "text": "你怎麼突然這麼冷。我剛才爬山的時候。你都沒有啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00890",
+            "BV12GQiBrExv-00891",
+            "BV12GQiBrExv-00892"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1351.04,
+          "end": 1358.04,
+          "text": "來爬山的人都挺熱情的。但是我們現在這樣搬。坐著這裡就感覺有點怪怪的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00893",
+            "BV12GQiBrExv-00894",
+            "BV12GQiBrExv-00895"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1358.04,
+          "end": 1361.8,
+          "text": "這不是所有的爬山。旅客都坐在這方面",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00896",
+            "BV12GQiBrExv-00897"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1361.8,
+          "end": 1365.48,
+          "text": "旅客又不熟。坐迷我這麼近",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00898",
+            "BV12GQiBrExv-00899"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1365.48,
+          "end": 1370.36,
+          "text": "慢慢我就熟了嘛。你看我都知道你是天蝎座的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00900",
+            "BV12GQiBrExv-00901"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“现在这样搬／坐迷”等词不清；“不熟、坐近”照原句保留，未将不适反解释成好感。"
+    },
+    {
+      "id": "BV12GQiBrExv-q030",
+      "title": "是广东人或在广东生活吗？",
+      "category": "信息与经历",
+      "start": 1370.36,
+      "end": 1389.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1370.36,
+          "end": 1373.16,
+          "text": "我還知道你是廣東人",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00902"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1373.16,
+          "end": 1374.56,
+          "text": "我不是廣東人啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00903"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1374.56,
+          "end": 1378.52,
+          "text": "那你就在廣東生活。對不對吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00904",
+            "BV12GQiBrExv-00905"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1378.52,
+          "end": 1380.16,
+          "text": "我跟你說了 我在廣東生活",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00906"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1380.16,
+          "end": 1385.6,
+          "text": "沒有。那我知道你說吉到不吉到。那你一定是廣東生活了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00907",
+            "BV12GQiBrExv-00908",
+            "BV12GQiBrExv-00909"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1385.6,
+          "end": 1389.0,
+          "text": "那只是我。舒服的話不太標準",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00910",
+            "BV12GQiBrExv-00911"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“舒服的话”疑错字；对方明确否认广东身份，不能根据回应者口音猜测认定籍贯。"
+    },
+    {
+      "id": "BV12GQiBrExv-q031",
+      "title": "能看清我的样子吗？",
+      "category": "信任与质疑",
+      "start": 1389.0,
+      "end": 1407.2,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1389.0,
+          "end": 1392.12,
+          "text": "我也不知道你長得這麼漂亮。我是後來才",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00912",
+            "BV12GQiBrExv-00913"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1392.12,
+          "end": 1394.12,
+          "text": "你真的能看清楚我的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00914"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1394.12,
+          "end": 1396.6,
+          "text": "那差不多了。我肯定能啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00915",
+            "BV12GQiBrExv-00916"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1396.6,
+          "end": 1407.2,
+          "text": "看 女生提出的一切質疑。它都非常自信且合理化的回答。自信加合理化是非常重要的。面對女生的種種質疑。都要學會用這一章",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00917",
+            "BV12GQiBrExv-00918",
+            "BV12GQiBrExv-00919",
+            "BV12GQiBrExv-00920",
+            "BV12GQiBrExv-00921"
+          ]
+        }
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV12GQiBrExv-q032",
+      "title": "摘一下让我看清楚好吗，没有边界感怎样回应？",
+      "category": "隐私与边界",
+      "start": 1407.2,
+      "end": 1431.52,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1407.2,
+          "end": 1411.84,
+          "text": "我已經偷偷看了好多回了。那你摘一下讓我看清楚一次好不好",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00922",
+            "BV12GQiBrExv-00923"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1411.84,
+          "end": 1415.08,
+          "text": "不行 有點沒邊際感",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00924"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1415.08,
+          "end": 1419.8,
+          "text": "誰啊你啊。你確實有點沒有邊際感。我跟你說話你就回我",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00925",
+            "BV12GQiBrExv-00926",
+            "BV12GQiBrExv-00927"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1419.8,
+          "end": 1423.32,
+          "text": "那我回你。不是 我說當時在走山的時候",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00928",
+            "BV12GQiBrExv-00929"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1423.32,
+          "end": 1431.52,
+          "text": "那你看就是我們。你看這也是自信加合理化。假定追逐對不對。女生說他沒有邊界感。但是他直接反駁你沒有邊界感。我跟你說話就回我",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00930",
+            "BV12GQiBrExv-00931",
+            "BV12GQiBrExv-00932",
+            "BV12GQiBrExv-00933",
+            "BV12GQiBrExv-00934",
+            "BV12GQiBrExv-00935"
+          ]
+        }
+      ],
+      "uncertainty": "“边际感／走山”错字保留，拒绝“不行”照录；博主反驳不替代对方边界请求。"
+    },
+    {
+      "id": "BV12GQiBrExv-q033",
+      "title": "戴着墨镜，是害怕镜头或尴尬吗？",
+      "category": "隐私与边界",
+      "start": 1443.68,
+      "end": 1462.8,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1443.68,
+          "end": 1462.8,
+          "text": "獨步的人每個人都很熱情。我不信你這墨鏡在一輩子。這輩子都不在看。我肯定真好 尷尬。你孔鏡頭是吧。第一次都這樣的。試過之後就是大人了。你再賣個是收不到銀的。請你這樣。第一次都這樣的。試過之後就是大人了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00943",
+            "BV12GQiBrExv-00944",
+            "BV12GQiBrExv-00945",
+            "BV12GQiBrExv-00946",
+            "BV12GQiBrExv-00947",
+            "BV12GQiBrExv-00948",
+            "BV12GQiBrExv-00949",
+            "BV12GQiBrExv-00950",
+            "BV12GQiBrExv-00951",
+            "BV12GQiBrExv-00952",
+            "BV12GQiBrExv-00953"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“这辈子都不在看／孔镜头／收不到银”等词严重误识别，角色不稳；不补造真实取下眼镜、恐镜头或同意拍摄。"
+    },
+    {
+      "id": "BV12GQiBrExv-q034",
+      "title": "说亲手之后，问是不是单身？",
+      "category": "关系与意图",
+      "start": 1464.96,
+      "end": 1483.08,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1464.96,
+          "end": 1471.0,
+          "text": "對 我幫你拿一下。你親我手幹嘛。你這人。怎麼回事。你是單身嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00954",
+            "BV12GQiBrExv-00955",
+            "BV12GQiBrExv-00956",
+            "BV12GQiBrExv-00957",
+            "BV12GQiBrExv-00958"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1482.28,
+          "end": 1483.08,
+          "text": "雙身",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00966"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1471.0,
+          "end": 1480.48,
+          "text": "拉伸關係了。又是一個假定追逐的拉伸。不是我去拉伸你。而是你來親我手。看到了嗎。永遠是假定追逐的拉伸。板向拉伸",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00959",
+            "BV12GQiBrExv-00960",
+            "BV12GQiBrExv-00961",
+            "BV12GQiBrExv-00962",
+            "BV12GQiBrExv-00963",
+            "BV12GQiBrExv-00964",
+            "BV12GQiBrExv-00965"
+          ]
+        }
+      ],
+      "uncertainty": "“双身”可能漏字/错字，不能反改成“单身”；亲手的说法仅为请求者假定追逐台词，没有动作验证。"
+    },
+    {
+      "id": "BV12GQiBrExv-q035",
+      "title": "是不是只有这一个车可以坐？",
+      "category": "邀约与安排",
+      "start": 1483.08,
+      "end": 1495.48,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1483.08,
+          "end": 1495.48,
+          "text": "我不要說我跟到你。我們就這一個車。你要坐這個車。就這一個車。我們沒得選。看一下你們包多不多。是不是這一個車。是不是這一個車。對。謝謝",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00967",
+            "BV12GQiBrExv-00968",
+            "BV12GQiBrExv-00969",
+            "BV12GQiBrExv-00970",
+            "BV12GQiBrExv-00971",
+            "BV12GQiBrExv-00972",
+            "BV12GQiBrExv-00973",
+            "BV12GQiBrExv-00974",
+            "BV12GQiBrExv-00975",
+            "BV12GQiBrExv-00976"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "这段可能包含第三方车主，说话者未分清；不据台词确认车辆数、人数或同乘已经确定。"
+    },
+    {
+      "id": "BV12GQiBrExv-q036",
+      "title": "前次骑行之后起泡了吗？",
+      "category": "信息与经历",
+      "start": 1496.44,
+      "end": 1521.28,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1496.44,
+          "end": 1509.84,
+          "text": "都有都是很熱情的。那個螺旗。都像物傳授經驗。我上次去那個時候。過期那個螺旗。然後第二天下來。就有騎了一個炮。騎了嗎。那炮體了嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00978",
+            "BV12GQiBrExv-00979",
+            "BV12GQiBrExv-00980",
+            "BV12GQiBrExv-00981",
+            "BV12GQiBrExv-00982",
+            "BV12GQiBrExv-00983",
+            "BV12GQiBrExv-00984",
+            "BV12GQiBrExv-00985",
+            "BV12GQiBrExv-00986"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1513.92,
+          "end": 1521.28,
+          "text": "哎呦。什麼意思。你幹嘛。到了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-00987",
+            "BV12GQiBrExv-00988",
+            "BV12GQiBrExv-00989",
+            "BV12GQiBrExv-00990"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“螺旗／骑了一個炮／那炮體了”等严重误识别，可能涉及骑行，但不能稳定确定故事或问答角色；保留待校，不补物件。"
+    },
+    {
+      "id": "BV12GQiBrExv-q037",
+      "title": "有没有像我们这样度蜜月的人？",
+      "category": "关系与意图",
+      "start": 1548.16,
+      "end": 1574.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1548.16,
+          "end": 1558.24,
+          "text": "最後一個不至點。哦。最後一個。然後我們就要上山了是吧。這到走進去就是那個羽毛。就進村了是吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01013",
+            "BV12GQiBrExv-01014",
+            "BV12GQiBrExv-01015",
+            "BV12GQiBrExv-01016",
+            "BV12GQiBrExv-01017",
+            "BV12GQiBrExv-01018"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1558.24,
+          "end": 1560.96,
+          "text": "有沒有人跟我們一樣。杜蜜月來這裡的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01019",
+            "BV12GQiBrExv-01020"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1560.96,
+          "end": 1562.56,
+          "text": "誰跟你杜蜜月",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01021"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1563.44,
+          "end": 1574.0,
+          "text": "你借用第三方拉伸。問大哥不要跟這女生說。咱倆是在杜蜜月。而是跟大哥說。有沒有人像倆一樣杜蜜月的。你看。這借用第三方去拉伸。也是ok的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01023",
+            "BV12GQiBrExv-01024",
+            "BV12GQiBrExv-01025",
+            "BV12GQiBrExv-01026",
+            "BV12GQiBrExv-01027",
+            "BV12GQiBrExv-01028",
+            "BV12GQiBrExv-01029",
+            "BV12GQiBrExv-01030"
+          ]
+        }
+      ],
+      "uncertainty": "前半可能与第三方车主交流；对方“谁跟你度蜜月”是否认关系，照录，不据讲解推定默许情侣。"
+    },
+    {
+      "id": "BV12GQiBrExv-q038",
+      "title": "走累了吗，还能跑起来吗？",
+      "category": "玩笑与调侃",
+      "start": 1577.68,
+      "end": 1588.56,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1577.68,
+          "end": 1581.04,
+          "text": "他累了自己嗎。是不是走不了那麼快",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01034",
+            "BV12GQiBrExv-01035"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1581.04,
+          "end": 1588.56,
+          "text": "誰啊。我現在都能跑起來。我杭州波爾特。我100米39院",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01036",
+            "BV12GQiBrExv-01037",
+            "BV12GQiBrExv-01038",
+            "BV12GQiBrExv-01039"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“他累了自己吗／39院”有错字；博尔特和速度是玩笑自述，不能核实跑步能力。"
+    },
+    {
+      "id": "BV12GQiBrExv-q039",
+      "title": "现在告白能记一辈子，为什么要跟你告白？",
+      "category": "关系与意图",
+      "start": 1641.96,
+      "end": 1655.4,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1641.96,
+          "end": 1649.16,
+          "text": "快現在說愛我。現在告白。我們會記住一輩子",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01073",
+            "BV12GQiBrExv-01074",
+            "BV12GQiBrExv-01075"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1649.16,
+          "end": 1650.76,
+          "text": "我為什麼要跟你告白",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01076"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1650.76,
+          "end": 1652.2,
+          "text": "真的好美啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01077"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1652.2,
+          "end": 1655.4,
+          "text": "假定追逐對不對。不說我愛你。讓你說你愛我",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01078",
+            "BV12GQiBrExv-01079",
+            "BV12GQiBrExv-01080"
+          ]
+        }
+      ],
+      "uncertainty": "回应者转为赞美景色，并没可靠识别到告白理由或对方同意；不能以讲解假定追逐改出实际告白。"
+    },
+    {
+      "id": "BV12GQiBrExv-q040",
+      "title": "认识得太晚，早一个月就能告白吗？",
+      "category": "关系与意图",
+      "start": 1662.76,
+      "end": 1723.8,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1713.16,
+          "end": 1720.6,
+          "text": "我們也是太晚了。我們早上是一個月。所以我們現在可以記著這個警告白了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01115",
+            "BV12GQiBrExv-01116",
+            "BV12GQiBrExv-01117"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1720.6,
+          "end": 1723.8,
+          "text": "那也說不定",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01118"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1662.76,
+          "end": 1675.0,
+          "text": "這個叫設置阻礙。什麼意思呢。就是說你要去拉升關係。但是你要設置一個阻礙。就會讓這個女生感覺到。本來能得到。但是又沒得到的這種失落感。這種失落感愛而不得的感覺",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01084",
+            "BV12GQiBrExv-01085",
+            "BV12GQiBrExv-01086",
+            "BV12GQiBrExv-01087",
+            "BV12GQiBrExv-01088",
+            "BV12GQiBrExv-01089",
+            "BV12GQiBrExv-01090",
+            "BV12GQiBrExv-01091"
+          ]
+        }
+      ],
+      "uncertainty": "27:35 同一话首次出现，保留28:33重播及新短答“那也说不定”；“警告白”含错字。"
+    },
+    {
+      "id": "BV12GQiBrExv-q041",
+      "title": "要求叫老公，接下来怎样拍照？",
+      "category": "关系与意图",
+      "start": 1725.4,
+      "end": 1741.64,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1725.4,
+          "end": 1729.08,
+          "text": "至於歐型的拍攝很好看。叫老公",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01120",
+            "BV12GQiBrExv-01121"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1729.08,
+          "end": 1741.64,
+          "text": "是 好了。我往你拍幾張。好 你會拍照。太好了來。看 到哪都有兄弟。我剛才就看到你。我就覺得很想好了。見到我 我想來。謝謝",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01122",
+            "BV12GQiBrExv-01123",
+            "BV12GQiBrExv-01124",
+            "BV12GQiBrExv-01125",
+            "BV12GQiBrExv-01126",
+            "BV12GQiBrExv-01127",
+            "BV12GQiBrExv-01128",
+            "BV12GQiBrExv-01129",
+            "BV12GQiBrExv-01130"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "后段混合第三方摄影者与双方短句，角色不稳；“是 好了”不能当确认夫妻称呼或关系。"
+    },
+    {
+      "id": "BV12GQiBrExv-q042",
+      "title": "第三人说拍亲密一点，要怎样配合？",
+      "category": "隐私与边界",
+      "start": 1742.6,
+      "end": 1780.68,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1742.6,
+          "end": 1750.64,
+          "text": "你哪要來一下。來。對 稍微親密的就可以了。親密一點是吧。親密。OK 親密一點。親密 快一點",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01132",
+            "BV12GQiBrExv-01133",
+            "BV12GQiBrExv-01134",
+            "BV12GQiBrExv-01135",
+            "BV12GQiBrExv-01136",
+            "BV12GQiBrExv-01137",
+            "BV12GQiBrExv-01138"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1757.64,
+          "end": 1769.72,
+          "text": "看我來一張就看我。那你又不牽手來一下。好的。來 配合一下 快點。有點面子。四面前來。你去看了他吧。對。看多長時間了。對",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01142",
+            "BV12GQiBrExv-01143",
+            "BV12GQiBrExv-01144",
+            "BV12GQiBrExv-01145",
+            "BV12GQiBrExv-01146",
+            "BV12GQiBrExv-01147",
+            "BV12GQiBrExv-01148",
+            "BV12GQiBrExv-01149",
+            "BV12GQiBrExv-01150",
+            "BV12GQiBrExv-01151"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1751.96,
+          "end": 1757.64,
+          "text": "你看這也是藉助第三方去拉伸關係。所以有一個好的瞭解很重要。來 一 二 三",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01139",
+            "BV12GQiBrExv-01140",
+            "BV12GQiBrExv-01141"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 1770.84,
+          "end": 1780.68,
+          "text": "看 自然牽手了對不對。沒有說。我特別想站你旁邊去牽你的手。而是這粉絲哪是拍照呢。給我點面子。你看雖然你是藉用第三方去牽的手",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01153",
+            "BV12GQiBrExv-01154",
+            "BV12GQiBrExv-01155",
+            "BV12GQiBrExv-01156",
+            "BV12GQiBrExv-01157",
+            "BV12GQiBrExv-01158"
+          ]
+        }
+      ],
+      "uncertainty": "第三人/双方角色无法稳分，牵手建议没有可靠识别到当事人直接同意；动作未从原画面核验，讲解结论不当作事实。"
+    },
+    {
+      "id": "BV12GQiBrExv-q043",
+      "title": "这是请来的演员吗？",
+      "category": "信任与质疑",
+      "start": 1801.08,
+      "end": 1806.68,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1801.08,
+          "end": 1803.08,
+          "text": "這是女情的演員吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01172"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1803.08,
+          "end": 1806.68,
+          "text": "不是啊。山裡哪裏都是粉絲啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01173",
+            "BV12GQiBrExv-01174"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“女情的演员”疑错字，按回应“不是”及粉丝语境暂概括；演员或粉丝身份未经独立核实。"
+    },
+    {
+      "id": "BV12GQiBrExv-q044",
+      "title": "接下来要干什么，要吃点东西吗？",
+      "category": "邀约与安排",
+      "start": 1806.68,
+      "end": 1815.08,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1806.68,
+          "end": 1808.04,
+          "text": "站上幹嘛",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01175"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1808.04,
+          "end": 1809.16,
+          "text": "吃點東西",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01176"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1809.16,
+          "end": 1810.36,
+          "text": "對",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01177"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1810.36,
+          "end": 1815.08,
+          "text": "我以爲你不餓呢。我以爲你鐵人呢。走啊 吃東西",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01178",
+            "BV12GQiBrExv-01179",
+            "BV12GQiBrExv-01180"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“站上干嘛”疑错字，原样保留；未从画面确认餐食。"
+    },
+    {
+      "id": "BV12GQiBrExv-q045",
+      "title": "到了住哪里，准备离开吗？",
+      "category": "邀约与安排",
+      "start": 1835.72,
+      "end": 1853.72,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1835.72,
+          "end": 1840.36,
+          "text": "我到了。我到了。你到了。什麼",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01184",
+            "BV12GQiBrExv-01185",
+            "BV12GQiBrExv-01186",
+            "BV12GQiBrExv-01187"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1840.36,
+          "end": 1841.56,
+          "text": "你住哪",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01188"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1841.56,
+          "end": 1843.48,
+          "text": "我住在那邊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01189"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1846.2,
+          "end": 1853.72,
+          "text": "那我走了。兩狗在打架。我走了。好。走了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01190",
+            "BV12GQiBrExv-01191",
+            "BV12GQiBrExv-01192",
+            "BV12GQiBrExv-01193",
+            "BV12GQiBrExv-01194"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“我到了／你到了”和末段告别角色不稳；“两狗在打架”不补成环境事实。"
+    },
+    {
+      "id": "BV12GQiBrExv-q046",
+      "title": "舍不得我吗，亲一口再走吗？",
+      "category": "隐私与边界",
+      "start": 1859.25,
+      "end": 1869.75,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1859.25,
+          "end": 1860.75,
+          "text": "你不舍不得我",
+          "source_segment_ids": [
+            "BV12GQiBrExv-caption-reviewed-early-0001"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 1867.5,
+          "end": 1869.75,
+          "text": "不亲一口再走吗",
+          "source_segment_ids": [
+            "BV12GQiBrExv-caption-reviewed-early-0002"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "两句在原帧字幕核对，但未恢复对方口头回应，不推定同意亲吻或舍不得。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q047",
+      "title": "第二天眼睛为什么红，怎么不等我？",
+      "category": "关系与意图",
+      "start": 1907.4,
+      "end": 1918.68,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1907.4,
+          "end": 1910.12,
+          "text": "給你摸跡。你眼睛這麼紅呢",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01209",
+            "BV12GQiBrExv-01210"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1912.2,
+          "end": 1918.68,
+          "text": "走吧。怎麼跟你一樣的。你今天的妝很漂亮啊。你怎麼不等我呀",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01211",
+            "BV12GQiBrExv-01212",
+            "BV12GQiBrExv-01213",
+            "BV12GQiBrExv-01214"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“摸迹／跟你一样的”等词和角色不稳，无法确认红眼睛原因；不补造哭泣/睡眠推断。"
+    },
+    {
+      "id": "BV12GQiBrExv-q048",
+      "title": "心情不好吗？",
+      "category": "关系与意图",
+      "start": 1921.96,
+      "end": 1924.36,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1921.96,
+          "end": 1923.48,
+          "text": "幹嘛 心情不好啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01215"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1923.48,
+          "end": 1924.36,
+          "text": "沒有啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01216"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV12GQiBrExv-q049",
+      "title": "为什么要看手机，记录里为什么有我？",
+      "category": "隐私与边界",
+      "start": 1926.28,
+      "end": 1950.68,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1926.28,
+          "end": 1928.6,
+          "text": "好好看看你的手機",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01217"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1928.6,
+          "end": 1932.12,
+          "text": "你晃手機幹嘛。什麼動不動就要看別人的手機",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01218",
+            "BV12GQiBrExv-01219"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1932.12,
+          "end": 1934.2,
+          "text": "快點手機拿出來看看",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01220"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 1936.52,
+          "end": 1943.08,
+          "text": "你的記錄率怎麼有我呀。你認識我。你愛戀我",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01222",
+            "BV12GQiBrExv-01223",
+            "BV12GQiBrExv-01224"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1943.08,
+          "end": 1945.72,
+          "text": "沒有啊。本來搜了看了一下",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01225",
+            "BV12GQiBrExv-01226"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1945.72,
+          "end": 1947.56,
+          "text": "現在你是我的粉絲了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01227"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1948.68,
+          "end": 1950.68,
+          "text": "我不想當你的粉絲",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01228"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“记录率／认识我／爱恋我”词句与中段角色不清；对方对看手机的质疑原样记录，未把搜视频当作暗恋或手机检查许可。"
+    },
+    {
+      "id": "BV12GQiBrExv-q050",
+      "title": "看过你的视频，为什么觉得不是好人？",
+      "category": "信任与质疑",
+      "start": 1952.12,
+      "end": 1974.44,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 1952.12,
+          "end": 1957.16,
+          "text": "我們的試煉開始了。你走了啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01229",
+            "BV12GQiBrExv-01230"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1957.16,
+          "end": 1968.04,
+          "text": "該怎麼形容。你不就是那種拍視頻。然後去聊別的女生。然後故意引起別人的那種。反正不是個好人",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01231",
+            "BV12GQiBrExv-01232",
+            "BV12GQiBrExv-01233",
+            "BV12GQiBrExv-01234",
+            "BV12GQiBrExv-01235"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1970.44,
+          "end": 1972.44,
+          "text": "昨天偷偷補課了是吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01236"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1972.44,
+          "end": 1974.44,
+          "text": "反正不是個好人",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01237"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“试炼／走了”内容和角色不清，后面拍摄与撩女生指控只记为发言。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q051",
+      "title": "是不是好人，不试过怎么知道？",
+      "category": "信任与质疑",
+      "start": 1975.24,
+      "end": 1988.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1975.24,
+          "end": 1979.24,
+          "text": "我是不是一個好人。我是不是一個好人",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01238",
+            "BV12GQiBrExv-01239"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1979.24,
+          "end": 1982.12,
+          "text": "反正不是個好人",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01240"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1982.12,
+          "end": 1985.0,
+          "text": "我是不是好人。你有沒有試過。你怎麼知道呢",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01241",
+            "BV12GQiBrExv-01242",
+            "BV12GQiBrExv-01243"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1985.0,
+          "end": 1988.2,
+          "text": "我不想給你試了。不想",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01244",
+            "BV12GQiBrExv-01245"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "重复“我是不是好人”保留源句；对方“不想给你试”拒绝照录，不能据此推定愿意试关系。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q052",
+      "title": "对我有情绪，就表示有感情或感觉吗？",
+      "category": "信任与质疑",
+      "start": 1989.56,
+      "end": 2018.44,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1989.56,
+          "end": 1995.56,
+          "text": "用這種。帶入一些個人情緒",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01246",
+            "BV12GQiBrExv-01247"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1995.56,
+          "end": 2003.0,
+          "text": "所以你對我有情緒對吧。所以你。對我是有感情的對吧。至少有感覺對吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01248",
+            "BV12GQiBrExv-01249",
+            "BV12GQiBrExv-01250",
+            "BV12GQiBrExv-01251"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2005.48,
+          "end": 2010.36,
+          "text": "你怎麼這麼漂亮。對我沒有感覺你為什麼會生氣",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01252",
+            "BV12GQiBrExv-01253"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 2010.36,
+          "end": 2012.44,
+          "text": "為什麼你不想帶有感覺",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01254"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 2012.44,
+          "end": 2016.44,
+          "text": "我覺得你是一個很輕鬆的人。對每個女孩子你都是這樣子的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01255",
+            "BV12GQiBrExv-01256"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2016.44,
+          "end": 2018.44,
+          "text": "沒有啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01257"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“轻松的人”等词疑误识别，中间角色不明；对方指控对每个女孩都一样，不是承认恋爱感情，博主的因果说法未验证。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q053",
+      "title": "其他视频是剧本，我也是下一位女嘉宾吗？",
+      "category": "信任与质疑",
+      "start": 2018.44,
+      "end": 2039.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 2018.44,
+          "end": 2020.44,
+          "text": "我昨天都刷了視頻",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01258"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2020.44,
+          "end": 2027.24,
+          "text": "她們是劇本。她們是假的。你是真的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01259",
+            "BV12GQiBrExv-01260",
+            "BV12GQiBrExv-01261"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 2027.24,
+          "end": 2031.24,
+          "text": "我也就是成為你下一個劇本。裡面的另外一個女嘉賓",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01262",
+            "BV12GQiBrExv-01263"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2031.24,
+          "end": 2033.24,
+          "text": "我們現在沒有劇本啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01264"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 2033.24,
+          "end": 2039.24,
+          "text": "兄弟你好像。好沒有編輯這個。好茂繫",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01265",
+            "BV12GQiBrExv-01266",
+            "BV12GQiBrExv-01267"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "中间“兄弟你好像／没有编辑／茂系”识别和角色不明；真假剧本和身份都是当事人发言，未独立核实。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q054",
+      "title": "昨天算约会吗，我们熟了吗？",
+      "category": "关系与意图",
+      "start": 2039.24,
+      "end": 2065.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 2039.24,
+          "end": 2047.24,
+          "text": "我們昨天已經見過一次了。我們已經。我們已經約會投入過了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01268",
+            "BV12GQiBrExv-01269",
+            "BV12GQiBrExv-01270"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 2047.24,
+          "end": 2049.24,
+          "text": "誰跟你約會啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01271"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2049.24,
+          "end": 2055.24,
+          "text": "你今天搞得像。說這個話像陌生人一樣。那我不很熟嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01272",
+            "BV12GQiBrExv-01273",
+            "BV12GQiBrExv-01274"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 2055.24,
+          "end": 2057.24,
+          "text": "我還是不熟",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01275"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2057.24,
+          "end": 2065.24,
+          "text": "我覺得。你不要想那麼多吧。開心就好。沒有那麼多事要了解",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01276",
+            "BV12GQiBrExv-01277",
+            "BV12GQiBrExv-01278",
+            "BV12GQiBrExv-01279"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“投入过”含错字；对方“谁跟你约会／还是不熟”照录，未按回应者声明确定关系。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q055",
+      "title": "谈恋爱是为了了解吗，为什么说像游戏？",
+      "category": "关系与意图",
+      "start": 2065.24,
+      "end": 2079.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2065.24,
+          "end": 2079.24,
+          "text": "在談戀愛的。談戀愛就是為了了解。然後才結婚呢。不要勾起我的情緒。你玩過爹地沒有。我終於來到真人版爹地了。俄羅斯的遊戲",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01280",
+            "BV12GQiBrExv-01281",
+            "BV12GQiBrExv-01282",
+            "BV12GQiBrExv-01283",
+            "BV12GQiBrExv-01284",
+            "BV12GQiBrExv-01285",
+            "BV12GQiBrExv-01286"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“爹地／俄羅斯的遊戲”等词句与角色无法可靠确定，不据上下文改成游戏名称或恋爱目标。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q056",
+      "title": "去厕所时能帮拿东西吗？",
+      "category": "消费与付出",
+      "start": 2083.24,
+      "end": 2093.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 2083.24,
+          "end": 2089.24,
+          "text": "我想去尿個尿。你幫我拿一下。我去尿個尿你幫我拿一下",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01287",
+            "BV12GQiBrExv-01288",
+            "BV12GQiBrExv-01289"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 2091.24,
+          "end": 2093.24,
+          "text": "看我啦",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01290"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "物品未明确、末句“看我啦”不清，不能推定已同意代拿。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q057",
+      "title": "走不动可骑行或下去吗？",
+      "category": "邀约与安排",
+      "start": 2099.24,
+      "end": 2103.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2099.24,
+          "end": 2103.24,
+          "text": "走不動了前面有鱸魚可以起。你下去吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01291",
+            "BV12GQiBrExv-01292"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“鱸魚可以起”与角色不清，可能含第三人安排；后续不要说话的边界请求另列独立字幕来源。规则两秒步进机器时间可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q083",
+      "title": "能不能不要一直跟我说话？",
+      "category": "隐私与边界",
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 2107.5,
+          "end": 2108.25,
+          "text": "能不能不要一直跟我说话",
+          "source_segment_ids": [
+            "BV12GQiBrExv-caption-reviewed-early-0003"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "画面字幕恢复明确减少交谈的请求；没有可靠答句，不能补写接受、拒绝或对方真实情绪。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。",
+      "start": 2107.5,
+      "end": 2108.25
+    },
+    {
+      "id": "BV12GQiBrExv-q058",
+      "title": "看见景色之后还生气吗？",
+      "category": "关系与意图",
+      "start": 2117.24,
+      "end": 2135.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2117.24,
+          "end": 2127.24,
+          "text": "哇塞。顯得人類是多麼的渺小。啊。我說顯得人類是多麼的渺小。不上氣了吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01294",
+            "BV12GQiBrExv-01295",
+            "BV12GQiBrExv-01296",
+            "BV12GQiBrExv-01297",
+            "BV12GQiBrExv-01298"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 2131.24,
+          "end": 2135.24,
+          "text": "看到這個景色。這個景色就是我的解藥",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01299",
+            "BV12GQiBrExv-01300"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“不上气了吧”疑误识别，整段角色不稳；景色“解药”只记为发言，不推定情绪已消失。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q059",
+      "title": "一起合拍、拍我们吗？",
+      "category": "隐私与边界",
+      "start": 2141.25,
+      "end": 2155.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 2141.25,
+          "end": 2142.0,
+          "text": "过来我们一起合拍一个过来",
+          "source_segment_ids": [
+            "BV12GQiBrExv-caption-reviewed-early-0004"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "unknown",
+          "start": 2149.24,
+          "end": 2155.24,
+          "text": "我一起拍一個。拍一個我們嗎。拍我們",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01302",
+            "BV12GQiBrExv-01303",
+            "BV12GQiBrExv-01304"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "合拍内容与后面短句角色不清，不能将重复提议当作明确公开许可。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。 邀请句已根据2141.25秒原帧核对为“过来我们一起合拍一个过来”，其他短答仍机器稿，未确认公开拍摄许可。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q060",
+      "title": "为什么要记住你，半辈子还是一辈子？",
+      "category": "关系与意图",
+      "start": 2169.24,
+      "end": 2187.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2169.24,
+          "end": 2187.24,
+          "text": "記住這個小翔啊。跟我一起來的。記住我。為什麼要記住你。半輩子。為什麼。在這麼浪漫的地方。半輩子好可笑。因為不敢設計一輩子",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01305",
+            "BV12GQiBrExv-01306",
+            "BV12GQiBrExv-01307",
+            "BV12GQiBrExv-01308",
+            "BV12GQiBrExv-01309",
+            "BV12GQiBrExv-01310",
+            "BV12GQiBrExv-01311",
+            "BV12GQiBrExv-01312",
+            "BV12GQiBrExv-01313"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“小翔／半辈子”词句与角色不稳，按可辨认追问记录，不补造承诺。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q061",
+      "title": "第一次来看雪山，还想再来吗？",
+      "category": "邀约与安排",
+      "start": 2187.24,
+      "end": 2235.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 2187.24,
+          "end": 2189.24,
+          "text": "這是第一次來看雪山",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01314"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2189.24,
+          "end": 2191.24,
+          "text": "那你還想來幾次",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01315"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 2193.24,
+          "end": 2195.24,
+          "text": "你要還來我就來",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01316"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2195.24,
+          "end": 2197.24,
+          "text": "你還來吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01317"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 2199.24,
+          "end": 2201.24,
+          "text": "應該會吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01318"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2201.24,
+          "end": 2211.24,
+          "text": "好。那我們下次一起來。走。走吧。你走不動了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01319",
+            "BV12GQiBrExv-01320",
+            "BV12GQiBrExv-01321",
+            "BV12GQiBrExv-01322",
+            "BV12GQiBrExv-01323"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 2211.24,
+          "end": 2235.24,
+          "text": "剛才不想打斷大家的情緒。所以我一直沒有進入講解。這裡其實可以讓大家明白一個道理。就是當一個女生。因為你有情緒。因為你哭。因為你落淚。因為你生氣的時候。其實就是她真的愛上你的時候。如果一個女生她對你都沒有。沒有任何的情緒波動。那麼她基本不可能愛上你。愛就是情緒投入",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01324",
+            "BV12GQiBrExv-01325",
+            "BV12GQiBrExv-01326",
+            "BV12GQiBrExv-01327",
+            "BV12GQiBrExv-01328",
+            "BV12GQiBrExv-01329",
+            "BV12GQiBrExv-01330",
+            "BV12GQiBrExv-01331",
+            "BV12GQiBrExv-01332",
+            "BV12GQiBrExv-01333",
+            "BV12GQiBrExv-01334",
+            "BV12GQiBrExv-01335",
+            "BV12GQiBrExv-01336"
+          ]
+        }
+      ],
+      "uncertainty": "“你走不动了”没有可靠答句；前面的再次同行是条件式邀约，不确认具体安排。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q062",
+      "title": "提出扶一下，怎样谈表达喜欢？",
+      "category": "隐私与边界",
+      "start": 2369.24,
+      "end": 2385.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2369.24,
+          "end": 2385.24,
+          "text": "吃飯糕。我扶一下。這要他扶啊你相弄的啦。愛上我就舒服了。要敢於表達你知道嗎。還要勇敢說出來",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01403",
+            "BV12GQiBrExv-01404",
+            "BV12GQiBrExv-01405",
+            "BV12GQiBrExv-01406",
+            "BV12GQiBrExv-01407",
+            "BV12GQiBrExv-01408"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“这要他扶啊你相弄的啦”等严重错字和角色不清；不推定身体接触、同意或实际告白。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q063",
+      "title": "是不是对别人也这样靠近、制造感觉？",
+      "category": "信任与质疑",
+      "start": 2389.24,
+      "end": 2427.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 2389.24,
+          "end": 2393.24,
+          "text": "真惡心。你真低俗了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01409",
+            "BV12GQiBrExv-01410"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2393.24,
+          "end": 2395.24,
+          "text": "沒有你低俗",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01411"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 2395.24,
+          "end": 2403.24,
+          "text": "動不動就你一別人。看得那麼近別跟別人。講話的時候就是那種。你要給別人造成什麼感覺",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01412",
+            "BV12GQiBrExv-01413",
+            "BV12GQiBrExv-01414",
+            "BV12GQiBrExv-01415"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2403.24,
+          "end": 2405.24,
+          "text": "我跟別人沒有",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01416"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 2405.24,
+          "end": 2409.24,
+          "text": "你跟別人說話的時候。你有想跟別人造成什麼樣的感覺",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01417",
+            "BV12GQiBrExv-01418"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2409.24,
+          "end": 2411.24,
+          "text": "我跟李越這麼說話嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01419"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 2413.24,
+          "end": 2427.24,
+          "text": "這個女生說你是不是。跟所有人都這樣愛怎麼樣。我不承認我跟別人沒有怎麼樣。你看非常自信且強勢的辯解。而不是沒有沒有你不要誤會我。你看這就是弱者的辯解了。同樣都是辯解",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01421",
+            "BV12GQiBrExv-01422",
+            "BV12GQiBrExv-01423",
+            "BV12GQiBrExv-01424",
+            "BV12GQiBrExv-01425",
+            "BV12GQiBrExv-01426",
+            "BV12GQiBrExv-01427"
+          ]
+        }
+      ],
+      "uncertainty": "“你一别人／李越”等词不清，角色按对答逻辑暂分；不能核验对其他人的行为。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q064",
+      "title": "靠这么近能持续一辈子吗？",
+      "category": "关系与意图",
+      "start": 2477.24,
+      "end": 2501.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2477.24,
+          "end": 2501.24,
+          "text": "那你為什麼跟別人說話的時候。要這樣子靠著我們幾個人說話。別人造成一種什麼樣的心理反射呢。說你說。說我也靠你這麼近說話。能這麼靠一輩子嗎。能一直這樣嗎。一輩子是什麼。你知道咱倆這麼近的時候。看對方是什麼樣的嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01452",
+            "BV12GQiBrExv-01453",
+            "BV12GQiBrExv-01454",
+            "BV12GQiBrExv-01455",
+            "BV12GQiBrExv-01456",
+            "BV12GQiBrExv-01457",
+            "BV12GQiBrExv-01458",
+            "BV12GQiBrExv-01459",
+            "BV12GQiBrExv-01460",
+            "BV12GQiBrExv-01461"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "整段关于距离、心理反射、一辈子的说话者交替不稳，末尾问句没有可靠直接答句。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q065",
+      "title": "第三人称呼女朋友时怎样说？",
+      "category": "关系与意图",
+      "start": 2501.24,
+      "end": 2527.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2501.24,
+          "end": 2519.24,
+          "text": "那你看他誤導我了。就是他省勁。他就想省勁。他其實我們就可以吐過去了。你看它不會。看我。看我。這種婚用就不應該。帶你女朋友出來",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01462",
+            "BV12GQiBrExv-01463",
+            "BV12GQiBrExv-01464",
+            "BV12GQiBrExv-01465",
+            "BV12GQiBrExv-01466",
+            "BV12GQiBrExv-01467",
+            "BV12GQiBrExv-01468",
+            "BV12GQiBrExv-01469",
+            "BV12GQiBrExv-01470"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 2519.24,
+          "end": 2527.24,
+          "text": "麻煩。你看又假定了。女朋友其實女生沒單了。但是你就可以跟第三方這麼說話了。其實女生心裡就默認了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01471",
+            "BV12GQiBrExv-01472",
+            "BV12GQiBrExv-01473",
+            "BV12GQiBrExv-01474",
+            "BV12GQiBrExv-01475"
+          ]
+        }
+      ],
+      "uncertainty": "第三人/双方角色不清，存在 zero-duration 原始片段，本轮时间只作为机器跨度；“女朋友”是玩笑或假定称呼，不能确认关系。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q066",
+      "title": "喝交杯茶吗，为什么这样做？",
+      "category": "隐私与边界",
+      "start": 2529.24,
+      "end": 2553.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2529.24,
+          "end": 2549.24,
+          "text": "喝點酥油茶。別愣著了。酥油茶。這秘密麻麻蘿的全是泡麵桶。雲南再一塊啊。喝個焦杯吧。來喝一個焦杯。焦起來。倆你怎麼喊我了。就喝你的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01477",
+            "BV12GQiBrExv-01478",
+            "BV12GQiBrExv-01479",
+            "BV12GQiBrExv-01480",
+            "BV12GQiBrExv-01481",
+            "BV12GQiBrExv-01482",
+            "BV12GQiBrExv-01483",
+            "BV12GQiBrExv-01484",
+            "BV12GQiBrExv-01485",
+            "BV12GQiBrExv-01486"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 2549.24,
+          "end": 2553.24,
+          "text": "這都是拉桑的技巧。學你們的過學啊",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01487",
+            "BV12GQiBrExv-01488"
+          ]
+        }
+      ],
+      "uncertainty": "“焦杯／倆你怎麼喊我”词句与角色不稳，不能据讲解确认交杯动作或许可。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q067",
+      "title": "石头塔叫什么，代表什么？",
+      "category": "话题延伸",
+      "start": 2565.24,
+      "end": 2583.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2565.24,
+          "end": 2583.24,
+          "text": "我們去搭一個這個什麼。什麼什麼塔來的。我忘記這個叫什麼名字了。那叫什麼呢。馬里堆。就是當地人。就是把那個石頭搭得越高。越那個就是代表你的。就是反正就是祝福的意思吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01489",
+            "BV12GQiBrExv-01490",
+            "BV12GQiBrExv-01491",
+            "BV12GQiBrExv-01492",
+            "BV12GQiBrExv-01493",
+            "BV12GQiBrExv-01494",
+            "BV12GQiBrExv-01495",
+            "BV12GQiBrExv-01496",
+            "BV12GQiBrExv-01497"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“马里堆”名称可能误识别；民俗解释只作为原发言，未事实核查。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q068",
+      "title": "想祝福谁，祝福我吗？",
+      "category": "关系与意图",
+      "start": 2583.24,
+      "end": 2593.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2583.24,
+          "end": 2593.24,
+          "text": "祝福誰呢。就是你想祝福誰呢。那你祝福我吧。我祝福你。和嫁一個小這樣的老公",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01498",
+            "BV12GQiBrExv-01499",
+            "BV12GQiBrExv-01500",
+            "BV12GQiBrExv-01501",
+            "BV12GQiBrExv-01502"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "最后“嫁一个小这样的老公”含错字且角色不稳，不改成具体人或关系承诺。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q069",
+      "title": "爱得多就会搭得快吗，是真是假？",
+      "category": "关系与意图",
+      "start": 2613,
+      "end": 2647.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2613,
+          "end": 2613.75,
+          "text": "找不能找相同搭的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-caption-reviewed-early-0005"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "unknown",
+          "start": 2615.24,
+          "end": 2619.24,
+          "text": "是不是你愛我多一點。所以你搭得快一點",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01508",
+            "BV12GQiBrExv-01509"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 2623.24,
+          "end": 2633.24,
+          "text": "是了。可能我是渣男。我有報應。但這一刻我愛你是真的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01512",
+            "BV12GQiBrExv-01513",
+            "BV12GQiBrExv-01514",
+            "BV12GQiBrExv-01515"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 2633.24,
+          "end": 2647.24,
+          "text": "搭不出了。就這樣吧。所以是假的。不是假的。他說一會天黑了。我們要去拼湖了。好吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01516",
+            "BV12GQiBrExv-01517",
+            "BV12GQiBrExv-01518",
+            "BV12GQiBrExv-01519",
+            "BV12GQiBrExv-01520",
+            "BV12GQiBrExv-01521",
+            "BV12GQiBrExv-01522"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 2619.24,
+          "end": 2623.24,
+          "text": "這就是約會場地的重要性。這些約會相互本身就能拉伸關係",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01510",
+            "BV12GQiBrExv-01511"
+          ]
+        }
+      ],
+      "uncertainty": "关于石堆和爱的说话者不稳，“不能找枪筒”等词不清；不根据“我爱你”一句确认关系或真心。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。 石堆短句独立字幕实际写“找不能找相同搭的”，不按预想把句子改通顺；后面爱的讨论仍为机器稿。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q070",
+      "title": "想骑骡子、走不动了，怎样安排？",
+      "category": "邀约与安排",
+      "start": 2665.24,
+      "end": 2679.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2665.24,
+          "end": 2679.24,
+          "text": "又向往騎螺子了。又走不動了。好累啊。你們在這等我。可能讓那個螺子過。等我就是等我",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01530",
+            "BV12GQiBrExv-01531",
+            "BV12GQiBrExv-01532",
+            "BV12GQiBrExv-01533",
+            "BV12GQiBrExv-01534",
+            "BV12GQiBrExv-01535"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "说话者未稳定确定，“螺子”原字保留，不能核验交通选择或动作。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q071",
+      "title": "现在是情侣了吗？",
+      "category": "关系与意图",
+      "start": 2739.24,
+      "end": 2751.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2739.24,
+          "end": 2751.24,
+          "text": "有點捨不得你你知道吧。我們本來就是多人了。但我們現在不是了。那我們現在是嗎。現在是情侶了已經。我們不跟你說情侶了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01550",
+            "BV12GQiBrExv-01551",
+            "BV12GQiBrExv-01552",
+            "BV12GQiBrExv-01553",
+            "BV12GQiBrExv-01554",
+            "BV12GQiBrExv-01555"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "角色交替不稳且“多人／我们不跟你说情侣”词句不清，保留双方不同说法，不确认情侣关系。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q072",
+      "title": "爱是体验还是负责，固定词又是什么？",
+      "category": "关系与意图",
+      "start": 2751.24,
+      "end": 2779.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2751.24,
+          "end": 2779.24,
+          "text": "愛是怎麼樣。愛是體驗。愛是負責。愛是負責。每個人的愛都不一樣吧。還不是一個固定詞。固定詞是什麼詞你編的。名詞是固定的。我走八萬多公里。我給你固定了。這固定的。這水沒再流風沒再吹。太生奧了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01556",
+            "BV12GQiBrExv-01557",
+            "BV12GQiBrExv-01558",
+            "BV12GQiBrExv-01559",
+            "BV12GQiBrExv-01560",
+            "BV12GQiBrExv-01561",
+            "BV12GQiBrExv-01562",
+            "BV12GQiBrExv-01563",
+            "BV12GQiBrExv-01564",
+            "BV12GQiBrExv-01565",
+            "BV12GQiBrExv-01566",
+            "BV12GQiBrExv-01567",
+            "BV12GQiBrExv-01568"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "整段主张与追问角色不稳，“固定词”可能误字，原样保留；爱与责任为观点，不作定义背书。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q073",
+      "title": "爱是冲动，冲动之后怎么办？",
+      "category": "关系与意图",
+      "start": 2779.24,
+      "end": 2809.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2779.24,
+          "end": 2797.24,
+          "text": "你幹嘛要跟你這種人討論愛。你懂嗎。愛是轟轟烈烈的衝動。不是。衝動之後呢。想說愛直到愛流走為止。這很現實。但是想說當下就好",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01569",
+            "BV12GQiBrExv-01570",
+            "BV12GQiBrExv-01571",
+            "BV12GQiBrExv-01572",
+            "BV12GQiBrExv-01573",
+            "BV12GQiBrExv-01574",
+            "BV12GQiBrExv-01575",
+            "BV12GQiBrExv-01576"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 2797.24,
+          "end": 2809.24,
+          "text": "我覺得他這個回復也挺好。但如果說我的話我可能會說。我也不知道愛是什麼。也許以後你可能會讓我知道愛是什麼吧。就我可能會這麼說。大家自己參考我覺得都可以",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01577",
+            "BV12GQiBrExv-01578",
+            "BV12GQiBrExv-01579",
+            "BV12GQiBrExv-01580",
+            "BV12GQiBrExv-01581",
+            "BV12GQiBrExv-01582"
+          ]
+        }
+      ],
+      "uncertainty": "“想说爱直到爱流走”可能误识别，原样保留；博主提供的另一个假设回答只归讲解，不冒充现场。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q074",
+      "title": "爱是一种消耗品吗，能永远拥有吗？",
+      "category": "关系与意图",
+      "start": 2809.24,
+      "end": 2825.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2809.24,
+          "end": 2825.24,
+          "text": "那你所表達的愛是。一種消耗品。你以為愛不是嗎。你憑什麼永遠能擁有。如果愛很普遍。那就不會有為他擔心。故事流傳至今了。大多數的人都是試圓的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01583",
+            "BV12GQiBrExv-01584",
+            "BV12GQiBrExv-01585",
+            "BV12GQiBrExv-01586",
+            "BV12GQiBrExv-01587",
+            "BV12GQiBrExv-01588",
+            "BV12GQiBrExv-01589",
+            "BV12GQiBrExv-01590"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“为他担心／试圆”等词不清，角色不稳；47:07–48:03 重复“爱是不一样的/所以”没有可辨认新问答，不额外制造题，原稿保留。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q075",
+      "title": "谁愿意是消耗品，爱为什么不容易得到？",
+      "category": "关系与意图",
+      "start": 2883.24,
+      "end": 2901.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2883.24,
+          "end": 2901.24,
+          "text": "我也不想。誰也不想是消耗品。誰不是。歐伯國拿過來才覺得。愛是一個很複雜的東西呢。誰不是上刀山下活海了之後。才覺得。原來愛是這麼不容易得到的東西呢",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01619",
+            "BV12GQiBrExv-01620",
+            "BV12GQiBrExv-01621",
+            "BV12GQiBrExv-01622",
+            "BV12GQiBrExv-01623",
+            "BV12GQiBrExv-01624",
+            "BV12GQiBrExv-01625",
+            "BV12GQiBrExv-01626"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“欧伯国／上刀山下活海”等严重错字及角色不明，未改成具体经历或解释。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q076",
+      "title": "想吵架、难沟通吗，消耗之后怎样说？",
+      "category": "关系与意图",
+      "start": 2901.24,
+      "end": 2919.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2901.24,
+          "end": 2919.24,
+          "text": "我想吵架嗎。我想難以溝通嗎。但是有一些東西。消耗了之後。眼眉動。對啊。所以我覺得。所以我才會這樣說",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01627",
+            "BV12GQiBrExv-01628",
+            "BV12GQiBrExv-01629",
+            "BV12GQiBrExv-01630",
+            "BV12GQiBrExv-01631",
+            "BV12GQiBrExv-01632",
+            "BV12GQiBrExv-01633",
+            "BV12GQiBrExv-01634"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“眼眉动”等词不清，角色不稳，保留待校，不補造解释。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q077",
+      "title": "说眼泪或冷时，怎样接话？",
+      "category": "关系与意图",
+      "start": 2919.24,
+      "end": 2937.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 2919.24,
+          "end": 2937.24,
+          "text": "我眼眉動出來了。你是動的。眼的不能。現在零上二十多。別裝了。其實有的時候。有時候看你就像這湖面一樣。那個平靜又有點複雜。真的",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01635",
+            "BV12GQiBrExv-01636",
+            "BV12GQiBrExv-01637",
+            "BV12GQiBrExv-01638",
+            "BV12GQiBrExv-01639",
+            "BV12GQiBrExv-01640",
+            "BV12GQiBrExv-01641",
+            "BV12GQiBrExv-01642",
+            "BV12GQiBrExv-01643"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“眼眉动出来／你是动的／眼的不能”等词未可靠识别，题目只概括可能话题，不推定哭泣原因、温度或体感。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q078",
+      "title": "是身体冷，还是心冷？",
+      "category": "关系与意图",
+      "start": 2937.24,
+      "end": 2947.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 2937.24,
+          "end": 2939.24,
+          "text": "冷咱走",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01644"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 2939.24,
+          "end": 2941.24,
+          "text": "心冷",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01645"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2941.24,
+          "end": 2943.24,
+          "text": "什麼",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01646"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 2943.24,
+          "end": 2945.24,
+          "text": "心冷",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01647"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 2945.24,
+          "end": 2947.24,
+          "text": "走",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01648"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "角色按短问答逻辑暂分，尚未音色核对；不推定实际体温或关系状态。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q079",
+      "title": "拍这么多女生，有一秒是真心的吗？",
+      "category": "信任与质疑",
+      "start": 2995.24,
+      "end": 3015.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 2995.24,
+          "end": 3005.24,
+          "text": "你找那麼多女生拍攝視頻。你有過。啟動一個女生。或是任何一個人用短暫的那一秒。是真心的嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01650",
+            "BV12GQiBrExv-01651",
+            "BV12GQiBrExv-01652",
+            "BV12GQiBrExv-01653",
+            "BV12GQiBrExv-01654"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 3005.24,
+          "end": 3007.24,
+          "text": "有",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01655"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 3007.24,
+          "end": 3009.24,
+          "text": "別說是我",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01656"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 3009.24,
+          "end": 3011.24,
+          "text": "那我能說這一秒嗎",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01657"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 3011.24,
+          "end": 3015.24,
+          "text": "這個回答很牛逼。這個回答我覺得好",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01658",
+            "BV12GQiBrExv-01659"
+          ]
+        }
+      ],
+      "uncertainty": "“启动一个女生”疑有错字；真假心意不可据答句核验，时轴仍为机器定位。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q080",
+      "title": "怎么会这么快喜欢一个人？",
+      "category": "关系与意图",
+      "start": 3015.24,
+      "end": 3041.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 3015.24,
+          "end": 3023.24,
+          "text": "什麼。你怎麼。你會這麼快去喜歡上一個人。太可笑了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01660",
+            "BV12GQiBrExv-01661",
+            "BV12GQiBrExv-01662",
+            "BV12GQiBrExv-01663"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 3023.24,
+          "end": 3041.24,
+          "text": "我覺得來到大自然了。我大家都在壓抑自己的情緒。小的時候喜歡就喜歡。喜歡吃喜歡吃喜歡玩就喜歡玩。我不喜歡就不喜歡不開心我馬上就哭。長大了之後。大家戴面具摘不下來了。時間長了總要眼射膠的那個你。身長你摘不下來了",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01664",
+            "BV12GQiBrExv-01665",
+            "BV12GQiBrExv-01666",
+            "BV12GQiBrExv-01667",
+            "BV12GQiBrExv-01668",
+            "BV12GQiBrExv-01669",
+            "BV12GQiBrExv-01670",
+            "BV12GQiBrExv-01671",
+            "BV12GQiBrExv-01672"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“眼射胶／身长”等句含严重机器错字，角色按前后语义暂分；不补造具体回答。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q081",
+      "title": "是在这里就结束了吗？",
+      "category": "关系与意图",
+      "start": 3041.24,
+      "end": 3051.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 3041.24,
+          "end": 3045.24,
+          "text": "這是在這裡結束了嗎。在這裡就結束了是吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01673",
+            "BV12GQiBrExv-01674"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 3049.24,
+          "end": 3051.24,
+          "text": "走吧",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01675"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "结束指行程、相遇还是关系无法确认，角色不明且可靠直接回答缺失，“走吧”只是原句。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    },
+    {
+      "id": "BV12GQiBrExv-q082",
+      "title": "下山之后不要再见，为什么不见？",
+      "category": "关系与意图",
+      "start": 3051.24,
+      "end": 3079.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 3051.24,
+          "end": 3079.24,
+          "text": "媽媽。媽媽。我們下山。就。就別見了吧。再見了。再見了。再見了。下山為什麼不見。沒有走各自的路路的。再見了。俞小霍。再見了雪山。再見了冰湖",
+          "source_segment_ids": [
+            "BV12GQiBrExv-01676",
+            "BV12GQiBrExv-01677",
+            "BV12GQiBrExv-01678",
+            "BV12GQiBrExv-01679",
+            "BV12GQiBrExv-01680",
+            "BV12GQiBrExv-01681",
+            "BV12GQiBrExv-01682",
+            "BV12GQiBrExv-01683",
+            "BV12GQiBrExv-01684",
+            "BV12GQiBrExv-01685",
+            "BV12GQiBrExv-01686",
+            "BV12GQiBrExv-01687",
+            "BV12GQiBrExv-01688",
+            "BV12GQiBrExv-01689"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“妈妈／各自的路路”词句及角色不清，重复告别保留原句；不能确认最终行程或感情结局。 这一段来自规则两秒步进的机器片段，口语时轴可能漂移，未听校。"
+    }
+  ],
+  "caption_frames_visually_reviewed": 9
+}

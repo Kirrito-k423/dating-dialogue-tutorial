@@ -1,0 +1,2254 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1gb8M6nENB",
+  "scope": "all_identifiable_dialogue_in_complete_asr",
+  "listening_verified": false,
+  "review_method": "完整机器稿语义整理；未逐句听校。角色和轮次根据机器文本推断。",
+  "rounds": [
+    {
+      "id": "BV1gb8M6nENB-q001",
+      "title": "能否借手机热点付款",
+      "category": "开场与认识",
+      "start": 33.16,
+      "end": 43.56,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 33.16,
+          "end": 37.4,
+          "text": "就是你能不能給我一手機熱點 我在這買單 我手機沒花費了 求你了",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00007"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 37.4,
+          "end": 38.86,
+          "text": "你讓那個老闆幫你",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00008"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 38.86,
+          "end": 43.56,
+          "text": "老闆 老闆賊他們可惡 他不給我 他用的是小零通",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00009"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1gb8M6nENB-q002",
+      "title": "帮忙后能否请吃东西",
+      "category": "消费与付出",
+      "start": 43.56,
+      "end": 63.28,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 43.56,
+          "end": 46.76,
+          "text": "不白讓你幫 你吃這個是藍牙土豆是不是 我幫你買單",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00010"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 46.76,
+          "end": 48.12,
+          "text": "我自己都賣好了",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00011"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 48.12,
+          "end": 63.28,
+          "text": "那我再請你吃個別對不對 白你先給我一個熱點我就 你放心 我不是詐騙的 我就付款款我就買事了就謝謝你啊 你把密碼給我 給我來一個手打檸檬茶這個請你喝的 不白讓你幫我吧你那個等我一會 我還給你買別的東西啊 你等會啊",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00012",
+            "BV1gb8M6nENB-00013",
+            "BV1gb8M6nENB-00014",
+            "BV1gb8M6nENB-00015",
+            "BV1gb8M6nENB-00016"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "食品名“蓝牙土豆”等原词未听校；16句之后的离开没有可靠现场答句。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q003",
+      "title": "魔术不好看是否可以走",
+      "category": "隐私与边界",
+      "start": 66.28,
+      "end": 103.96,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 66.28,
+          "end": 95.96,
+          "text": "哎 等我不是哎 你打掃我了呢你我給你買的串呢 咱倆這熱點還連著呢 熱點還連著呢你走了 我就付不了款了 你走了我都付不了款了你是不是覺得我是壞人 你不能騎士胖的呀我給你表演一個後空翻 我會砸技我給你變魔術吧會 真的會 我能讓人飛起來 你看完我的魔術你絕對會覺得我是一個好人 你不愛上我嗎我不騙你 我現在給你變一個行不行",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00017",
+            "BV1gb8M6nENB-00018",
+            "BV1gb8M6nENB-00019",
+            "BV1gb8M6nENB-00020",
+            "BV1gb8M6nENB-00021",
+            "BV1gb8M6nENB-00022",
+            "BV1gb8M6nENB-00023",
+            "BV1gb8M6nENB-00024",
+            "BV1gb8M6nENB-00025",
+            "BV1gb8M6nENB-00026"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 95.96,
+          "end": 102.48,
+          "text": "真的啊 那走 咱倆上廁所那邊變一個那個我要騙你要是不好看 你馬上可以走真的 像剛剛那樣",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00027",
+            "BV1gb8M6nENB-00028",
+            "BV1gb8M6nENB-00029"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 102.48,
+          "end": 103.96,
+          "text": "對對對 你馬上可以走",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00030"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "27—29句的问答挤在一起，不能可靠分角色；不能根据邀请场所词语补造实际去向。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q004",
+      "title": "猜中星座能否留下交朋友",
+      "category": "关系与意图",
+      "start": 103.96,
+      "end": 116.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 103.96,
+          "end": 105.88,
+          "text": "我真能猜中你啥星座",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00031"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 105.88,
+          "end": 106.64,
+          "text": "那也猜",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00032"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 106.64,
+          "end": 111.32,
+          "text": "我要猜中了 你就不走了大家就交朋友好不好",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00033",
+            "BV1gb8M6nENB-00034"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 111.32,
+          "end": 113.76,
+          "text": "可以啊 給你一個這個嘛",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00035"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 113.76,
+          "end": 116.16,
+          "text": "記錄一下就是我猜中你星座的這個過程",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00036"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "35句同含“可以啊”和后半句，无法从文本分清说话人。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q005",
+      "title": "用动物选择猜星座",
+      "category": "玩笑与调侃",
+      "start": 116.16,
+      "end": 197.4,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 116.16,
+          "end": 119.28,
+          "text": "你是什麼象的 風象的還是什麼象的你是風象的吧 應該",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00037",
+            "BV1gb8M6nENB-00038"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 119.28,
+          "end": 122.52,
+          "text": "那你這次縮短了呀 你這縮小的範圍了呀",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00039"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 122.52,
+          "end": 124.8,
+          "text": "好 那我給你三個東西選一下",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00040"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 124.8,
+          "end": 125.52,
+          "text": "好",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00041"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 126.28,
+          "end": 127.84,
+          "text": "狗貓 兔子 選一個",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00042"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 129.56,
+          "end": 130.56,
+          "text": "貓",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00043"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 130.56,
+          "end": 131.76,
+          "text": "你的水瓶座",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00044"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 131.76,
+          "end": 139.8,
+          "text": "我操牛逼牛逼牛逼這是真的啊我操",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00045",
+            "BV1gb8M6nENB-00046",
+            "BV1gb8M6nENB-00047",
+            "BV1gb8M6nENB-00048",
+            "BV1gb8M6nENB-00049"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 139.8,
+          "end": 140.24,
+          "text": "對不對",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00050"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 149.32,
+          "end": 161.28,
+          "text": "我告訴大家 其實沒有那麼神奇我又不是魔術師又不是讀習術我怎麼能那麼準的知道它聲音呢其實續得我用了一個作弊的方法細心的觀眾其實已經發現了我是根據什麼猜出它星座的",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00055",
+            "BV1gb8M6nENB-00056",
+            "BV1gb8M6nENB-00057",
+            "BV1gb8M6nENB-00058",
+            "BV1gb8M6nENB-00059",
+            "BV1gb8M6nENB-00060",
+            "BV1gb8M6nENB-00061"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 168.64,
+          "end": 172.32,
+          "text": "正確答案就是熱點密碼它當時的熱點密碼",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00066",
+            "BV1gb8M6nENB-00067",
+            "BV1gb8M6nENB-00068"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 184.2,
+          "end": 197.4,
+          "text": "89不離死肯定是生日那你根據這個數字你不就能推算出它是碎屏座了嗎所以說我一直強調跟女生相處想要被人喜歡你就得細心",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00077",
+            "BV1gb8M6nENB-00078",
+            "BV1gb8M6nENB-00079",
+            "BV1gb8M6nENB-00080",
+            "BV1gb8M6nENB-00081",
+            "BV1gb8M6nENB-00082",
+            "BV1gb8M6nENB-00083"
+          ]
+        }
+      ],
+      "uncertainty": "猜测依据热点密码是作者后续讲解的自述，实际输入信息及推断过程未核验；没有公开任何完整密码。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q006",
+      "title": "干杯交个朋友",
+      "category": "开场与认识",
+      "start": 282.16,
+      "end": 290.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 282.16,
+          "end": 285.08,
+          "text": "這是真的吧好了你答應我的好",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00134",
+            "BV1gb8M6nENB-00135",
+            "BV1gb8M6nENB-00136"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 285.08,
+          "end": 287.04,
+          "text": "那這個咱倆乾一杯好不好",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00137",
+            "BV1gb8M6nENB-00138"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 287.04,
+          "end": 287.6,
+          "text": "好",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00139"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 289.12,
+          "end": 289.8,
+          "text": "交個朋友",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00140"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 289.8,
+          "end": 290.2,
+          "text": "好",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00141"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "134—136句角色不清，未据先前讲解补足含义。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q007",
+      "title": "彼此怎么称呼",
+      "category": "信息与经历",
+      "start": 291.4,
+      "end": 297.76,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 291.4,
+          "end": 292.0,
+          "text": "你叫啥",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00142"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 293.2,
+          "end": 295.2,
+          "text": "你叫麵包吧麵包對",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00143",
+            "BV1gb8M6nENB-00144",
+            "BV1gb8M6nENB-00145"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 295.2,
+          "end": 296.12,
+          "text": "我叫俞曉貝",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00146"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 296.12,
+          "end": 297.76,
+          "text": "你好你好你好",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00147",
+            "BV1gb8M6nENB-00148",
+            "BV1gb8M6nENB-00149"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "143句“你叫麵包吧”与上下文称呼有疑点，身份词保留机器字，不据此确认姓名。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q008",
+      "title": "现在知道是不是好人",
+      "category": "信任与质疑",
+      "start": 298.4,
+      "end": 309.0,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 298.4,
+          "end": 299.36,
+          "text": "你太厲害了",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00150"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 302.04,
+          "end": 305.16,
+          "text": "我就是魔術師我就是靠魔術吃飯的",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00151",
+            "BV1gb8M6nENB-00152"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 306.04,
+          "end": 306.76,
+          "text": "看起來",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00153"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 306.76,
+          "end": 308.24,
+          "text": "現在知道我是好人了吧",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00154"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 308.24,
+          "end": 309.0,
+          "text": "確實",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00155"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1gb8M6nENB-q009",
+      "title": "老板送的是什么食物",
+      "category": "话题延伸",
+      "start": 309.0,
+      "end": 434.08,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 309.0,
+          "end": 310.76,
+          "text": "你吃吃這個這老闆送的",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00156",
+            "BV1gb8M6nENB-00157"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 310.76,
+          "end": 311.68,
+          "text": "這什麼",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00158"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 311.68,
+          "end": 315.36,
+          "text": "老闆說看你長得好看顏值高的才送他說醜醜的不痛",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00159",
+            "BV1gb8M6nENB-00160",
+            "BV1gb8M6nENB-00161"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 315.36,
+          "end": 316.44,
+          "text": "這是拉長嗎",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00162"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 316.44,
+          "end": 332.04,
+          "text": "你看這句話又是在拉近兩個人的關係同時讓女生覺得你是一個很會說話的人你看你一上來就誇他但是你都誇他又沒有顯得很油膩你是借老闆的名譽誇他他聽著開心又不會覺得你有目的性你看這就是說話的技巧",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00163",
+            "BV1gb8M6nENB-00164",
+            "BV1gb8M6nENB-00165",
+            "BV1gb8M6nENB-00166",
+            "BV1gb8M6nENB-00167",
+            "BV1gb8M6nENB-00168",
+            "BV1gb8M6nENB-00169",
+            "BV1gb8M6nENB-00170",
+            "BV1gb8M6nENB-00171",
+            "BV1gb8M6nENB-00172"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 423.72,
+          "end": 434.08,
+          "text": "比如說老闆送的一根腸實際上不是說老闆看咱們是新客戶送的你看這就沒意思老闆看你好看送的看到了嗎這就不一樣了",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00228",
+            "BV1gb8M6nENB-00229",
+            "BV1gb8M6nENB-00230",
+            "BV1gb8M6nENB-00231",
+            "BV1gb8M6nENB-00232",
+            "BV1gb8M6nENB-00233",
+            "BV1gb8M6nENB-00234"
+          ]
+        }
+      ],
+      "uncertainty": "“拉长”“不痛”等识别不清；讲解同时说明赠送缘由是借名夸赞，未把话术说法当实际老板动机。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q010",
+      "title": "好不好吃如何回答",
+      "category": "玩笑与调侃",
+      "start": 332.04,
+      "end": 346.4,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 332.04,
+          "end": 332.68,
+          "text": "好吃嗎",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00173"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 332.96,
+          "end": 339.68,
+          "text": "你嚐一個不就知道了嗎你看你吃東西都這麼問吃的就跟男人一樣你得試試才知道",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00174",
+            "BV1gb8M6nENB-00175",
+            "BV1gb8M6nENB-00176",
+            "BV1gb8M6nENB-00177"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 341.72,
+          "end": 346.4,
+          "text": "又把他逗笑了你越能把他逗笑他就越喜歡跟你在一起",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00178",
+            "BV1gb8M6nENB-00179",
+            "BV1gb8M6nENB-00180"
+          ]
+        }
+      ],
+      "uncertainty": "175句“都這麼問”是否准确待听校；笑声和动作未核验。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q011",
+      "title": "最爱吃什么和名字双关",
+      "category": "偏好与选择",
+      "start": 346.4,
+      "end": 356.76,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 346.4,
+          "end": 349.88,
+          "text": "你光溫啊你最愛吃什麼",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00181",
+            "BV1gb8M6nENB-00182"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 349.88,
+          "end": 350.88,
+          "text": "麵包",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00183"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 350.88,
+          "end": 354.56,
+          "text": "你叫麵包所以你最愛吃麵包我也愛吃麵包",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00184",
+            "BV1gb8M6nENB-00185",
+            "BV1gb8M6nENB-00186"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 355.92,
+          "end": 356.76,
+          "text": "一語雙關嗎",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00187"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "181句“你光温啊”识别不清；名字“麵包”仅按现场机器稿称呼记录。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q012",
+      "title": "不要以貌或星座取人",
+      "category": "信任与质疑",
+      "start": 356.76,
+      "end": 372.16,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 356.76,
+          "end": 361.08,
+          "text": "你看水平座最好色你肯定很好色",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00188",
+            "BV1gb8M6nENB-00189"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 361.08,
+          "end": 364.6,
+          "text": "不要以貌取人不要以心作取人",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00190",
+            "BV1gb8M6nENB-00191"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 364.6,
+          "end": 372.16,
+          "text": "沒有男的看女的就應該以貌取人那你長這麼好看我不以貌取人看你內涵嗎你這個外表太好看了",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00192",
+            "BV1gb8M6nENB-00193",
+            "BV1gb8M6nENB-00194",
+            "BV1gb8M6nENB-00195",
+            "BV1gb8M6nENB-00196",
+            "BV1gb8M6nENB-00197"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1gb8M6nENB-q013",
+      "title": "是不是经常跟女生聊天",
+      "category": "信任与质疑",
+      "start": 372.16,
+      "end": 563.4,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 372.16,
+          "end": 375.08,
+          "text": "我看你這麼會說肯定就是聽那個女生聊天",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00198",
+            "BV1gb8M6nENB-00199"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 375.08,
+          "end": 380.84,
+          "text": "沒有不會說我跟你說我說的都是心理話我面對一個不好看的女生我話都不說的",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00200",
+            "BV1gb8M6nENB-00201",
+            "BV1gb8M6nENB-00202",
+            "BV1gb8M6nENB-00203"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 536.28,
+          "end": 563.4,
+          "text": "那麼第四個點就是我們要有標準啥叫有標準呢就是我雖然在街上認識了你或者說我雖然在請你吃飯但是我不是誰都請的我這個人標準很高平時我很宅一般人約我我都不出來今天真的是很有緣分或者說真的我覺得你跟別人不一樣我才請的一定要說這種話如果你讓女生感覺到你就是一個中央空調誰你都請的吃飯誰你都對他這麼好那麼女生也會瞬間下頭",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00305",
+            "BV1gb8M6nENB-00306",
+            "BV1gb8M6nENB-00307",
+            "BV1gb8M6nENB-00308",
+            "BV1gb8M6nENB-00309",
+            "BV1gb8M6nENB-00310",
+            "BV1gb8M6nENB-00311",
+            "BV1gb8M6nENB-00312",
+            "BV1gb8M6nENB-00313",
+            "BV1gb8M6nENB-00314",
+            "BV1gb8M6nENB-00315",
+            "BV1gb8M6nENB-00316",
+            "BV1gb8M6nENB-00317",
+            "BV1gb8M6nENB-00318",
+            "BV1gb8M6nENB-00319",
+            "BV1gb8M6nENB-00320",
+            "BV1gb8M6nENB-00321",
+            "BV1gb8M6nENB-00322",
+            "BV1gb8M6nENB-00323"
+          ]
+        }
+      ],
+      "uncertainty": "199句“聽那個女生聊天”词语不清，未据常见话术改成另外的句子。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q014",
+      "title": "问星座为什么让对方猜",
+      "category": "偏好与选择",
+      "start": 632.44,
+      "end": 660.88,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 632.44,
+          "end": 633.64,
+          "text": "那也是什麼時候做的",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00369"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 633.64,
+          "end": 636.36,
+          "text": "給你三次機會猜你猜中了 我請你看那樣",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00370",
+            "BV1gb8M6nENB-00371"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 636.36,
+          "end": 660.88,
+          "text": "好 這是一個公式就是當女生問你是什麼形狀你是哪裡人的時候千萬不要馬上回答她一問你一答這個對話就沒了就停了就結束了 對不對她一問你得想辦法第一拉長這個對話的拉扯感所以一定要讓她猜這樣的話你們兩個才有一個互動的感覺第二點是她一問你一答顯得你服從度特別高沒有神秘感女生也會對你失去興趣",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00372",
+            "BV1gb8M6nENB-00373",
+            "BV1gb8M6nENB-00374",
+            "BV1gb8M6nENB-00375",
+            "BV1gb8M6nENB-00376",
+            "BV1gb8M6nENB-00377",
+            "BV1gb8M6nENB-00378",
+            "BV1gb8M6nENB-00379",
+            "BV1gb8M6nENB-00380",
+            "BV1gb8M6nENB-00381",
+            "BV1gb8M6nENB-00382",
+            "BV1gb8M6nENB-00383",
+            "BV1gb8M6nENB-00384",
+            "BV1gb8M6nENB-00385",
+            "BV1gb8M6nENB-00386",
+            "BV1gb8M6nENB-00387",
+            "BV1gb8M6nENB-00388",
+            "BV1gb8M6nENB-00389"
+          ]
+        }
+      ],
+      "uncertainty": "前一现场段204句及本次回放369句有词形差异；采用较完整本段，未重复计题。“你猜中了我請你看那樣”结尾待核。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q015",
+      "title": "为什么猜我是双子",
+      "category": "话题延伸",
+      "start": 676.8,
+      "end": 691.16,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 676.8,
+          "end": 677.92,
+          "text": "為啥猜我是雙子",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00402"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 677.92,
+          "end": 680.52,
+          "text": "感覺你這麼能聊應該是這麼想",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00403",
+            "BV1gb8M6nENB-00404"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 680.52,
+          "end": 682.12,
+          "text": "你之前談過雙子做吧",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00405"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 682.12,
+          "end": 683.2,
+          "text": "沒有",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00406"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 683.2,
+          "end": 684.88,
+          "text": "媽你為什麼會這麼想",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00407"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 684.88,
+          "end": 691.16,
+          "text": "雙子就是很外向然後很能聊我在我的印象裡面雙子就是屬於",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00408",
+            "BV1gb8M6nENB-00409",
+            "BV1gb8M6nENB-00410",
+            "BV1gb8M6nENB-00411"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1gb8M6nENB-q016",
+      "title": "喜不喜欢能聊的男生",
+      "category": "偏好与选择",
+      "start": 691.16,
+      "end": 710.08,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 691.16,
+          "end": 693.56,
+          "text": "那你喜歡能聊的男生",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00412"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 693.56,
+          "end": 695.96,
+          "text": "喜歡對肯定喜歡",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00413",
+            "BV1gb8M6nENB-00414",
+            "BV1gb8M6nENB-00415"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 695.96,
+          "end": 697.56,
+          "text": "那你一定會愛上我",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00416"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 697.56,
+          "end": 698.16,
+          "text": "為什麼",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00417"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 698.16,
+          "end": 701.56,
+          "text": "因為你雙子不是我有一個朋友是雙子",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00418",
+            "BV1gb8M6nENB-00419",
+            "BV1gb8M6nENB-00420"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 701.56,
+          "end": 710.08,
+          "text": "這又是一個公式就是你在女生面前一定要足夠的自信你要相信這個女生會喜歡上你你要相信自己有魅力",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00421",
+            "BV1gb8M6nENB-00422",
+            "BV1gb8M6nENB-00423",
+            "BV1gb8M6nENB-00424",
+            "BV1gb8M6nENB-00425",
+            "BV1gb8M6nENB-00426"
+          ]
+        }
+      ],
+      "uncertainty": "418—420句问答角色不能可靠分开；自信公式是博主观点，不能当吸引效果证明。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q017",
+      "title": "白羊是否很渣",
+      "category": "信任与质疑",
+      "start": 831.96,
+      "end": 856.84,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 831.96,
+          "end": 833.44,
+          "text": "他每天換女朋友",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00509"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 833.44,
+          "end": 841.8,
+          "text": "別弄啊但我不是我不是風向那我跟風向很接近火向那對白羊白羊做跟水平做可配了",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00510",
+            "BV1gb8M6nENB-00511",
+            "BV1gb8M6nENB-00512",
+            "BV1gb8M6nENB-00513",
+            "BV1gb8M6nENB-00514",
+            "BV1gb8M6nENB-00515"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 841.8,
+          "end": 844.72,
+          "text": "白羊最扎了啊",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00516",
+            "BV1gb8M6nENB-00517"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 844.72,
+          "end": 852.52,
+          "text": "你看又以星你剛剛還說不要讓我以星做取人把你現在以星做取人為啥你談過白羊男朋友是吧被白羊扎過是吧",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00518",
+            "BV1gb8M6nENB-00519",
+            "BV1gb8M6nENB-00520",
+            "BV1gb8M6nENB-00521",
+            "BV1gb8M6nENB-00522",
+            "BV1gb8M6nENB-00523"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 852.52,
+          "end": 854.56,
+          "text": "你猜呀你就這麼想瞭解我",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00524",
+            "BV1gb8M6nENB-00525"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 854.56,
+          "end": 856.84,
+          "text": "那你不想瞭解我我想很很探索你",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00526",
+            "BV1gb8M6nENB-00527"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“风向”“火向”等机器词未修正，509句与前面双子朋友话题间夹长讲解，保留实际时间。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q018",
+      "title": "回应太突然的评价",
+      "category": "玩笑与调侃",
+      "start": 858.04,
+      "end": 872.8,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 858.04,
+          "end": 864.56,
+          "text": "哇哇塞哇哇塞你這個有點太突然了",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00528",
+            "BV1gb8M6nENB-00529",
+            "BV1gb8M6nENB-00530"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 866.32,
+          "end": 872.8,
+          "text": "突然好啊啥都在醫療之中奪不了有心在話發不開無心再流流成泥",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00531",
+            "BV1gb8M6nENB-00532",
+            "BV1gb8M6nENB-00533",
+            "BV1gb8M6nENB-00534",
+            "BV1gb8M6nENB-00535"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "531—535句成语和短句识别异常，不拼出推测的原话。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q019",
+      "title": "加微信与手机玩笑",
+      "category": "邀约与安排",
+      "start": 872.8,
+      "end": 884.36,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 872.8,
+          "end": 880.2,
+          "text": "加我的微信加呀掃呀掃我的時期普魯麥克斯星與城色兩滴滴的掃時節定時版啊",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00536",
+            "BV1gb8M6nENB-00537",
+            "BV1gb8M6nENB-00538",
+            "BV1gb8M6nENB-00539",
+            "BV1gb8M6nENB-00540",
+            "BV1gb8M6nENB-00541"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 882.44,
+          "end": 883.08,
+          "text": "真的嗎",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00542"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 883.08,
+          "end": 884.36,
+          "text": "我掃我掃我掃我掃",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00543"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "手机型号等短句未校正，微信未涉及公开帐号信息。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q020",
+      "title": "刚认识为何握手",
+      "category": "隐私与边界",
+      "start": 886.52,
+      "end": 895.68,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 886.52,
+          "end": 890.28,
+          "text": "握手咱倆是好朋友啊不是應該握手嗎",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00544",
+            "BV1gb8M6nENB-00545",
+            "BV1gb8M6nENB-00546"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 891.56,
+          "end": 893.24,
+          "text": "我們不是剛認識嗎",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00547"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 895.12,
+          "end": 895.68,
+          "text": "尿香啊",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00548"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "548句“尿香啊”识别不清；是否真的握手或闻到香气应核验原视频。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q021",
+      "title": "怎么知道水瓶能忍",
+      "category": "偏好与选择",
+      "start": 897.12,
+      "end": 994.56,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 897.12,
+          "end": 901.56,
+          "text": "水瓶座跟白羊最配就是白羊很直然後水瓶很能忍",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00549",
+            "BV1gb8M6nENB-00550",
+            "BV1gb8M6nENB-00551"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 901.56,
+          "end": 903.0,
+          "text": "你怎麼知道水瓶很能忍",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00552"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 903.0,
+          "end": 923.2,
+          "text": "就是白羊座啥事都直說完了水瓶座啥事都包容我覺得瘋狂挺配的白羊座脾氣大嘛但是又有責任性就是對你發完脾氣又會紅你然後一紅你你就好了但是我把你搭配了有點像長不大的小孩那不挺好嗎所以水瓶座就包容白羊啊就很般配很默契",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00553",
+            "BV1gb8M6nENB-00554",
+            "BV1gb8M6nENB-00555",
+            "BV1gb8M6nENB-00556",
+            "BV1gb8M6nENB-00557",
+            "BV1gb8M6nENB-00558",
+            "BV1gb8M6nENB-00559",
+            "BV1gb8M6nENB-00560",
+            "BV1gb8M6nENB-00561",
+            "BV1gb8M6nENB-00562",
+            "BV1gb8M6nENB-00563",
+            "BV1gb8M6nENB-00564"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 923.2,
+          "end": 924.8,
+          "text": "這是啊哇",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00565",
+            "BV1gb8M6nENB-00566"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 924.8,
+          "end": 929.52,
+          "text": "對吧 是吧白羊是長不大的小孩水瓶是小孩的媽媽",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00567",
+            "BV1gb8M6nENB-00568",
+            "BV1gb8M6nENB-00569"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 931.48,
+          "end": 931.96,
+          "text": "媽媽",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00570"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 946.88,
+          "end": 964.24,
+          "text": "首先你得先知道自己是啥星座然後你就把自己跟每一個星座你去AI查去網上查都行查下你跟每一個星座的匹配度然後因為什麼會匹配你把這些東西都記下來以後不管你遇到任何一個星座你都能找到跟它配得上的一個點",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00580",
+            "BV1gb8M6nENB-00581",
+            "BV1gb8M6nENB-00582",
+            "BV1gb8M6nENB-00583",
+            "BV1gb8M6nENB-00584",
+            "BV1gb8M6nENB-00585",
+            "BV1gb8M6nENB-00586",
+            "BV1gb8M6nENB-00587"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 978.92,
+          "end": 994.56,
+          "text": "就是你把每一個星座你都能找到一個跟你匹配的原因完了呢不管你遇到啥星座你都能說出來這個原因這樣的話你遇到任何一個星座的女人你都能跟她聊出來而且會讓她覺得很有邏輯說得很很有道理你知道吧這就是提前得做功課了",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00598",
+            "BV1gb8M6nENB-00599",
+            "BV1gb8M6nENB-00600",
+            "BV1gb8M6nENB-00601",
+            "BV1gb8M6nENB-00602",
+            "BV1gb8M6nENB-00603",
+            "BV1gb8M6nENB-00604",
+            "BV1gb8M6nENB-00605",
+            "BV1gb8M6nENB-00606",
+            "BV1gb8M6nENB-00607",
+            "BV1gb8M6nENB-00608",
+            "BV1gb8M6nENB-00609"
+          ]
+        }
+      ],
+      "uncertainty": "560句“把你搭配了”等原词有误识别疑点；星座性格表述是现场说法和作者教学，不是已验证事实。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q022",
+      "title": "晚上干什么要不要同行",
+      "category": "邀约与安排",
+      "start": 995.12,
+      "end": 1043.76,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 995.12,
+          "end": 996.32,
+          "text": "你晚上幹啥",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00610"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 997.28,
+          "end": 1000.84,
+          "text": "去喝點小酒去喝點酒",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00611",
+            "BV1gb8M6nENB-00612"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1000.84,
+          "end": 1007.76,
+          "text": "喝酒等我一起去我有車不用打車我給你當司機專屬司機好不好",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00613",
+            "BV1gb8M6nENB-00614",
+            "BV1gb8M6nENB-00615",
+            "BV1gb8M6nENB-00616",
+            "BV1gb8M6nENB-00617",
+            "BV1gb8M6nENB-00618",
+            "BV1gb8M6nENB-00619"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1007.76,
+          "end": 1008.36,
+          "text": "好好",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00620"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1008.36,
+          "end": 1010.96,
+          "text": "上車那是我的代價",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00621",
+            "BV1gb8M6nENB-00622"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1017.04,
+          "end": 1043.76,
+          "text": "女生願意跟你轉場就是你前面互動過關的表現就說明她已經開始對你產生好感了不然的話她是不願意跟你轉下一個場的因為轉下一個場第一她得對你有好感她願意繼續跟你玩而且去不同的地方玩第二她對你有信任度不然的話她不相信你她覺得你不安全她也不敢跟你轉這兩點同時達成她才會願意跟你轉下一個場所以這個時候咱們就可以輕微的拉伸關係了所以接下來所有的操作目標都是拉伸關係",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00624",
+            "BV1gb8M6nENB-00625",
+            "BV1gb8M6nENB-00626",
+            "BV1gb8M6nENB-00627",
+            "BV1gb8M6nENB-00628",
+            "BV1gb8M6nENB-00629",
+            "BV1gb8M6nENB-00630",
+            "BV1gb8M6nENB-00631",
+            "BV1gb8M6nENB-00632",
+            "BV1gb8M6nENB-00633",
+            "BV1gb8M6nENB-00634",
+            "BV1gb8M6nENB-00635",
+            "BV1gb8M6nENB-00636",
+            "BV1gb8M6nENB-00637",
+            "BV1gb8M6nENB-00638",
+            "BV1gb8M6nENB-00639",
+            "BV1gb8M6nENB-00640",
+            "BV1gb8M6nENB-00641",
+            "BV1gb8M6nENB-00642",
+            "BV1gb8M6nENB-00643",
+            "BV1gb8M6nENB-00644",
+            "BV1gb8M6nENB-00645",
+            "BV1gb8M6nENB-00646"
+          ]
+        }
+      ],
+      "uncertainty": "“代价”保留识别原字；是否上车、真实去向以及信任程度未由画面核验。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q023",
+      "title": "拍照靠近并露左脸",
+      "category": "隐私与边界",
+      "start": 1043.76,
+      "end": 1085.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1043.76,
+          "end": 1045.92,
+          "text": "比較好看是吧那你靠我近一點",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00647",
+            "BV1gb8M6nENB-00648"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1060.16,
+          "end": 1061.92,
+          "text": "挺會的你真的很會",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00657",
+            "BV1gb8M6nENB-00658"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1061.92,
+          "end": 1064.04,
+          "text": "不是你靠我近一點完了露左臉嗎",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00659",
+            "BV1gb8M6nENB-00660",
+            "BV1gb8M6nENB-00661"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1064.04,
+          "end": 1064.6,
+          "text": "不是啊",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00662"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1064.6,
+          "end": 1067.28,
+          "text": "這個我就露你左臉了就好看了對",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00663",
+            "BV1gb8M6nENB-00664",
+            "BV1gb8M6nENB-00665"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1067.64,
+          "end": 1085.24,
+          "text": "你看所有的拉伸關係咱們都要找一個合理的理由你不要直接就是我想佔你便宜我就想給你靠的近一點這樣女生會覺得你目的性很強我讓你靠我近一點是為了什麼呢是為了讓你露左臉你不是說你左臉好看嗎你看我用一個藉口用一個台階把這個關係給拉近了",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00666",
+            "BV1gb8M6nENB-00667",
+            "BV1gb8M6nENB-00668",
+            "BV1gb8M6nENB-00669",
+            "BV1gb8M6nENB-00670",
+            "BV1gb8M6nENB-00671",
+            "BV1gb8M6nENB-00672",
+            "BV1gb8M6nENB-00673",
+            "BV1gb8M6nENB-00674",
+            "BV1gb8M6nENB-00675",
+            "BV1gb8M6nENB-00676",
+            "BV1gb8M6nENB-00677",
+            "BV1gb8M6nENB-00678"
+          ]
+        }
+      ],
+      "uncertainty": "把相隔讲解的两个现场片段关联同轮，时间未改；是否靠近与接受程度需看原画面。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q024",
+      "title": "瘦脸效果与脸大小",
+      "category": "玩笑与调侃",
+      "start": 1089.48,
+      "end": 1100.92,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1089.48,
+          "end": 1090.16,
+          "text": "還是瘦臉",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00682"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1091.32,
+          "end": 1097.72,
+          "text": "你臉這已經很瘦了我會給你開了但是你已經很瘦了你看你臉比我小一大圈兩大圈",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00683",
+            "BV1gb8M6nENB-00684",
+            "BV1gb8M6nENB-00685",
+            "BV1gb8M6nENB-00686",
+            "BV1gb8M6nENB-00687",
+            "BV1gb8M6nENB-00688"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1098.96,
+          "end": 1099.68,
+          "text": "臉大鏡小",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00689"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1099.68,
+          "end": 1100.92,
+          "text": "我這人可嘗試了",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00690"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "689句“臉大鏡小”识别疑点，未据常用玩笑补字。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q025",
+      "title": "谁应该夸谁",
+      "category": "关系与意图",
+      "start": 1102.0,
+      "end": 1143.88,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1102.0,
+          "end": 1111.52,
+          "text": "我不是一直在誇你嗎這一路我我有就是不誇你的時候嗎這怎麼挨誇沒夠呢你誇我幾句吧",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00691",
+            "BV1gb8M6nENB-00692",
+            "BV1gb8M6nENB-00693",
+            "BV1gb8M6nENB-00694",
+            "BV1gb8M6nENB-00695",
+            "BV1gb8M6nENB-00696"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1141.8,
+          "end": 1143.88,
+          "text": "你幽默很會聊",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00718"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1112.8,
+          "end": 1128.96,
+          "text": "你看這個是什麼剛才講過的不要服從度太高他讓我誇他我反而就不誇了你看前面我可以自主地誇你但是今天你要是要求我誇你我反而不誇了我得讓你誇我不能你讓我幹啥我就幹啥",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00697",
+            "BV1gb8M6nENB-00698",
+            "BV1gb8M6nENB-00699",
+            "BV1gb8M6nENB-00700",
+            "BV1gb8M6nENB-00701",
+            "BV1gb8M6nENB-00702",
+            "BV1gb8M6nENB-00703",
+            "BV1gb8M6nENB-00704",
+            "BV1gb8M6nENB-00705",
+            "BV1gb8M6nENB-00706",
+            "BV1gb8M6nENB-00707"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 1136.68,
+          "end": 1141.28,
+          "text": "所以這個時候咱們反而要反抗這就是推拉的完美運用",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00715",
+            "BV1gb8M6nENB-00716",
+            "BV1gb8M6nENB-00717"
+          ]
+        }
+      ],
+      "uncertainty": "对方先要求被夸的原句未可靠识别，回应从691句开始；718句是讲解后继续的实际夸赞。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q026",
+      "title": "会做饭和做面包吗",
+      "category": "信息与经历",
+      "start": 1143.88,
+      "end": 1165.96,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1143.88,
+          "end": 1145.24,
+          "text": "我還會做飯的",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00719"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1145.24,
+          "end": 1145.76,
+          "text": "真的嗎",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00720"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1145.76,
+          "end": 1149.88,
+          "text": "我也喜歡吃麵包我喜歡吃自己做的麵包你有沒有吃麵包",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00721",
+            "BV1gb8M6nENB-00722",
+            "BV1gb8M6nENB-00723"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1151.12,
+          "end": 1152.48,
+          "text": "下次給我嚐一嚐",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00724"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1152.48,
+          "end": 1154.64,
+          "text": "行下次你來我給你做",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00725",
+            "BV1gb8M6nENB-00726"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1154.64,
+          "end": 1155.8,
+          "text": "好可以",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00727",
+            "BV1gb8M6nENB-00728"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1155.8,
+          "end": 1158.24,
+          "text": "你吃完我做的麵包你就會愛上我",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00729",
+            "BV1gb8M6nENB-00730"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1158.24,
+          "end": 1160.6,
+          "text": "我會愛吃我自己做的麵包",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00731"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1160.6,
+          "end": 1165.96,
+          "text": "你會做麵包那下次你給我做吧下次我來嚐一嚐你給我做",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00732",
+            "BV1gb8M6nENB-00733",
+            "BV1gb8M6nENB-00734",
+            "BV1gb8M6nENB-00735"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "723句“你有没有吃麵包”词语待核，角色按后续烘焙话题推断。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q027",
+      "title": "没听清时是否重复",
+      "category": "话题延伸",
+      "start": 1165.96,
+      "end": 1198.68,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1165.96,
+          "end": 1167.64,
+          "text": "什麼",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00736"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1167.64,
+          "end": 1170.8,
+          "text": "沒他誒",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00737",
+            "BV1gb8M6nENB-00738"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1170.8,
+          "end": 1198.68,
+          "text": "這塊也是一個推拉就是引起他的好奇就有的時候我要是給女生說一個拉伸關係的話他沒聽清然後他說啥或者說他聽清他故意裝他說啥我就不會再說第二遍了我就會沒事啊我就讓他自己心裡去想去他想到晚上睡不著然後他都得去想你這句話說的到底是啥然後他越想他就越惦記你他越惦記你他對你的情緒投入就越大就越容易愛上你越容易對你上頭",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00739",
+            "BV1gb8M6nENB-00740",
+            "BV1gb8M6nENB-00741",
+            "BV1gb8M6nENB-00742",
+            "BV1gb8M6nENB-00743",
+            "BV1gb8M6nENB-00744",
+            "BV1gb8M6nENB-00745",
+            "BV1gb8M6nENB-00746",
+            "BV1gb8M6nENB-00747",
+            "BV1gb8M6nENB-00748",
+            "BV1gb8M6nENB-00749",
+            "BV1gb8M6nENB-00750",
+            "BV1gb8M6nENB-00751",
+            "BV1gb8M6nENB-00752",
+            "BV1gb8M6nENB-00753",
+            "BV1gb8M6nENB-00754",
+            "BV1gb8M6nENB-00755",
+            "BV1gb8M6nENB-00756",
+            "BV1gb8M6nENB-00757",
+            "BV1gb8M6nENB-00758",
+            "BV1gb8M6nENB-00759"
+          ]
+        }
+      ],
+      "uncertainty": "737句“沒他”识别不清，不按讲解改写为推测短答。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q028",
+      "title": "能不能帮忙涨粉",
+      "category": "信任与质疑",
+      "start": 1205.08,
+      "end": 1229.6,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1205.08,
+          "end": 1206.08,
+          "text": "我看一下你抖音",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00762"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1209.36,
+          "end": 1213.36,
+          "text": "你跟我拍完視頻我發完抖音我能讓你漲三萬粉",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00766",
+            "BV1gb8M6nENB-00767",
+            "BV1gb8M6nENB-00768"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1213.36,
+          "end": 1214.16,
+          "text": "真的嗎",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00769"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1214.16,
+          "end": 1218.96,
+          "text": "漲不上三萬粉的話我連續一個月每天上你家給你做晚飯",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00770",
+            "BV1gb8M6nENB-00771"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1218.96,
+          "end": 1220.36,
+          "text": "現在獎勵你",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00772"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1220.36,
+          "end": 1229.6,
+          "text": "那你就當獎勵我吧是吧 好我做出來好吃真的好吃你跟我認識一個月之後我保你胖十斤",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00773",
+            "BV1gb8M6nENB-00774",
+            "BV1gb8M6nENB-00775",
+            "BV1gb8M6nENB-00776",
+            "BV1gb8M6nENB-00777",
+            "BV1gb8M6nENB-00778"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "涨粉与做饭是现场承诺或玩笑，结果未核验；763—765面对观众的发话未冒充对方回应。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q029",
+      "title": "会不会做锅包肉",
+      "category": "信息与经历",
+      "start": 1229.6,
+      "end": 1247.96,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1229.6,
+          "end": 1232.6,
+          "text": "那我要吃郭包肉你會做郭包肉嗎",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00779",
+            "BV1gb8M6nENB-00780"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1232.6,
+          "end": 1236.08,
+          "text": "會郭包肉糖醋排骨我都會我是東美人啊",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00781",
+            "BV1gb8M6nENB-00782",
+            "BV1gb8M6nENB-00783",
+            "BV1gb8M6nENB-00784"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1236.08,
+          "end": 1240.64,
+          "text": "怪不得你會做了郭包肉我上次一周做了三次郭包肉",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00785",
+            "BV1gb8M6nENB-00786"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1240.64,
+          "end": 1241.84,
+          "text": "你會做郭包肉",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00787"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1241.84,
+          "end": 1242.32,
+          "text": "對",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00788"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1242.32,
+          "end": 1244.92,
+          "text": "你又會做麵包又會做郭包肉",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00789",
+            "BV1gb8M6nENB-00790"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1244.92,
+          "end": 1245.76,
+          "text": "對啊",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00791"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1245.76,
+          "end": 1247.96,
+          "text": "你生活小能事",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00792"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "食品名“郭包肉”、籍贯“东美人”均保持机器字，未据地区常识修正。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q030",
+      "title": "代表所有水瓶还是自己",
+      "category": "关系与意图",
+      "start": 1247.96,
+      "end": 1283.36,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1247.96,
+          "end": 1257.4,
+          "text": "你看所以說水瓶很適合談戀愛你嘴上說想當女兒但是你的行為都是媽媽做的事你跟男朋友談戀愛你就會給他做飯就是照顧他",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00793",
+            "BV1gb8M6nENB-00794",
+            "BV1gb8M6nENB-00795",
+            "BV1gb8M6nENB-00796",
+            "BV1gb8M6nENB-00797",
+            "BV1gb8M6nENB-00798"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1257.4,
+          "end": 1261.0,
+          "text": "我代表所有的水瓶座感謝你是吧",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00799",
+            "BV1gb8M6nENB-00800"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1261.0,
+          "end": 1265.76,
+          "text": "你不用代表所有水瓶座代表你自己就行了別的水瓶座我也看不上",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00801",
+            "BV1gb8M6nENB-00802",
+            "BV1gb8M6nENB-00803"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1265.76,
+          "end": 1283.36,
+          "text": "看到了嗎這是我剛才講的標準和特殊性標準就是我不是所有的水瓶座我都喜歡的對不對別的水瓶座我都看不上特殊性就是什麼只有你怎麼怎麼樣你代表你自己就行了我別人我也不誇你跟別人不一樣標準和特殊性你看又是公式",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00804",
+            "BV1gb8M6nENB-00805",
+            "BV1gb8M6nENB-00806",
+            "BV1gb8M6nENB-00807",
+            "BV1gb8M6nENB-00808",
+            "BV1gb8M6nENB-00809",
+            "BV1gb8M6nENB-00810",
+            "BV1gb8M6nENB-00811",
+            "BV1gb8M6nENB-00812",
+            "BV1gb8M6nENB-00813",
+            "BV1gb8M6nENB-00814",
+            "BV1gb8M6nENB-00815"
+          ]
+        }
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1gb8M6nENB-q031",
+      "title": "好好相处与看表现",
+      "category": "关系与意图",
+      "start": 1283.36,
+      "end": 1300.24,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1283.36,
+          "end": 1287.76,
+          "text": "你的反應很快比我的還快來乾杯慶祝咱倆認識",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00816",
+            "BV1gb8M6nENB-00817",
+            "BV1gb8M6nENB-00818",
+            "BV1gb8M6nENB-00819"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1287.76,
+          "end": 1289.12,
+          "text": "慶祝慶祝",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00820"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1289.12,
+          "end": 1290.6,
+          "text": "我們一定要好好相處",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00821"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1290.6,
+          "end": 1294.48,
+          "text": "看你表現讓我掌訪三萬獎勵",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00822",
+            "BV1gb8M6nENB-00823"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1294.48,
+          "end": 1300.24,
+          "text": "獎勵我明天要給你投流投散吧我給你投散萬萬塊錢投降",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00824",
+            "BV1gb8M6nENB-00825",
+            "BV1gb8M6nENB-00826",
+            "BV1gb8M6nENB-00827"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "823—827句涨粉和投流的词语识别异常，未补造金额或承诺。"
+    },
+    {
+      "id": "BV1gb8M6nENB-q032",
+      "title": "明天拍写真还是看电影",
+      "category": "邀约与安排",
+      "start": 1300.24,
+      "end": 1323.76,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1300.24,
+          "end": 1301.88,
+          "text": "明天幹嘛",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00828"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1301.88,
+          "end": 1305.88,
+          "text": "我明天我在想我要不要去拍寫真",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00829"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1305.88,
+          "end": 1312.48,
+          "text": "別拍了你跟我看電影去吧看電影完了我陪你拍我給你拍寫真",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00830",
+            "BV1gb8M6nENB-00831",
+            "BV1gb8M6nENB-00832",
+            "BV1gb8M6nENB-00833"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1312.48,
+          "end": 1315.92,
+          "text": "那明天大家去看電影看什麼",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00834",
+            "BV1gb8M6nENB-00835"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1315.92,
+          "end": 1323.08,
+          "text": "看啥都行啊主要是咱倆看看啥都行看電影電影不重要重要的是一起看那人",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00836",
+            "BV1gb8M6nENB-00837",
+            "BV1gb8M6nENB-00838",
+            "BV1gb8M6nENB-00839",
+            "BV1gb8M6nENB-00840",
+            "BV1gb8M6nENB-00841"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1323.08,
+          "end": 1323.76,
+          "text": "可以",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00842"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1gb8M6nENB-q033",
+      "title": "拉勾如何确保见面",
+      "category": "邀约与安排",
+      "start": 1323.76,
+      "end": 1340.6,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1323.76,
+          "end": 1324.64,
+          "text": "那拉勾",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00843"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1324.64,
+          "end": 1325.12,
+          "text": "拉勾",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00844"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1325.12,
+          "end": 1331.6,
+          "text": "來拉勾刷掉一百年不一遍拉一個不行你容易水拉十個吧",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00845",
+            "BV1gb8M6nENB-00846",
+            "BV1gb8M6nENB-00847",
+            "BV1gb8M6nENB-00848",
+            "BV1gb8M6nENB-00849"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1331.6,
+          "end": 1332.28,
+          "text": "咋了",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00850"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1332.28,
+          "end": 1334.68,
+          "text": "這樣五個手肘伸出來",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00851",
+            "BV1gb8M6nENB-00852"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1334.68,
+          "end": 1335.08,
+          "text": "對",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00853"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1335.08,
+          "end": 1336.48,
+          "text": "這樣拉",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00854"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1336.48,
+          "end": 1336.84,
+          "text": "對",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00855"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1336.84,
+          "end": 1340.6,
+          "text": "這樣你就不會睡走現在就去看看",
+          "source_segment_ids": [
+            "BV1gb8M6nENB-00856",
+            "BV1gb8M6nENB-00857"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“一百年不一遍”“容易水”“五个手肘”等均待听校；是否实际牵手不能从讲解或标题确认。"
+    }
+  ]
+}

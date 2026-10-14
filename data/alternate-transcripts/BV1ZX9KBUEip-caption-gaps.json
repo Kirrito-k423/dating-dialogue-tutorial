@@ -1,0 +1,283 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1ZX9KBUEip",
+  "method": "macOS Vision OCR of selected video frames at ASR timestamp gaps; frame subtitles, not audio transcription; 0.75-second sampling, intervals reflect caption samples not speech boundaries",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0001",
+      "start": 30.75,
+      "end": 31.5,
+      "text": "邢么今天这期视频看完",
+      "last_sample": 30.75,
+      "samples": [
+        "frame-0030.750.png"
+      ],
+      "first_frame_sha256": "7f8a869abf0848709ced8c75cf95cd47fff0a5e52f40c6da6b26b648710013b0",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0002",
+      "start": 31.5,
+      "end": 32.25,
+      "text": "那公今天这期视频看完",
+      "last_sample": 31.5,
+      "samples": [
+        "frame-0031.500.png"
+      ],
+      "first_frame_sha256": "36d3d5d0982bc3daa32947b2ab271f589d91df976d554352cba505621c50ba6e",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0003",
+      "start": 32.25,
+      "end": 33.0,
+      "text": "你就知道怎么办7",
+      "last_sample": 32.25,
+      "samples": [
+        "frame-0032.250.png"
+      ],
+      "first_frame_sha256": "c1965b86a05ce19f2c8c423b65108ee4fc77e3d1c33419268c6a08325976acab",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0004",
+      "start": 33,
+      "end": 33.75,
+      "text": "你就知道怎公办了",
+      "last_sample": 33,
+      "samples": [
+        "frame-0033.000.png"
+      ],
+      "first_frame_sha256": "17ffa54efbe5e90967284d661856ce8256ded2e7d4781bb4f9b35dc91fa1f0e4",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0005",
+      "start": 33.75,
+      "end": 34.5,
+      "text": "好了闲话不多说",
+      "last_sample": 33.75,
+      "samples": [
+        "frame-0033.750.png"
+      ],
+      "first_frame_sha256": "98cebf9e7fc36f4958f28180dc511a23153c2299d1e70e4c3df56051f1fb52ea",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0006",
+      "start": 34.5,
+      "end": 35.25,
+      "text": "咱们直接开始",
+      "last_sample": 34.5,
+      "samples": [
+        "frame-0034.500.png"
+      ],
+      "first_frame_sha256": "5145a2ee4e039d749e2ff857ef3a33f198482b136ae5b9777001af98212788a6",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0007",
+      "start": 35.25,
+      "end": 36.0,
+      "text": "～咱们直接开始",
+      "last_sample": 35.25,
+      "samples": [
+        "frame-0035.250.png"
+      ],
+      "first_frame_sha256": "a98c071e66a9d3bc9c79612637d3983da7283e22d3150259b9202fd74e815c13",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0008",
+      "start": 37.5,
+      "end": 39.0,
+      "text": "你迟到了姐妹",
+      "last_sample": 38.25,
+      "samples": [
+        "frame-0037.500.png",
+        "frame-0038.250.png"
+      ],
+      "first_frame_sha256": "c36f27f655e11f53e264c68aaeff2e17e80b57e01236715250b25dce5c2cb4ba",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0009",
+      "start": 39.75,
+      "end": 41.25,
+      "text": "你上次还迟到了半个小时呢",
+      "last_sample": 40.5,
+      "samples": [
+        "frame-0039.750.png",
+        "frame-0040.500.png"
+      ],
+      "first_frame_sha256": "3d904a9f312a3337eee34cac010e907aac0b42765f2e2552ded5063a8c59dbad",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0010",
+      "start": 41.25,
+      "end": 42.75,
+      "text": "这次是报复我是吧",
+      "last_sample": 42,
+      "samples": [
+        "frame-0041.250.png",
+        "frame-0042.000.png"
+      ],
+      "first_frame_sha256": "f735508e8f178950d7b7cc832708f31f3ddd2cf16e6601b48818211ed021ec98",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0011",
+      "start": 43.5,
+      "end": 45.0,
+      "text": "那咋了我就迟到",
+      "last_sample": 44.25,
+      "samples": [
+        "frame-0043.500.png",
+        "frame-0044.250.png"
+      ],
+      "first_frame_sha256": "9f55d1f2d1275c259c809a8e84c7e4ab59bc7483b11db7495d9b612217d29ab4",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0012",
+      "start": 45,
+      "end": 46.5,
+      "text": "下次约会就咱俩谁也不迟到",
+      "last_sample": 45.75,
+      "samples": [
+        "frame-0045.000.png",
+        "frame-0045.750.png"
+      ],
+      "first_frame_sha256": "e96787199d0ad50c998eec06ab0a6d8d3e6a0cfb21460734728edf6faec60d6d",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0013",
+      "start": 47.25,
+      "end": 48.0,
+      "text": "别互相报复",
+      "last_sample": 47.25,
+      "samples": [
+        "frame-0047.250.png"
+      ],
+      "first_frame_sha256": "83faf3c8832a9fc3677782bfbb18913567f899d0fce02ef79f7cbfca03798f3f",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0014",
+      "start": 48,
+      "end": 49.5,
+      "text": "你有本事打我呗",
+      "last_sample": 48.75,
+      "samples": [
+        "frame-0048.000.png",
+        "frame-0048.750.png"
+      ],
+      "first_frame_sha256": "5a8dc43cf392608ccedc78d042d8f44d5353401708e1aca37edec29f1c0530b3",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0015",
+      "start": 49.5,
+      "end": 51.0,
+      "text": "我就爱迟到咋了",
+      "last_sample": 50.25,
+      "samples": [
+        "frame-0049.500.png",
+        "frame-0050.250.png"
+      ],
+      "first_frame_sha256": "987b08d4073b80ad297e5e4161e4b9435e05fb2465b961c4f5299d9886b28fa0",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0016",
+      "start": 51.75,
+      "end": 53.25,
+      "text": "你是不是有m倾向",
+      "last_sample": 52.5,
+      "samples": [
+        "frame-0051.750.png",
+        "frame-0052.500.png"
+      ],
+      "first_frame_sha256": "141cfd810aae0e547de33bd14c9403e6b5f8262f8ececc06a88da6d6ef7240b2",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0017",
+      "start": 53.25,
+      "end": 55.5,
+      "text": "嗯哈哈哈",
+      "last_sample": 54.75,
+      "samples": [
+        "frame-0053.250.png",
+        "frame-0054.000.png",
+        "frame-0054.750.png"
+      ],
+      "first_frame_sha256": "11505dc8b9b1221d60b1960a1ccc592d4b942065db9b282d640555e614acf057",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0018",
+      "start": 55.5,
+      "end": 56.25,
+      "text": "丢丢吧哈哈哈干嘛",
+      "last_sample": 55.5,
+      "samples": [
+        "frame-0055.500.png"
+      ],
+      "first_frame_sha256": "91c99fb9c00aed607a1bbffb7253ec539ee356b373e7b6450587e97696982977",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0019",
+      "start": 299.25,
+      "end": 300.0,
+      "text": "是你故意灌醉我的吧",
+      "last_sample": 299.25,
+      "samples": [
+        "frame-0299.250.png"
+      ],
+      "first_frame_sha256": "ae34481edf5b3d4fac240b4186c1cd9f761fd0522aa155e6b717f3682e96c80e",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0020",
+      "start": 300.75,
+      "end": 302.25,
+      "text": "是你自己要喝这么多的",
+      "last_sample": 301.5,
+      "samples": [
+        "frame-0300.750.png",
+        "frame-0301.500.png"
+      ],
+      "first_frame_sha256": "ee2ef54c8455b2a5be30c2d9c673b1fcb0e300197bf419e20809e71a2976cb4d",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0021",
+      "start": 303.75,
+      "end": 304.5,
+      "text": "我靠一靠",
+      "last_sample": 303.75,
+      "samples": [
+        "frame-0303.750.png"
+      ],
+      "first_frame_sha256": "28e95ec8736f447bdfbf546106ec25e13c6934583f0fe8530443b459e3f4ae26",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1ZX9KBUEip-caption-gap-0022",
+      "start": 818.25,
+      "end": 819.0,
+      "text": "雞一期99A流京开［",
+      "last_sample": 818.25,
+      "samples": [
+        "frame-0818.250.png"
+      ],
+      "first_frame_sha256": "72c5cc7f87e40c304e764f474b923ec8441f060b93d7a2aa128c4ab213b0dee1",
+      "visual_reviewed": false
+    }
+  ]
+}

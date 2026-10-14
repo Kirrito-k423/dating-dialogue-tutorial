@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1upQdBiEN1",
+  "method": "Selected original video caption checked via actual image input; not audio listening; sampled caption presence interval",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1upQdBiEN1-caption-reviewed-early-0001",
+      "start": 323.25,
+      "end": 324.0,
+      "text": "那怎么才算对你好呢",
+      "visual_reviewed": true,
+      "frame_time": 323.25,
+      "frame_sha256": "0e4d92806fcd20c5c9090418e392412d29d9c605979f1e9712928cc8c19f3172",
+      "frame_file": "frames-BV1upQdBiEN1/frame-0323.250.png"
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-reviewed-early-0002",
+      "start": 325.5,
+      "end": 326.25,
+      "text": "嗯肯定是要照顾好我的情绪",
+      "visual_reviewed": true,
+      "frame_time": 325.5,
+      "frame_sha256": "a15b6f01c3c864addeec47e566566ab7599f2e0d85a45f7609dff4bd1cc337f2",
+      "frame_file": "frames-BV1upQdBiEN1/frame-0325.500.png"
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-reviewed-early-0003",
+      "start": 327.75,
+      "end": 328.5,
+      "text": "然后每天给我做饭",
+      "visual_reviewed": true,
+      "frame_time": 327.75,
+      "frame_sha256": "4ad525c277b198fb05511dc2567e30b62fdbefe56363e6c112b220df350c7501",
+      "frame_file": "frames-BV1upQdBiEN1/frame-0327.750.png"
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-reviewed-early-0004",
+      "start": 330.75,
+      "end": 332.25,
+      "text": "然后什么事都想着我",
+      "visual_reviewed": true,
+      "frame_time": 330.75,
+      "frame_sha256": "196641e13ac680b50991239f2fd015b231d1e5d4740573f08be1950a71a2adf7",
+      "frame_file": "frames-BV1upQdBiEN1/frame-0330.750.png"
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-reviewed-early-0005",
+      "start": 332.25,
+      "end": 334.5,
+      "text": "啊带我去见她的父母",
+      "visual_reviewed": true,
+      "frame_time": 332.25,
+      "frame_sha256": "eacb6eef64d6586396d00eeb80c60e4b6840a64060415b1f336ebb9a406bb8bb",
+      "frame_file": "frames-BV1upQdBiEN1/frame-0332.250.png"
+    }
+  ]
+}

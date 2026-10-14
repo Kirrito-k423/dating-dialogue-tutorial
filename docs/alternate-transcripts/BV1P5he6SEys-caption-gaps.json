@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1P5he6SEys",
+  "method": "macOS Vision OCR of selected video frames at ASR timestamp gaps; frame subtitles, not audio transcription; 0.75-second sampling, intervals reflect caption samples not speech boundaries",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1P5he6SEys-caption-gap-0001",
+      "start": 34.5,
+      "end": 35.25,
+      "text": "咱们直接开始",
+      "last_sample": 34.5,
+      "samples": [
+        "frame-0034.500.png"
+      ],
+      "first_frame_sha256": "95d008036f721dfdbfec9dc9efc821bb3b99a93e9879dd3de44b2262a35cdbbd",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0002",
+      "start": 36,
+      "end": 37.5,
+      "text": "你好",
+      "last_sample": 36.75,
+      "samples": [
+        "frame-0036.000.png",
+        "frame-0036.750.png"
+      ],
+      "first_frame_sha256": "1b844b93c6198e9e5ef69bb20a3a9d753a29aefe041f8ea7f77d4e311848b27f",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0003",
+      "start": 37.5,
+      "end": 39.0,
+      "text": "哎请问这有人吗",
+      "last_sample": 38.25,
+      "samples": [
+        "frame-0037.500.png",
+        "frame-0038.250.png"
+      ],
+      "first_frame_sha256": "249b6258d3339d92607ca5b3d482fb02ed82c11a4d6897354972fc008f680bde",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0004",
+      "start": 39.75,
+      "end": 41.25,
+      "text": "呃你什么事",
+      "last_sample": 40.5,
+      "samples": [
+        "frame-0039.750.png",
+        "frame-0040.500.png"
+      ],
+      "first_frame_sha256": "8fb83e9477a405a973a503d880c5ff15750a321773fe7ce0ddf9ba7207f4b9d9",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0005",
+      "start": 41.25,
+      "end": 42.75,
+      "text": "就是没人的话我能坐这吗",
+      "last_sample": 42,
+      "samples": [
+        "frame-0041.250.png",
+        "frame-0042.000.png"
+      ],
+      "first_frame_sha256": "9153b459e2ffdeb9639134ba11c45da8513bdf779b505b949d2e90c15a6dbf0d",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0006",
+      "start": 42.75,
+      "end": 43.5,
+      "text": "就咱俩能拼介桌吗",
+      "last_sample": 42.75,
+      "samples": [
+        "frame-0042.750.png"
+      ],
+      "first_frame_sha256": "5c35abb46298666ff0e8ed53b3403562d2c3cb6370f124c97bbe8b4cd8560ec9",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0007",
+      "start": 43.5,
+      "end": 44.25,
+      "text": "就咱俩能拼个桌吗",
+      "last_sample": 43.5,
+      "samples": [
+        "frame-0043.500.png"
+      ],
+      "first_frame_sha256": "75c203a132020d272cb86d7e3d08fe25d8085f4c983c48182dca5bf756a698ee",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0008",
+      "start": 44.25,
+      "end": 45.75,
+      "text": "因为他排队要排一个小时",
+      "last_sample": 45,
+      "samples": [
+        "frame-0044.250.png",
+        "frame-0045.000.png"
+      ],
+      "first_frame_sha256": "31c0319d57b926d5885a457aa564f969555ce9db0b25402fa0643ec6a5586f06",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0009",
+      "start": 45.75,
+      "end": 46.5,
+      "text": "我有点急事",
+      "last_sample": 45.75,
+      "samples": [
+        "frame-0045.750.png"
+      ],
+      "first_frame_sha256": "10cc354f9c34deba943f1d6c4a047dd97a05e3bee4119bc74cfd46fc02089edc",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0010",
+      "start": 47.25,
+      "end": 48.75,
+      "text": "就是我能跟你拼一张桌吗",
+      "last_sample": 48,
+      "samples": [
+        "frame-0047.250.png",
+        "frame-0048.000.png"
+      ],
+      "first_frame_sha256": "c8a74533ad29d4f17c0631b570fbd83f6fd3d284463715fb8e8f4d679fd9d97a",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0011",
+      "start": 48.75,
+      "end": 50.25,
+      "text": "完了这个我吃5分钟就走",
+      "last_sample": 49.5,
+      "samples": [
+        "frame-0048.750.png",
+        "frame-0049.500.png"
+      ],
+      "first_frame_sha256": "062fd74716374e4929a362574904cacdf1e05ab6305656a01630874e08279a96",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0012",
+      "start": 50.25,
+      "end": 51.0,
+      "text": "我很快的",
+      "last_sample": 50.25,
+      "samples": [
+        "frame-0050.250.png"
+      ],
+      "first_frame_sha256": "3949c5a2ff6138b6cd7d4f0f6edb846c23bb0fd6ef46ba09f38fefe9e6e2bc13",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0013",
+      "start": 51,
+      "end": 52.5,
+      "text": "5分钟我就完事",
+      "last_sample": 51.75,
+      "samples": [
+        "frame-0051.000.png",
+        "frame-0051.750.png"
+      ],
+      "first_frame_sha256": "7347db4a7c8420765adf6c841da4e57baaf678186897cc7b0d1c2c9a9bcebc86",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0014",
+      "start": 52.5,
+      "end": 53.25,
+      "text": "求你了谢谢你",
+      "last_sample": 52.5,
+      "samples": [
+        "frame-0052.500.png"
+      ],
+      "first_frame_sha256": "336321d635bdc6a0912c597f2e0569d1f45577d2cc66731f59e4397ee1477f79",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0015",
+      "start": 53.25,
+      "end": 54.75,
+      "text": "不太好吧",
+      "last_sample": 54,
+      "samples": [
+        "frame-0053.250.png",
+        "frame-0054.000.png"
+      ],
+      "first_frame_sha256": "f735d1347d11beba3eb2a3d01cd907d269ce934af570c637dbef659d5ec04053",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0016",
+      "start": 54.75,
+      "end": 56.25,
+      "text": "要不这样",
+      "last_sample": 55.5,
+      "samples": [
+        "frame-0054.750.png",
+        "frame-0055.500.png"
+      ],
+      "first_frame_sha256": "255abd67d411ada0e99f35afe9dd4f5f1646454d511d00a5f5feae2415eefdd3",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0017",
+      "start": 56.25,
+      "end": 57.75,
+      "text": "我你这桌我帮你买单吧",
+      "last_sample": 57,
+      "samples": [
+        "frame-0056.250.png",
+        "frame-0057.000.png"
+      ],
+      "first_frame_sha256": "2e70e07e4cdc20b363186044886e0b1f11ac4019fe3dc3750b219c4d5eaccb47",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0018",
+      "start": 57.75,
+      "end": 58.5,
+      "text": "你看你长这么好看",
+      "last_sample": 57.75,
+      "samples": [
+        "frame-0057.750.png"
+      ],
+      "first_frame_sha256": "c3ee91e3dc46c2b55a4b174c74839027fb69489c69351a6bb7f2413ddfe039cd",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0019",
+      "start": 58.5,
+      "end": 59.25,
+      "text": "你肯定很善良",
+      "last_sample": 58.5,
+      "samples": [
+        "frame-0058.500.png"
+      ],
+      "first_frame_sha256": "b72770a9c92b365320aa209ec84706ffda7a86d78e4a8808006414c55164f8f5",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1P5he6SEys-caption-gap-0020",
+      "start": 59.25,
+      "end": 60.0,
+      "text": "漂亮女孩都很善良",
+      "last_sample": 59.25,
+      "samples": [
+        "frame-0059.250.png"
+      ],
+      "first_frame_sha256": "822a2bbae111b65f625b8e57e243d0ee00e4e8906def6d634cf2299af99a821c",
+      "visual_reviewed": false
+    }
+  ]
+}

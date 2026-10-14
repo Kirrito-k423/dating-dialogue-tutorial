@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1vj6yBDE5r",
+  "source_start": 420,
+  "source_end": 510,
+  "method": "whisper.cpp v1.9.5 large-v3-turbo-q5_0; zh; Metal; beam_size=3; best_of=3; max_len=40; threads=4; independent machine crosscheck, not listening",
+  "listening_verified": false,
+  "elapsed_seconds": 33.5,
+  "segments": [
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0001",
+      "start": 420.0,
+      "end": 422.04,
+      "text": "以后你饿的时候我也陪你吃"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0002",
+      "start": 422.04,
+      "end": 423.24,
+      "text": "你看这样一推一拉"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0003",
+      "start": 423.24,
+      "end": 424.32,
+      "text": "女生就会觉得怎么样"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0004",
+      "start": 424.32,
+      "end": 425.44,
+      "text": "你情商很高"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0005",
+      "start": 425.44,
+      "end": 426.76,
+      "text": "然后跟你相处很舒服"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0006",
+      "start": 426.76,
+      "end": 428.04,
+      "text": "同时又尊重你了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0007",
+      "start": 428.04,
+      "end": 430.64,
+      "text": "来看一下我们扫码点单的时候的对话"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0008",
+      "start": 430.64,
+      "end": 431.68,
+      "text": "这段对话很有意思"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0009",
+      "start": 431.68,
+      "end": 432.68,
+      "text": "专门给你们揭出来的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0010",
+      "start": 437.88,
+      "end": 438.68,
+      "text": "兄弟们"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0011",
+      "start": 438.68,
+      "end": 440.24,
+      "text": "这句话你们会怎么回"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0012",
+      "start": 440.24,
+      "end": 441.48,
+      "text": "在约会的时候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0013",
+      "start": 441.48,
+      "end": 442.28,
+      "text": "你们正吃着饭呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0014",
+      "start": 442.28,
+      "end": 443.76,
+      "text": "你说你看店人喜欢做第几排"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0015",
+      "start": 443.76,
+      "end": 444.36,
+      "text": "这女生问你"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0016",
+      "start": 444.36,
+      "end": 446.4,
+      "text": "等会咱俩要看电影吗"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0017",
+      "start": 446.4,
+      "end": 447.84,
+      "text": "你们会怎么回"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0018",
+      "start": 447.84,
+      "end": 448.88,
+      "text": "弹幕抠出来"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0019",
+      "start": 448.88,
+      "end": 449.84,
+      "text": "要看电影"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0020",
+      "start": 449.84,
+      "end": 450.6,
+      "text": "一会看啊翻弹"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0021",
+      "start": 450.6,
+      "end": 451.36,
+      "text": "不然呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0022",
+      "start": 451.36,
+      "end": 452.44,
+      "text": "一会你要回家吗"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0023",
+      "start": 452.44,
+      "end": 453.36,
+      "text": "你们会怎么说"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0024",
+      "start": 453.36,
+      "end": 454.68,
+      "text": "来兄弟们你们会怎么说"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0025",
+      "start": 454.68,
+      "end": 456.44,
+      "text": "直接给大家看我的回复啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0026",
+      "start": 456.44,
+      "end": 458.36,
+      "text": "总的事要看电影吗"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0027",
+      "start": 458.36,
+      "end": 460.32,
+      "text": "那大家刚认识了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0028",
+      "start": 460.32,
+      "end": 461.84000000000003,
+      "text": "去做别的博士啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0029",
+      "start": 461.84000000000003,
+      "end": 464.65999999999997,
+      "text": "兄弟们学会了吗"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0030",
+      "start": 464.65999999999997,
+      "end": 467.26,
+      "text": "这里呢有一个技术错误啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0031",
+      "start": 467.26,
+      "end": 468.4,
+      "text": "我要给大家讲一下啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0032",
+      "start": 468.4,
+      "end": 470.8,
+      "text": "我的肢体呢过于前倾了"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0033",
+      "start": 470.8,
+      "end": 471.86,
+      "text": "你们在约会的时候"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0034",
+      "start": 471.86,
+      "end": 473.08,
+      "text": "尽量不要肢体"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0035",
+      "start": 473.08,
+      "end": 475.44,
+      "text": "这样前倾的去靠女生太近啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0036",
+      "start": 475.44,
+      "end": 476.68,
+      "text": "这样会显得你很有虚秀感"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0037",
+      "start": 476.68,
+      "end": 478.06,
+      "text": "但当时为什么我这么做呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0038",
+      "start": 478.06,
+      "end": 479.26,
+      "text": "因为我拍摄"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0039",
+      "start": 479.26,
+      "end": 480.34000000000003,
+      "text": "我不这么前倾"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0040",
+      "start": 480.34000000000003,
+      "end": 482.48,
+      "text": "这个镜头他框不下两个人"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0041",
+      "start": 482.48,
+      "end": 483.44,
+      "text": "所以我没有办法"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0042",
+      "start": 483.44,
+      "end": 484.14,
+      "text": "我只能这样"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0043",
+      "start": 484.14,
+      "end": 485.64,
+      "text": "但是实际中呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0044",
+      "start": 485.64,
+      "end": 486.86,
+      "text": "你最好是后靠啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0045",
+      "start": 486.86,
+      "end": 487.34000000000003,
+      "text": "比较好"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0046",
+      "start": 487.34000000000003,
+      "end": 487.98,
+      "text": "但是呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0047",
+      "start": 487.98,
+      "end": 489.78,
+      "text": "当时是因为我们在扫码点单"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0048",
+      "start": 489.78,
+      "end": 491.68,
+      "text": "所以这个我前倾也比较合理"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0049",
+      "start": 491.68,
+      "end": 494.18,
+      "text": "因为我们俩一起在看那个手机上的菜单啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0050",
+      "start": 494.18,
+      "end": 495.58,
+      "text": "他的肢体也是前倾的"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0051",
+      "start": 495.58,
+      "end": 496.84000000000003,
+      "text": "所以这样就问题不大"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0052",
+      "start": 496.84000000000003,
+      "end": 498.56,
+      "text": "但是现实中我的建议是"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0053",
+      "start": 498.56,
+      "end": 500.18,
+      "text": "大家尽量后考不要前倾"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0054",
+      "start": 500.18,
+      "end": 505.12,
+      "text": "你用这一招的时候呢"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0055",
+      "start": 505.12,
+      "end": 505.94,
+      "text": "教大家一招啊"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0056",
+      "start": 505.94,
+      "end": 509.2,
+      "text": "你就可以去观察女生的微表情和她的眼神"
+    },
+    {
+      "id": "BV1vj6yBDE5r-0420-0510-turbo-0057",
+      "start": 509.2,
+      "end": 510.0,
+      "text": "如果她的眼神"
+    }
+  ]
+}

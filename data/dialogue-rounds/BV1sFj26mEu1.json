@@ -1,0 +1,2232 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1sFj26mEu1",
+  "scope": "all_identifiable_dialogue_in_complete_asr",
+  "listening_verified": false,
+  "review_method": "完整机器稿语义整理；未逐句听校。角色和轮次根据机器文本推断。",
+  "rounds": [
+    {
+      "id": "BV1sFj26mEu1-q001",
+      "title": "帮忙挑女生朋友的生日礼物",
+      "category": "开场与认识",
+      "start": 37.16,
+      "end": 98.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 37.16,
+          "end": 56.16,
+          "text": "哎 你好我想认识你不是 我是想请你帮我帮忙 你好我是帮我一个女生朋友买一个生日礼物然后我不知道打挑我想请你帮我挑一下因为她气质跟你挺像的求求你了 求求你 求求你 求求你你就帮我挑一下吧 没事就耽误你三分钟时间帮我挑一下",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00015",
+            "BV1sFj26mEu1-00016",
+            "BV1sFj26mEu1-00017",
+            "BV1sFj26mEu1-00018",
+            "BV1sFj26mEu1-00019",
+            "BV1sFj26mEu1-00020",
+            "BV1sFj26mEu1-00021",
+            "BV1sFj26mEu1-00022",
+            "BV1sFj26mEu1-00023"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 68.16,
+          "end": 70.16,
+          "text": "那同位还是我一番喜欢你",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00031"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 83.16,
+          "end": 98.16,
+          "text": "但是我可以给大家一个公示就是卸后四步法 啥意思呢找她帮忙 然后趁机夸赞展示价值然后提出专差什么意思呢先上来呢不要去暴露你的目的啊说我想加你个微信啊我想跟你交朋友啊这样的话目的性太强了女生直接拒绝你",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00040",
+            "BV1sFj26mEu1-00041",
+            "BV1sFj26mEu1-00042",
+            "BV1sFj26mEu1-00043",
+            "BV1sFj26mEu1-00044",
+            "BV1sFj26mEu1-00045",
+            "BV1sFj26mEu1-00046",
+            "BV1sFj26mEu1-00047",
+            "BV1sFj26mEu1-00048",
+            "BV1sFj26mEu1-00049",
+            "BV1sFj26mEu1-00050",
+            "BV1sFj26mEu1-00051"
+          ]
+        }
+      ],
+      "uncertainty": "31句识别不清、角色不清；对方关于是否愿意帮忙的完整答句没有可靠恢复，未编造。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q002",
+      "title": "录生活记录是否发布",
+      "category": "隐私与边界",
+      "start": 57.16,
+      "end": 61.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 57.16,
+          "end": 61.16,
+          "text": "我这个是录一个生活记录伟老哥你放弃我哪儿的步伐我就录给自己看的",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00024",
+            "BV1sFj26mEu1-00025",
+            "BV1sFj26mEu1-00026"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "对方关于镜头的提问未被可靠识别，25句“你放弃我哪儿的步伐”保持机器字。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q003",
+      "title": "去奢侈品店挑礼物",
+      "category": "邀约与安排",
+      "start": 62.16,
+      "end": 83.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 62.16,
+          "end": 68.16,
+          "text": "因为漂亮的女孩品味都比较好我觉得你品味肯定很好对嘛因为我自己不会挑啊",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00027",
+            "BV1sFj26mEu1-00028",
+            "BV1sFj26mEu1-00029",
+            "BV1sFj26mEu1-00030"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 70.16,
+          "end": 78.16,
+          "text": "我 要不咱俩不在这逛吧我们去那个奢侈品家去逛好不好给她买一个高端一点呢我出手比较阔出 是吧",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00032",
+            "BV1sFj26mEu1-00033",
+            "BV1sFj26mEu1-00034",
+            "BV1sFj26mEu1-00035",
+            "BV1sFj26mEu1-00036"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 78.16,
+          "end": 83.16,
+          "text": "上来先夸 然后展示价值这个奖务无数次了所以我们就不重复奖了",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00037",
+            "BV1sFj26mEu1-00038",
+            "BV1sFj26mEu1-00039"
+          ]
+        }
+      ],
+      "uncertainty": "邀请的明确回答未识别，不能从随后同行推断现场答句。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q004",
+      "title": "附近生活还是在附近上班",
+      "category": "信息与经历",
+      "start": 197.16,
+      "end": 207.16,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 197.16,
+          "end": 199.16,
+          "text": "你平时是在这个附近生活吗",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00126"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 199.16,
+          "end": 201.16,
+          "text": "上班",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00127"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 201.16,
+          "end": 202.16,
+          "text": "你在这边上班",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00128"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 202.16,
+          "end": 203.16,
+          "text": "对对对",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00129"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 203.16,
+          "end": 207.16,
+          "text": "那我也住在这附近我感觉你人挺好的我们可以交朋友",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00130",
+            "BV1sFj26mEu1-00131",
+            "BV1sFj26mEu1-00132"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sFj26mEu1-q005",
+      "title": "想交朋友与请冰淇淋",
+      "category": "邀约与安排",
+      "start": 208.16,
+      "end": 258.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 208.16,
+          "end": 222.16,
+          "text": "你不想跟我交朋友吗怎么不说话我先请你喝杯东西吧你看你都愿意帮我这个忙我先请你喝吃个冰淇淋吧本来想请你喝奶茶的但是你已经有了那我请你吃个冰淇淋吧我让你白帮我忙",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00133",
+            "BV1sFj26mEu1-00134",
+            "BV1sFj26mEu1-00135",
+            "BV1sFj26mEu1-00136",
+            "BV1sFj26mEu1-00137",
+            "BV1sFj26mEu1-00138",
+            "BV1sFj26mEu1-00139",
+            "BV1sFj26mEu1-00140",
+            "BV1sFj26mEu1-00141",
+            "BV1sFj26mEu1-00142"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 222.16,
+          "end": 230.16,
+          "text": "你一会儿有事吗那行那我也不耽误你太长时间就耽误你个三分五分的好不好",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00143",
+            "BV1sFj26mEu1-00144",
+            "BV1sFj26mEu1-00145",
+            "BV1sFj26mEu1-00146"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 230.16,
+          "end": 258.16,
+          "text": "看到了吗这个地方一直在降低它防备就是一直我在强调我不耽误你太长时间就耽误你个三分五分的这样别人防备心越轻别人越容易接受你反而跟你后面呆的时间会变长你如果一直强调要不咱一起吃个饭吧要不咱那边那别人防备心越来越重反而它会一直拒绝你所以说其实我们要的不是强拉硬拽让它陪我们吃饭而是不停的降低它的防备这样的话你们干嘛人家都愿意明白吗",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00147",
+            "BV1sFj26mEu1-00148",
+            "BV1sFj26mEu1-00149",
+            "BV1sFj26mEu1-00150",
+            "BV1sFj26mEu1-00151",
+            "BV1sFj26mEu1-00152",
+            "BV1sFj26mEu1-00153",
+            "BV1sFj26mEu1-00154",
+            "BV1sFj26mEu1-00155",
+            "BV1sFj26mEu1-00156",
+            "BV1sFj26mEu1-00157",
+            "BV1sFj26mEu1-00158",
+            "BV1sFj26mEu1-00159",
+            "BV1sFj26mEu1-00160",
+            "BV1sFj26mEu1-00161",
+            "BV1sFj26mEu1-00162",
+            "BV1sFj26mEu1-00163",
+            "BV1sFj26mEu1-00164",
+            "BV1sFj26mEu1-00165",
+            "BV1sFj26mEu1-00166"
+          ]
+        }
+      ],
+      "uncertainty": "询问交朋友和是否有事的现场回应未可靠记录，不根据讲解补造；只保留邀请者真实机器稿。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q006",
+      "title": "能不能当我的第一个粉丝",
+      "category": "关系与意图",
+      "start": 261.16,
+      "end": 272.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 261.16,
+          "end": 272.16,
+          "text": "我有一个梦想我想做一个伪劳的博主但我帐号还没注册呢等我注册了你当我第一个粉丝好不好现在是我唯一的粉丝",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00167",
+            "BV1sFj26mEu1-00168",
+            "BV1sFj26mEu1-00169",
+            "BV1sFj26mEu1-00170",
+            "BV1sFj26mEu1-00171",
+            "BV1sFj26mEu1-00172"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "邀请有明确问题但对方答句未可靠识别，未补造同意。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q007",
+      "title": "叫什么名字",
+      "category": "信息与经历",
+      "start": 272.16,
+      "end": 282.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 272.16,
+          "end": 273.16,
+          "text": "你叫啥呀",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00173"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 273.16,
+          "end": 274.16,
+          "text": "我叫唐欣欣",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00174"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 274.16,
+          "end": 278.16,
+          "text": "唐欣欣唐欣好好拼了我叫俞晓奎",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00175",
+            "BV1sFj26mEu1-00176",
+            "BV1sFj26mEu1-00177",
+            "BV1sFj26mEu1-00178"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 278.16,
+          "end": 282.16,
+          "text": "你好你好你好你好",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00179",
+            "BV1sFj26mEu1-00180",
+            "BV1sFj26mEu1-00181",
+            "BV1sFj26mEu1-00182"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "姓名和重复“你好”按机器稿记录，未听声或核实名字。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q008",
+      "title": "哪里卖冰淇淋是否爱吃",
+      "category": "偏好与选择",
+      "start": 283.16,
+      "end": 317.16,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 283.16,
+          "end": 288.16,
+          "text": "知道哪有卖冰淇淋了对吧你不是在这附近上班吗所以你肯定比我熟",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00183",
+            "BV1sFj26mEu1-00184",
+            "BV1sFj26mEu1-00185"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 288.16,
+          "end": 290.16,
+          "text": "有的好像有一个",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00186"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 290.16,
+          "end": 292.16,
+          "text": "走 请你吃你爱吃吗",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00187",
+            "BV1sFj26mEu1-00188"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 292.16,
+          "end": 293.16,
+          "text": "还可以",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00189"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 293.16,
+          "end": 297.16,
+          "text": "走 你爱吃就请你吃你今天帮我忙我所有要求我都满足你",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00190",
+            "BV1sFj26mEu1-00191",
+            "BV1sFj26mEu1-00192"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 297.16,
+          "end": 317.16,
+          "text": "你看我们在说话的时候也是要不停的给对方带来好处记住啊 这就是人性就别人跟你素味谋面平水相逢互相不认识别人为什么要跟你去逛街呢为什么要去帮你的忙呢那一定是要么你这个人好要么你能给别人带来一定的好处对不对这就是最基本的人性",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00193",
+            "BV1sFj26mEu1-00194",
+            "BV1sFj26mEu1-00195",
+            "BV1sFj26mEu1-00196",
+            "BV1sFj26mEu1-00197",
+            "BV1sFj26mEu1-00198",
+            "BV1sFj26mEu1-00199",
+            "BV1sFj26mEu1-00200",
+            "BV1sFj26mEu1-00201",
+            "BV1sFj26mEu1-00202",
+            "BV1sFj26mEu1-00203",
+            "BV1sFj26mEu1-00204",
+            "BV1sFj26mEu1-00205"
+          ]
+        }
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sFj26mEu1-q009",
+      "title": "身高与坐姿的玩笑",
+      "category": "玩笑与调侃",
+      "start": 447.16,
+      "end": 460.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 447.16,
+          "end": 450.16,
+          "text": "你喝冰的我感觉你挺高的你有多高",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00300",
+            "BV1sFj26mEu1-00301",
+            "BV1sFj26mEu1-00302"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 450.16,
+          "end": 451.16,
+          "text": "我有1米7",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00303"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 451.16,
+          "end": 459.16,
+          "text": "那你跟我差不多高那不行我要在你上面不然显得我太矮了我有偶像包袱",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00304",
+            "BV1sFj26mEu1-00305",
+            "BV1sFj26mEu1-00306",
+            "BV1sFj26mEu1-00307",
+            "BV1sFj26mEu1-00308"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 459.16,
+          "end": 460.16,
+          "text": "可以可以",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00309"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "是否改变坐姿与身高数值仅按谈话记录，未画面或实测确认。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q010",
+      "title": "猜职业与交换微信的条件",
+      "category": "邀约与安排",
+      "start": 460.16,
+      "end": 530.16,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 460.16,
+          "end": 468.16,
+          "text": "你是做啥的哎我参一下你是做啥的我一下就能猜出来你信不信三次之内必猜中",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00310",
+            "BV1sFj26mEu1-00311",
+            "BV1sFj26mEu1-00312",
+            "BV1sFj26mEu1-00313",
+            "BV1sFj26mEu1-00314"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 468.16,
+          "end": 469.16,
+          "text": "真的吗",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00315"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 469.16,
+          "end": 475.16,
+          "text": "那三次我要是猜中了你把你微信给我猜不中咱说我把我微信给你",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00316",
+            "BV1sFj26mEu1-00317",
+            "BV1sFj26mEu1-00318",
+            "BV1sFj26mEu1-00319",
+            "BV1sFj26mEu1-00320"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 477.16,
+          "end": 502.16,
+          "text": "你看这个是不是就是互动的套路什么是有趣的互动什么是无趣的互动你看有趣的互动就是我明明可以说你是做什么的然后女生说我是做什么什么的这就无趣对不对一问一答这个话题就结束了但是什么是有趣的就是把这个最简单的问题和答案之间加入很多配料加入很多拉扯这个过程是不是就拉长了",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00321",
+            "BV1sFj26mEu1-00322",
+            "BV1sFj26mEu1-00323",
+            "BV1sFj26mEu1-00324",
+            "BV1sFj26mEu1-00325",
+            "BV1sFj26mEu1-00326",
+            "BV1sFj26mEu1-00327",
+            "BV1sFj26mEu1-00328",
+            "BV1sFj26mEu1-00329",
+            "BV1sFj26mEu1-00330",
+            "BV1sFj26mEu1-00331",
+            "BV1sFj26mEu1-00332",
+            "BV1sFj26mEu1-00333",
+            "BV1sFj26mEu1-00334",
+            "BV1sFj26mEu1-00335",
+            "BV1sFj26mEu1-00336",
+            "BV1sFj26mEu1-00337"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 518.16,
+          "end": 530.16,
+          "text": "所以说在我跟女生的问题和答案之间我专门插入了一个互动什么呢就我猜一下你不要直接告诉我我猜一下你看猜的这个过程是不是游戏性就来了",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00349",
+            "BV1sFj26mEu1-00350",
+            "BV1sFj26mEu1-00351",
+            "BV1sFj26mEu1-00352",
+            "BV1sFj26mEu1-00353",
+            "BV1sFj26mEu1-00354",
+            "BV1sFj26mEu1-00355",
+            "BV1sFj26mEu1-00356",
+            "BV1sFj26mEu1-00357"
+          ]
+        }
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sFj26mEu1-q011",
+      "title": "加微信是不是觉得亏",
+      "category": "玩笑与调侃",
+      "start": 573.16,
+      "end": 581.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 573.16,
+          "end": 575.16,
+          "text": "我感觉我还很亏",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00395"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 575.16,
+          "end": 579.16,
+          "text": "这有什么亏的我以后可能是一个大博主",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00396",
+            "BV1sFj26mEu1-00397"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 579.16,
+          "end": 580.16,
+          "text": "前女后子吧",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00398"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 580.16,
+          "end": 581.16,
+          "text": "对啊",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00399"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "398句“前女后子吧”识别不清。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q012",
+      "title": "猜服装模特还是服装主播",
+      "category": "信息与经历",
+      "start": 581.16,
+      "end": 602.16,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 581.16,
+          "end": 583.16,
+          "text": "你是服装模特",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00400"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 583.16,
+          "end": 586.16,
+          "text": "怎么说呢其实很接近",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00401",
+            "BV1sFj26mEu1-00402"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 586.16,
+          "end": 588.16,
+          "text": "你是颜值主播",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00403"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 588.16,
+          "end": 590.16,
+          "text": "你把他们两个结合一下",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00404"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 590.16,
+          "end": 593.16,
+          "text": "颜值模特服装主播",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00405",
+            "BV1sFj26mEu1-00406"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 593.16,
+          "end": 594.16,
+          "text": "就算第四次吗",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00407"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 594.16,
+          "end": 599.16,
+          "text": "那你就多给我一次那我猜对了吗你是服装主播",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00408",
+            "BV1sFj26mEu1-00409",
+            "BV1sFj26mEu1-00410"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 599.16,
+          "end": 600.16,
+          "text": "对",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00411"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 600.16,
+          "end": 601.16,
+          "text": "改天去你的直播间下单",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00412"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 601.16,
+          "end": 602.16,
+          "text": "对",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00413"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sFj26mEu1-q013",
+      "title": "冰淇淋选哪一种",
+      "category": "偏好与选择",
+      "start": 602.16,
+      "end": 625.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 602.16,
+          "end": 604.16,
+          "text": "你觉得哪个好吃",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00414"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 604.16,
+          "end": 605.16,
+          "text": "这是意大利的",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00415"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 605.16,
+          "end": 611.16,
+          "text": "吃意大利的吧意大利高级点你看那是上海的我们吃意大利的意大利的高级来",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00416",
+            "BV1sFj26mEu1-00417",
+            "BV1sFj26mEu1-00418",
+            "BV1sFj26mEu1-00419",
+            "BV1sFj26mEu1-00420",
+            "BV1sFj26mEu1-00421"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 611.16,
+          "end": 625.16,
+          "text": "我一直在强调高级高级跟我在一起有很多好处我们去设施品店买但是大家有没有发现我并没有带她去真的设施品店消费我只是在用嘴说营造一种氛围明白了吗",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00422",
+            "BV1sFj26mEu1-00423",
+            "BV1sFj26mEu1-00424",
+            "BV1sFj26mEu1-00425",
+            "BV1sFj26mEu1-00426",
+            "BV1sFj26mEu1-00427",
+            "BV1sFj26mEu1-00428",
+            "BV1sFj26mEu1-00429",
+            "BV1sFj26mEu1-00430"
+          ]
+        }
+      ],
+      "uncertainty": "415句说话人未可靠分辨；产地说法未查证，讲解承认只营造氛围，没有确认真实消费。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q014",
+      "title": "吃了冰淇淋是不是好朋友",
+      "category": "关系与意图",
+      "start": 763.16,
+      "end": 801.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 763.16,
+          "end": 766.16,
+          "text": "吃了我请你吃的冰淇淋咱俩就是",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00535",
+            "BV1sFj26mEu1-00536"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 798.16,
+          "end": 799.16,
+          "text": "好朋友了",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00561"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 799.16,
+          "end": 800.16,
+          "text": "可以",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00562"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 800.16,
+          "end": 801.16,
+          "text": "干杯",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00563"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 766.16,
+          "end": 798.16,
+          "text": "对你们跟女生约会的时候你得敢说这种话敢开这种婚玩笑其实这种话说出去你如果像我这样用玩笑的语气并不会让女生觉得你很油腻她只会觉得你怎么这么大胆你怎么跟别的男生不一样反而她也会更放得开你越放得开女生越放得开很多时候女生在你们面前很保守很夹着其实是因为你很端着而且你把它当成女神那么她就觉得她不端着不行懂吗反而你放得开了她也就没包袱了两个人关系才会越来越近",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00537",
+            "BV1sFj26mEu1-00538",
+            "BV1sFj26mEu1-00539",
+            "BV1sFj26mEu1-00540",
+            "BV1sFj26mEu1-00541",
+            "BV1sFj26mEu1-00542",
+            "BV1sFj26mEu1-00543",
+            "BV1sFj26mEu1-00544",
+            "BV1sFj26mEu1-00545",
+            "BV1sFj26mEu1-00546",
+            "BV1sFj26mEu1-00547",
+            "BV1sFj26mEu1-00548",
+            "BV1sFj26mEu1-00549",
+            "BV1sFj26mEu1-00550",
+            "BV1sFj26mEu1-00551",
+            "BV1sFj26mEu1-00552",
+            "BV1sFj26mEu1-00553",
+            "BV1sFj26mEu1-00554",
+            "BV1sFj26mEu1-00555",
+            "BV1sFj26mEu1-00556",
+            "BV1sFj26mEu1-00557",
+            "BV1sFj26mEu1-00558",
+            "BV1sFj26mEu1-00559",
+            "BV1sFj26mEu1-00560"
+          ]
+        }
+      ],
+      "uncertainty": "句子被讲解打断，按两个现场片段各自秒数保留；不得以作者对“放得开”的解释当作同意证明。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q015",
+      "title": "女生朋友到底喜欢什么",
+      "category": "信任与质疑",
+      "start": 801.16,
+      "end": 883.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 801.16,
+          "end": 802.16,
+          "text": "朋友喜欢啥",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00564"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 802.16,
+          "end": 811.16,
+          "text": "其实我没有女生朋友的存在我并不是想给女生朋友买礼物我只是想用这个理由搭讪你 认识你",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00565",
+            "BV1sFj26mEu1-00566",
+            "BV1sFj26mEu1-00567",
+            "BV1sFj26mEu1-00568"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 811.16,
+          "end": 814.16,
+          "text": "又把我套路强了",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00569"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 814.16,
+          "end": 832.16,
+          "text": "什么叫用我这就是就一次套路你以后都不会套路你就开始用套路认识你然后后面再用真心对你比一开始跟你说我真心对你其实后面都是套路好对不对我把套路一开始就放出来了后面就只有真心了后面只能你套路我了",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00570",
+            "BV1sFj26mEu1-00571",
+            "BV1sFj26mEu1-00572",
+            "BV1sFj26mEu1-00573",
+            "BV1sFj26mEu1-00574",
+            "BV1sFj26mEu1-00575",
+            "BV1sFj26mEu1-00576",
+            "BV1sFj26mEu1-00577",
+            "BV1sFj26mEu1-00578",
+            "BV1sFj26mEu1-00579",
+            "BV1sFj26mEu1-00580",
+            "BV1sFj26mEu1-00581"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 857.16,
+          "end": 883.16,
+          "text": "刚才这段对话对付小女生非常非常只好使核心公式就三个东西叫大胆承认加正面解读加强调唯一性什么意思呢就是当女生说你套路的时候你不要去说我没有套路你看你明明就在套路你还强调自己没有套路不显得你很虚伪吗对不对所以我们就大胆承认我就是在套路你你一承认反而打女生一个措手不及",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00598",
+            "BV1sFj26mEu1-00599",
+            "BV1sFj26mEu1-00600",
+            "BV1sFj26mEu1-00601",
+            "BV1sFj26mEu1-00602",
+            "BV1sFj26mEu1-00603",
+            "BV1sFj26mEu1-00604",
+            "BV1sFj26mEu1-00605",
+            "BV1sFj26mEu1-00606",
+            "BV1sFj26mEu1-00607",
+            "BV1sFj26mEu1-00608",
+            "BV1sFj26mEu1-00609",
+            "BV1sFj26mEu1-00610",
+            "BV1sFj26mEu1-00611",
+            "BV1sFj26mEu1-00612",
+            "BV1sFj26mEu1-00613",
+            "BV1sFj26mEu1-00614"
+          ]
+        }
+      ],
+      "uncertainty": "569句“又把我套路强了”保留识别原字；回应者说明不存在女生朋友，不能把开场借口当真实购买计划。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q016",
+      "title": "怎么感觉又被套路",
+      "category": "信任与质疑",
+      "start": 832.16,
+      "end": 1007.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 832.16,
+          "end": 835.16,
+          "text": "怎么感觉又被套路",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00582"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 835.16,
+          "end": 850.16,
+          "text": "一个男的愿意套路你也是好事怕的是都不愿意套路吗对不对我至少套路你我愿意逗你开心吗是吧因为我确实觉得你特别漂亮很有气质然后我从来没有这样过",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00583",
+            "BV1sFj26mEu1-00584",
+            "BV1sFj26mEu1-00585",
+            "BV1sFj26mEu1-00586",
+            "BV1sFj26mEu1-00587",
+            "BV1sFj26mEu1-00588",
+            "BV1sFj26mEu1-00589",
+            "BV1sFj26mEu1-00590",
+            "BV1sFj26mEu1-00591"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 850.16,
+          "end": 852.16,
+          "text": "真的吗又从来没有了",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00592",
+            "BV1sFj26mEu1-00593"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 852.16,
+          "end": 855.16,
+          "text": "什么叫用你看我这真的是第一次",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00594",
+            "BV1sFj26mEu1-00595",
+            "BV1sFj26mEu1-00596"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 855.16,
+          "end": 857.16,
+          "text": "你每一次都说用",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00597"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 894.16,
+          "end": 928.16,
+          "text": "于是你就开始什么正面解读套路你是一件好事因为我套路你至少我愿意逗你开心很多男生连套路你的心都没有了那说明这个男生不喜欢你而且我一开始就套路你说明我后面就只有真心因为我就是想靠套路认识你而已后面我才用真心对你你看到了吗全是正面解读让他觉得你这个男生套路套路我套路的就对了你这个男生的套路跟别人不一样别人的套路是坏你的套路是好的别人用套路骗我你用套路认识我然后你再用真心对我哎呀你这个无邪可及你看到了吗",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00624",
+            "BV1sFj26mEu1-00625",
+            "BV1sFj26mEu1-00626",
+            "BV1sFj26mEu1-00627",
+            "BV1sFj26mEu1-00628",
+            "BV1sFj26mEu1-00629",
+            "BV1sFj26mEu1-00630",
+            "BV1sFj26mEu1-00631",
+            "BV1sFj26mEu1-00632",
+            "BV1sFj26mEu1-00633",
+            "BV1sFj26mEu1-00634",
+            "BV1sFj26mEu1-00635",
+            "BV1sFj26mEu1-00636",
+            "BV1sFj26mEu1-00637",
+            "BV1sFj26mEu1-00638",
+            "BV1sFj26mEu1-00639",
+            "BV1sFj26mEu1-00640",
+            "BV1sFj26mEu1-00641",
+            "BV1sFj26mEu1-00642",
+            "BV1sFj26mEu1-00643",
+            "BV1sFj26mEu1-00644",
+            "BV1sFj26mEu1-00645",
+            "BV1sFj26mEu1-00646",
+            "BV1sFj26mEu1-00647"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 985.16,
+          "end": 1007.16,
+          "text": "强调微音性就是你要跟女生说我从来没有这样过我只对你这样让女生感觉你不是一个灌犯哪怕她心里怀疑你可能是一个灌犯但是无所谓你只要这么说出来了你记住了女生只愿意相信她想相信的话因为相信你是专一的会显得她是独一我二的这就是女人的心理",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00683",
+            "BV1sFj26mEu1-00684",
+            "BV1sFj26mEu1-00685",
+            "BV1sFj26mEu1-00686",
+            "BV1sFj26mEu1-00687",
+            "BV1sFj26mEu1-00688",
+            "BV1sFj26mEu1-00689",
+            "BV1sFj26mEu1-00690",
+            "BV1sFj26mEu1-00691",
+            "BV1sFj26mEu1-00692",
+            "BV1sFj26mEu1-00693",
+            "BV1sFj26mEu1-00694",
+            "BV1sFj26mEu1-00695"
+          ]
+        }
+      ],
+      "uncertainty": "593、594、597句反复“用”疑似识别错误，未改成推测的原话。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q017",
+      "title": "长得憨厚是否代表老实",
+      "category": "信任与质疑",
+      "start": 1007.16,
+      "end": 1027.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1007.16,
+          "end": 1014.16,
+          "text": "就感觉好像我是一个灌犯一样你不觉得我长得很憨厚吗就呆呆的",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00696",
+            "BV1sFj26mEu1-00697",
+            "BV1sFj26mEu1-00698"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1014.16,
+          "end": 1016.16,
+          "text": "人不可冒险",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00699"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1016.16,
+          "end": 1024.16,
+          "text": "对人是不可冒险别看我很憨厚但我很有智慧你跟我在一起我可以解决你生活中的所有问题",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00700",
+            "BV1sFj26mEu1-00701",
+            "BV1sFj26mEu1-00702",
+            "BV1sFj26mEu1-00703",
+            "BV1sFj26mEu1-00704"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1024.16,
+          "end": 1025.16,
+          "text": "真的吗",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00705"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1025.16,
+          "end": 1027.16,
+          "text": "我会给你很强的安全感",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00706"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“人不可冒险”保留机器原词，未擅自修正。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q018",
+      "title": "先有鸡还是先有蛋",
+      "category": "话题延伸",
+      "start": 1027.16,
+      "end": 1040.16,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1027.16,
+          "end": 1029.16,
+          "text": "那先有鸡还是先有蛋",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00707"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1029.16,
+          "end": 1040.16,
+          "text": "先有鸡还是先有蛋不知道但是我每天早上可以给你做煎蛋每天早上给你做煎蛋怎么样",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00708",
+            "BV1sFj26mEu1-00709",
+            "BV1sFj26mEu1-00710",
+            "BV1sFj26mEu1-00711",
+            "BV1sFj26mEu1-00712"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sFj26mEu1-q019",
+      "title": "刚认识就每天做早餐吗",
+      "category": "关系与意图",
+      "start": 1040.16,
+      "end": 1056.16,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1040.16,
+          "end": 1044.16,
+          "text": "我们俩才认识就像每天早上给我做煎蛋",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00713",
+            "BV1sFj26mEu1-00714"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1044.16,
+          "end": 1052.16,
+          "text": "没关系啊感情不分快慢只分深浅对吧我有这颗心就不在乎时间没有心的话能认识十年了也还是陌生人",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00715",
+            "BV1sFj26mEu1-00716",
+            "BV1sFj26mEu1-00717",
+            "BV1sFj26mEu1-00718",
+            "BV1sFj26mEu1-00719",
+            "BV1sFj26mEu1-00720",
+            "BV1sFj26mEu1-00721",
+            "BV1sFj26mEu1-00722"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1052.16,
+          "end": 1056.16,
+          "text": "看永远都是在什么正面解读",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00723",
+            "BV1sFj26mEu1-00724"
+          ]
+        }
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sFj26mEu1-q020",
+      "title": "有没有人说像某位明星",
+      "category": "玩笑与调侃",
+      "start": 1056.16,
+      "end": 1078.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1056.16,
+          "end": 1058.16,
+          "text": "还有没有人说你在镜头里面像羊蜜",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00725",
+            "BV1sFj26mEu1-00726"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1058.16,
+          "end": 1059.16,
+          "text": "还没有",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00727"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1064.16,
+          "end": 1078.16,
+          "text": "夸女生有一个技巧就是要么夸他细节你眼睛很大你这个法色怎么怎么样第二个呢就是想办法说他像一个很漂亮的明星除非他真的特别不像那就发了",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00731",
+            "BV1sFj26mEu1-00732",
+            "BV1sFj26mEu1-00733",
+            "BV1sFj26mEu1-00734",
+            "BV1sFj26mEu1-00735",
+            "BV1sFj26mEu1-00736",
+            "BV1sFj26mEu1-00737",
+            "BV1sFj26mEu1-00738"
+          ]
+        }
+      ],
+      "uncertainty": "明星名“羊蜜”保留原词，不依据脸部或常识修正。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q021",
+      "title": "猜摩羯与老实的理由",
+      "category": "偏好与选择",
+      "start": 1059.16,
+      "end": 1090.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1059.16,
+          "end": 1062.16,
+          "text": "你是啥行哥",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00728"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1062.16,
+          "end": 1064.16,
+          "text": "给你三次机会猜你感觉我",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00729",
+            "BV1sFj26mEu1-00730"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1078.16,
+          "end": 1080.16,
+          "text": "啥行哥魔劫",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00739",
+            "BV1sFj26mEu1-00740"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1080.16,
+          "end": 1082.16,
+          "text": "为啥猜我是魔劫呢",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00741"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1082.16,
+          "end": 1083.16,
+          "text": "你不是说你很老实吗",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00742"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1083.16,
+          "end": 1089.16,
+          "text": "我说我很老实你就相信我很老实你看你这个就很容易被骗你肯定没怎么谈过恋爱",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00743",
+            "BV1sFj26mEu1-00744",
+            "BV1sFj26mEu1-00745",
+            "BV1sFj26mEu1-00746"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1089.16,
+          "end": 1090.16,
+          "text": "对",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00747"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "星座词“魔劫”、问题“行哥”保留原机器字。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q022",
+      "title": "谈过几段恋爱",
+      "category": "信息与经历",
+      "start": 1090.16,
+      "end": 1107.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1090.16,
+          "end": 1091.16,
+          "text": "你谈过几段",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00748"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1091.16,
+          "end": 1092.16,
+          "text": "你猜一下",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00749"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1092.16,
+          "end": 1093.16,
+          "text": "两段",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00750"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1093.16,
+          "end": 1095.16,
+          "text": "一猜就错",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00751"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1095.16,
+          "end": 1107.16,
+          "text": "你看吧我一猜就是所有的女生问你让她猜她谈过几段永远都说两段就行了百分百中她谈过一百段她也会说对我就谈过两段这是标准答案",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00752",
+            "BV1sFj26mEu1-00753",
+            "BV1sFj26mEu1-00754",
+            "BV1sFj26mEu1-00755",
+            "BV1sFj26mEu1-00756",
+            "BV1sFj26mEu1-00757",
+            "BV1sFj26mEu1-00758",
+            "BV1sFj26mEu1-00759",
+            "BV1sFj26mEu1-00760",
+            "BV1sFj26mEu1-00761"
+          ]
+        }
+      ],
+      "uncertainty": "751句“一猜就错”与讲解“百分百中”冲突，均作为各自原句保留，不据解说改现场回答。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q023",
+      "title": "狮子与老实霸道的矛盾",
+      "category": "信任与质疑",
+      "start": 1107.16,
+      "end": 1124.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1107.16,
+          "end": 1112.16,
+          "text": "我不是魔劫再给你两次机会你猜中了我就请你看电影",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00762",
+            "BV1sFj26mEu1-00763",
+            "BV1sFj26mEu1-00764"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1112.16,
+          "end": 1113.16,
+          "text": "诗子",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00765"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1113.16,
+          "end": 1114.16,
+          "text": "为啥呢",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00766"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1114.16,
+          "end": 1115.16,
+          "text": "又感觉你比较一人",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00767"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1115.16,
+          "end": 1116.16,
+          "text": "但诗子做的是霸道",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00768"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1116.16,
+          "end": 1119.16,
+          "text": "你刚才不是说你很老实现在又很霸道",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00769",
+            "BV1sFj26mEu1-00770"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1119.16,
+          "end": 1124.16,
+          "text": "我谈恋爱的时候挺老实的比较专一但我照顾你的时候比较霸道",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00771",
+            "BV1sFj26mEu1-00772",
+            "BV1sFj26mEu1-00773"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“诗子”“一人”等字未听校。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q024",
+      "title": "恋爱时强势还是顺从",
+      "category": "偏好与选择",
+      "start": 1124.16,
+      "end": 1136.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1124.16,
+          "end": 1128.16,
+          "text": "你谈恋爱的时候你属于常识的一方还是属于顺从的一方",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00774",
+            "BV1sFj26mEu1-00775",
+            "BV1sFj26mEu1-00776"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1128.16,
+          "end": 1133.16,
+          "text": "顺从的一方就是小事上顺着你大事上那个拼你",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00777",
+            "BV1sFj26mEu1-00778",
+            "BV1sFj26mEu1-00779"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1133.16,
+          "end": 1136.16,
+          "text": "对那走吧现在跟我回家",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00780",
+            "BV1sFj26mEu1-00781",
+            "BV1sFj26mEu1-00782"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "775句“常识”疑似识别错误；782句邀请回家只按现场说法，实际去向未验证。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q025",
+      "title": "猜不中星座还能看电影吗",
+      "category": "邀约与安排",
+      "start": 1137.16,
+      "end": 1154.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1137.16,
+          "end": 1140.16,
+          "text": "我是白洋座没猜中我没法请你看电影",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00783",
+            "BV1sFj26mEu1-00784"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1140.16,
+          "end": 1141.16,
+          "text": "我还有一次机会",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00785"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1141.16,
+          "end": 1149.16,
+          "text": "你这么想跟我看电影那没事其实你猜不中你看的等我们换个地方带你去玩个好玩的走",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00786",
+            "BV1sFj26mEu1-00787",
+            "BV1sFj26mEu1-00788",
+            "BV1sFj26mEu1-00789",
+            "BV1sFj26mEu1-00790",
+            "BV1sFj26mEu1-00791",
+            "BV1sFj26mEu1-00792"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1149.16,
+          "end": 1154.16,
+          "text": "你拉我一下我脚有点麻了没事你拉我",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00793",
+            "BV1sFj26mEu1-00794",
+            "BV1sFj26mEu1-00795"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "789句“你看的”回应尾部未可靠识别，保留原词不补句。 后续请求拉起身的答句未可靠识别，实际触碰未核验。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q026",
+      "title": "平时是不是经常被搭讪",
+      "category": "关系与意图",
+      "start": 1157.16,
+      "end": 1167.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1157.16,
+          "end": 1160.16,
+          "text": "你平时有没有被搭讪过",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00796"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1160.16,
+          "end": 1161.16,
+          "text": "经常啊",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00797"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1161.16,
+          "end": 1167.16,
+          "text": "那你回头把他们都删了跟我没家那以后你只属于我一个人",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00798",
+            "BV1sFj26mEu1-00799",
+            "BV1sFj26mEu1-00800"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "799句“跟我没家”识别不清，不能从口语推断实际排他关系。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q027",
+      "title": "置顶很多女生的质疑",
+      "category": "信任与质疑",
+      "start": 1168.16,
+      "end": 1268.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1168.16,
+          "end": 1173.16,
+          "text": "那你以后给我发信息我尽量快一点回你你表现好了",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00801",
+            "BV1sFj26mEu1-00802",
+            "BV1sFj26mEu1-00803"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1173.16,
+          "end": 1175.16,
+          "text": "制顶了好多个女生",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00804"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1175.16,
+          "end": 1177.16,
+          "text": "我制顶了好多个女生",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00805"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1231.16,
+          "end": 1235.16,
+          "text": "你看你说这话我跟你说你证明你才是老邮条",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00846",
+            "BV1sFj26mEu1-00847",
+            "BV1sFj26mEu1-00848"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1235.16,
+          "end": 1236.16,
+          "text": "哪有",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00849"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1236.16,
+          "end": 1238.16,
+          "text": "对你越难无数",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00850",
+            "BV1sFj26mEu1-00851"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1238.16,
+          "end": 1239.16,
+          "text": "没有",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00852"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1239.16,
+          "end": 1246.16,
+          "text": "是吧你看我这种单纯的人我都没有想过原来还可以这么操作你肯定制定很多男生来微信拿出来检查一下",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00853",
+            "BV1sFj26mEu1-00854",
+            "BV1sFj26mEu1-00855",
+            "BV1sFj26mEu1-00856",
+            "BV1sFj26mEu1-00857",
+            "BV1sFj26mEu1-00858"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1179.16,
+          "end": 1195.16,
+          "text": "你看这里有一个重点我这里用了一个假定追逐就是你表现好了我把你制顶你给我发信息我会快一点回你看到了吗我没有说那以后我给你发信息你要快点回我你能不能把我制顶你看这是不是就踩自己了",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00806",
+            "BV1sFj26mEu1-00807",
+            "BV1sFj26mEu1-00808",
+            "BV1sFj26mEu1-00809",
+            "BV1sFj26mEu1-00810",
+            "BV1sFj26mEu1-00811",
+            "BV1sFj26mEu1-00812",
+            "BV1sFj26mEu1-00813",
+            "BV1sFj26mEu1-00814",
+            "BV1sFj26mEu1-00815",
+            "BV1sFj26mEu1-00816",
+            "BV1sFj26mEu1-00817"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 1246.16,
+          "end": 1268.16,
+          "text": "这一招叫什么面对测试咱们紫禁工不防手就女生说你是不是制定了很多女孩不要去解释自己解释自己这个话题维持自己这就是防手你越解释那么女生越觉得你有鬼我们紫禁工你说这话说明你才是老邮条我来检查一下你微信看到没有把锅甩回去把球踢回去这是一个最安全的方法",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00859",
+            "BV1sFj26mEu1-00860",
+            "BV1sFj26mEu1-00861",
+            "BV1sFj26mEu1-00862",
+            "BV1sFj26mEu1-00863",
+            "BV1sFj26mEu1-00864",
+            "BV1sFj26mEu1-00865",
+            "BV1sFj26mEu1-00866",
+            "BV1sFj26mEu1-00867",
+            "BV1sFj26mEu1-00868",
+            "BV1sFj26mEu1-00869",
+            "BV1sFj26mEu1-00870",
+            "BV1sFj26mEu1-00871",
+            "BV1sFj26mEu1-00872",
+            "BV1sFj26mEu1-00873",
+            "BV1sFj26mEu1-00874",
+            "BV1sFj26mEu1-00875",
+            "BV1sFj26mEu1-00876",
+            "BV1sFj26mEu1-00877",
+            "BV1sFj26mEu1-00878"
+          ]
+        }
+      ],
+      "uncertainty": "804—805句“制顶”与句子缺词保留机器原字；不从讲解断定对方好感或实际手机联系人。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q028",
+      "title": "第一次见面送礼物好不好",
+      "category": "消费与付出",
+      "start": 1268.16,
+      "end": 1278.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1268.16,
+          "end": 1278.16,
+          "text": "一次见面我送你一个礼物好不好让你以后抱着她睡觉抱着她的时候就想着就感觉抱着我拿着这些币等会儿会变成你的礼物的",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00879",
+            "BV1sFj26mEu1-00880",
+            "BV1sFj26mEu1-00881",
+            "BV1sFj26mEu1-00882",
+            "BV1sFj26mEu1-00883",
+            "BV1sFj26mEu1-00884",
+            "BV1sFj26mEu1-00885",
+            "BV1sFj26mEu1-00886",
+            "BV1sFj26mEu1-00887"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "现场赠礼问题没有可靠识别的答句；不得将随后拿币或抓娃娃的动作推断为原话。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q029",
+      "title": "当助理开多少钱",
+      "category": "消费与付出",
+      "start": 1278.16,
+      "end": 1315.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1308.16,
+          "end": 1313.16,
+          "text": "拿个币你是我的小跟班你以后来当我的助理吧别当你的服装出拨了",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00912",
+            "BV1sFj26mEu1-00913",
+            "BV1sFj26mEu1-00914",
+            "BV1sFj26mEu1-00915"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1313.16,
+          "end": 1314.16,
+          "text": "给我开多少钱一个元",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00916"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1314.16,
+          "end": 1315.16,
+          "text": "我以身相许给你",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00917"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1278.16,
+          "end": 1299.16,
+          "text": "看到了吗发起了让她拿我一般跟女生约会的时候我都会吩咐她的干点事不是给我拿个包就是给我拿个币这样女生才会在心里潜移默化的觉得你是一个高位的然后她会自然的形成一种对你的依赖心理如果你什么都顺着她替她拎包替她那个她就不会觉得你是一个球长",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00888",
+            "BV1sFj26mEu1-00889",
+            "BV1sFj26mEu1-00890",
+            "BV1sFj26mEu1-00891",
+            "BV1sFj26mEu1-00892",
+            "BV1sFj26mEu1-00893",
+            "BV1sFj26mEu1-00894",
+            "BV1sFj26mEu1-00895",
+            "BV1sFj26mEu1-00896",
+            "BV1sFj26mEu1-00897",
+            "BV1sFj26mEu1-00898",
+            "BV1sFj26mEu1-00899",
+            "BV1sFj26mEu1-00900",
+            "BV1sFj26mEu1-00901",
+            "BV1sFj26mEu1-00902",
+            "BV1sFj26mEu1-00903"
+          ]
+        }
+      ],
+      "uncertainty": "职业“服装出拨”与金额单位“一个元”未校正。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q030",
+      "title": "抓哪个娃娃像谁",
+      "category": "玩笑与调侃",
+      "start": 1317.16,
+      "end": 1328.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1317.16,
+          "end": 1318.16,
+          "text": "抓这个吧",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00918"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1318.16,
+          "end": 1319.16,
+          "text": "行",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00919"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1319.16,
+          "end": 1322.16,
+          "text": "绿油油的像你",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00920",
+            "BV1sFj26mEu1-00921"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1322.16,
+          "end": 1323.16,
+          "text": "像你",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00922"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1323.16,
+          "end": 1328.16,
+          "text": "这些给你一样眼睛很大看到了吗你眼睛就特别大你眼睛马上特别长",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00923",
+            "BV1sFj26mEu1-00924",
+            "BV1sFj26mEu1-00925",
+            "BV1sFj26mEu1-00926"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "926句“眼睛马上特别长”识别不清；实际娃娃外观未核验。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q031",
+      "title": "礼物用看电影来换",
+      "category": "邀约与安排",
+      "start": 1348.16,
+      "end": 1406.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1373.16,
+          "end": 1374.16,
+          "text": "谢谢你",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00950"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1374.16,
+          "end": 1384.16,
+          "text": "是不是跟我一起运气变好了真抓出来了我不是开玩笑的说到做到对不对加我微信回头把钱转过",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00951",
+            "BV1sFj26mEu1-00952",
+            "BV1sFj26mEu1-00953",
+            "BV1sFj26mEu1-00954",
+            "BV1sFj26mEu1-00955",
+            "BV1sFj26mEu1-00956"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1385.16,
+          "end": 1389.16,
+          "text": "拿请我看一场电影来换吧请我看一场恐怖片",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00957",
+            "BV1sFj26mEu1-00958"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 1348.16,
+          "end": 1373.16,
+          "text": "这个我也不知道为什么当时一把就抓出来了这个是运气好但是抓不出来也无所谓你就直接逗她你说哎呀今天运气不好然后你就说可能是因为遇到你了吧我运气都用光了就行了你不要去说遇到你了花光了我所有的运气这个就太油了你要把这些油腻的话术用一种比较散漫的语气说出来它就没那么油",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00933",
+            "BV1sFj26mEu1-00934",
+            "BV1sFj26mEu1-00935",
+            "BV1sFj26mEu1-00936",
+            "BV1sFj26mEu1-00937",
+            "BV1sFj26mEu1-00938",
+            "BV1sFj26mEu1-00939",
+            "BV1sFj26mEu1-00940",
+            "BV1sFj26mEu1-00941",
+            "BV1sFj26mEu1-00942",
+            "BV1sFj26mEu1-00943",
+            "BV1sFj26mEu1-00944",
+            "BV1sFj26mEu1-00945",
+            "BV1sFj26mEu1-00946",
+            "BV1sFj26mEu1-00947",
+            "BV1sFj26mEu1-00948",
+            "BV1sFj26mEu1-00949"
+          ]
+        },
+        {
+          "speaker": "commentary",
+          "start": 1390.16,
+          "end": 1406.16,
+          "text": "如果抓不出来刚才不是说了吗可能因为遇到你了然后运气都用光了然后你就可以顺势跟她说什么她说要不你请我看场电影吧你补偿一下我你看这样是不是也能反向遥远一样的我们要有这种随机应变的能力",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00959",
+            "BV1sFj26mEu1-00960",
+            "BV1sFj26mEu1-00961",
+            "BV1sFj26mEu1-00962",
+            "BV1sFj26mEu1-00963",
+            "BV1sFj26mEu1-00964",
+            "BV1sFj26mEu1-00965",
+            "BV1sFj26mEu1-00966",
+            "BV1sFj26mEu1-00967",
+            "BV1sFj26mEu1-00968",
+            "BV1sFj26mEu1-00969"
+          ]
+        }
+      ],
+      "uncertainty": "956句“把钱转过”保留机器词；前面假设抓不出的邀请只作为讲解示例，未当现场答句。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q032",
+      "title": "恐怖片越恐怖越好吗",
+      "category": "偏好与选择",
+      "start": 1406.16,
+      "end": 1413.16,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1406.16,
+          "end": 1407.16,
+          "text": "像恐怖片",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00970"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1407.16,
+          "end": 1410.16,
+          "text": "像越恐怖的越好",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00971",
+            "BV1sFj26mEu1-00972"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1410.16,
+          "end": 1413.16,
+          "text": "然后害怕的时候你就我钻你怀里",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00973",
+            "BV1sFj26mEu1-00974"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1sFj26mEu1-q033",
+      "title": "晚上或明天有没有时间",
+      "category": "邀约与安排",
+      "start": 1414.16,
+      "end": 1435.16,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 1414.16,
+          "end": 1418.16,
+          "text": "我就不陪你留个了我临时有点事你晚上有时间吗",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00975",
+            "BV1sFj26mEu1-00976",
+            "BV1sFj26mEu1-00977"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1418.16,
+          "end": 1420.16,
+          "text": "有",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00978"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1420.16,
+          "end": 1422.16,
+          "text": "那明天呢",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00979"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1422.16,
+          "end": 1423.16,
+          "text": "有",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00980"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1423.16,
+          "end": 1427.16,
+          "text": "要不就这样晚上或者明天再联系你大家再出来玩呗",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00981",
+            "BV1sFj26mEu1-00982",
+            "BV1sFj26mEu1-00983"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1427.16,
+          "end": 1431.16,
+          "text": "行 那你到时候给我发微信吧但是你没加我微信",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00984",
+            "BV1sFj26mEu1-00985"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1432.16,
+          "end": 1435.16,
+          "text": "现在加上好 拿来 我给你加",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00986",
+            "BV1sFj26mEu1-00987"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "975句“留个”识别不清；没有把有时间等同实际见面已发生。"
+    },
+    {
+      "id": "BV1sFj26mEu1-q034",
+      "title": "是不是要找别的女生",
+      "category": "信任与质疑",
+      "start": 1435.16,
+      "end": 1450.16,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 1435.16,
+          "end": 1437.16,
+          "text": "是不是要去找别的女生",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00988"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1437.16,
+          "end": 1438.16,
+          "text": "啥",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00989"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1438.16,
+          "end": 1440.16,
+          "text": "是不是要去找别的女生",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00990"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1441.16,
+          "end": 1447.16,
+          "text": "你看你怎么老把握我往那方面想呢没有 就真的有事回头记得给我发信息哦",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00991",
+            "BV1sFj26mEu1-00992",
+            "BV1sFj26mEu1-00993"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 1447.16,
+          "end": 1448.16,
+          "text": "好 那你记得回",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00994"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 1448.16,
+          "end": 1450.16,
+          "text": "那肯定回拜拜",
+          "source_segment_ids": [
+            "BV1sFj26mEu1-00995",
+            "BV1sFj26mEu1-00996"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    }
+  ]
+}

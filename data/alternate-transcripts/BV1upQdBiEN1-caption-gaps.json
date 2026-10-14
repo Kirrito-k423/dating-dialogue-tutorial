@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1upQdBiEN1",
+  "method": "macOS Vision OCR of selected video frames at ASR timestamp gaps; frame subtitles, not audio transcription; 0.75-second sampling, intervals reflect caption samples not speech boundaries",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0001",
+      "start": 323.25,
+      "end": 324.0,
+      "text": "那怎么才算对你好呢",
+      "last_sample": 323.25,
+      "samples": [
+        "frame-0323.250.png"
+      ],
+      "first_frame_sha256": "0e4d92806fcd20c5c9090418e392412d29d9c605979f1e9712928cc8c19f3172",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0002",
+      "start": 324,
+      "end": 324.75,
+      "text": "那怎么 算对你好呢",
+      "last_sample": 324,
+      "samples": [
+        "frame-0324.000.png"
+      ],
+      "first_frame_sha256": "8e148a1f334b2db64039146141ab2632eea03799b4a73b713aaea9b5015e04e0",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0003",
+      "start": 324.75,
+      "end": 325.5,
+      "text": "DWMG OHD3最讓光甜\n那怎么 算对你好呢",
+      "last_sample": 324.75,
+      "samples": [
+        "frame-0324.750.png"
+      ],
+      "first_frame_sha256": "22e7a5cd414f8cf001c050266191998345cde72263628566544a69d21741a2ea",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0004",
+      "start": 325.5,
+      "end": 326.25,
+      "text": "嗯肯定是要照顾好我的情绪",
+      "last_sample": 325.5,
+      "samples": [
+        "frame-0325.500.png"
+      ],
+      "first_frame_sha256": "a15b6f01c3c864addeec47e566566ab7599f2e0d85a45f7609dff4bd1cc337f2",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0005",
+      "start": 326.25,
+      "end": 327.0,
+      "text": "嗯貴定是要照顾好我的情绪",
+      "last_sample": 326.25,
+      "samples": [
+        "frame-0326.250.png"
+      ],
+      "first_frame_sha256": "41fdf7acb7525796afce29b839d1b137fcc90a7c69b28d47337bd602198b02c8",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0006",
+      "start": 327,
+      "end": 327.75,
+      "text": "嗯肯定是要照顾好我的情绪",
+      "last_sample": 327,
+      "samples": [
+        "frame-0327.000.png"
+      ],
+      "first_frame_sha256": "fd9fae01b113df55c786c9a0ec8dab67296fddbcdd75d467181ead75c30d42bb",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0007",
+      "start": 327.75,
+      "end": 328.5,
+      "text": "然后每天给我做饭",
+      "last_sample": 327.75,
+      "samples": [
+        "frame-0327.750.png"
+      ],
+      "first_frame_sha256": "4ad525c277b198fb05511dc2567e30b62fdbefe56363e6c112b220df350c7501",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0008",
+      "start": 328.5,
+      "end": 329.25,
+      "text": "snt 区y叵EEDN\n然后每天给我做饭",
+      "last_sample": 328.5,
+      "samples": [
+        "frame-0328.500.png"
+      ],
+      "first_frame_sha256": "9ac54f0cfaf658ec1d31611c139f4f9233bd6960e3fe6e3314688bc1b2c533f9",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0009",
+      "start": 329.25,
+      "end": 330.0,
+      "text": "國型\n然后每天给我做饭",
+      "last_sample": 329.25,
+      "samples": [
+        "frame-0329.250.png"
+      ],
+      "first_frame_sha256": "d57d034bc3832a0a1afa22e131ebc967a2b44d43e63d3f6f02284b532d33bfce",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0010",
+      "start": 330,
+      "end": 330.75,
+      "text": "vamaaA\n向空業聚×士畏】\n然后什么事都想着我",
+      "last_sample": 330,
+      "samples": [
+        "frame-0330.000.png"
+      ],
+      "first_frame_sha256": "8144bfd9969483c39012ffedee75023e7151d568bca0657d969bb3076adfae1e",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0011",
+      "start": 330.75,
+      "end": 332.25,
+      "text": "然后什么事都想着我",
+      "last_sample": 331.5,
+      "samples": [
+        "frame-0330.750.png",
+        "frame-0331.500.png"
+      ],
+      "first_frame_sha256": "196641e13ac680b50991239f2fd015b231d1e5d4740573f08be1950a71a2adf7",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0012",
+      "start": 332.25,
+      "end": 334.5,
+      "text": "啊带我去见她的父母",
+      "last_sample": 333.75,
+      "samples": [
+        "frame-0332.250.png",
+        "frame-0333.000.png",
+        "frame-0333.750.png"
+      ],
+      "first_frame_sha256": "eacb6eef64d6586396d00eeb80c60e4b6840a64060415b1f336ebb9a406bb8bb",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0013",
+      "start": 993,
+      "end": 993.75,
+      "text": "那你等我一T啊",
+      "last_sample": 993,
+      "samples": [
+        "frame-0993.000.png"
+      ],
+      "first_frame_sha256": "2abf9ad04b3c2585235c38b12a6c6ae6c0d35aba6b19f11f5ad9051d315118ec",
+      "visual_reviewed": false
+    },
+    {
+      "id": "BV1upQdBiEN1-caption-gap-0014",
+      "start": 993.75,
+      "end": 997.5,
+      "text": "那你等我一下啊",
+      "last_sample": 996.75,
+      "samples": [
+        "frame-0993.750.png",
+        "frame-0994.500.png",
+        "frame-0995.250.png",
+        "frame-0996.000.png",
+        "frame-0996.750.png"
+      ],
+      "first_frame_sha256": "ebfbef42a38012eeefdede03779a37cc28cb04fd7e52840c3cf7fe87cf8ce7f7",
+      "visual_reviewed": false
+    }
+  ]
+}

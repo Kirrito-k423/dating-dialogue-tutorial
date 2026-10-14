@@ -1,0 +1,48 @@
+const assert = require('node:assert/strict');
+const expectedRounds = require('../docs/dialogues.json').rounds.length;
+const { chromium } = require(process.env.PLAYWRIGHT_MODULE || 'playwright');
+const target = process.env.TUTORIAL_URL || 'http://127.0.0.1:60436/';
+(async () => {
+  const browser = await chromium.launch({ headless: true, ...(process.env.BROWSER_PROXY ? {proxy:{server:process.env.BROWSER_PROXY}} : {}) });
+  try {
+    const page = await browser.newPage({viewport:{width:1280,height:900}});
+    const errors=[]; page.on('pageerror',e=>errors.push(e.message));
+    const response=await page.goto(target,{waitUntil:'networkidle',timeout:45000});
+    assert.equal(response.status(),200);
+    const counts=await page.evaluate(()=>({videos:COURSE_DATA.videos.length,rounds:COURSE_DATA.rounds.length,transcripts:Object.keys(COURSE_TRANSCRIPTS).length,seed:COURSE_DATA.seed_bvid,seedRounds:COURSE_DATA.rounds.filter(r=>r.bvid===COURSE_DATA.seed_bvid).length,segments:COURSE_TRANSCRIPTS[COURSE_DATA.seed_bvid].segments.length}));
+    assert.equal(counts.videos,18); assert.equal(counts.rounds,expectedRounds); assert.equal(counts.transcripts,18);
+    assert.equal(await page.locator('#timeline-panel').isVisible(),true);
+    await page.selectOption('#timeline-episode',counts.seed);
+    assert.equal(await page.locator('.round-card').count(),counts.seedRounds);
+    const source=new URL(await page.locator('.round-source a').first().getAttribute('href'));
+    assert.ok(source.pathname.includes(counts.seed));assert.match(source.searchParams.get('t'),/^\d+$/);
+    const roundId=await page.locator('.round-card').first().getAttribute('id');
+    const category=await page.locator('.round-heading .badge').first().innerText();
+    await page.selectOption('#timeline-category',category);
+    assert.ok((await page.locator('.round-heading .badge').allInnerTexts()).every(c=>c===category));
+    await page.selectOption('#timeline-category','all');
+    await page.locator(`[data-full-source="${counts.seed}"]`).click();
+    assert.equal(await page.locator('.transcript-row').count(),counts.segments);
+    assert.match(await page.locator('#import-status').innerText(),/仍需逐句回听/);
+    await page.locator('#episode-notes').fill('本机核对笔记');
+    await page.locator('[data-cue-note]').first().fill('这句待核');
+    await page.reload();
+    assert.equal(await page.locator('#episode-notes').inputValue(),'本机核对笔记');
+    assert.equal(await page.locator('[data-cue-note]').first().inputValue(),'这句待核');
+    await page.locator('#load-full-transcript').click();
+    assert.equal(await page.locator('[data-cue-note]').first().inputValue(),'这句待核');
+    const exportPromise=page.waitForEvent('download');
+    await page.locator('#export-notebook').click();
+    assert.match((await exportPromise).suggestedFilename(),/对话笔记\.json$/);
+    await page.goto(target+'#round='+encodeURIComponent(roundId));
+    assert.equal(await page.locator('#timeline-episode').inputValue(),counts.seed);
+    assert.equal(await page.locator('#'+roundId).isVisible(),true);
+    await page.locator('#timeline-search').fill('不存在的词不存在的词');
+    assert.equal(await page.locator('.round-card').count(),0);
+    await page.locator('#timeline-search').fill('');
+    await page.setViewportSize({width:390,height:844});
+    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
+    assert.deepEqual(errors,[]);
+    console.log(JSON.stringify({status:'passed',...counts,checks:'episode/category filtering, source timestamps, full transcript, note persistence, export, deep link, mobile overflow, JS errors'}));
+  } finally { await browser.close(); }
+})().catch(e=>{console.error(e);process.exit(1);});

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1sYLi6nEA6",
+  "method": "Selected original video caption checked via actual image input; not audio listening; sampled caption presence interval",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1sYLi6nEA6-caption-reviewed-early-0001",
+      "start": 36.75,
+      "end": 39.0,
+      "text": "你好我是一个旅游博主",
+      "visual_reviewed": true,
+      "frame_time": 36.75,
+      "frame_sha256": "24d28b54a210b5ca7ed5f5491611ff6207d72093531bf94e76708f3501f4b933",
+      "frame_file": "frames-BV1sYLi6nEA6/frame-0036.750.png"
+    },
+    {
+      "id": "BV1sYLi6nEA6-caption-reviewed-early-0002",
+      "start": 39,
+      "end": 39.75,
+      "text": "我有点忙",
+      "visual_reviewed": true,
+      "frame_time": 39,
+      "frame_sha256": "b965a46bc6cc70b6b788a90df725b68ae9d2331f059958a98eae495f7c9add19",
+      "frame_file": "frames-BV1sYLi6nEA6/frame-0039.000.png"
+    },
+    {
+      "id": "BV1sYLi6nEA6-caption-reviewed-early-0003",
+      "start": 39.75,
+      "end": 40.5,
+      "text": "不好意思",
+      "visual_reviewed": true,
+      "frame_time": 39.75,
+      "frame_sha256": "3af82551c0b9f074069752c85e18cb076d555a3e4f14185248bc5cfc7330f6e1",
+      "frame_file": "frames-BV1sYLi6nEA6/frame-0039.750.png"
+    },
+    {
+      "id": "BV1sYLi6nEA6-caption-reviewed-early-0004",
+      "start": 40.5,
+      "end": 41.25,
+      "text": "啊不我不是",
+      "visual_reviewed": true,
+      "frame_time": 40.5,
+      "frame_sha256": "87ebe56ab7d395caeba055f0c278e2a84a1a57bf082b1de329ede090ad0d6fc4",
+      "frame_file": "frames-BV1sYLi6nEA6/frame-0040.500.png"
+    },
+    {
+      "id": "BV1sYLi6nEA6-caption-reviewed-early-0005",
+      "start": 57,
+      "end": 58.5,
+      "text": "在跟我讲话吗",
+      "visual_reviewed": true,
+      "frame_time": 57,
+      "frame_sha256": "e3555f77e68aad4a1b7231215257b1e7b30af1907059196cb024d37d72ca6e97",
+      "frame_file": "frames-BV1sYLi6nEA6/frame-0057.000.png"
+    }
+  ]
+}

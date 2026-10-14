@@ -1,0 +1,373 @@
+{
+  "bvid": "BV1vj6yBDE5r",
+  "scope": "all_identifiable_dialogue_in_complete_asr",
+  "listening_verified": false,
+  "source_segment_count": 458,
+  "source_duration_seconds": 684.94,
+  "coverage_note": "完整读取small 458段、独立medium 400段及局部turbo 57段，整理7个可辨交流单元；相同重播合并。445秒电影问句已核原帧字幕，658.5秒末句另核字幕但与已有问答重复未另设题。饮品两稿冲突、吃饭答句错字以及看手相/送到家缺答逐题存疑。实际音频听校0，字幕出现区间是抽样画面边界。",
+  "rounds": [
+    {
+      "id": "BV1vj6yBDE5r-q001",
+      "title": "说自己不上镜，怎样接话？",
+      "category": "开场与认识",
+      "start": 38.36,
+      "end": 128.36,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 38.36,
+          "end": 40.68,
+          "text": "我覺得你跟人比照片好看很多",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-0000-0685-medium-0022"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 40.68,
+          "end": 42.6,
+          "text": "通常都是我拍上鏡",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-0000-0685-medium-0023"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 42.6,
+          "end": 47.56,
+          "text": "不是你不上鏡。是他們拍照水平不行。你這樣你請我喝杯咖啡我給你拍",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-0000-0685-medium-0024",
+            "BV1vj6yBDE5r-0000-0685-medium-0025",
+            "BV1vj6yBDE5r-0000-0685-medium-0026"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 113.36,
+          "end": 128.36,
+          "text": "所以说你夸她只能夸一句。大家记住只能夸一句。第二句一定要开自己。所以当她说不上镜的时候。我说因为别人拍照水平不行。我拍照水平牛逼呀。夸完她之后再夸自己。这样你俩就是平衡的。就不会显得你跪片。大家一定要记住这个技巧",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-00055",
+            "BV1vj6yBDE5r-00056",
+            "BV1vj6yBDE5r-00057",
+            "BV1vj6yBDE5r-00058",
+            "BV1vj6yBDE5r-00059",
+            "BV1vj6yBDE5r-00060",
+            "BV1vj6yBDE5r-00061",
+            "BV1vj6yBDE5r-00062",
+            "BV1vj6yBDE5r-00063",
+            "BV1vj6yBDE5r-00064"
+          ]
+        }
+      ],
+      "uncertainty": "small 与 medium 独立转写都未可靠识别对方的不上镜回应；本轮保留 medium 原句“通常都是我拍上镜”，不能据讲解反改。"
+    },
+    {
+      "id": "BV1vj6yBDE5r-q002",
+      "title": "对方说喝热的，随后怎样点单？",
+      "category": "偏好与选择",
+      "start": 169.36,
+      "end": 187.36,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 169.36,
+          "end": 171.36,
+          "text": "你喝正常面还是少边",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-00095"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 171.36,
+          "end": 172.36,
+          "text": "我喝热的",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-00096"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 172.36,
+          "end": 174.36,
+          "text": "老板两杯冰的",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-00097"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 174.36,
+          "end": 187.36,
+          "text": "想测试女生能不能喝冰的。你不用问她。你能不能喝冰的。你问她肯定说喝热的。你管她说啥呢。直接就是老板两杯冰的。然后再看这个女生的反应",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-00098",
+            "BV1vj6yBDE5r-00099",
+            "BV1vj6yBDE5r-00100",
+            "BV1vj6yBDE5r-00101",
+            "BV1vj6yBDE5r-00102",
+            "BV1vj6yBDE5r-00103",
+            "BV1vj6yBDE5r-00104"
+          ]
+        }
+      ],
+      "uncertainty": "点单问句 small 为“正常面还是少边”，medium 为“正常麵還是少麵”；现场点单 medium 又出现“老闆娘沒冰的”，两稿有冲突，不能据讲解确定冰量。保留 small 原句待回听。"
+    },
+    {
+      "id": "BV1vj6yBDE5r-q003",
+      "title": "对方说不饿，邀请吃东西怎样接下去？",
+      "category": "邀约与安排",
+      "start": 316.4,
+      "end": 338.36,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 316.4,
+          "end": 318.52,
+          "text": "先陪我吃點東西吧。我要餓了",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-0000-0685-medium-0193",
+            "BV1vj6yBDE5r-0000-0685-medium-0194"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 318.52,
+          "end": 320.48,
+          "text": "嗯還不想餓",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-0000-0685-medium-0195"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 320.48,
+          "end": 325.24,
+          "text": "所以我剛才說重點是陪我呀。不是去吃。等你餓的時候我也陪你",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-0000-0685-medium-0196",
+            "BV1vj6yBDE5r-0000-0685-medium-0197",
+            "BV1vj6yBDE5r-0000-0685-medium-0198"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 325.36,
+          "end": 338.36,
+          "text": "兄弟们这一块看到了吗。这个女生她说的是她不饿。但是我饿了呀。那这个时候怎么办呢。记住了。这个时候一定要尊重我们自己的需求。千万不能因为女生。改变我们自己的需求",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-00207",
+            "BV1vj6yBDE5r-00208",
+            "BV1vj6yBDE5r-00209",
+            "BV1vj6yBDE5r-00210",
+            "BV1vj6yBDE5r-00211",
+            "BV1vj6yBDE5r-00212",
+            "BV1vj6yBDE5r-00213",
+            "BV1vj6yBDE5r-00214"
+          ]
+        }
+      ],
+      "uncertainty": "同一片段先在 03:38 出现，保留 05:16 较完整重播。medium 的对方答句“嗯还不想饿”仍含错字；讲解解释“不饿”没有反改原声。"
+    },
+    {
+      "id": "BV1vj6yBDE5r-q004",
+      "title": "等会要看电影吗，现场怎样回应？",
+      "category": "邀约与安排",
+      "start": 437.36,
+      "end": 461.72,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 445.0,
+          "end": 445.75,
+          "text": "等会咱俩要看电影吗",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-caption-reviewed-0001"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 459.04,
+          "end": 461.72,
+          "text": "啊那大家剛認識去做別類播事啊",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-0000-0685-medium-0286"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 437.36,
+          "end": 445.36,
+          "text": "兄弟们。这句话你们会怎么回。在约会的时候。你们正吃的饭呢。你说你看电影喜欢做第几排。这女生问你。等会咱俩要看电影",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-00288",
+            "BV1vj6yBDE5r-00289",
+            "BV1vj6yBDE5r-00290",
+            "BV1vj6yBDE5r-00291",
+            "BV1vj6yBDE5r-00292",
+            "BV1vj6yBDE5r-00293",
+            "BV1vj6yBDE5r-00294"
+          ]
+        }
+      ],
+      "uncertainty": "问句经 445 秒画面字幕直接核对，时间是采样可见区间，口语起止仍未回听；回应“去做别类播事”仍为 medium 机器稿且识别不清。"
+    },
+    {
+      "id": "BV1vj6yBDE5r-q005",
+      "title": "看电影坐第几排？",
+      "category": "偏好与选择",
+      "start": 500.36,
+      "end": 525.36,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 500.36,
+          "end": 502.36,
+          "text": "你快说你喜欢做的一段",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-00328"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 502.36,
+          "end": 503.36,
+          "text": "几排都行",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-00329"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 503.36,
+          "end": 525.36,
+          "text": "你用这一招的时候。教大家一招。你就可以去观察女生的微表情。和她的眼神。如果她的眼神是这种。你看这种就是低头害羞的。然后撩撩头发。然后很深情的看着你。很害羞的那种感觉。就说明她内心深处对你有好感。她只是在矜持。所以你像我这样。稍微强势一点带领她。她就会顺从了。你做第几排",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-00330",
+            "BV1vj6yBDE5r-00331",
+            "BV1vj6yBDE5r-00332",
+            "BV1vj6yBDE5r-00333",
+            "BV1vj6yBDE5r-00334",
+            "BV1vj6yBDE5r-00335",
+            "BV1vj6yBDE5r-00336",
+            "BV1vj6yBDE5r-00337",
+            "BV1vj6yBDE5r-00338",
+            "BV1vj6yBDE5r-00339",
+            "BV1vj6yBDE5r-00340",
+            "BV1vj6yBDE5r-00341",
+            "BV1vj6yBDE5r-00342",
+            "BV1vj6yBDE5r-00343",
+            "BV1vj6yBDE5r-00344"
+          ]
+        }
+      ],
+      "uncertainty": "问句“喜欢做的一段”识别不清，分类依据后续明确谈电影排数的讲解；“几排都行”保留原稿。"
+    },
+    {
+      "id": "BV1vj6yBDE5r-q006",
+      "title": "请求看手相时说了什么？",
+      "category": "隐私与边界",
+      "start": 594.36,
+      "end": 626.36,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 594.36,
+          "end": 598.16,
+          "text": "來哎你把你手給我。我看一下你適合找什麼樣的另一半",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-0000-0685-medium-0357",
+            "BV1vj6yBDE5r-0000-0685-medium-0358"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 600.16,
+          "end": 602.52,
+          "text": "哦看錯了對男左女右的看那隻手",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-0000-0685-medium-0359"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 606.36,
+          "end": 626.36,
+          "text": "这里要教大家一些注意事项。当你用这一招的时候。你要注意这个女生的手。她有没有回握。如果你握她。她没有回握。她是这样展开的。说明她对你的肢体接触的。接收度不是特别的高。那么你签个两三秒。马上松开。然后就继续该干嘛。就行了",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-00405",
+            "BV1vj6yBDE5r-00406",
+            "BV1vj6yBDE5r-00407",
+            "BV1vj6yBDE5r-00408",
+            "BV1vj6yBDE5r-00409",
+            "BV1vj6yBDE5r-00410",
+            "BV1vj6yBDE5r-00411",
+            "BV1vj6yBDE5r-00412",
+            "BV1vj6yBDE5r-00413",
+            "BV1vj6yBDE5r-00414",
+            "BV1vj6yBDE5r-00415",
+            "BV1vj6yBDE5r-00416",
+            "BV1vj6yBDE5r-00417"
+          ]
+        }
+      ],
+      "uncertainty": "medium 改善请求者的手相台词，但仍无对方可靠口头回答；不依据讲解推定同意或肢体反应。"
+    },
+    {
+      "id": "BV1vj6yBDE5r-q007",
+      "title": "送到家后，用什么话继续邀请？",
+      "category": "邀约与安排",
+      "start": 650.44,
+      "end": 658.6,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 650.44,
+          "end": 654.4,
+          "text": "那我就給你送到這兒了啊。你家水管有沒有壞了。用不用我上去修",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-0000-0685-medium-0384",
+            "BV1vj6yBDE5r-0000-0685-medium-0385",
+            "BV1vj6yBDE5r-0000-0685-medium-0386"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 655.84,
+          "end": 658.6,
+          "text": "啊有壞了是吧。那走吧上去陪你檢查一下",
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-0000-0685-medium-0387",
+            "BV1vj6yBDE5r-0000-0685-medium-0388"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "medium 保留较清楚的邀请者连续台词，对方回答仍未可靠识别；未从画面或音色确认是现场还是博主演示。"
+    }
+  ],
+  "alternate_source_segment_count": 400,
+  "caption_frames_visually_reviewed": 2
+}

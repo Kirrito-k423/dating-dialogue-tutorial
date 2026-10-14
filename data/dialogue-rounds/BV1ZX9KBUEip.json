@@ -1,0 +1,1333 @@
+{
+  "bvid": "BV1ZX9KBUEip",
+  "scope": "all_identifiable_dialogue_in_complete_asr",
+  "listening_verified": false,
+  "source_segment_count": 504,
+  "source_duration_seconds": 853.6,
+  "coverage_note": "完整读取small 504段，整理30个可辨或部分缺答交流单元，房内信任与关系提问逐问拆分。直接查看14张原帧恢复首段迟到三轮，核对喝酒质疑是女生提出、男生回应，纠正机器稿误分角色；骰子输赢碎片和未恢复夹麦原声不凑题。实际音频听校0，不能据画面或玩笑推定酒量和亲密许可。",
+  "rounds": [
+    {
+      "id": "BV1ZX9KBUEip-q028",
+      "title": "指出迟到时，对方怎样反提上一次？",
+      "category": "邀约与安排",
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 37.5,
+          "end": 39.0,
+          "text": "你迟到了姐妹",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-caption-reviewed-early-0001"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "other",
+          "start": 39.75,
+          "end": 41.25,
+          "text": "你上次还迟到了半个小时呢",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-caption-reviewed-early-0002"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 80.04,
+          "end": 85.28,
+          "text": "这个女生迟到了。那么许哥是怎么做的。我是直接给她点出来了。我直接说你迟到了",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00016",
+            "BV1ZX9KBUEip-00017",
+            "BV1ZX9KBUEip-00018",
+            "BV1ZX9KBUEip-00019"
+          ]
+        }
+      ],
+      "uncertainty": "两边比较迟到时长；后续讲解中的动机判断不改成对方事实。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。",
+      "start": 37.5,
+      "end": 85.28
+    },
+    {
+      "id": "BV1ZX9KBUEip-q029",
+      "title": "这次是报复迟到吗，下次怎样安排？",
+      "category": "邀约与安排",
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 41.25,
+          "end": 42.75,
+          "text": "这次是报复我是吧",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-caption-reviewed-early-0003"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "other",
+          "start": 43.5,
+          "end": 45.0,
+          "text": "那咋了我就迟到",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-caption-reviewed-early-0004"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 45,
+          "end": 48.0,
+          "text": "下次约会就咱俩谁也不迟到。别互相报复",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-caption-reviewed-early-0005",
+            "BV1ZX9KBUEip-caption-reviewed-early-0006"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "不据“报复”玩笑断言对方真实迟到原因。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。",
+      "start": 41.25,
+      "end": 48.0
+    },
+    {
+      "id": "BV1ZX9KBUEip-q030",
+      "title": "迟到玩笑中问有m倾向，怎样回应？",
+      "category": "玩笑与调侃",
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 48,
+          "end": 51.0,
+          "text": "你有本事打我呗。我就爱迟到咋了",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-caption-reviewed-early-0007",
+            "BV1ZX9KBUEip-caption-reviewed-early-0008"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 51.75,
+          "end": 53.25,
+          "text": "你是不是有m倾向",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-caption-reviewed-early-0009"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "other",
+          "start": 53.25,
+          "end": 56.25,
+          "text": "嗯哈哈哈。丢丢吧哈哈哈干嘛",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-caption-reviewed-early-0010",
+            "BV1ZX9KBUEip-caption-reviewed-early-0011"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“m倾向/丢丢吧”只照可见字幕；玩笑和笑声不能推定愿意被打或其它亲密许可。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。",
+      "start": 48,
+      "end": 56.25
+    },
+    {
+      "id": "BV1ZX9KBUEip-q001",
+      "title": "为什么这次答应出来喝酒？",
+      "category": "关系与意图",
+      "start": 259.92,
+      "end": 269.28,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 259.92,
+          "end": 264.08,
+          "text": "其实我很久没出来喝酒了。就你约我我才出来。你知道吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00150",
+            "BV1ZX9KBUEip-00151",
+            "BV1ZX9KBUEip-00152"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 264.08,
+          "end": 266.8,
+          "text": "那那时候我约你你就出来呢",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00153"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 266.8,
+          "end": 269.28,
+          "text": "因为我看你朋友圈儿。觉得你最近点漂亮了",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00154",
+            "BV1ZX9KBUEip-00155"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "开头邀请关系可能有机器误识别；说话者按相邻问答逻辑暂分，未从原声确认。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q002",
+      "title": "说最近漂亮了，那以前不好看吗？",
+      "category": "玩笑与调侃",
+      "start": 269.28,
+      "end": 277.48,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 269.28,
+          "end": 270.84,
+          "text": "那我以前不好看",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00156"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 270.84,
+          "end": 272.08,
+          "text": "你想听石花吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00157"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 272.08,
+          "end": 272.8,
+          "text": "废话",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00158"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 272.8,
+          "end": 276.64,
+          "text": "咱俩玩骰子。你要赢我了。完了我就告诉你石花",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00159",
+            "BV1ZX9KBUEip-00160",
+            "BV1ZX9KBUEip-00161"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 276.64,
+          "end": 277.48,
+          "text": "来就来",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00162"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“石花”原样保留，疑为机器错字；玩骰子段的后续输赢短句未可靠分辨说话者。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q003",
+      "title": "喝多了，是否在故意灌醉？",
+      "category": "信任与质疑",
+      "start": 288.48,
+      "end": 406.2,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 288.48,
+          "end": 292.44,
+          "text": "我有点喝多了。你在喝多上你就喝多了",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00169",
+            "BV1ZX9KBUEip-00170"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 299.25,
+          "end": 300.0,
+          "text": "是你故意灌醉我的吧",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-caption-reviewed-early-0012"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "responder",
+          "start": 300.75,
+          "end": 302.25,
+          "text": "是你自己要喝这么多的",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-caption-reviewed-early-0013"
+          ],
+          "text_basis": "video_caption"
+        },
+        {
+          "speaker": "other",
+          "start": 303.75,
+          "end": 304.5,
+          "text": "我靠一靠",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-caption-reviewed-early-0014"
+          ],
+          "text_basis": "video_caption"
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 400.12,
+          "end": 406.2,
+          "text": "就是你会发现我们拉伸关系。尽量都要找一个合理的借口。比如说我喝多了。我往前马上靠一靠",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00234",
+            "BV1ZX9KBUEip-00235",
+            "BV1ZX9KBUEip-00236",
+            "BV1ZX9KBUEip-00237"
+          ]
+        }
+      ],
+      "uncertainty": "最初ASR“我有点喝多了”等混角色句仍不清。299.25/300.75/303.75秒画面与字幕显示女生提出“故意灌醉”质疑、男生回应“自己要喝这么多”、女生说“我靠一靠”，采用独立字幕来源替代机器稿误分的角色；静帧不等同音频核验，也不能推定实际醉酒程度。 所引字幕经过实际原帧查看；区间只表示采样画面出现该句，不是精确口语边界，音频未听校。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q004",
+      "title": "家离这里远吗？",
+      "category": "邀约与安排",
+      "start": 308.16,
+      "end": 475.56,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 308.16,
+          "end": 309.4,
+          "text": "你家远吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00174"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 309.4,
+          "end": 316.96,
+          "text": "还好不过家远。我还好。我还好。我还好不远",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00175",
+            "BV1ZX9KBUEip-00176",
+            "BV1ZX9KBUEip-00177",
+            "BV1ZX9KBUEip-00178"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 316.96,
+          "end": 319.52,
+          "text": "你要是太远的话。我就不回去了",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00179",
+            "BV1ZX9KBUEip-00180"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 470.52,
+          "end": 475.56,
+          "text": "我之前在车里第一遍的时候。我说你家里的太远我就不回家了。你看我这个是在拉",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00285",
+            "BV1ZX9KBUEip-00286",
+            "BV1ZX9KBUEip-00287"
+          ]
+        }
+      ],
+      "uncertainty": "回答含连续“我还好”疑为重复识别，整段角色不清；不作距离或可留宿的事实判断。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q005",
+      "title": "你在干嘛，说有蚊子怎样继续？",
+      "category": "玩笑与调侃",
+      "start": 324.28,
+      "end": 328.88,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 324.28,
+          "end": 325.4,
+          "text": "你干嘛",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00181"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 325.4,
+          "end": 326.72,
+          "text": "有蚊子蚊子",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00182"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 326.72,
+          "end": 327.6,
+          "text": "你好用力啊",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00183"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 327.6,
+          "end": 328.88,
+          "text": "痛苦啊",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00184"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "最后“痛苦啊”角色及内容不清；未据文本推定肢体动作。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q006",
+      "title": "说有点晕车，随后提出什么办法？",
+      "category": "隐私与边界",
+      "start": 328.88,
+      "end": 414.52,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 328.88,
+          "end": 330.64,
+          "text": "我有点阴车",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00185"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 330.64,
+          "end": 338.04,
+          "text": "我真的有一个方法。可以不运车。你把你手给我来。捏这。只要一时捏这就可以不运车",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00186",
+            "BV1ZX9KBUEip-00187",
+            "BV1ZX9KBUEip-00188",
+            "BV1ZX9KBUEip-00189",
+            "BV1ZX9KBUEip-00190"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 406.2,
+          "end": 414.52,
+          "text": "比如说你晕车了。哎我拉着你的手。给你捏一捏。你就不晕车了。但实际上捏这能不能防晕车呢。我他们也不知道。这是我当时瞎编的。临场编的",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00238",
+            "BV1ZX9KBUEip-00239",
+            "BV1ZX9KBUEip-00240",
+            "BV1ZX9KBUEip-00241",
+            "BV1ZX9KBUEip-00242",
+            "BV1ZX9KBUEip-00243",
+            "BV1ZX9KBUEip-00244",
+            "BV1ZX9KBUEip-00245"
+          ]
+        }
+      ],
+      "uncertainty": "“阴车／运车／一时”等错字保留。请求手部接触之后无可靠口头回应，未推定同意；讲解明确说办法是临场编的。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q007",
+      "title": "说想上厕所，怎样接话？",
+      "category": "玩笑与调侃",
+      "start": 338.04,
+      "end": 343.96,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 338.04,
+          "end": 340.48,
+          "text": "你得我有点想上厕所",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00191"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 340.48,
+          "end": 343.96,
+          "text": "来我给你接着你上吧",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00192"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“你得／接着”等原句识别不清，两个角色仅按前后问答暂分。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q008",
+      "title": "说坐一会就走，房间多的回应是什么？",
+      "category": "邀约与安排",
+      "start": 450.56,
+      "end": 481.16,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 450.56,
+          "end": 451.72,
+          "text": "一会就走了啊",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00271"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 452.36,
+          "end": 454.24,
+          "text": "没事。我家里房间挺多的",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00272",
+            "BV1ZX9KBUEip-00273"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 475.56,
+          "end": 481.16,
+          "text": "但是后面到了他家门口了。我又说什么。我说我坐一会我就走。你看这就是推",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00288",
+            "BV1ZX9KBUEip-00289",
+            "BV1ZX9KBUEip-00290",
+            "BV1ZX9KBUEip-00291"
+          ]
+        }
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1ZX9KBUEip-q009",
+      "title": "有没有其他男朋友来过？",
+      "category": "信任与质疑",
+      "start": 454.24,
+      "end": 457.84,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 454.24,
+          "end": 455.44,
+          "text": "有没有其他男朋友",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00274"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 455.44,
+          "end": 456.4,
+          "text": "你是第一个",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00275"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 456.4,
+          "end": 457.08,
+          "text": "怎讲啊",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00276"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 457.08,
+          "end": 457.84,
+          "text": "真的",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00277"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "问句仅“有没有其他男朋友”没有明确来过含义，题目按房间语境概括，未把来过或恋爱经历当已确认事实；“怎讲啊”疑有错字。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q010",
+      "title": "一个人住这么大的房子吗？",
+      "category": "信息与经历",
+      "start": 461.0,
+      "end": 467.4,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 461.0,
+          "end": 463.92,
+          "text": "哇套。你一个人住这么大的房子啊",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00278",
+            "BV1ZX9KBUEip-00279"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 463.92,
+          "end": 464.6,
+          "text": "还好吧",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00280"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 464.6,
+          "end": 465.72,
+          "text": "也不胜吧",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00281"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 465.72,
+          "end": 466.76,
+          "text": "你换鞋吧",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00282"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 466.76,
+          "end": 467.4,
+          "text": "哦",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00283"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“也不胜吧”内容和说话者不清，“哇套”保留原机器字。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q011",
+      "title": "自己住不害怕吗？",
+      "category": "关系与意图",
+      "start": 516.0,
+      "end": 520.28,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 516.0,
+          "end": 517.92,
+          "text": "你自己住不害怕吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00317"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 517.92,
+          "end": 520.28,
+          "text": "你不是在吗。你在我害怕啥",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00318",
+            "BV1ZX9KBUEip-00319"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1ZX9KBUEip-q012",
+      "title": "如果我走了，你还会害怕吗？",
+      "category": "邀约与安排",
+      "start": 522.04,
+      "end": 527.36,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 522.04,
+          "end": 524.04,
+          "text": "那要是我走了呢",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00320"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 524.04,
+          "end": 524.76,
+          "text": "你要走啊",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00321"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 526.12,
+          "end": 527.36,
+          "text": "啊。我不能走吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00322",
+            "BV1ZX9KBUEip-00323"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "末尾只有反问“我不能走吗”，之后对方回答未可靠识别；题目不推定实际愿不愿留宿。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q013",
+      "title": "不冷吗，要一起盖毯子吗？",
+      "category": "隐私与边界",
+      "start": 546.32,
+      "end": 551.0,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 546.32,
+          "end": 547.16,
+          "text": "你不冷吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00325"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 548.92,
+          "end": 551.0,
+          "text": "没事啊。我们可以一起盖摊子",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00326",
+            "BV1ZX9KBUEip-00327"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "两边说话者无法从稿确定；“摊子”照稿保留，未推定实际身体接触。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q014",
+      "title": "不拍素材还会约我吗？",
+      "category": "关系与意图",
+      "start": 552.84,
+      "end": 562.88,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 552.84,
+          "end": 555.88,
+          "text": "你不拍素材。你还约我吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00328",
+            "BV1ZX9KBUEip-00329"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 555.88,
+          "end": 557.24,
+          "text": "那你想让我约你吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00330"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 557.24,
+          "end": 558.16,
+          "text": "你觉得呢",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00331"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 558.16,
+          "end": 562.88,
+          "text": "我也不知道。我猜不透你的心思啊。等我猜透了我就约你",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00332",
+            "BV1ZX9KBUEip-00333",
+            "BV1ZX9KBUEip-00334"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1ZX9KBUEip-q015",
+      "title": "只是为了教学才约我的吗？",
+      "category": "信任与质疑",
+      "start": 565.28,
+      "end": 576.76,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 565.28,
+          "end": 569.36,
+          "text": "你是不是为了教学才约我的。只是你作品里面的一个牺牲者而已",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00335",
+            "BV1ZX9KBUEip-00336"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 570.52,
+          "end": 576.76,
+          "text": "你怎么能是我作品里的牺牲者。你是我浪漫的体验者。是咱俩美好回忆的一部分",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00337",
+            "BV1ZX9KBUEip-00338",
+            "BV1ZX9KBUEip-00339"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1ZX9KBUEip-q016",
+      "title": "回忆里还有不少女生吧？",
+      "category": "信任与质疑",
+      "start": 576.76,
+      "end": 695.48,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 576.76,
+          "end": 579.16,
+          "text": "那你回忆里恐怕不少女生吧",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00340"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 579.16,
+          "end": 583.92,
+          "text": "回忆不重要。重要的是咱俩现在在一起。就可以了呀",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00341",
+            "BV1ZX9KBUEip-00342",
+            "BV1ZX9KBUEip-00343"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 686.96,
+          "end": 695.48,
+          "text": "所以说这个时候。我就不回答他有多少个女生。我直接说回忆不重要。就是你的问题根本就不重要。重要的是我们现在在一起。这就是我输出我的框架了",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00409",
+            "BV1ZX9KBUEip-00410",
+            "BV1ZX9KBUEip-00411",
+            "BV1ZX9KBUEip-00412",
+            "BV1ZX9KBUEip-00413",
+            "BV1ZX9KBUEip-00414"
+          ]
+        }
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1ZX9KBUEip-q017",
+      "title": "再次说回忆里有很多女生，怎样回应？",
+      "category": "信任与质疑",
+      "start": 583.92,
+      "end": 591.64,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 583.92,
+          "end": 585.88,
+          "text": "你回忆里肯定有很多女生",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00344"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 585.88,
+          "end": 591.64,
+          "text": "我不喜欢回忆啊。我就只喜欢享受现在。就现在咱俩在一起这种感觉",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00345",
+            "BV1ZX9KBUEip-00346",
+            "BV1ZX9KBUEip-00347"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1ZX9KBUEip-q018",
+      "title": "以后肯定会把我忘了吧？",
+      "category": "关系与意图",
+      "start": 591.64,
+      "end": 597.68,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 591.64,
+          "end": 594.16,
+          "text": "那你后面肯定得把我忘了。是吧",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00348",
+            "BV1ZX9KBUEip-00349"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 594.16,
+          "end": 597.68,
+          "text": "那你多约我几次啊。你多约我几次我就不会忘了呀",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00350",
+            "BV1ZX9KBUEip-00351"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1ZX9KBUEip-q019",
+      "title": "凭什么要我主动约你？",
+      "category": "关系与意图",
+      "start": 597.68,
+      "end": 600.56,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 597.68,
+          "end": 600.56,
+          "text": "凭什么我约你啊。你怎么不约我",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00352",
+            "BV1ZX9KBUEip-00353"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "紧接着对方转问是否去过其他女孩家，未识别到对这一问的直接回答；保留缺答，不补出回应。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q020",
+      "title": "去过其他女孩家吗？",
+      "category": "信息与经历",
+      "start": 600.56,
+      "end": 606.56,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 600.56,
+          "end": 602.52,
+          "text": "你去过其他女孩家里面",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00354"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 602.52,
+          "end": 606.56,
+          "text": "去过。我小学班族人家里。去他家补习作业",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00355",
+            "BV1ZX9KBUEip-00356",
+            "BV1ZX9KBUEip-00357"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“小学班族人”疑为机器错字，未改成具体身份。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q021",
+      "title": "说不信你、你只会骗人，怎样回应？",
+      "category": "信任与质疑",
+      "start": 606.56,
+      "end": 615.72,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 606.56,
+          "end": 608.8,
+          "text": "我不信。你就知道骗人",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00358",
+            "BV1ZX9KBUEip-00359"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 608.8,
+          "end": 611.88,
+          "text": "我从来不骗人。都是女生骗我",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00360",
+            "BV1ZX9KBUEip-00361"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 611.88,
+          "end": 615.72,
+          "text": "哦。差点就信了",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00362",
+            "BV1ZX9KBUEip-00363"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1ZX9KBUEip-q022",
+      "title": "提起前女友，怎样接着谈信任？",
+      "category": "信任与质疑",
+      "start": 615.72,
+      "end": 624.32,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 615.72,
+          "end": 618.48,
+          "text": "你肯定跟你前女友",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00364"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 618.48,
+          "end": 622.04,
+          "text": "你不想相信我的话。我说啥你都不信",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00365",
+            "BV1ZX9KBUEip-00366"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 622.04,
+          "end": 624.32,
+          "text": "我怎么又不信你了。我肯定信你啊",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00367",
+            "BV1ZX9KBUEip-00368"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "对方起句“你肯定跟你前女友”未完成或未完整识别，保留残句，不补造其具体指控。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q023",
+      "title": "经常与女孩暧昧又不给结果吗？",
+      "category": "关系与意图",
+      "start": 624.32,
+      "end": 750.64,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "other",
+          "start": 624.32,
+          "end": 627.92,
+          "text": "你肯定经常跟女孩爱妹。然后不给结果啥的",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00369",
+            "BV1ZX9KBUEip-00370"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 627.92,
+          "end": 630.24,
+          "text": "你觉得咱俩现在还爱妹吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00371"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 630.24,
+          "end": 635.0,
+          "text": "能都不爱妹吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00372"
+          ]
+        }
+      ],
+      "commentary": [
+        {
+          "speaker": "commentary",
+          "start": 730.36,
+          "end": 750.64,
+          "text": "他刚才问了我一个问题。他说你肯定跟很多女孩都很爱美。你看跟很多女孩都很爱美。这很多女孩就是第三方。所以你不要去聊。我跟这些女孩怎么怎么样。我跟她们不爱美怎么怎么样。你看这都是在聊这第三方啊。这就不行啊。你就直接撤回到咱俩身上。你觉得咱俩爱美吗。看到了吗。把第三方跑出去。学会了吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00439",
+            "BV1ZX9KBUEip-00440",
+            "BV1ZX9KBUEip-00441",
+            "BV1ZX9KBUEip-00442",
+            "BV1ZX9KBUEip-00443",
+            "BV1ZX9KBUEip-00444",
+            "BV1ZX9KBUEip-00445",
+            "BV1ZX9KBUEip-00446",
+            "BV1ZX9KBUEip-00447",
+            "BV1ZX9KBUEip-00448",
+            "BV1ZX9KBUEip-00449",
+            "BV1ZX9KBUEip-00450",
+            "BV1ZX9KBUEip-00451",
+            "BV1ZX9KBUEip-00452"
+          ]
+        }
+      ],
+      "uncertainty": "“爱妹／能都不爱妹吗”机器错字保留，未通过讲解复述反改现场文本。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q024",
+      "title": "提出离开，对方怎样挽留？",
+      "category": "邀约与安排",
+      "start": 780.56,
+      "end": 790.28,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 780.56,
+          "end": 781.4,
+          "text": "那我走了吧",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00472"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 783.8,
+          "end": 784.8,
+          "text": "你想走了",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00473"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 786.72,
+          "end": 787.64,
+          "text": "这么晚了吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00474"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 788.88,
+          "end": 790.28,
+          "text": "你就不想和我待了呗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00475"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“这么晚了吗”说话者按相邻对答暂分；无原声确认。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q025",
+      "title": "你不想让我走吗？",
+      "category": "关系与意图",
+      "start": 793.52,
+      "end": 801.52,
+      "verification": "asr_text_reviewed",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 793.52,
+          "end": 794.56,
+          "text": "你不想让我走",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00476"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 795.32,
+          "end": 796.72,
+          "text": "我可没有这么说",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00477"
+          ]
+        },
+        {
+          "speaker": "responder",
+          "start": 799.24,
+          "end": 799.88,
+          "text": "那我走",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00478"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 800.72,
+          "end": 801.52,
+          "text": "你确定",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00479"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": ""
+    },
+    {
+      "id": "BV1ZX9KBUEip-q026",
+      "title": "要不再喝点，还想喝吗？",
+      "category": "偏好与选择",
+      "start": 803.36,
+      "end": 812.32,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "unknown",
+          "start": 803.36,
+          "end": 804.36,
+          "text": "要不再喝点",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00480"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 805.4,
+          "end": 806.4,
+          "text": "你想喝点吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00481"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 807.56,
+          "end": 808.28,
+          "text": "你想我就想",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00482"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 809.28,
+          "end": 810.08,
+          "text": "我都行吗",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00483"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 811.56,
+          "end": 812.32,
+          "text": "那我下去买酒",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00484"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "这一段说话者无法从文本稳定判断，“我都行吗”句式含糊；不据此推定双方饮酒意愿。"
+    },
+    {
+      "id": "BV1ZX9KBUEip-q027",
+      "title": "说今天喝够了要走，怎样回应？",
+      "category": "邀约与安排",
+      "start": 818.88,
+      "end": 826.56,
+      "verification": "uncertain",
+      "turns": [
+        {
+          "speaker": "responder",
+          "start": 818.88,
+          "end": 821.92,
+          "text": "今天喝得够多了。我先回去了",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00485",
+            "BV1ZX9KBUEip-00486"
+          ]
+        },
+        {
+          "speaker": "other",
+          "start": 823.72,
+          "end": 824.72,
+          "text": "你又骗我了",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00487"
+          ]
+        },
+        {
+          "speaker": "unknown",
+          "start": 825.6,
+          "end": 826.56,
+          "text": "我走 麦克",
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-00488"
+          ]
+        }
+      ],
+      "commentary": [],
+      "uncertainty": "“我走 麦克”识别和说话者不清；未推定后续确实离场。"
+    }
+  ],
+  "caption_frames_visually_reviewed": 14
+}

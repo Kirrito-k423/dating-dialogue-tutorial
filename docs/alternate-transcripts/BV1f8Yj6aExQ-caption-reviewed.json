@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1f8Yj6aExQ",
+  "method": "Selected burned-in captions directly checked against source video frames; 0.75-second sample intervals are not exact speech boundaries; no audio listening",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1f8Yj6aExQ-caption-reviewed-0004",
+      "start": 38.25,
+      "end": 39.0,
+      "text": "不好意思",
+      "last_sample": 38.25,
+      "samples": [
+        "frame-0038.250.png"
+      ],
+      "first_frame_sha256": "9d39beb38ab10c26d59661f1f1fe0ac1dab676795ce049ab004ea0022b3dc979",
+      "visual_reviewed": true,
+      "review_basis": "直接查看首张来源帧核对烧录字幕字形，非音频听校",
+      "ocr_original_text": "不好意思"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-reviewed-0005",
+      "start": 39,
+      "end": 40.5,
+      "text": "帅哥在这拍照呢",
+      "last_sample": 39.75,
+      "samples": [
+        "frame-0039.000.png",
+        "frame-0039.750.png"
+      ],
+      "first_frame_sha256": "3423907406672fb40aeaf7f8113012d597b2073a150e061982bb70fdfc975174",
+      "visual_reviewed": true,
+      "review_basis": "直接查看首张来源帧核对烧录字幕字形，非音频听校",
+      "ocr_original_text": "帅哥在这拍照呢"
+    },
+    {
+      "id": "BV1f8Yj6aExQ-caption-reviewed-0020",
+      "start": 57.75,
+      "end": 58.5,
+      "text": "她多少万粉丝啊",
+      "last_sample": 57.75,
+      "samples": [
+        "frame-0057.750.png"
+      ],
+      "first_frame_sha256": "26ffd3d12b727bb89f8af82c3489f0ed7abdd847194f75be67a928741f494ffd",
+      "visual_reviewed": true,
+      "review_basis": "直接查看首张来源帧核对烧录字幕字形，非音频听校",
+      "ocr_original_text": "她务少万粉丝啊"
+    }
+  ]
+}

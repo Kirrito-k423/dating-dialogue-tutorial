@@ -1,0 +1,3035 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1ZX9KBUEip",
+  "method": "whisper.cpp v1.9.5 small-q5_1; zh; Metal; beam_size=3; best_of=3; threads=4; unedited machine draft",
+  "listening_verified": false,
+  "created_at": "2026-10-14T17:06:00+08:00",
+  "segments": [
+    {
+      "id": "BV1ZX9KBUEip-00001",
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Hello 兄弟们 我是许哥"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00002",
+      "start": 1.72,
+      "end": 4.8,
+      "text": "那么今天给大家带来一期实战约会技巧解析"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00003",
+      "start": 4.8,
+      "end": 8.4,
+      "text": "今天咱们的女主角是一个住豪宅的女妇婆"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00004",
+      "start": 8.4,
+      "end": 10.28,
+      "text": "像咱们一种普通长相的男生"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00005",
+      "start": 10.28,
+      "end": 13.88,
+      "text": "如何通过情商和操作让她喜欢像我们呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00006",
+      "start": 13.88,
+      "end": 16.72,
+      "text": "那么今天许哥就给大家实战也是"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00007",
+      "start": 16.72,
+      "end": 18.64,
+      "text": "如果你面对这种条件好"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00008",
+      "start": 18.64,
+      "end": 20.12,
+      "text": "而且很会玩的女孩"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00009",
+      "start": 20.12,
+      "end": 21.32,
+      "text": "不知道如何拉伸关系"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00010",
+      "start": 21.32,
+      "end": 23.36,
+      "text": "以及面对她的各种测试"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00011",
+      "start": 23.36,
+      "end": 25.88,
+      "text": "那么我们今天将来再来一件事"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00012",
+      "start": 25.88,
+      "end": 30.68,
+      "text": "好了 闲话不多说 咱们直接开始"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00013",
+      "start": 55.88,
+      "end": 77.0,
+      "text": "回顾一下 刚才这一整段第一个技巧是什么"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00014",
+      "start": 77.0,
+      "end": 78.8,
+      "text": "来 兄弟们谁知道在弹幕里打出来"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00015",
+      "start": 78.8,
+      "end": 80.04,
+      "text": "是的 就是迟到"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00016",
+      "start": 80.04,
+      "end": 81.2,
+      "text": "这个女生迟到了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00017",
+      "start": 81.2,
+      "end": 82.48,
+      "text": "那么许哥是怎么做的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00018",
+      "start": 82.48,
+      "end": 84.16,
+      "text": "我是直接给她点出来了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00019",
+      "start": 84.16,
+      "end": 85.28,
+      "text": "我直接说你迟到了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00020",
+      "start": 85.28,
+      "end": 87.68,
+      "text": "那么这就是我要告诉大家的第一个重点"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00021",
+      "start": 87.68,
+      "end": 88.8,
+      "text": "如果我们约会的时候"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00022",
+      "start": 88.8,
+      "end": 89.96,
+      "text": "女生迟到了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00023",
+      "start": 89.96,
+      "end": 92.36,
+      "text": "或者说她有其他类似不尊重我们的行为"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00024",
+      "start": 92.36,
+      "end": 94.32,
+      "text": "我们一定要给她点出来"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00025",
+      "start": 94.32,
+      "end": 96.16,
+      "text": "千万不要觉得我要是这样说了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00026",
+      "start": 96.16,
+      "end": 97.6,
+      "text": "万一她生气了怎么办"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00027",
+      "start": 97.6,
+      "end": 99.04,
+      "text": "很多兄弟就会犯这个错误"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00028",
+      "start": 99.04,
+      "end": 99.64,
+      "text": "就生怕"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00029",
+      "start": 99.64,
+      "end": 100.68,
+      "text": "哎呀 我说了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00030",
+      "start": 100.68,
+      "end": 101.4,
+      "text": "她不开心了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00031",
+      "start": 101.4,
+      "end": 102.76,
+      "text": "这关系是不是就尴尬了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00032",
+      "start": 102.76,
+      "end": 104.28,
+      "text": "哪怕女生迟到了一个小时"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00033",
+      "start": 104.28,
+      "end": 105.0,
+      "text": "她都得说"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00034",
+      "start": 105.0,
+      "end": 106.08,
+      "text": "哎呀 没事没事"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00035",
+      "start": 106.08,
+      "end": 108.32,
+      "text": "男生等女人那不是正常的吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00036",
+      "start": 108.32,
+      "end": 109.2,
+      "text": "我跟你说你这么做"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00037",
+      "start": 109.2,
+      "end": 109.84,
+      "text": "你就是归男"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00038",
+      "start": 109.84,
+      "end": 111.24,
+      "text": "没有女生会尊重你的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00039",
+      "start": 111.24,
+      "end": 111.72,
+      "text": "为什么呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00040",
+      "start": 111.72,
+      "end": 113.6,
+      "text": "因为女生自己其实都知道"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00041",
+      "start": 113.6,
+      "end": 115.36,
+      "text": "她自己在迟到 在不尊重你"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00042",
+      "start": 115.36,
+      "end": 116.96,
+      "text": "她其实就是想看一看"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00043",
+      "start": 116.96,
+      "end": 118.28,
+      "text": "哎 我要是这么干了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00044",
+      "start": 118.28,
+      "end": 119.56,
+      "text": "哎 你会什么反应"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00045",
+      "start": 119.56,
+      "end": 120.84,
+      "text": "如果她发现"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00046",
+      "start": 120.84,
+      "end": 121.96,
+      "text": "我迟到这么久"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00047",
+      "start": 121.96,
+      "end": 122.96,
+      "text": "你都无所谓"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00048",
+      "start": 122.96,
+      "end": 124.24,
+      "text": "你都不敢点破"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00049",
+      "start": 124.24,
+      "end": 125.28,
+      "text": "那女生就知道了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00050",
+      "start": 125.28,
+      "end": 127.44,
+      "text": "你这个男生不值得我尊重"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00051",
+      "start": 127.44,
+      "end": 129.16,
+      "text": "所以以后你会发现她会更过分"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00052",
+      "start": 129.16,
+      "end": 130.12,
+      "text": "你越忍她"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00053",
+      "start": 130.12,
+      "end": 131.32,
+      "text": "她就越得寸进尺"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00054",
+      "start": 131.32,
+      "end": 133.16,
+      "text": "她并不会因为你的善良"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00055",
+      "start": 133.16,
+      "end": 134.04,
+      "text": "然后喜欢你"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00056",
+      "start": 134.04,
+      "end": 135.2,
+      "text": "她只会因为你的善良"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00057",
+      "start": 135.2,
+      "end": 136.04,
+      "text": "不停地见她"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00058",
+      "start": 136.04,
+      "end": 137.64,
+      "text": "因为人性就是这样的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00059",
+      "start": 137.64,
+      "end": 139.16,
+      "text": "女生喜欢一个男人"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00060",
+      "start": 139.16,
+      "end": 140.44,
+      "text": "女生前期"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00061",
+      "start": 140.44,
+      "end": 142.6,
+      "text": "根本不在乎这个男生对她好不好"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00062",
+      "start": 142.6,
+      "end": 144.04,
+      "text": "女生只在乎这个男生"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00063",
+      "start": 144.04,
+      "end": 146.08,
+      "text": "是不是一个强大的男人"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00064",
+      "start": 146.08,
+      "end": 147.96,
+      "text": "因为女生则我都是目强的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00065",
+      "start": 147.96,
+      "end": 151.08,
+      "text": "她首先得先确定你是一个强者"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00066",
+      "start": 151.08,
+      "end": 152.92,
+      "text": "她才愿意去考虑"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00067",
+      "start": 152.92,
+      "end": 154.0,
+      "text": "你要不要对我好"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00068",
+      "start": 154.0,
+      "end": 156.2,
+      "text": "如果你都没有证明你是一个强者"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00069",
+      "start": 156.2,
+      "end": 157.12,
+      "text": "那么你对她的好"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00070",
+      "start": 157.12,
+      "end": 158.68,
+      "text": "就是一个弱者的讨好"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00071",
+      "start": 158.68,
+      "end": 159.88,
+      "text": "你记住对女生好"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00072",
+      "start": 159.88,
+      "end": 161.16,
+      "text": "在女生看来也有两种"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00073",
+      "start": 161.16,
+      "end": 162.88,
+      "text": "第一种是强者对我的赏赐"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00074",
+      "start": 162.88,
+      "end": 164.44,
+      "text": "第二种是弱者对我的贵铁"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00075",
+      "start": 164.44,
+      "end": 165.2,
+      "text": "啊 明白了吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00076",
+      "start": 165.2,
+      "end": 167.48,
+      "text": "我们一定要先证明我们是一个强者"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00077",
+      "start": 167.48,
+      "end": 168.96,
+      "text": "这个时候你对女生好"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00078",
+      "start": 168.96,
+      "end": 169.8,
+      "text": "她才会珍惜"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00079",
+      "start": 169.8,
+      "end": 170.72,
+      "text": "她才会感激"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00080",
+      "start": 170.72,
+      "end": 171.88,
+      "text": "人类就是这样的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00081",
+      "start": 171.88,
+      "end": 172.88,
+      "text": "人性就是这样的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00082",
+      "start": 172.88,
+      "end": 175.52,
+      "text": "人性只会珍惜强者对我的赏赐"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00083",
+      "start": 175.52,
+      "end": 177.68,
+      "text": "人性不会珍惜弱者对我的讨好的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00084",
+      "start": 177.68,
+      "end": 179.0,
+      "text": "所以很多兄弟一上来"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00085",
+      "start": 179.0,
+      "end": 179.92,
+      "text": "就会犯一个大错误"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00086",
+      "start": 179.92,
+      "end": 182.2,
+      "text": "就是还没有证明自己是一个强者的时候"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00087",
+      "start": 182.2,
+      "end": 183.44,
+      "text": "就在疯狂地对女生好"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00088",
+      "start": 183.44,
+      "end": 184.44,
+      "text": "第二个点是什么呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00089",
+      "start": 184.44,
+      "end": 187.12,
+      "text": "就是我们一定要控制好现场的氛围"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00090",
+      "start": 187.12,
+      "end": 187.96,
+      "text": "你千万不要"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00091",
+      "start": 187.96,
+      "end": 188.84,
+      "text": "因为女生迟到了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00092",
+      "start": 188.84,
+      "end": 190.52,
+      "text": "你因为这件事跟她干起来了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00093",
+      "start": 190.52,
+      "end": 192.24,
+      "text": "我之前就看过有学员这样的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00094",
+      "start": 192.24,
+      "end": 192.84,
+      "text": "学东西"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00095",
+      "start": 192.84,
+      "end": 193.48,
+      "text": "学框架"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00096",
+      "start": 193.48,
+      "end": 194.52,
+      "text": "学走火入魔了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00097",
+      "start": 194.52,
+      "end": 195.2,
+      "text": "女生迟到了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00098",
+      "start": 195.2,
+      "end": 196.24,
+      "text": "我非得怼她两句"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00099",
+      "start": 196.24,
+      "end": 197.2,
+      "text": "怼得女生生气"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00100",
+      "start": 197.2,
+      "end": 198.12,
+      "text": "拎包直接走了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00101",
+      "start": 198.12,
+      "end": 199.32,
+      "text": "那废了啊 兄弟"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00102",
+      "start": 199.32,
+      "end": 202.44,
+      "text": "就是我们稍微点破一下让她知道"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00103",
+      "start": 202.44,
+      "end": 203.76,
+      "text": "我们在意这件事"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00104",
+      "start": 203.76,
+      "end": 205.56,
+      "text": "但是我们还是要开个玩笑"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00105",
+      "start": 205.56,
+      "end": 206.6,
+      "text": "把这个氛围给拉回来"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00106",
+      "start": 206.6,
+      "end": 208.0,
+      "text": "所以她当时说"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00107",
+      "start": 208.0,
+      "end": 209.0,
+      "text": "让我打她的时候"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00108",
+      "start": 209.0,
+      "end": 209.48,
+      "text": "我直接说"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00109",
+      "start": 209.48,
+      "end": 211.0,
+      "text": "我说你是不是有M倾向啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00110",
+      "start": 211.0,
+      "end": 211.56,
+      "text": "就够了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00111",
+      "start": 211.56,
+      "end": 213.24,
+      "text": "点到为止也不要说得太慌"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00112",
+      "start": 213.24,
+      "end": 213.64,
+      "text": "好吧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00113",
+      "start": 213.64,
+      "end": 215.4,
+      "text": "大家哈哈一笑就过去了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00114",
+      "start": 215.4,
+      "end": 216.68,
+      "text": "然后第三个技巧呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00115",
+      "start": 216.68,
+      "end": 217.72,
+      "text": "叫御情故众"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00116",
+      "start": 217.72,
+      "end": 219.16,
+      "text": "就很多时候你想拉升关系"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00117",
+      "start": 219.16,
+      "end": 220.6,
+      "text": "你不要直接去牵来的手"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00118",
+      "start": 220.6,
+      "end": 221.52,
+      "text": "或直接去亲她"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00119",
+      "start": 221.52,
+      "end": 223.08,
+      "text": "这样会显得你需求很强"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00120",
+      "start": 223.08,
+      "end": 224.0,
+      "text": "你很多时候呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00121",
+      "start": 224.0,
+      "end": 225.64,
+      "text": "你可以给她造成那种氛围"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00122",
+      "start": 225.64,
+      "end": 226.68,
+      "text": "但是你就退回来"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00123",
+      "start": 226.68,
+      "end": 228.36,
+      "text": "例如说我刚才就是这样"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00124",
+      "start": 228.36,
+      "end": 229.2,
+      "text": "可以靠近她"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00125",
+      "start": 229.2,
+      "end": 230.12,
+      "text": "她以为我要亲她"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00126",
+      "start": 230.12,
+      "end": 230.68,
+      "text": "我跟她说"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00127",
+      "start": 230.68,
+      "end": 231.44,
+      "text": "你给我夹个麦克"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00128",
+      "start": 231.44,
+      "end": 231.76,
+      "text": "你看"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00129",
+      "start": 231.76,
+      "end": 232.88,
+      "text": "这个时候女生就会想"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00130",
+      "start": 232.88,
+      "end": 234.52,
+      "text": "哎呀是不是我想多了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00131",
+      "start": 234.52,
+      "end": 234.84,
+      "text": "是不是"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00132",
+      "start": 234.84,
+      "end": 237.44,
+      "text": "你看女生她会自己脸红"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00133",
+      "start": 237.44,
+      "end": 238.44,
+      "text": "才是喜欢你"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00134",
+      "start": 238.44,
+      "end": 239.88,
+      "text": "如果你真要去亲她了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00135",
+      "start": 239.88,
+      "end": 240.92,
+      "text": "她反而躲开了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00136",
+      "start": 240.92,
+      "end": 242.6,
+      "text": "这样就会显得你很极客了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00137",
+      "start": 242.6,
+      "end": 243.64,
+      "text": "然后她不喜欢你"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00138",
+      "start": 243.64,
+      "end": 245.04,
+      "text": "这种氛围一旦形成的话"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00139",
+      "start": 245.04,
+      "end": 246.44,
+      "text": "你后面拉升关系就很难了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00140",
+      "start": 246.44,
+      "end": 247.92,
+      "text": "她就会习惯性的抗拒你了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00141",
+      "start": 247.92,
+      "end": 248.88,
+      "text": "但是我们这种呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00142",
+      "start": 248.88,
+      "end": 250.68,
+      "text": "让她以为我们要拉升关系"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00143",
+      "start": 250.68,
+      "end": 252.88,
+      "text": "实际上呢我们又没有拉升关系"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00144",
+      "start": 252.88,
+      "end": 253.28,
+      "text": "哎"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00145",
+      "start": 253.28,
+      "end": 254.24,
+      "text": "她就会有一种"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00146",
+      "start": 254.24,
+      "end": 255.56,
+      "text": "哎本来以为要得到了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00147",
+      "start": 255.56,
+      "end": 256.28,
+      "text": "又没得到"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00148",
+      "start": 256.28,
+      "end": 257.92,
+      "text": "失去了的这种失落感"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00149",
+      "start": 257.92,
+      "end": 259.92,
+      "text": "这种落差感会让她对我们伤害"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00150",
+      "start": 259.92,
+      "end": 261.32,
+      "text": "其实我很久没出来喝酒了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00151",
+      "start": 261.32,
+      "end": 263.04,
+      "text": "就你约我我才出来"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00152",
+      "start": 263.04,
+      "end": 264.08,
+      "text": "你知道吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00153",
+      "start": 264.08,
+      "end": 266.8,
+      "text": "那那时候我约你你就出来呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00154",
+      "start": 266.8,
+      "end": 267.8,
+      "text": "因为我看你朋友圈儿"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00155",
+      "start": 267.8,
+      "end": 269.28,
+      "text": "觉得你最近点漂亮了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00156",
+      "start": 269.28,
+      "end": 270.84,
+      "text": "那我以前不好看"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00157",
+      "start": 270.84,
+      "end": 272.08,
+      "text": "你想听石花吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00158",
+      "start": 272.08,
+      "end": 272.8,
+      "text": "废话"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00159",
+      "start": 272.8,
+      "end": 273.92,
+      "text": "咱俩玩骰子"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00160",
+      "start": 273.92,
+      "end": 275.24,
+      "text": "你要赢我了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00161",
+      "start": 275.24,
+      "end": 276.64,
+      "text": "完了我就告诉你石花"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00162",
+      "start": 276.64,
+      "end": 277.48,
+      "text": "来就来"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00163",
+      "start": 277.48,
+      "end": 278.44,
+      "text": "准备"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00164",
+      "start": 278.44,
+      "end": 280.8,
+      "text": "准备"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00165",
+      "start": 280.8,
+      "end": 282.16,
+      "text": "你给我输了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00166",
+      "start": 282.16,
+      "end": 283.84,
+      "text": "太差了吧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00167",
+      "start": 283.84,
+      "end": 285.8,
+      "text": "哎你这样骰了喝酒"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00168",
+      "start": 285.8,
+      "end": 288.48,
+      "text": "你又输了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00169",
+      "start": 288.48,
+      "end": 289.88,
+      "text": "我有点喝多了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00170",
+      "start": 290.48,
+      "end": 292.44,
+      "text": "你在喝多上你就喝多了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00171",
+      "start": 292.44,
+      "end": 294.56,
+      "text": "是你故意惯罪我的吧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00172",
+      "start": 294.56,
+      "end": 296.92,
+      "text": "是你自己要喝这么多的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00173",
+      "start": 298.36,
+      "end": 299.16,
+      "text": "我靠一会"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00174",
+      "start": 308.16,
+      "end": 309.4,
+      "text": "你家远吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00175",
+      "start": 309.4,
+      "end": 311.4,
+      "text": "还好不过家远"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00176",
+      "start": 311.4,
+      "end": 312.6,
+      "text": "我还好"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00177",
+      "start": 312.6,
+      "end": 313.68,
+      "text": "我还好"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00178",
+      "start": 313.68,
+      "end": 316.96,
+      "text": "我还好不远"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00179",
+      "start": 316.96,
+      "end": 317.64,
+      "text": "你要是太远的话"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00180",
+      "start": 317.64,
+      "end": 319.52,
+      "text": "我就不回去了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00181",
+      "start": 324.28,
+      "end": 325.4,
+      "text": "你干嘛"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00182",
+      "start": 325.4,
+      "end": 326.72,
+      "text": "有蚊子蚊子"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00183",
+      "start": 326.72,
+      "end": 327.6,
+      "text": "你好用力啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00184",
+      "start": 327.6,
+      "end": 328.88,
+      "text": "痛苦啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00185",
+      "start": 328.88,
+      "end": 330.64,
+      "text": "我有点阴车"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00186",
+      "start": 330.64,
+      "end": 331.4,
+      "text": "我真的有一个方法"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00187",
+      "start": 331.4,
+      "end": 332.72,
+      "text": "可以不运车"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00188",
+      "start": 332.72,
+      "end": 334.96,
+      "text": "你把你手给我来"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00189",
+      "start": 334.96,
+      "end": 336.28,
+      "text": "捏这"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00190",
+      "start": 336.28,
+      "end": 338.04,
+      "text": "只要一时捏这就可以不运车"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00191",
+      "start": 338.04,
+      "end": 340.48,
+      "text": "你得我有点想上厕所"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00192",
+      "start": 340.48,
+      "end": 343.96,
+      "text": "来我给你接着你上吧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00193",
+      "start": 350.64,
+      "end": 351.76,
+      "text": "如果你们看了这个"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00194",
+      "start": 351.76,
+      "end": 353.28,
+      "text": "运车牵手机桥"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00195",
+      "start": 353.28,
+      "end": 354.44,
+      "text": "你们可能会问了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00196",
+      "start": 354.44,
+      "end": 356.36,
+      "text": "那如果女生不运车怎么办呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00197",
+      "start": 356.36,
+      "end": 357.36,
+      "text": "动动脑子"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00198",
+      "start": 357.36,
+      "end": 358.64,
+      "text": "我们可以运车"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00199",
+      "start": 358.64,
+      "end": 360.04,
+      "text": "你傻呀"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00200",
+      "start": 360.04,
+      "end": 361.52,
+      "text": "我有点运车"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00201",
+      "start": 361.52,
+      "end": 362.76,
+      "text": "靠一会"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00202",
+      "start": 362.76,
+      "end": 363.52,
+      "text": "你看"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00203",
+      "start": 363.52,
+      "end": 364.84,
+      "text": "所以说拉伸关系"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00204",
+      "start": 364.84,
+      "end": 366.84,
+      "text": "不要光想着去占别人便宜"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00205",
+      "start": 366.84,
+      "end": 368.88,
+      "text": "有的时候你得动动脑子"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00206",
+      "start": 368.88,
+      "end": 369.16,
+      "text": "对吧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00207",
+      "start": 369.16,
+      "end": 371.0,
+      "text": "包括刚才玩骰子这一段"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00208",
+      "start": 371.0,
+      "end": 371.88,
+      "text": "那可能有人问了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00209",
+      "start": 371.88,
+      "end": 372.36,
+      "text": "那叙哥"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00210",
+      "start": 372.36,
+      "end": 374.04,
+      "text": "万一我一直赢怎么办呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00211",
+      "start": 374.04,
+      "end": 375.92,
+      "text": "你赢了你一样可以用这个套路"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00212",
+      "start": 375.92,
+      "end": 376.76,
+      "text": "你可以跟女生说"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00213",
+      "start": 376.76,
+      "end": 377.84,
+      "text": "你怎么一直输呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00214",
+      "start": 377.84,
+      "end": 378.04,
+      "text": "来"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00215",
+      "start": 378.04,
+      "end": 379.04,
+      "text": "这杯我替你喝"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00216",
+      "start": 379.04,
+      "end": 379.88,
+      "text": "忽忽干一杯"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00217",
+      "start": 379.88,
+      "end": 380.84,
+      "text": "哎呦"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00218",
+      "start": 380.84,
+      "end": 381.96,
+      "text": "这杯有点干梦"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00219",
+      "start": 381.96,
+      "end": 383.16,
+      "text": "你一会靠一会"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00220",
+      "start": 383.16,
+      "end": 384.2,
+      "text": "你看不看着"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00221",
+      "start": 384.2,
+      "end": 385.96,
+      "text": "这不一样可以拉伸关系吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00222",
+      "start": 385.96,
+      "end": 386.64,
+      "text": "所以说"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00223",
+      "start": 386.64,
+      "end": 388.2,
+      "text": "这个把妹最重要是什么"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00224",
+      "start": 388.2,
+      "end": 389.48,
+      "text": "是动脑"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00225",
+      "start": 389.48,
+      "end": 390.36,
+      "text": "不要天天想着"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00226",
+      "start": 390.36,
+      "end": 391.56,
+      "text": "有钱我就能把妹了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00227",
+      "start": 391.56,
+      "end": 392.68,
+      "text": "长得帅我就能把妹了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00228",
+      "start": 392.68,
+      "end": 394.4,
+      "text": "你有脑子一样行"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00229",
+      "start": 394.4,
+      "end": 395.2,
+      "text": "没脑子的话"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00230",
+      "start": 395.2,
+      "end": 396.12,
+      "text": "你有钱长得帅"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00231",
+      "start": 396.12,
+      "end": 396.72,
+      "text": "你也白扯"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00232",
+      "start": 396.72,
+      "end": 397.84,
+      "text": "你也被女人捞得了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00233",
+      "start": 397.84,
+      "end": 400.12,
+      "text": "但是这一整段我要给大家讲的是什么呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00234",
+      "start": 400.12,
+      "end": 402.08,
+      "text": "就是你会发现我们拉伸关系"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00235",
+      "start": 402.08,
+      "end": 403.96,
+      "text": "尽量都要找一个合理的借口"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00236",
+      "start": 403.96,
+      "end": 405.04,
+      "text": "比如说我喝多了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00237",
+      "start": 405.04,
+      "end": 406.2,
+      "text": "我往前马上靠一靠"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00238",
+      "start": 406.2,
+      "end": 407.16,
+      "text": "比如说你晕车了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00239",
+      "start": 407.16,
+      "end": 408.08,
+      "text": "哎我拉着你的手"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00240",
+      "start": 408.08,
+      "end": 408.8,
+      "text": "给你捏一捏"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00241",
+      "start": 408.8,
+      "end": 409.48,
+      "text": "你就不晕车了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00242",
+      "start": 409.48,
+      "end": 411.44,
+      "text": "但实际上捏这能不能防晕车呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00243",
+      "start": 411.44,
+      "end": 412.36,
+      "text": "我他们也不知道"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00244",
+      "start": 412.36,
+      "end": 413.64,
+      "text": "这是我当时瞎编的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00245",
+      "start": 413.64,
+      "end": 414.52,
+      "text": "临场编的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00246",
+      "start": 414.52,
+      "end": 416.48,
+      "text": "你要说捏捏脖子可以不晕车"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00247",
+      "start": 416.48,
+      "end": 417.04,
+      "text": "也行"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00248",
+      "start": 417.04,
+      "end": 418.64,
+      "text": "你说你捏捏大腿根不晕车"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00249",
+      "start": 418.64,
+      "end": 419.28,
+      "text": "也行"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00250",
+      "start": 419.28,
+      "end": 420.28,
+      "text": "哪怕你狠一点"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00251",
+      "start": 420.28,
+      "end": 421.92,
+      "text": "你说我给你溜溜缝不晕车"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00252",
+      "start": 421.92,
+      "end": 422.72,
+      "text": "也行"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00253",
+      "start": 422.72,
+      "end": 424.36,
+      "text": "啊就是怕他不行啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00254",
+      "start": 427.84,
+      "end": 429.64,
+      "text": "见证插针就是拉伸关系的核心"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00255",
+      "start": 429.64,
+      "end": 431.08,
+      "text": "就是找到一切机会"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00256",
+      "start": 431.08,
+      "end": 433.72,
+      "text": "哎制造一个合理的肢体接触"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00257",
+      "start": 433.72,
+      "end": 434.6,
+      "text": "这就是拉伸关系"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00258",
+      "start": 434.6,
+      "end": 436.24,
+      "text": "因为如果你没有这个合理的理由"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00259",
+      "start": 436.24,
+      "end": 437.28,
+      "text": "你直接去牵他手"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00260",
+      "start": 437.28,
+      "end": 438.36,
+      "text": "就会显得你很即可"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00261",
+      "start": 438.36,
+      "end": 439.08,
+      "text": "需求感很强"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00262",
+      "start": 439.08,
+      "end": 439.44,
+      "text": "对不对"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00263",
+      "start": 439.44,
+      "end": 440.88,
+      "text": "但是你随便找了一个理由"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00264",
+      "start": 440.88,
+      "end": 441.72,
+      "text": "一个台阶"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00265",
+      "start": 441.72,
+      "end": 442.32,
+      "text": "然后呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00266",
+      "start": 442.32,
+      "end": 444.16,
+      "text": "自然而然的制造了肢体接触"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00267",
+      "start": 444.16,
+      "end": 446.04,
+      "text": "你们的关系就会自然而然的拉近"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00268",
+      "start": 446.04,
+      "end": 447.8,
+      "text": "不会显得你很有需求感"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00269",
+      "start": 447.8,
+      "end": 449.2,
+      "text": "但是女生也能感觉到"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00270",
+      "start": 449.2,
+      "end": 450.56,
+      "text": "你们的氛围在拉近"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00271",
+      "start": 450.56,
+      "end": 451.72,
+      "text": "一会就走了啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00272",
+      "start": 452.36,
+      "end": 452.88,
+      "text": "没事"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00273",
+      "start": 452.88,
+      "end": 454.24,
+      "text": "我家里房间挺多的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00274",
+      "start": 454.24,
+      "end": 455.44,
+      "text": "有没有其他男朋友"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00275",
+      "start": 455.44,
+      "end": 456.4,
+      "text": "你是第一个"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00276",
+      "start": 456.4,
+      "end": 457.08,
+      "text": "怎讲啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00277",
+      "start": 457.08,
+      "end": 457.84,
+      "text": "真的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00278",
+      "start": 461.0,
+      "end": 461.6,
+      "text": "哇套"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00279",
+      "start": 462.2,
+      "end": 463.92,
+      "text": "你一个人住这么大的房子啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00280",
+      "start": 463.92,
+      "end": 464.6,
+      "text": "还好吧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00281",
+      "start": 464.6,
+      "end": 465.72,
+      "text": "也不胜吧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00282",
+      "start": 465.72,
+      "end": 466.76,
+      "text": "你换鞋吧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00283",
+      "start": 466.76,
+      "end": 467.4,
+      "text": "哦"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00284",
+      "start": 469.2,
+      "end": 470.52,
+      "text": "各位有没有注意到一个细节"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00285",
+      "start": 470.52,
+      "end": 472.24,
+      "text": "我之前在车里第一遍的时候"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00286",
+      "start": 472.24,
+      "end": 474.52,
+      "text": "我说你家里的太远我就不回家了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00287",
+      "start": 474.52,
+      "end": 475.56,
+      "text": "你看我这个是在拉"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00288",
+      "start": 475.56,
+      "end": 477.56,
+      "text": "但是后面到了他家门口了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00289",
+      "start": 477.56,
+      "end": 478.32,
+      "text": "我又说什么"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00290",
+      "start": 478.32,
+      "end": 479.72,
+      "text": "我说我坐一会我就走"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00291",
+      "start": 479.72,
+      "end": 481.16,
+      "text": "你看这就是推"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00292",
+      "start": 481.16,
+      "end": 482.96,
+      "text": "所以推拉不止是简单的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00293",
+      "start": 482.96,
+      "end": 484.56,
+      "text": "画书上的这个推拉啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00294",
+      "start": 484.56,
+      "end": 486.0,
+      "text": "其实很多时候你的态度上"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00295",
+      "start": 486.0,
+      "end": 487.16,
+      "text": "也可以不停的变化"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00296",
+      "start": 487.16,
+      "end": 488.44,
+      "text": "然后这样去造成推拉"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00297",
+      "start": 488.44,
+      "end": 489.48,
+      "text": "这女生就会去想"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00298",
+      "start": 489.48,
+      "end": 489.84,
+      "text": "哎"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00299",
+      "start": 489.84,
+      "end": 490.88,
+      "text": "你刚才说要留下"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00300",
+      "start": 490.88,
+      "end": 492.0,
+      "text": "你现在怎么又说要走"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00301",
+      "start": 492.0,
+      "end": 493.16,
+      "text": "你到底留还是走"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00302",
+      "start": 493.16,
+      "end": 494.52,
+      "text": "如果你一直强调"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00303",
+      "start": 494.52,
+      "end": 495.68,
+      "text": "我要留下我要留下"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00304",
+      "start": 495.68,
+      "end": 498.12,
+      "text": "那么女生就会觉得你目的性很强"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00305",
+      "start": 498.12,
+      "end": 499.04,
+      "text": "你很即可了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00306",
+      "start": 499.04,
+      "end": 500.48,
+      "text": "你的吸引力就在下降了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00307",
+      "start": 500.48,
+      "end": 502.12,
+      "text": "但是你一会要留一会要走"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00308",
+      "start": 502.12,
+      "end": 502.96,
+      "text": "那么这个女生呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00309",
+      "start": 502.96,
+      "end": 504.24,
+      "text": "她就会觉得琢磨不透你"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00310",
+      "start": 504.24,
+      "end": 505.52,
+      "text": "她越琢磨不透你"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00311",
+      "start": 505.52,
+      "end": 507.12,
+      "text": "她就越希望你留下"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00312",
+      "start": 507.12,
+      "end": 507.84,
+      "text": "你记住了啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00313",
+      "start": 507.84,
+      "end": 510.56,
+      "text": "人是很难控制住自己的好奇心的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00314",
+      "start": 510.56,
+      "end": 512.0,
+      "text": "好奇就是吸引"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00315",
+      "start": 512.0,
+      "end": 513.72,
+      "text": "你能让她对你产生好奇"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00316",
+      "start": 513.72,
+      "end": 514.88,
+      "text": "她就会被你吸引"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00317",
+      "start": 516.0,
+      "end": 517.92,
+      "text": "你自己住不害怕吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00318",
+      "start": 517.92,
+      "end": 519.04,
+      "text": "你不是在吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00319",
+      "start": 519.04,
+      "end": 520.28,
+      "text": "你在我害怕啥"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00320",
+      "start": 522.04,
+      "end": 524.04,
+      "text": "那要是我走了呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00321",
+      "start": 524.04,
+      "end": 524.76,
+      "text": "你要走啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00322",
+      "start": 526.12,
+      "end": 526.4,
+      "text": "啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00323",
+      "start": 526.4,
+      "end": 527.36,
+      "text": "我不能走吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00324",
+      "start": 533.72,
+      "end": 535.0,
+      "text": "我去换个衣服"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00325",
+      "start": 546.32,
+      "end": 547.16,
+      "text": "你不冷吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00326",
+      "start": 548.92,
+      "end": 549.48,
+      "text": "没事啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00327",
+      "start": 549.48,
+      "end": 551.0,
+      "text": "我们可以一起盖摊子"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00328",
+      "start": 552.84,
+      "end": 554.68,
+      "text": "你不拍素材"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00329",
+      "start": 554.68,
+      "end": 555.88,
+      "text": "你还约我吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00330",
+      "start": 555.88,
+      "end": 557.24,
+      "text": "那你想让我约你吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00331",
+      "start": 557.24,
+      "end": 558.16,
+      "text": "你觉得呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00332",
+      "start": 558.16,
+      "end": 559.48,
+      "text": "我也不知道"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00333",
+      "start": 559.48,
+      "end": 561.6,
+      "text": "我猜不透你的心思啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00334",
+      "start": 561.6,
+      "end": 562.88,
+      "text": "等我猜透了我就约你"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00335",
+      "start": 565.28,
+      "end": 567.16,
+      "text": "你是不是为了教学才约我的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00336",
+      "start": 567.16,
+      "end": 569.36,
+      "text": "只是你作品里面的一个牺牲者而已"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00337",
+      "start": 570.52,
+      "end": 572.6,
+      "text": "你怎么能是我作品里的牺牲者"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00338",
+      "start": 572.6,
+      "end": 575.04,
+      "text": "你是我浪漫的体验者"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00339",
+      "start": 575.04,
+      "end": 576.76,
+      "text": "是咱俩美好回忆的一部分"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00340",
+      "start": 576.76,
+      "end": 579.16,
+      "text": "那你回忆里恐怕不少女生吧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00341",
+      "start": 579.16,
+      "end": 580.6,
+      "text": "回忆不重要"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00342",
+      "start": 580.6,
+      "end": 583.2,
+      "text": "重要的是咱俩现在在一起"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00343",
+      "start": 583.2,
+      "end": 583.92,
+      "text": "就可以了呀"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00344",
+      "start": 583.92,
+      "end": 585.88,
+      "text": "你回忆里肯定有很多女生"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00345",
+      "start": 585.88,
+      "end": 588.04,
+      "text": "我不喜欢回忆啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00346",
+      "start": 588.04,
+      "end": 589.68,
+      "text": "我就只喜欢享受现在"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00347",
+      "start": 589.68,
+      "end": 591.64,
+      "text": "就现在咱俩在一起这种感觉"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00348",
+      "start": 591.64,
+      "end": 593.64,
+      "text": "那你后面肯定得把我忘了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00349",
+      "start": 593.64,
+      "end": 594.16,
+      "text": "是吧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00350",
+      "start": 594.16,
+      "end": 595.4,
+      "text": "那你多约我几次啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00351",
+      "start": 595.4,
+      "end": 597.68,
+      "text": "你多约我几次我就不会忘了呀"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00352",
+      "start": 597.68,
+      "end": 599.12,
+      "text": "凭什么我约你啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00353",
+      "start": 599.12,
+      "end": 600.56,
+      "text": "你怎么不约我"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00354",
+      "start": 600.56,
+      "end": 602.52,
+      "text": "你去过其他女孩家里面"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00355",
+      "start": 602.52,
+      "end": 603.48,
+      "text": "去过"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00356",
+      "start": 603.48,
+      "end": 605.28,
+      "text": "我小学班族人家里"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00357",
+      "start": 605.28,
+      "end": 606.56,
+      "text": "去他家补习作业"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00358",
+      "start": 606.56,
+      "end": 607.8,
+      "text": "我不信"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00359",
+      "start": 607.8,
+      "end": 608.8,
+      "text": "你就知道骗人"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00360",
+      "start": 608.8,
+      "end": 609.8,
+      "text": "我从来不骗人"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00361",
+      "start": 609.8,
+      "end": 611.88,
+      "text": "都是女生骗我"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00362",
+      "start": 611.88,
+      "end": 614.6,
+      "text": "哦"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00363",
+      "start": 614.6,
+      "end": 615.72,
+      "text": "差点就信了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00364",
+      "start": 615.72,
+      "end": 618.48,
+      "text": "你肯定跟你前女友"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00365",
+      "start": 618.48,
+      "end": 619.8,
+      "text": "你不想相信我的话"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00366",
+      "start": 619.8,
+      "end": 622.04,
+      "text": "我说啥你都不信"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00367",
+      "start": 622.04,
+      "end": 623.2,
+      "text": "我怎么又不信你了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00368",
+      "start": 623.2,
+      "end": 624.32,
+      "text": "我肯定信你啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00369",
+      "start": 624.32,
+      "end": 626.4,
+      "text": "你肯定经常跟女孩爱妹"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00370",
+      "start": 626.4,
+      "end": 627.92,
+      "text": "然后不给结果啥的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00371",
+      "start": 627.92,
+      "end": 630.24,
+      "text": "你觉得咱俩现在还爱妹吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00372",
+      "start": 630.24,
+      "end": 635.0,
+      "text": "能都不爱妹吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00373",
+      "start": 635.0,
+      "end": 636.56,
+      "text": "这一整段测试呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00374",
+      "start": 636.56,
+      "end": 638.32,
+      "text": "给大家一个核心思路啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00375",
+      "start": 638.32,
+      "end": 639.72,
+      "text": "就是你只输出"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00376",
+      "start": 639.72,
+      "end": 640.76,
+      "text": "你想输出的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00377",
+      "start": 640.76,
+      "end": 642.56,
+      "text": "你不要去管他问了啥"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00378",
+      "start": 642.56,
+      "end": 644.2,
+      "text": "进攻是最好的防守"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00379",
+      "start": 644.2,
+      "end": 646.04,
+      "text": "很多人他过不了这些废物测试"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00380",
+      "start": 646.04,
+      "end": 647.72,
+      "text": "就是因为他一直在防守"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00381",
+      "start": 647.72,
+      "end": 648.6,
+      "text": "他没有进攻"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00382",
+      "start": 648.6,
+      "end": 650.08,
+      "text": "就是女生问他一个问题"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00383",
+      "start": 650.08,
+      "end": 651.12,
+      "text": "他老是去想着我"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00384",
+      "start": 651.12,
+      "end": 653.12,
+      "text": "如何完美的回答这个问题"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00385",
+      "start": 653.12,
+      "end": 653.88,
+      "text": "但实际上呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00386",
+      "start": 653.88,
+      "end": 655.68,
+      "text": "你不管回答的有多完美"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00387",
+      "start": 655.68,
+      "end": 657.32,
+      "text": "你都是在他的框架里"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00388",
+      "start": 657.32,
+      "end": 658.68,
+      "text": "因为你在回答他的问题"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00389",
+      "start": 658.68,
+      "end": 659.92,
+      "text": "你没有问他一个问题"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00390",
+      "start": 659.92,
+      "end": 661.12,
+      "text": "让他掉到你的框架里"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00391",
+      "start": 661.12,
+      "end": 661.92,
+      "text": "所以说"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00392",
+      "start": 661.92,
+      "end": 663.88,
+      "text": "以后女生不管问你们任何东西"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00393",
+      "start": 663.88,
+      "end": 665.6,
+      "text": "你不一定要去回答他"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00394",
+      "start": 665.6,
+      "end": 667.6,
+      "text": "而是你可以输出一个你的价值管"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00395",
+      "start": 667.6,
+      "end": 668.6,
+      "text": "他问你A和B"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00396",
+      "start": 668.6,
+      "end": 670.24,
+      "text": "你可以直接告诉他我选C"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00397",
+      "start": 670.24,
+      "end": 671.6,
+      "text": "比如说刚才女生说"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00398",
+      "start": 671.6,
+      "end": 673.56,
+      "text": "你回忆里有多少个女生啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00399",
+      "start": 673.56,
+      "end": 675.6,
+      "text": "你看我回答多少个女生都不对"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00400",
+      "start": 675.6,
+      "end": 676.6,
+      "text": "我回忆里有一个"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00401",
+      "start": 676.6,
+      "end": 678.76,
+      "text": "她说那你跟那女生肯定感情很深"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00402",
+      "start": 678.76,
+      "end": 679.32,
+      "text": "你看到了吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00403",
+      "start": 679.32,
+      "end": 680.84,
+      "text": "如果我说我回忆里有10个"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00404",
+      "start": 680.84,
+      "end": 681.72,
+      "text": "她说你很花心"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00405",
+      "start": 681.72,
+      "end": 683.12,
+      "text": "你看你怎么回答都是错的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00406",
+      "start": 683.12,
+      "end": 684.48,
+      "text": "因为你在他的框架里面"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00407",
+      "start": 684.48,
+      "end": 685.76,
+      "text": "她怎么说都是对的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00408",
+      "start": 685.76,
+      "end": 686.96,
+      "text": "你怎么说都是错的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00409",
+      "start": 686.96,
+      "end": 687.64,
+      "text": "所以说这个时候"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00410",
+      "start": 687.64,
+      "end": 689.2,
+      "text": "我就不回答他有多少个女生"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00411",
+      "start": 689.2,
+      "end": 690.48,
+      "text": "我直接说回忆不重要"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00412",
+      "start": 690.48,
+      "end": 692.0,
+      "text": "就是你的问题根本就不重要"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00413",
+      "start": 692.0,
+      "end": 693.72,
+      "text": "重要的是我们现在在一起"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00414",
+      "start": 693.72,
+      "end": 695.48,
+      "text": "这就是我输出我的框架了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00415",
+      "start": 695.48,
+      "end": 697.0,
+      "text": "那么第二个思路就是什么呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00416",
+      "start": 697.0,
+      "end": 699.64,
+      "text": "就是女生一旦问你第三方的问题"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00417",
+      "start": 699.64,
+      "end": 702.0,
+      "text": "你一定要往咱俩身上撤"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00418",
+      "start": 702.0,
+      "end": 703.28,
+      "text": "不要去跟她聊第三方"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00419",
+      "start": 703.28,
+      "end": 704.28,
+      "text": "什么是第三方呢"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00420",
+      "start": 704.28,
+      "end": 705.64,
+      "text": "什么前男友啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00421",
+      "start": 705.64,
+      "end": 706.52,
+      "text": "前女友啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00422",
+      "start": 706.52,
+      "end": 707.36,
+      "text": "这个明星啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00423",
+      "start": 707.36,
+      "end": 708.16,
+      "text": "那个朋友啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00424",
+      "start": 708.16,
+      "end": 709.8,
+      "text": "这个闺蜜那个兄弟啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00425",
+      "start": 709.8,
+      "end": 711.6,
+      "text": "这些都是第三方"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00426",
+      "start": 711.6,
+      "end": 713.84,
+      "text": "那么你们如果去聊第三方的话"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00427",
+      "start": 713.84,
+      "end": 715.08,
+      "text": "很容易聊出问题来"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00428",
+      "start": 715.08,
+      "end": 716.28,
+      "text": "比如说你聊个前男友"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00429",
+      "start": 716.28,
+      "end": 718.04,
+      "text": "容易给他俩聊复合了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00430",
+      "start": 718.04,
+      "end": 719.56,
+      "text": "然后你你崩盘了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00431",
+      "start": 719.56,
+      "end": 720.44,
+      "text": "知道吗啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00432",
+      "start": 720.44,
+      "end": 722.56,
+      "text": "如果聊你前女友给他聊鸡眼了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00433",
+      "start": 722.56,
+      "end": 723.72,
+      "text": "你又崩盘了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00434",
+      "start": 723.72,
+      "end": 724.92,
+      "text": "所以说千万不要去聊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00435",
+      "start": 724.92,
+      "end": 726.24,
+      "text": "这第三方的话题啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00436",
+      "start": 726.24,
+      "end": 727.88,
+      "text": "不管他问你什么第三方的话题"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00437",
+      "start": 727.88,
+      "end": 729.6,
+      "text": "都往咱俩身上撤"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00438",
+      "start": 729.6,
+      "end": 730.36,
+      "text": "你比如说"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00439",
+      "start": 730.36,
+      "end": 731.52,
+      "text": "他刚才问了我一个问题"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00440",
+      "start": 731.52,
+      "end": 734.04,
+      "text": "他说你肯定跟很多女孩都很爱美"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00441",
+      "start": 734.04,
+      "end": 735.92,
+      "text": "你看跟很多女孩都很爱美"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00442",
+      "start": 735.92,
+      "end": 737.56,
+      "text": "这很多女孩就是第三方"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00443",
+      "start": 737.56,
+      "end": 738.64,
+      "text": "所以你不要去聊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00444",
+      "start": 738.64,
+      "end": 740.32,
+      "text": "我跟这些女孩怎么怎么样"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00445",
+      "start": 740.32,
+      "end": 741.76,
+      "text": "我跟她们不爱美怎么怎么样"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00446",
+      "start": 741.76,
+      "end": 743.96,
+      "text": "你看这都是在聊这第三方啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00447",
+      "start": 743.96,
+      "end": 744.88,
+      "text": "这就不行啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00448",
+      "start": 744.88,
+      "end": 746.28,
+      "text": "你就直接撤回到咱俩身上"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00449",
+      "start": 746.28,
+      "end": 747.72,
+      "text": "你觉得咱俩爱美吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00450",
+      "start": 747.72,
+      "end": 748.4,
+      "text": "看到了吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00451",
+      "start": 748.4,
+      "end": 750.0,
+      "text": "把第三方跑出去"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00452",
+      "start": 750.0,
+      "end": 750.64,
+      "text": "学会了吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00453",
+      "start": 750.64,
+      "end": 752.36,
+      "text": "你包括前面他问的那个问题"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00454",
+      "start": 752.36,
+      "end": 753.28,
+      "text": "也可以套用这个思路"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00455",
+      "start": 753.28,
+      "end": 755.6,
+      "text": "就是他说你回忆里肯定有很多女生"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00456",
+      "start": 755.6,
+      "end": 757.16,
+      "text": "你看很多女生也是第三方"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00457",
+      "start": 757.16,
+      "end": 759.08,
+      "text": "所以我的思路一定是往回扯"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00458",
+      "start": 759.08,
+      "end": 761.24,
+      "text": "就是我说回忆那些女生不重要"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00459",
+      "start": 761.24,
+      "end": 763.16,
+      "text": "重要是咱俩现在在一起"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00460",
+      "start": 763.16,
+      "end": 764.72,
+      "text": "我想说咱俩现在的约会"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00461",
+      "start": 764.72,
+      "end": 765.72,
+      "text": "你别聊别人"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00462",
+      "start": 765.72,
+      "end": 767.32,
+      "text": "你们以后遇到女生问你这些问题"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00463",
+      "start": 767.32,
+      "end": 768.44,
+      "text": "你也是这个思路啊"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00464",
+      "start": 768.44,
+      "end": 769.4,
+      "text": "就往咱俩身上撤"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00465",
+      "start": 769.4,
+      "end": 770.16,
+      "text": "不要去聊这些"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00466",
+      "start": 770.16,
+      "end": 771.44,
+      "text": "聊这些就容易踩雷"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00467",
+      "start": 771.44,
+      "end": 772.88,
+      "text": "那如果你都看到这了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00468",
+      "start": 772.88,
+      "end": 775.2,
+      "text": "我相信应对一般的测试"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00469",
+      "start": 775.2,
+      "end": 776.32,
+      "text": "你应该不是问题了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00470",
+      "start": 776.32,
+      "end": 778.44,
+      "text": "那么许哥最后这段技巧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00471",
+      "start": 778.44,
+      "end": 779.16,
+      "text": "送给你"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00472",
+      "start": 780.56,
+      "end": 781.4,
+      "text": "那我走了吧"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00473",
+      "start": 783.8,
+      "end": 784.8,
+      "text": "你想走了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00474",
+      "start": 786.72,
+      "end": 787.64,
+      "text": "这么晚了吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00475",
+      "start": 788.88,
+      "end": 790.28,
+      "text": "你就不想和我待了呗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00476",
+      "start": 793.52,
+      "end": 794.56,
+      "text": "你不想让我走"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00477",
+      "start": 795.32,
+      "end": 796.72,
+      "text": "我可没有这么说"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00478",
+      "start": 799.24,
+      "end": 799.88,
+      "text": "那我走"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00479",
+      "start": 800.72,
+      "end": 801.52,
+      "text": "你确定"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00480",
+      "start": 803.36,
+      "end": 804.36,
+      "text": "要不再喝点"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00481",
+      "start": 805.4,
+      "end": 806.4,
+      "text": "你想喝点吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00482",
+      "start": 807.56,
+      "end": 808.28,
+      "text": "你想我就想"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00483",
+      "start": 809.28,
+      "end": 810.08,
+      "text": "我都行吗"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00484",
+      "start": 811.56,
+      "end": 812.32,
+      "text": "那我下去买酒"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00485",
+      "start": 818.88,
+      "end": 820.8,
+      "text": "今天喝得够多了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00486",
+      "start": 820.8,
+      "end": 821.92,
+      "text": "我先回去了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00487",
+      "start": 823.72,
+      "end": 824.72,
+      "text": "你又骗我了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00488",
+      "start": 825.6,
+      "end": 826.56,
+      "text": "我走 麦克"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00489",
+      "start": 835.28,
+      "end": 835.92,
+      "text": "好了兄弟们"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00490",
+      "start": 835.92,
+      "end": 837.72,
+      "text": "那么今天的干货就到这里了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00491",
+      "start": 837.72,
+      "end": 838.72,
+      "text": "觉得学到东西的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00492",
+      "start": 838.72,
+      "end": 839.72,
+      "text": "给许哥点关注"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00493",
+      "start": 839.72,
+      "end": 840.4,
+      "text": "一键三连"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00494",
+      "start": 840.4,
+      "end": 842.96,
+      "text": "一周一次最实用的情感干货"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00495",
+      "start": 842.96,
+      "end": 844.72,
+      "text": "如果你有喜欢的女生追不到的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00496",
+      "start": 844.72,
+      "end": 845.96,
+      "text": "或者想要报名许哥私教"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00497",
+      "start": 845.96,
+      "end": 847.16,
+      "text": "想要跟许哥学习的"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00498",
+      "start": 847.16,
+      "end": 848.28,
+      "text": "那么可以看置顶评论"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00499",
+      "start": 848.28,
+      "end": 849.04,
+      "text": "或者主页签名"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00500",
+      "start": 849.04,
+      "end": 850.28,
+      "text": "找到许哥本人"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00501",
+      "start": 850.28,
+      "end": 851.28,
+      "text": "我来帮你"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00502",
+      "start": 851.28,
+      "end": 851.6,
+      "text": "好了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00503",
+      "start": 851.6,
+      "end": 852.24,
+      "text": "我是许哥"
+    },
+    {
+      "id": "BV1ZX9KBUEip-00504",
+      "start": 852.24,
+      "end": 853.6,
+      "text": "我们下期再见"
+    }
+  ],
+  "video_bvid": "BV1ZX9KBUEip",
+  "source_url": "https://www.bilibili.com/video/BV1ZX9KBUEip/"
+}

@@ -1,0 +1,3533 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1upQdBiEN1",
+  "method": "whisper.cpp v1.9.5 small-q5_1; zh; Metal; beam_size=3; best_of=3; threads=4; unedited machine draft",
+  "listening_verified": false,
+  "created_at": "2026-10-14T17:09:06+08:00",
+  "segments": [
+    {
+      "id": "BV1upQdBiEN1-00001",
+      "start": 0.0,
+      "end": 11.16,
+      "text": "好 兄弟們我是敘哥 今天給大家帶來一期約會實戰技巧解析啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00002",
+      "start": 11.16,
+      "end": 20.8,
+      "text": "騎電動車約會瑜伽小網紅 今天教大家不靠長相也不靠經濟 就騎個電動車 如何跟女生約會能讓她喜歡上你"
+    },
+    {
+      "id": "BV1upQdBiEN1-00003",
+      "start": 20.8,
+      "end": 29.8,
+      "text": "而且約會中途 女生開保時捷的前男友突然給她打電話要給她叫走 被敘哥一頓極限操作扭轉乾坤了啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00004",
+      "start": 29.8,
+      "end": 35.4,
+      "text": "如果你喜歡的女生也有別的男生在追她 那麼看完這個視頻你就知道該怎麼處理了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00005",
+      "start": 35.4,
+      "end": 37.4,
+      "text": "好了 閒話不多說 咱們直接開始"
+    },
+    {
+      "id": "BV1upQdBiEN1-00006",
+      "start": 37.4,
+      "end": 41.2,
+      "text": "妹子在裡面約瑜伽呢 馬上出來了 看我操作啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00007",
+      "start": 41.2,
+      "end": 45.4,
+      "text": "嘿嘿嘿 這是呢 今天穿的這麼有心臟力啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00008",
+      "start": 45.4,
+      "end": 46.8,
+      "text": "那瑜伽不都這麼漂亮呀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00009",
+      "start": 46.8,
+      "end": 49.6,
+      "text": "就是誇你太好看了 看著我都跳乾了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00010",
+      "start": 49.6,
+      "end": 50.8,
+      "text": "啥意思啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00011",
+      "start": 50.8,
+      "end": 53.0,
+      "text": "就是 調起來愛你的旗桿"
+    },
+    {
+      "id": "BV1upQdBiEN1-00012",
+      "start": 53.0,
+      "end": 55.4,
+      "text": "呵呵呵 好煩啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00013",
+      "start": 55.4,
+      "end": 58.0,
+      "text": "這就是我們約會要做的第一件事啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00014",
+      "start": 58.0,
+      "end": 61.8,
+      "text": "大開氛圍 也就是說我們必須要在三分鐘之內啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00015",
+      "start": 61.8,
+      "end": 65.6,
+      "text": "馬上把女生逗笑 如果你沒有在三分鐘之內把女生逗笑"
+    },
+    {
+      "id": "BV1upQdBiEN1-00016",
+      "start": 65.6,
+      "end": 68.4,
+      "text": "那麼你們的約會整個格調就變得很嚴肅了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00017",
+      "start": 68.4,
+      "end": 71.8,
+      "text": "那後面你拉近關係啊什麼的 你就會發現這個女生很不配合"
+    },
+    {
+      "id": "BV1upQdBiEN1-00018",
+      "start": 71.8,
+      "end": 73.2,
+      "text": "很容易尷尬冷場"
+    },
+    {
+      "id": "BV1upQdBiEN1-00019",
+      "start": 73.2,
+      "end": 77.0,
+      "text": "如果我們一上來 開個小玩笑什麼的把她給逗笑了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00020",
+      "start": 77.0,
+      "end": 79.4,
+      "text": "你會發現你後面拉近關係牽手啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00021",
+      "start": 79.4,
+      "end": 82.0,
+      "text": "還是約她繼續去看電影啊 轉下一個場啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00022",
+      "start": 82.0,
+      "end": 83.6,
+      "text": "她都會很配合 為什麼呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00023",
+      "start": 83.6,
+      "end": 85.4,
+      "text": "因為人啊都是情緒化的動物"
+    },
+    {
+      "id": "BV1upQdBiEN1-00024",
+      "start": 85.4,
+      "end": 88.0,
+      "text": "你只要讓她輕鬆 她覺得跟你在一起好玩"
+    },
+    {
+      "id": "BV1upQdBiEN1-00025",
+      "start": 88.0,
+      "end": 90.0,
+      "text": "你帶她幹嘛她都願意幹"
+    },
+    {
+      "id": "BV1upQdBiEN1-00026",
+      "start": 90.0,
+      "end": 92.6,
+      "text": "你要是讓她覺得跟你在一起啊 很悶"
+    },
+    {
+      "id": "BV1upQdBiEN1-00027",
+      "start": 92.6,
+      "end": 94.4,
+      "text": "很枯燥 很乏味 很尷尬"
+    },
+    {
+      "id": "BV1upQdBiEN1-00028",
+      "start": 94.4,
+      "end": 96.2,
+      "text": "她就隨時隨地想走"
+    },
+    {
+      "id": "BV1upQdBiEN1-00029",
+      "start": 96.2,
+      "end": 98.8,
+      "text": "隨你這個時候帶她幹嘛她都會說不願意"
+    },
+    {
+      "id": "BV1upQdBiEN1-00030",
+      "start": 98.8,
+      "end": 100.4,
+      "text": "這就是為什麼很多兄弟說"
+    },
+    {
+      "id": "BV1upQdBiEN1-00031",
+      "start": 100.4,
+      "end": 103.2,
+      "text": "哎呀我約女生看電影 她說不願意看電影怎麼辦呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00032",
+      "start": 103.2,
+      "end": 105.0,
+      "text": "我約她吃飯她又說減肥怎麼辦呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00033",
+      "start": 105.0,
+      "end": 107.6,
+      "text": "其實不是她不喜歡看電影 也不是她想減肥"
+    },
+    {
+      "id": "BV1upQdBiEN1-00034",
+      "start": 107.6,
+      "end": 110.2,
+      "text": "她就是不喜歡你 她覺得跟你在一起不自在"
+    },
+    {
+      "id": "BV1upQdBiEN1-00035",
+      "start": 110.2,
+      "end": 113.2,
+      "text": "她又是跟你在一起自在 你約她吃爸爸"
+    },
+    {
+      "id": "BV1upQdBiEN1-00036",
+      "start": 113.2,
+      "end": 114.4,
+      "text": "那她不一定吃啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00037",
+      "start": 114.4,
+      "end": 116.8,
+      "text": "但是但凡你只要帶她幹點正常的事啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00038",
+      "start": 116.8,
+      "end": 118.2,
+      "text": "她一般都會配合的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00039",
+      "start": 118.2,
+      "end": 120.0,
+      "text": "那麼第二個注意事項就是啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00040",
+      "start": 120.0,
+      "end": 121.8,
+      "text": "大家總看我視頻都會發現"
+    },
+    {
+      "id": "BV1upQdBiEN1-00041",
+      "start": 121.8,
+      "end": 124.0,
+      "text": "我每次約會用的招數都不一樣"
+    },
+    {
+      "id": "BV1upQdBiEN1-00042",
+      "start": 124.0,
+      "end": 126.8,
+      "text": "那麼這次我用的這招呢是說了一個土耳情話"
+    },
+    {
+      "id": "BV1upQdBiEN1-00043",
+      "start": 126.8,
+      "end": 128.2,
+      "text": "但是你們一定要記住"
+    },
+    {
+      "id": "BV1upQdBiEN1-00044",
+      "start": 128.2,
+      "end": 131.8,
+      "text": "我是以開玩笑的態度說的土耳情話啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00045",
+      "start": 131.8,
+      "end": 135.6,
+      "text": "我不是說真的覺得這個土耳情話很浪漫"
+    },
+    {
+      "id": "BV1upQdBiEN1-00046",
+      "start": 135.6,
+      "end": 137.4,
+      "text": "然後可以撩到她 不是的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00047",
+      "start": 137.4,
+      "end": 140.2,
+      "text": "如果你真的想用這種土耳情話撩到她"
+    },
+    {
+      "id": "BV1upQdBiEN1-00048",
+      "start": 140.2,
+      "end": 142.2,
+      "text": "那她就會覺得你很猶膩了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00049",
+      "start": 142.2,
+      "end": 144.0,
+      "text": "所以你看我說話的語氣很重要"
+    },
+    {
+      "id": "BV1upQdBiEN1-00050",
+      "start": 144.0,
+      "end": 145.8,
+      "text": "是把這女生逗笑了的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00051",
+      "start": 145.8,
+      "end": 146.6,
+      "text": "知道吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00052",
+      "start": 146.6,
+      "end": 149.0,
+      "text": "而且這裡面呢有一點點小插邊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00053",
+      "start": 149.0,
+      "end": 150.8,
+      "text": "那如果你說這個插邊段子"
+    },
+    {
+      "id": "BV1upQdBiEN1-00054",
+      "start": 150.8,
+      "end": 152.4,
+      "text": "女生聽懂了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00055",
+      "start": 152.4,
+      "end": 154.2,
+      "text": "那麼她還願意接你的話"
+    },
+    {
+      "id": "BV1upQdBiEN1-00056",
+      "start": 154.2,
+      "end": 156.4,
+      "text": "那就說明女生對你的窗口很大"
+    },
+    {
+      "id": "BV1upQdBiEN1-00057",
+      "start": 156.4,
+      "end": 158.0,
+      "text": "你們關係會瞬間拉近"
+    },
+    {
+      "id": "BV1upQdBiEN1-00058",
+      "start": 158.0,
+      "end": 159.2,
+      "text": "如果女生聽懂了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00059",
+      "start": 159.2,
+      "end": 161.2,
+      "text": "然後她說你這人怎麼說這種黃色玩笑"
+    },
+    {
+      "id": "BV1upQdBiEN1-00060",
+      "start": 161.2,
+      "end": 161.8,
+      "text": "你啥意思"
+    },
+    {
+      "id": "BV1upQdBiEN1-00061",
+      "start": 161.8,
+      "end": 164.4,
+      "text": "你就可以用我剛才這招給她圓回來"
+    },
+    {
+      "id": "BV1upQdBiEN1-00062",
+      "start": 164.4,
+      "end": 167.0,
+      "text": "你看這一招進可攻退可守"
+    },
+    {
+      "id": "BV1upQdBiEN1-00063",
+      "start": 167.0,
+      "end": 168.2,
+      "text": "學會了嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00064",
+      "start": 168.2,
+      "end": 169.6,
+      "text": "然後她就換了一個衣服"
+    },
+    {
+      "id": "BV1upQdBiEN1-00065",
+      "start": 169.6,
+      "end": 170.8,
+      "text": "我們直接看後面的對話"
+    },
+    {
+      "id": "BV1upQdBiEN1-00066",
+      "start": 170.8,
+      "end": 172.4,
+      "text": "在拍什麼呀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00067",
+      "start": 172.4,
+      "end": 174.4,
+      "text": "就記錄生活啊Vlog"
+    },
+    {
+      "id": "BV1upQdBiEN1-00068",
+      "start": 174.4,
+      "end": 176.6,
+      "text": "那你是要發哪裡啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00069",
+      "start": 176.6,
+      "end": 177.6,
+      "text": "我哪兒不發"
+    },
+    {
+      "id": "BV1upQdBiEN1-00070",
+      "start": 177.6,
+      "end": 178.8,
+      "text": "就平時自己看"
+    },
+    {
+      "id": "BV1upQdBiEN1-00071",
+      "start": 178.8,
+      "end": 180.0,
+      "text": "手打的時候自己看"
+    },
+    {
+      "id": "BV1upQdBiEN1-00072",
+      "start": 180.0,
+      "end": 181.6,
+      "text": "手打是嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00073",
+      "start": 181.6,
+      "end": 182.6,
+      "text": "就是打雞蛋啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00074",
+      "start": 182.6,
+      "end": 184.0,
+      "text": "就做早餐的時候"
+    },
+    {
+      "id": "BV1upQdBiEN1-00075",
+      "start": 184.0,
+      "end": 185.8,
+      "text": "打雞蛋 手打雞蛋"
+    },
+    {
+      "id": "BV1upQdBiEN1-00076",
+      "start": 185.8,
+      "end": 187.6,
+      "text": "哈哈哈哈"
+    },
+    {
+      "id": "BV1upQdBiEN1-00077",
+      "start": 187.6,
+      "end": 188.8,
+      "text": "好 兄弟們"
+    },
+    {
+      "id": "BV1upQdBiEN1-00078",
+      "start": 188.8,
+      "end": 190.0,
+      "text": "這裡重點就來了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00079",
+      "start": 190.0,
+      "end": 192.4,
+      "text": "我又說了一個插邊段子"
+    },
+    {
+      "id": "BV1upQdBiEN1-00080",
+      "start": 192.4,
+      "end": 194.4,
+      "text": "做這種插邊段子的時候呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00081",
+      "start": 194.4,
+      "end": 197.0,
+      "text": "我們一定要注意這個女生的反應"
+    },
+    {
+      "id": "BV1upQdBiEN1-00082",
+      "start": 197.0,
+      "end": 199.0,
+      "text": "你的狀態是非常重要的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00083",
+      "start": 199.0,
+      "end": 201.6,
+      "text": "而且你要敏銳的觀察她的表情"
+    },
+    {
+      "id": "BV1upQdBiEN1-00084",
+      "start": 201.6,
+      "end": 202.6,
+      "text": "如果她是"
+    },
+    {
+      "id": "BV1upQdBiEN1-00085",
+      "start": 202.6,
+      "end": 206.6,
+      "text": "啊 其實她懂了你是什麼意思"
+    },
+    {
+      "id": "BV1upQdBiEN1-00086",
+      "start": 206.6,
+      "end": 207.8,
+      "text": "但是她不懂裝動"
+    },
+    {
+      "id": "BV1upQdBiEN1-00087",
+      "start": 207.8,
+      "end": 209.4,
+      "text": "你就知道可以拉近關係了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00088",
+      "start": 209.4,
+      "end": 210.0,
+      "text": "明白了嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00089",
+      "start": 210.0,
+      "end": 212.0,
+      "text": "因為她並不反感這件事"
+    },
+    {
+      "id": "BV1upQdBiEN1-00090",
+      "start": 212.0,
+      "end": 214.6,
+      "text": "那如果她沒有這種表情"
+    },
+    {
+      "id": "BV1upQdBiEN1-00091",
+      "start": 214.6,
+      "end": 217.0,
+      "text": "她是很嚴肅的啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00092",
+      "start": 217.0,
+      "end": 218.8,
+      "text": "你別以為我不知道你在說啥"
+    },
+    {
+      "id": "BV1upQdBiEN1-00093",
+      "start": 218.8,
+      "end": 221.4,
+      "text": "那麼接下來你就不要貿然的去拉近關係"
+    },
+    {
+      "id": "BV1upQdBiEN1-00094",
+      "start": 221.4,
+      "end": 222.8,
+      "text": "也不要再說插邊段子了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00095",
+      "start": 222.8,
+      "end": 224.0,
+      "text": "因為她不接受你"
+    },
+    {
+      "id": "BV1upQdBiEN1-00096",
+      "start": 224.0,
+      "end": 225.0,
+      "text": "說明你沒有吸引她"
+    },
+    {
+      "id": "BV1upQdBiEN1-00097",
+      "start": 225.0,
+      "end": 225.8,
+      "text": "她沒有闖口"
+    },
+    {
+      "id": "BV1upQdBiEN1-00098",
+      "start": 225.8,
+      "end": 228.0,
+      "text": "這就是跟女生約會的三大關鍵點"
+    },
+    {
+      "id": "BV1upQdBiEN1-00099",
+      "start": 228.0,
+      "end": 228.4,
+      "text": "什麼"
+    },
+    {
+      "id": "BV1upQdBiEN1-00100",
+      "start": 228.4,
+      "end": 229.6,
+      "text": "膽大心細"
+    },
+    {
+      "id": "BV1upQdBiEN1-00101",
+      "start": 229.6,
+      "end": 230.4,
+      "text": "臉皮厚"
+    },
+    {
+      "id": "BV1upQdBiEN1-00102",
+      "start": 230.4,
+      "end": 232.8,
+      "text": "你別光膽大一頓滿頭狐獵獵"
+    },
+    {
+      "id": "BV1upQdBiEN1-00103",
+      "start": 232.8,
+      "end": 233.2,
+      "text": "對不對"
+    },
+    {
+      "id": "BV1upQdBiEN1-00104",
+      "start": 233.2,
+      "end": 234.0,
+      "text": "但是你不心細"
+    },
+    {
+      "id": "BV1upQdBiEN1-00105",
+      "start": 234.0,
+      "end": 234.8,
+      "text": "沒有看出來"
+    },
+    {
+      "id": "BV1upQdBiEN1-00106",
+      "start": 234.8,
+      "end": 236.0,
+      "text": "女生已經討厭了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00107",
+      "start": 236.0,
+      "end": 237.2,
+      "text": "你不死完了嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00108",
+      "start": 237.2,
+      "end": 237.8,
+      "text": "是不是"
+    },
+    {
+      "id": "BV1upQdBiEN1-00109",
+      "start": 237.8,
+      "end": 240.2,
+      "text": "所以說咱得膽大心細啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00110",
+      "start": 240.2,
+      "end": 241.4,
+      "text": "會吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00111",
+      "start": 241.4,
+      "end": 242.0,
+      "text": "會啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00112",
+      "start": 242.0,
+      "end": 243.2,
+      "text": "這有什麼好奇怪的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00113",
+      "start": 243.2,
+      "end": 246.2,
+      "text": "有那樣的男生都不怎麼說吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00114",
+      "start": 246.2,
+      "end": 248.6,
+      "text": "那你不更得珍惜我啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00115",
+      "start": 248.6,
+      "end": 251.2,
+      "text": "你說她為什麼要值得珍惜啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00116",
+      "start": 251.2,
+      "end": 253.2,
+      "text": "那你覺得什麼東西值得珍惜呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00117",
+      "start": 253.2,
+      "end": 254.4,
+      "text": "這裡呢我用了一個技巧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00118",
+      "start": 254.4,
+      "end": 255.2,
+      "text": "就展示價值"
+    },
+    {
+      "id": "BV1upQdBiEN1-00119",
+      "start": 255.2,
+      "end": 257.4,
+      "text": "咱們不能光給女生說插邊段子"
+    },
+    {
+      "id": "BV1upQdBiEN1-00120",
+      "start": 257.4,
+      "end": 257.6,
+      "text": "對吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00121",
+      "start": 257.6,
+      "end": 259.4,
+      "text": "那樣會顯得我們是一個老油膩男啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00122",
+      "start": 259.4,
+      "end": 260.0,
+      "text": "老色皮"
+    },
+    {
+      "id": "BV1upQdBiEN1-00123",
+      "start": 260.0,
+      "end": 261.8,
+      "text": "所以說我給她展示了我會做飯"
+    },
+    {
+      "id": "BV1upQdBiEN1-00124",
+      "start": 261.8,
+      "end": 262.0,
+      "text": "好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00125",
+      "start": 262.0,
+      "end": 264.0,
+      "text": "那麼成功的引起了女生的好奇啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00126",
+      "start": 264.0,
+      "end": 266.4,
+      "text": "這個是基本上90%的概率"
+    },
+    {
+      "id": "BV1upQdBiEN1-00127",
+      "start": 266.4,
+      "end": 269.2,
+      "text": "女生都會對會做飯的男生產生好奇心"
+    },
+    {
+      "id": "BV1upQdBiEN1-00128",
+      "start": 269.2,
+      "end": 270.6,
+      "text": "這個是實戰經驗啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00129",
+      "start": 270.6,
+      "end": 271.2,
+      "text": "但是呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00130",
+      "start": 271.2,
+      "end": 272.6,
+      "text": "還出貨意料的是"
+    },
+    {
+      "id": "BV1upQdBiEN1-00131",
+      "start": 272.6,
+      "end": 274.8,
+      "text": "在女生說會做飯有什麼好珍惜的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00132",
+      "start": 274.8,
+      "end": 275.2,
+      "text": "對吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00133",
+      "start": 275.2,
+      "end": 277.0,
+      "text": "會做飯有什麼了不起的呀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00134",
+      "start": 277.0,
+      "end": 277.8,
+      "text": "好那這個時候呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00135",
+      "start": 277.8,
+      "end": 281.0,
+      "text": "咱們千萬不要急著去證明自己"
+    },
+    {
+      "id": "BV1upQdBiEN1-00136",
+      "start": 281.0,
+      "end": 282.4,
+      "text": "因為向女生自證"
+    },
+    {
+      "id": "BV1upQdBiEN1-00137",
+      "start": 282.4,
+      "end": 284.2,
+      "text": "也是一種需求感的表現"
+    },
+    {
+      "id": "BV1upQdBiEN1-00138",
+      "start": 284.2,
+      "end": 286.6,
+      "text": "你向女生自證就代表你的地位是低的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00139",
+      "start": 286.6,
+      "end": 287.8,
+      "text": "你需要得到她的認同"
+    },
+    {
+      "id": "BV1upQdBiEN1-00140",
+      "start": 287.8,
+      "end": 289.8,
+      "text": "那麼這個時候你的吸引力就在下降啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00141",
+      "start": 289.8,
+      "end": 291.2,
+      "text": "你看很多兄弟"
+    },
+    {
+      "id": "BV1upQdBiEN1-00142",
+      "start": 291.2,
+      "end": 292.6,
+      "text": "她就是沒有意識到這一點"
+    },
+    {
+      "id": "BV1upQdBiEN1-00143",
+      "start": 292.6,
+      "end": 294.2,
+      "text": "她就不停的想向女生證明"
+    },
+    {
+      "id": "BV1upQdBiEN1-00144",
+      "start": 294.2,
+      "end": 296.6,
+      "text": "哎呀我多好我多好我會對你好的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00145",
+      "start": 296.6,
+      "end": 298.4,
+      "text": "想得到這個女生的認可"
+    },
+    {
+      "id": "BV1upQdBiEN1-00146",
+      "start": 298.4,
+      "end": 299.6,
+      "text": "其實你越證明自己"
+    },
+    {
+      "id": "BV1upQdBiEN1-00147",
+      "start": 299.6,
+      "end": 301.2,
+      "text": "你的吸引力就越弱啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00148",
+      "start": 301.2,
+      "end": 304.0,
+      "text": "女生越是用一種腐蝕的態度去看你"
+    },
+    {
+      "id": "BV1upQdBiEN1-00149",
+      "start": 304.0,
+      "end": 306.0,
+      "text": "那麼你記住女生都是牧強的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00150",
+      "start": 306.0,
+      "end": 308.2,
+      "text": "她希望找到一個能讓她咬勢的人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00151",
+      "start": 308.2,
+      "end": 310.4,
+      "text": "所以說不要急著向女生證明自己"
+    },
+    {
+      "id": "BV1upQdBiEN1-00152",
+      "start": 310.4,
+      "end": 311.8,
+      "text": "也不要急著得到她的認可"
+    },
+    {
+      "id": "BV1upQdBiEN1-00153",
+      "start": 311.8,
+      "end": 313.4,
+      "text": "咱們要選擇的策略是什麼呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00154",
+      "start": 313.4,
+      "end": 315.4,
+      "text": "是知己知彼才能百戰百勝"
+    },
+    {
+      "id": "BV1upQdBiEN1-00155",
+      "start": 315.4,
+      "end": 316.4,
+      "text": "所以說先問她"
+    },
+    {
+      "id": "BV1upQdBiEN1-00156",
+      "start": 316.4,
+      "end": 318.4,
+      "text": "那你覺得什麼男人值得珍惜呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00157",
+      "start": 318.4,
+      "end": 321.0,
+      "text": "哎先看看她怎麼說啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00158",
+      "start": 334.0,
+      "end": 335.6,
+      "text": "哎好兄弟們"
+    },
+    {
+      "id": "BV1upQdBiEN1-00159",
+      "start": 335.6,
+      "end": 338.2,
+      "text": "請問這個時候我們應該怎麼說話呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00160",
+      "start": 338.2,
+      "end": 340.6,
+      "text": "很多兄弟在這個地方就會犯一個大錯誤"
+    },
+    {
+      "id": "BV1upQdBiEN1-00161",
+      "start": 340.6,
+      "end": 342.2,
+      "text": "就是復合她說什麼呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00162",
+      "start": 342.2,
+      "end": 343.6,
+      "text": "哎我也可以做到啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00163",
+      "start": 343.6,
+      "end": 345.2,
+      "text": "我也可以什麼事都想著你啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00164",
+      "start": 345.2,
+      "end": 346.6,
+      "text": "我會帶你見我的父母的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00165",
+      "start": 346.6,
+      "end": 348.6,
+      "text": "你記住一旦你復合她了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00166",
+      "start": 348.6,
+      "end": 350.6,
+      "text": "你以為你滿足她的才會喜歡你了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00167",
+      "start": 350.6,
+      "end": 354.2,
+      "text": "她只會覺得你是一個捧我臭腳的弱男人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00168",
+      "start": 354.2,
+      "end": 355.2,
+      "text": "你是一個弱姬"
+    },
+    {
+      "id": "BV1upQdBiEN1-00169",
+      "start": 355.2,
+      "end": 357.4,
+      "text": "女人這個生物啊她很奇怪的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00170",
+      "start": 357.4,
+      "end": 359.6,
+      "text": "你看她嘴上說她喜歡對她好的男人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00171",
+      "start": 359.6,
+      "end": 361.8,
+      "text": "什麼都像著她什麼都聽她的男人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00172",
+      "start": 361.8,
+      "end": 363.8,
+      "text": "但實際上你要真這麼做了哈"
+    },
+    {
+      "id": "BV1upQdBiEN1-00173",
+      "start": 363.8,
+      "end": 366.8,
+      "text": "她只會覺得你是一個弱者毫無魅力"
+    },
+    {
+      "id": "BV1upQdBiEN1-00174",
+      "start": 366.8,
+      "end": 369.4,
+      "text": "哎法兒女生呢真正喜歡的呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00175",
+      "start": 369.4,
+      "end": 371.8,
+      "text": "是那種能挑動她情緒的男生"
+    },
+    {
+      "id": "BV1upQdBiEN1-00176",
+      "start": 371.8,
+      "end": 375.0,
+      "text": "或者有一點霸道的男生能征服她的男生"
+    },
+    {
+      "id": "BV1upQdBiEN1-00177",
+      "start": 375.0,
+      "end": 376.8,
+      "text": "有自己主見的男生"
+    },
+    {
+      "id": "BV1upQdBiEN1-00178",
+      "start": 376.8,
+      "end": 379.4,
+      "text": "甚至有一點點大男子主義的男生"
+    },
+    {
+      "id": "BV1upQdBiEN1-00179",
+      "start": 379.4,
+      "end": 380.2,
+      "text": "因為什麼呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00180",
+      "start": 380.2,
+      "end": 381.8,
+      "text": "因為女生責偶啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00181",
+      "start": 381.8,
+      "end": 383.4,
+      "text": "她是情緒化的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00182",
+      "start": 383.4,
+      "end": 385.0,
+      "text": "她是用誘惱責偶的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00183",
+      "start": 385.0,
+      "end": 387.0,
+      "text": "她不是理智責偶的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00184",
+      "start": 387.0,
+      "end": 389.2,
+      "text": "她剛才說的一切的東西啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00185",
+      "start": 389.2,
+      "end": 391.4,
+      "text": "這些話都是理智告訴她"
+    },
+    {
+      "id": "BV1upQdBiEN1-00186",
+      "start": 391.4,
+      "end": 392.6,
+      "text": "應該選這樣的男人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00187",
+      "start": 392.6,
+      "end": 393.6,
+      "text": "可是人呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00188",
+      "start": 393.6,
+      "end": 395.8,
+      "text": "感情這個東西她怎麼能理智得來呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00189",
+      "start": 395.8,
+      "end": 398.2,
+      "text": "感情這個東西本來就是衝動性行為嘛"
+    },
+    {
+      "id": "BV1upQdBiEN1-00190",
+      "start": 398.2,
+      "end": 400.2,
+      "text": "而感性思維會告訴她什麼呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00191",
+      "start": 400.2,
+      "end": 403.4,
+      "text": "就是女人會天生被強大的男人吸引的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00192",
+      "start": 403.4,
+      "end": 405.0,
+      "text": "當她遇到一個真正強大的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00193",
+      "start": 405.0,
+      "end": 406.6,
+      "text": "有自身魅力的男生的時候"
+    },
+    {
+      "id": "BV1upQdBiEN1-00194",
+      "start": 406.6,
+      "end": 409.4,
+      "text": "她就會拋棄她腦子裡這些條條框框"
+    },
+    {
+      "id": "BV1upQdBiEN1-00195",
+      "start": 409.4,
+      "end": 410.6,
+      "text": "不管不顧一切"
+    },
+    {
+      "id": "BV1upQdBiEN1-00196",
+      "start": 410.6,
+      "end": 412.2,
+      "text": "哎就為這個男的上頭"
+    },
+    {
+      "id": "BV1upQdBiEN1-00197",
+      "start": 412.2,
+      "end": 413.2,
+      "text": "這是人的天性"
+    },
+    {
+      "id": "BV1upQdBiEN1-00198",
+      "start": 413.2,
+      "end": 415.7,
+      "text": "所有的人都是天生物強的啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00199",
+      "start": 415.7,
+      "end": 417.0,
+      "text": "這是人類的本性"
+    },
+    {
+      "id": "BV1upQdBiEN1-00200",
+      "start": 417.0,
+      "end": 418.3,
+      "text": "包括男人也是一樣的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00201",
+      "start": 418.3,
+      "end": 419.9,
+      "text": "一旦你遇到一個強者的時候"
+    },
+    {
+      "id": "BV1upQdBiEN1-00202",
+      "start": 419.9,
+      "end": 421.4,
+      "text": "你會自然而然的被吸引"
+    },
+    {
+      "id": "BV1upQdBiEN1-00203",
+      "start": 421.4,
+      "end": 423.6,
+      "text": "哪怕這個強者的各方面都不滿足"
+    },
+    {
+      "id": "BV1upQdBiEN1-00204",
+      "start": 423.6,
+      "end": 425.7,
+      "text": "這個女人想要的一個條件啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00205",
+      "start": 425.7,
+      "end": 428.3,
+      "text": "但是這個女生她就是會忘掉這些"
+    },
+    {
+      "id": "BV1upQdBiEN1-00206",
+      "start": 428.3,
+      "end": 429.9,
+      "text": "然後被她自然而然的吸引"
+    },
+    {
+      "id": "BV1upQdBiEN1-00207",
+      "start": 429.9,
+      "end": 431.3,
+      "text": "她控制不住自己的啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00208",
+      "start": 431.3,
+      "end": 433.7,
+      "text": "就像你啊你明明知道啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00209",
+      "start": 433.7,
+      "end": 436.5,
+      "text": "應該找一個省吃劍用勤劍持家"
+    },
+    {
+      "id": "BV1upQdBiEN1-00210",
+      "start": 436.5,
+      "end": 437.8,
+      "text": "會過日子的女人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00211",
+      "start": 437.8,
+      "end": 439.8,
+      "text": "可是當你看到那大黑絲網"
+    },
+    {
+      "id": "BV1upQdBiEN1-00212",
+      "start": 439.8,
+      "end": 441.1,
+      "text": "你腿上一坐的時候"
+    },
+    {
+      "id": "BV1upQdBiEN1-00213",
+      "start": 441.1,
+      "end": 443.0,
+      "text": "你是不是也控制不住啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00214",
+      "start": 443.0,
+      "end": 445.4,
+      "text": "你明知道這種女生她不能帶回家"
+    },
+    {
+      "id": "BV1upQdBiEN1-00215",
+      "start": 445.4,
+      "end": 447.4,
+      "text": "可是你你收得了嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00216",
+      "start": 447.4,
+      "end": 449.2,
+      "text": "哎是不是這就是人類本性"
+    },
+    {
+      "id": "BV1upQdBiEN1-00217",
+      "start": 449.2,
+      "end": 451.1,
+      "text": "明知道垃圾食品她不健康"
+    },
+    {
+      "id": "BV1upQdBiEN1-00218",
+      "start": 451.1,
+      "end": 453.3,
+      "text": "可是你就是忍不住吃啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00219",
+      "start": 453.3,
+      "end": 455.5,
+      "text": "所以咱們跟女生談話的時候"
+    },
+    {
+      "id": "BV1upQdBiEN1-00220",
+      "start": 455.5,
+      "end": 457.7,
+      "text": "咱們要展示的是咱們的霸氣"
+    },
+    {
+      "id": "BV1upQdBiEN1-00221",
+      "start": 457.7,
+      "end": 459.5,
+      "text": "而不是順著她說"
+    },
+    {
+      "id": "BV1upQdBiEN1-00222",
+      "start": 459.5,
+      "end": 461.2,
+      "text": "好吧來看我怎麼說"
+    },
+    {
+      "id": "BV1upQdBiEN1-00223",
+      "start": 461.2,
+      "end": 463.1,
+      "text": "我覺得這些好處挺嚴格"
+    },
+    {
+      "id": "BV1upQdBiEN1-00224",
+      "start": 463.1,
+      "end": 464.8,
+      "text": "就很多男生都能做到"
+    },
+    {
+      "id": "BV1upQdBiEN1-00225",
+      "start": 464.8,
+      "end": 467.1,
+      "text": "那你說什麼才對我好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00226",
+      "start": 467.1,
+      "end": 468.2,
+      "text": "我覺得真正的對你好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00227",
+      "start": 468.2,
+      "end": 469.7,
+      "text": "就是把自己變成一個"
+    },
+    {
+      "id": "BV1upQdBiEN1-00228",
+      "start": 469.7,
+      "end": 470.9,
+      "text": "值得你愛的男人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00229",
+      "start": 472.5,
+      "end": 473.8,
+      "text": "就如果你不愛這個男生"
+    },
+    {
+      "id": "BV1upQdBiEN1-00230",
+      "start": 473.8,
+      "end": 474.8,
+      "text": "他對你再好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00231",
+      "start": 474.8,
+      "end": 476.0,
+      "text": "你都會覺得很痛苦"
+    },
+    {
+      "id": "BV1upQdBiEN1-00232",
+      "start": 476.0,
+      "end": 477.1,
+      "text": "但如果努力把自己"
+    },
+    {
+      "id": "BV1upQdBiEN1-00233",
+      "start": 477.1,
+      "end": 478.7,
+      "text": "變成一個值得你愛的男人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00234",
+      "start": 478.7,
+      "end": 480.5,
+      "text": "哎你跟他在一起的每時每刻"
+    },
+    {
+      "id": "BV1upQdBiEN1-00235",
+      "start": 480.5,
+      "end": 481.8,
+      "text": "你都是很開心的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00236",
+      "start": 481.8,
+      "end": 482.5,
+      "text": "他什麼都不用做"
+    },
+    {
+      "id": "BV1upQdBiEN1-00237",
+      "start": 482.5,
+      "end": 483.3,
+      "text": "就陪在你身邊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00238",
+      "start": 483.3,
+      "end": 484.6,
+      "text": "你都會覺得很幸福"
+    },
+    {
+      "id": "BV1upQdBiEN1-00239",
+      "start": 484.6,
+      "end": 486.5,
+      "text": "我覺得這種才是真正的對你好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00240",
+      "start": 488.0,
+      "end": 489.6,
+      "text": "我覺得一些朋友知道你的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00241",
+      "start": 489.6,
+      "end": 490.8,
+      "text": "哎兄弟們"
+    },
+    {
+      "id": "BV1upQdBiEN1-00242",
+      "start": 490.8,
+      "end": 494.2,
+      "text": "這一段就叫價值觀輸出"
+    },
+    {
+      "id": "BV1upQdBiEN1-00243",
+      "start": 494.2,
+      "end": 495.6,
+      "text": "價值觀輸出是一種"
+    },
+    {
+      "id": "BV1upQdBiEN1-00244",
+      "start": 495.6,
+      "end": 497.7,
+      "text": "非常吸引女生的手段"
+    },
+    {
+      "id": "BV1upQdBiEN1-00245",
+      "start": 497.7,
+      "end": 499.3,
+      "text": "就是為什麼很多兄弟"
+    },
+    {
+      "id": "BV1upQdBiEN1-00246",
+      "start": 499.3,
+      "end": 500.2,
+      "text": "他跟女生在一起"
+    },
+    {
+      "id": "BV1upQdBiEN1-00247",
+      "start": 500.2,
+      "end": 501.9,
+      "text": "女生會覺得他幼稚"
+    },
+    {
+      "id": "BV1upQdBiEN1-00248",
+      "start": 501.9,
+      "end": 503.5,
+      "text": "會覺得這個男生沒有魅力"
+    },
+    {
+      "id": "BV1upQdBiEN1-00249",
+      "start": 503.5,
+      "end": 504.5,
+      "text": "沒有吸引力"
+    },
+    {
+      "id": "BV1upQdBiEN1-00250",
+      "start": 504.5,
+      "end": 507.1,
+      "text": "就是因為你沒有自己的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00251",
+      "start": 507.1,
+      "end": 508.6,
+      "text": "一套完善的價值觀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00252",
+      "start": 508.6,
+      "end": 510.2,
+      "text": "這個價值觀也叫框架"
+    },
+    {
+      "id": "BV1upQdBiEN1-00253",
+      "start": 510.2,
+      "end": 511.9,
+      "text": "就是當你跟女生說出"
+    },
+    {
+      "id": "BV1upQdBiEN1-00254",
+      "start": 511.9,
+      "end": 513.5,
+      "text": "你對世界的看法"
+    },
+    {
+      "id": "BV1upQdBiEN1-00255",
+      "start": 513.5,
+      "end": 514.8,
+      "text": "你對愛情的看法"
+    },
+    {
+      "id": "BV1upQdBiEN1-00256",
+      "start": 514.8,
+      "end": 516.9,
+      "text": "你對世界萬物的看法的時候"
+    },
+    {
+      "id": "BV1upQdBiEN1-00257",
+      "start": 516.9,
+      "end": 518.7,
+      "text": "女生會覺得你是一個成熟的男人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00258",
+      "start": 518.7,
+      "end": 520.6,
+      "text": "會覺得你有閱歷有經歷"
+    },
+    {
+      "id": "BV1upQdBiEN1-00259",
+      "start": 520.6,
+      "end": 521.7,
+      "text": "那麼這種男生呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00260",
+      "start": 521.7,
+      "end": 522.8,
+      "text": "女生會喜歡"
+    },
+    {
+      "id": "BV1upQdBiEN1-00261",
+      "start": 522.8,
+      "end": 523.2,
+      "text": "為什麼呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00262",
+      "start": 523.2,
+      "end": 524.0,
+      "text": "因為他會覺得"
+    },
+    {
+      "id": "BV1upQdBiEN1-00263",
+      "start": 524.0,
+      "end": 525.1,
+      "text": "你比我更強大"
+    },
+    {
+      "id": "BV1upQdBiEN1-00264",
+      "start": 525.1,
+      "end": 526.3,
+      "text": "你比我更成熟"
+    },
+    {
+      "id": "BV1upQdBiEN1-00265",
+      "start": 526.3,
+      "end": 528.2,
+      "text": "他會覺得我要是跟你談戀愛了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00266",
+      "start": 528.2,
+      "end": 530.6,
+      "text": "可能你會給我比較好的戀愛題"
+    },
+    {
+      "id": "BV1upQdBiEN1-00267",
+      "start": 530.6,
+      "end": 531.9,
+      "text": "因為什麼你很成熟"
+    },
+    {
+      "id": "BV1upQdBiEN1-00268",
+      "start": 531.9,
+      "end": 532.3,
+      "text": "對不對"
+    },
+    {
+      "id": "BV1upQdBiEN1-00269",
+      "start": 532.3,
+      "end": 533.9,
+      "text": "你能解決我的所有問題"
+    },
+    {
+      "id": "BV1upQdBiEN1-00270",
+      "start": 533.9,
+      "end": 536.3,
+      "text": "所以你是一個值得我依靠的男生"
+    },
+    {
+      "id": "BV1upQdBiEN1-00271",
+      "start": 536.3,
+      "end": 537.9,
+      "text": "如果你什麼價值觀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00272",
+      "start": 537.9,
+      "end": 539.0,
+      "text": "你都輸出不出來"
+    },
+    {
+      "id": "BV1upQdBiEN1-00273",
+      "start": 539.0,
+      "end": 539.4,
+      "text": "是不是"
+    },
+    {
+      "id": "BV1upQdBiEN1-00274",
+      "start": 539.4,
+      "end": 540.8,
+      "text": "或者說你輸出的價值觀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00275",
+      "start": 540.8,
+      "end": 541.9,
+      "text": "給人感覺就像是一個"
+    },
+    {
+      "id": "BV1upQdBiEN1-00276",
+      "start": 541.9,
+      "end": 543.5,
+      "text": "沒有閱歷的人輸出來的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00277",
+      "start": 543.5,
+      "end": 544.3,
+      "text": "很幼稚的話"
+    },
+    {
+      "id": "BV1upQdBiEN1-00278",
+      "start": 544.3,
+      "end": 545.2,
+      "text": "那麼女生就會覺得"
+    },
+    {
+      "id": "BV1upQdBiEN1-00279",
+      "start": 545.2,
+      "end": 546.2,
+      "text": "你這種男生很幼稚"
+    },
+    {
+      "id": "BV1upQdBiEN1-00280",
+      "start": 546.2,
+      "end": 547.4,
+      "text": "你還不如我成熟呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00281",
+      "start": 547.4,
+      "end": 548.6,
+      "text": "我要是跟你談戀愛了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00282",
+      "start": 548.6,
+      "end": 550.5,
+      "text": "你不得一寬二鬧散上吊啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00283",
+      "start": 550.5,
+      "end": 551.66,
+      "text": "所以他就會覺得"
+    },
+    {
+      "id": "BV1upQdBiEN1-00284",
+      "start": 551.66,
+      "end": 552.6,
+      "text": "你這種男生沒有魅力"
+    },
+    {
+      "id": "BV1upQdBiEN1-00285",
+      "start": 552.6,
+      "end": 553.8,
+      "text": "他就想要把你給PASS票"
+    },
+    {
+      "id": "BV1upQdBiEN1-00286",
+      "start": 553.8,
+      "end": 555.0,
+      "text": "所以說男生啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00287",
+      "start": 555.0,
+      "end": 556.0,
+      "text": "想要吸引女生"
+    },
+    {
+      "id": "BV1upQdBiEN1-00288",
+      "start": 556.0,
+      "end": 557.6,
+      "text": "首先得先武裝自己"
+    },
+    {
+      "id": "BV1upQdBiEN1-00289",
+      "start": 557.6,
+      "end": 558.2,
+      "text": "完善自己"
+    },
+    {
+      "id": "BV1upQdBiEN1-00290",
+      "start": 558.2,
+      "end": 559.4,
+      "text": "給自己的大腦裡"
+    },
+    {
+      "id": "BV1upQdBiEN1-00291",
+      "start": 559.4,
+      "end": 562.4,
+      "text": "塞滿了這些閱歷經驗和知識啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00292",
+      "start": 562.4,
+      "end": 562.8,
+      "text": "這樣的話"
+    },
+    {
+      "id": "BV1upQdBiEN1-00293",
+      "start": 562.8,
+      "end": 564.9,
+      "text": "你跟女生說話的時候呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00294",
+      "start": 564.9,
+      "end": 566.7,
+      "text": "就會顯得你學傅五車"
+    },
+    {
+      "id": "BV1upQdBiEN1-00295",
+      "start": 566.7,
+      "end": 567.8,
+      "text": "見多識廣了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00296",
+      "start": 567.8,
+      "end": 568.9,
+      "text": "你看哪個女生不喜歡"
+    },
+    {
+      "id": "BV1upQdBiEN1-00297",
+      "start": 568.9,
+      "end": 569.6,
+      "text": "這樣的男人啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00298",
+      "start": 569.6,
+      "end": 570.2,
+      "text": "你說敘哥呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00299",
+      "start": 570.2,
+      "end": 571.5,
+      "text": "我沒有你這麼豐富的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00300",
+      "start": 571.5,
+      "end": 573.1,
+      "text": "閱歷知識經驗怎麼辦呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00301",
+      "start": 573.1,
+      "end": 574.9,
+      "text": "那你大不關注敘哥"
+    },
+    {
+      "id": "BV1upQdBiEN1-00302",
+      "start": 574.9,
+      "end": 576.4,
+      "text": "你跟我走就完了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00303",
+      "start": 576.4,
+      "end": 577.7,
+      "text": "肯定好吃"
+    },
+    {
+      "id": "BV1upQdBiEN1-00304",
+      "start": 577.7,
+      "end": 579.0,
+      "text": "走上車"
+    },
+    {
+      "id": "BV1upQdBiEN1-00305",
+      "start": 579.0,
+      "end": 580.5,
+      "text": "這就是你的車"
+    },
+    {
+      "id": "BV1upQdBiEN1-00306",
+      "start": 580.5,
+      "end": 581.0,
+      "text": "對啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00307",
+      "start": 581.0,
+      "end": 582.9,
+      "text": "距離比較近期這個方便"
+    },
+    {
+      "id": "BV1upQdBiEN1-00308",
+      "start": 582.9,
+      "end": 583.4,
+      "text": "走嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00309",
+      "start": 583.4,
+      "end": 584.3,
+      "text": "我覺得好丟人了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00310",
+      "start": 584.3,
+      "end": 585.2,
+      "text": "穿這身"
+    },
+    {
+      "id": "BV1upQdBiEN1-00311",
+      "start": 585.2,
+      "end": 586.6,
+      "text": "還有高跟鞋有裙子"
+    },
+    {
+      "id": "BV1upQdBiEN1-00312",
+      "start": 586.6,
+      "end": 587.6,
+      "text": "哪裡丟人了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00313",
+      "start": 587.6,
+      "end": 589.5,
+      "text": "王家爾騎摩托車帶你玩"
+    },
+    {
+      "id": "BV1upQdBiEN1-00314",
+      "start": 589.5,
+      "end": 590.8,
+      "text": "別人羨慕還來不及呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00315",
+      "start": 590.8,
+      "end": 591.8,
+      "text": "走上車上車上"
+    },
+    {
+      "id": "BV1upQdBiEN1-00316",
+      "start": 591.8,
+      "end": 593.4,
+      "text": "這麼胖的王家爾呀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00317",
+      "start": 593.4,
+      "end": 594.9,
+      "text": "胖說明我有安全感"
+    },
+    {
+      "id": "BV1upQdBiEN1-00318",
+      "start": 594.9,
+      "end": 596.5,
+      "text": "你看你抱著這不是軟軟了嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00319",
+      "start": 596.5,
+      "end": 597.5,
+      "text": "這是抱群死定了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00320",
+      "start": 597.5,
+      "end": 599.9,
+      "text": "抱群我連續給你做一個月早餐"
+    },
+    {
+      "id": "BV1upQdBiEN1-00321",
+      "start": 600.3,
+      "end": 601.2,
+      "text": "那這一招啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00322",
+      "start": 601.2,
+      "end": 602.3,
+      "text": "兄弟們慎用啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00323",
+      "start": 602.3,
+      "end": 605.0,
+      "text": "不建議大家騎電動車跟女生約會啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00324",
+      "start": 605.0,
+      "end": 606.6,
+      "text": "你們可以打車啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00325",
+      "start": 606.6,
+      "end": 608.9,
+      "text": "因為你們畢竟沒有續過這個"
+    },
+    {
+      "id": "BV1upQdBiEN1-00326",
+      "start": 608.9,
+      "end": 612.1,
+      "text": "長的像王家爾一般的盛世容顏啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00327",
+      "start": 612.1,
+      "end": 612.8,
+      "text": "女生呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00328",
+      "start": 612.8,
+      "end": 614.3,
+      "text": "一看到你騎上車容易跑"
+    },
+    {
+      "id": "BV1upQdBiEN1-00329",
+      "start": 614.3,
+      "end": 615.0,
+      "text": "你說我啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00330",
+      "start": 615.0,
+      "end": 617.3,
+      "text": "長的像王家爾是得女生也就認了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00331",
+      "start": 617.3,
+      "end": 617.8,
+      "text": "是不是"
+    },
+    {
+      "id": "BV1upQdBiEN1-00332",
+      "start": 617.8,
+      "end": 619.5,
+      "text": "像你這種普通顏值啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00333",
+      "start": 619.5,
+      "end": 620.9,
+      "text": "還是該打咋地"
+    },
+    {
+      "id": "BV1upQdBiEN1-00334",
+      "start": 620.9,
+      "end": 621.7,
+      "text": "好吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00335",
+      "start": 621.7,
+      "end": 623.3,
+      "text": "怎麼樣好吃吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00336",
+      "start": 623.3,
+      "end": 624.2,
+      "text": "譬如"
+    },
+    {
+      "id": "BV1upQdBiEN1-00337",
+      "start": 624.8,
+      "end": 626.6,
+      "text": "不錯酸牛品味"
+    },
+    {
+      "id": "BV1upQdBiEN1-00338",
+      "start": 626.6,
+      "end": 628.9,
+      "text": "所以以後我說去哪兒你都得聽我的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00339",
+      "start": 628.9,
+      "end": 630.3,
+      "text": "就啥事你都得聽我的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00340",
+      "start": 630.3,
+      "end": 631.4,
+      "text": "這沒錯你知道吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00341",
+      "start": 631.4,
+      "end": 631.8,
+      "text": "好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00342",
+      "start": 631.8,
+      "end": 633.6,
+      "text": "這又是一個領導力的建立啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00343",
+      "start": 633.6,
+      "end": 635.0,
+      "text": "我們跟女生相處的過程中呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00344",
+      "start": 635.0,
+      "end": 637.8,
+      "text": "要不停的去建立自己的領導力啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00345",
+      "start": 637.8,
+      "end": 638.8,
+      "text": "建立自己的高位"
+    },
+    {
+      "id": "BV1upQdBiEN1-00346",
+      "start": 638.8,
+      "end": 639.7,
+      "text": "然後慢慢的呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00347",
+      "start": 639.7,
+      "end": 641.7,
+      "text": "女生就會越來越覺得你值得依靠"
+    },
+    {
+      "id": "BV1upQdBiEN1-00348",
+      "start": 641.7,
+      "end": 642.5,
+      "text": "然後本能的呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00349",
+      "start": 642.5,
+      "end": 643.2,
+      "text": "就會依賴你"
+    },
+    {
+      "id": "BV1upQdBiEN1-00350",
+      "start": 643.2,
+      "end": 643.8,
+      "text": "S那句話"
+    },
+    {
+      "id": "BV1upQdBiEN1-00351",
+      "start": 643.8,
+      "end": 645.1,
+      "text": "因為女生都是木牆的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00352",
+      "start": 645.1,
+      "end": 645.4,
+      "text": "所以說"
+    },
+    {
+      "id": "BV1upQdBiEN1-00353",
+      "start": 645.4,
+      "end": 647.1,
+      "text": "她一定要找一個強大的男人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00354",
+      "start": 647.1,
+      "end": 648.6,
+      "text": "值得被她依靠的男人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00355",
+      "start": 648.6,
+      "end": 650.1,
+      "text": "可以帶領她的男生"
+    },
+    {
+      "id": "BV1upQdBiEN1-00356",
+      "start": 650.1,
+      "end": 652.0,
+      "text": "所以說女生在給你約會的過程中呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00357",
+      "start": 652.0,
+      "end": 653.6,
+      "text": "她也會不停地測試你啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00358",
+      "start": 653.6,
+      "end": 654.9,
+      "text": "比如說不聽你的話"
+    },
+    {
+      "id": "BV1upQdBiEN1-00359",
+      "start": 654.9,
+      "end": 656.4,
+      "text": "故意不配合你啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00360",
+      "start": 656.4,
+      "end": 657.8,
+      "text": "或者說反駁你啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00361",
+      "start": 657.8,
+      "end": 659.9,
+      "text": "故意用這些行為去測試你"
+    },
+    {
+      "id": "BV1upQdBiEN1-00362",
+      "start": 659.9,
+      "end": 661.7,
+      "text": "是不是一個能帶領她的男人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00363",
+      "start": 661.7,
+      "end": 663.7,
+      "text": "一旦你在這些地方露切了啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00364",
+      "start": 663.7,
+      "end": 664.4,
+      "text": "露餡了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00365",
+      "start": 664.4,
+      "end": 665.4,
+      "text": "那麼女生就會覺得哦"
+    },
+    {
+      "id": "BV1upQdBiEN1-00366",
+      "start": 665.4,
+      "end": 666.5,
+      "text": "你是一個弱者啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00367",
+      "start": 666.5,
+      "end": 667.9,
+      "text": "你無法帶領我啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00368",
+      "start": 667.9,
+      "end": 669.4,
+      "text": "你跟我在一起得我帶領你"
+    },
+    {
+      "id": "BV1upQdBiEN1-00369",
+      "start": 669.4,
+      "end": 670.0,
+      "text": "那麼女生呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00370",
+      "start": 670.0,
+      "end": 671.0,
+      "text": "就會把你當小弟"
+    },
+    {
+      "id": "BV1upQdBiEN1-00371",
+      "start": 671.0,
+      "end": 671.9,
+      "text": "當然就把你PASS掉了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00372",
+      "start": 671.9,
+      "end": 672.4,
+      "text": "但如果"
+    },
+    {
+      "id": "BV1upQdBiEN1-00373",
+      "start": 672.4,
+      "end": 673.4,
+      "text": "她在一系列的這個"
+    },
+    {
+      "id": "BV1upQdBiEN1-00374",
+      "start": 673.4,
+      "end": 674.5,
+      "text": "跟你相處的過程中啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00375",
+      "start": 674.5,
+      "end": 675.2,
+      "text": "她真的發現"
+    },
+    {
+      "id": "BV1upQdBiEN1-00376",
+      "start": 675.2,
+      "end": 675.4,
+      "text": "哎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00377",
+      "start": 675.4,
+      "end": 676.9,
+      "text": "處處細節都能體現出"
+    },
+    {
+      "id": "BV1upQdBiEN1-00378",
+      "start": 676.9,
+      "end": 678.7,
+      "text": "你是一個可以領導她的男人"
+    },
+    {
+      "id": "BV1upQdBiEN1-00379",
+      "start": 678.7,
+      "end": 681.3,
+      "text": "你是一個可以值得她依靠的男生"
+    },
+    {
+      "id": "BV1upQdBiEN1-00380",
+      "start": 681.3,
+      "end": 683.2,
+      "text": "那麼她慢慢的就會在你面前"
+    },
+    {
+      "id": "BV1upQdBiEN1-00381",
+      "start": 683.2,
+      "end": 684.6,
+      "text": "變成可愛的小綿羊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00382",
+      "start": 684.6,
+      "end": 686.2,
+      "text": "然後對你開始小鳥一人了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00383",
+      "start": 686.2,
+      "end": 687.0,
+      "text": "那一刻"
+    },
+    {
+      "id": "BV1upQdBiEN1-00384",
+      "start": 687.0,
+      "end": 688.7,
+      "text": "就是你拿下她的時刻了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00385",
+      "start": 688.7,
+      "end": 690.4,
+      "text": "所以大部分的男生"
+    },
+    {
+      "id": "BV1upQdBiEN1-00386",
+      "start": 690.4,
+      "end": 692.0,
+      "text": "在跟女生相處的時候"
+    },
+    {
+      "id": "BV1upQdBiEN1-00387",
+      "start": 692.0,
+      "end": 693.0,
+      "text": "都犯了一個問題"
+    },
+    {
+      "id": "BV1upQdBiEN1-00388",
+      "start": 693.0,
+      "end": 695.0,
+      "text": "就是沒有建立自己的領導力"
+    },
+    {
+      "id": "BV1upQdBiEN1-00389",
+      "start": 695.0,
+      "end": 697.4,
+      "text": "反而都是不停的順著女生啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00390",
+      "start": 697.4,
+      "end": 698.8,
+      "text": "他說什麼都聽他的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00391",
+      "start": 698.8,
+      "end": 700.3,
+      "text": "你想幹嘛就聽你的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00392",
+      "start": 700.3,
+      "end": 701.5,
+      "text": "我就是你的小乾伴"
+    },
+    {
+      "id": "BV1upQdBiEN1-00393",
+      "start": 701.5,
+      "end": 703.0,
+      "text": "我會把你伺候的很好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00394",
+      "start": 703.0,
+      "end": 704.4,
+      "text": "他以為這樣子啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00395",
+      "start": 704.4,
+      "end": 705.8,
+      "text": "女生就會覺得我對她很好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00396",
+      "start": 705.8,
+      "end": 706.7,
+      "text": "然後感動她"
+    },
+    {
+      "id": "BV1upQdBiEN1-00397",
+      "start": 706.7,
+      "end": 707.7,
+      "text": "但其實你錯了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00398",
+      "start": 707.7,
+      "end": 708.7,
+      "text": "你有領導力"
+    },
+    {
+      "id": "BV1upQdBiEN1-00399",
+      "start": 708.7,
+      "end": 710.5,
+      "text": "你一樣可以對她好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00400",
+      "start": 710.5,
+      "end": 712.0,
+      "text": "你可以87的對她好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00401",
+      "start": 712.0,
+      "end": 713.8,
+      "text": "你可以帶領著她對她好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00402",
+      "start": 713.8,
+      "end": 716.2,
+      "text": "而不是順著她捧著她"
+    },
+    {
+      "id": "BV1upQdBiEN1-00403",
+      "start": 716.2,
+      "end": 717.4,
+      "text": "捧蟲腳的對她好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00404",
+      "start": 717.4,
+      "end": 718.7,
+      "text": "這是兩種好啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00405",
+      "start": 718.7,
+      "end": 720.1,
+      "text": "第一種是強者的好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00406",
+      "start": 720.1,
+      "end": 721.6,
+      "text": "第二種是弱者的好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00407",
+      "start": 721.6,
+      "end": 723.8,
+      "text": "那女生肯定喜歡是強者對她好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00408",
+      "start": 723.8,
+      "end": 725.1,
+      "text": "所以說對她好和"
+    },
+    {
+      "id": "BV1upQdBiEN1-00409",
+      "start": 725.1,
+      "end": 726.6,
+      "text": "在她面前當一個強者"
+    },
+    {
+      "id": "BV1upQdBiEN1-00410",
+      "start": 726.6,
+      "end": 727.8,
+      "text": "是不衝突的啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00411",
+      "start": 727.8,
+      "end": 729.0,
+      "text": "因為強者呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00412",
+      "start": 729.0,
+      "end": 730.5,
+      "text": "和弱者最大的差別是什麼"
+    },
+    {
+      "id": "BV1upQdBiEN1-00413",
+      "start": 730.5,
+      "end": 731.7,
+      "text": "強者值得依靠"
+    },
+    {
+      "id": "BV1upQdBiEN1-00414",
+      "start": 731.7,
+      "end": 732.9,
+      "text": "弱者無法依靠"
+    },
+    {
+      "id": "BV1upQdBiEN1-00415",
+      "start": 732.9,
+      "end": 734.1,
+      "text": "然後再補充一點啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00416",
+      "start": 734.1,
+      "end": 736.7,
+      "text": "不要擔心女生說你是大男子主義啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00417",
+      "start": 736.7,
+      "end": 738.9,
+      "text": "如果你什麼都不尊重他"
+    },
+    {
+      "id": "BV1upQdBiEN1-00418",
+      "start": 738.9,
+      "end": 740.6,
+      "text": "他才會說你大男子主義"
+    },
+    {
+      "id": "BV1upQdBiEN1-00419",
+      "start": 740.6,
+      "end": 742.9,
+      "text": "比如說吃飯你只吃你愛吃的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00420",
+      "start": 742.9,
+      "end": 743.7,
+      "text": "他想吃啥哎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00421",
+      "start": 743.7,
+      "end": 744.6,
+      "text": "你不聽啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00422",
+      "start": 744.6,
+      "end": 746.1,
+      "text": "那這你就是大男子主義了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00423",
+      "start": 746.1,
+      "end": 746.7,
+      "text": "但是呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00424",
+      "start": 746.7,
+      "end": 747.5,
+      "text": "你吃東西"
+    },
+    {
+      "id": "BV1upQdBiEN1-00425",
+      "start": 747.5,
+      "end": 748.6,
+      "text": "其實是什麼呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00426",
+      "start": 748.6,
+      "end": 749.4,
+      "text": "是他愛吃的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00427",
+      "start": 749.4,
+      "end": 749.8,
+      "text": "而且呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00428",
+      "start": 749.8,
+      "end": 751.4,
+      "text": "你非常細心的知道"
+    },
+    {
+      "id": "BV1upQdBiEN1-00429",
+      "start": 751.4,
+      "end": 752.8,
+      "text": "他之前可能跟你透露過"
+    },
+    {
+      "id": "BV1upQdBiEN1-00430",
+      "start": 752.8,
+      "end": 753.8,
+      "text": "他想吃什麼呀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00431",
+      "start": 753.8,
+      "end": 755.5,
+      "text": "他最近來大姨媽了呀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00432",
+      "start": 755.5,
+      "end": 756.7,
+      "text": "想喝點熱的啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00433",
+      "start": 756.7,
+      "end": 758.2,
+      "text": "他最近想吃甜食啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00434",
+      "start": 758.2,
+      "end": 758.9,
+      "text": "其實這些東西呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00435",
+      "start": 758.9,
+      "end": 759.8,
+      "text": "你嘴上不說"
+    },
+    {
+      "id": "BV1upQdBiEN1-00436",
+      "start": 759.8,
+      "end": 761.3,
+      "text": "但你都默默的放在心裡了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00437",
+      "start": 761.3,
+      "end": 762.5,
+      "text": "這叫粗中有細"
+    },
+    {
+      "id": "BV1upQdBiEN1-00438",
+      "start": 762.5,
+      "end": 764.0,
+      "text": "表面看似你很霸氣"
+    },
+    {
+      "id": "BV1upQdBiEN1-00439",
+      "start": 764.0,
+      "end": 764.9,
+      "text": "但實際上呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00440",
+      "start": 764.9,
+      "end": 766.3,
+      "text": "你在很多細微的地方"
+    },
+    {
+      "id": "BV1upQdBiEN1-00441",
+      "start": 766.3,
+      "end": 767.5,
+      "text": "都照顧到他的感受了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00442",
+      "start": 767.5,
+      "end": 769.8,
+      "text": "那麼其實他就不會覺得你是大男子主義啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00443",
+      "start": 769.8,
+      "end": 770.5,
+      "text": "男人嘛"
+    },
+    {
+      "id": "BV1upQdBiEN1-00444",
+      "start": 770.5,
+      "end": 772.4,
+      "text": "要剛中帶柔粗中有細"
+    },
+    {
+      "id": "BV1upQdBiEN1-00445",
+      "start": 772.4,
+      "end": 772.9,
+      "text": "好不好"
+    },
+    {
+      "id": "BV1upQdBiEN1-00446",
+      "start": 772.9,
+      "end": 774.0,
+      "text": "你們的光粗不細"
+    },
+    {
+      "id": "BV1upQdBiEN1-00447",
+      "start": 774.0,
+      "end": 775.0,
+      "text": "那肯定不行啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00448",
+      "start": 775.0,
+      "end": 777.3,
+      "text": "會吃的男生都不要務實專一"
+    },
+    {
+      "id": "BV1upQdBiEN1-00449",
+      "start": 777.3,
+      "end": 778.5,
+      "text": "有安全感你知道吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00450",
+      "start": 779.3,
+      "end": 780.7,
+      "text": "有這麼誇張的嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00451",
+      "start": 781.3,
+      "end": 783.1,
+      "text": "那你喜不喜歡有安全感的男生"
+    },
+    {
+      "id": "BV1upQdBiEN1-00452",
+      "start": 783.1,
+      "end": 784.1,
+      "text": "肯定喜歡呀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00453",
+      "start": 784.6,
+      "end": 785.9,
+      "text": "對呀那不就得了嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00454",
+      "start": 786.9,
+      "end": 787.6,
+      "text": "東西掉了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00455",
+      "start": 792.0,
+      "end": 793.7,
+      "text": "這段是純福利啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00456",
+      "start": 793.7,
+      "end": 796.3,
+      "text": "其實我是故意把東西弄掉的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00457",
+      "start": 796.3,
+      "end": 800.0,
+      "text": "為的就是給兄弟們拍你們愛看的東西啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00458",
+      "start": 800.0,
+      "end": 800.8,
+      "text": "這段我是"
+    },
+    {
+      "id": "BV1upQdBiEN1-00459",
+      "start": 800.8,
+      "end": 802.3,
+      "text": "我是純福利啊兄弟們"
+    },
+    {
+      "id": "BV1upQdBiEN1-00460",
+      "start": 802.3,
+      "end": 804.2,
+      "text": "還不趕緊666給我一件三連"
+    },
+    {
+      "id": "BV1upQdBiEN1-00461",
+      "start": 804.2,
+      "end": 806.1,
+      "text": "你看敘哥約會的時候"
+    },
+    {
+      "id": "BV1upQdBiEN1-00462",
+      "start": 806.1,
+      "end": 809.0,
+      "text": "還得想各種招給你們謀福利"
+    },
+    {
+      "id": "BV1upQdBiEN1-00463",
+      "start": 809.0,
+      "end": 810.8,
+      "text": "你就說愛不愛敘哥吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00464",
+      "start": 813.1,
+      "end": 814.4,
+      "text": "大家去看這個這個電影"
+    },
+    {
+      "id": "BV1upQdBiEN1-00465",
+      "start": 814.4,
+      "end": 815.4,
+      "text": "咱們去私人園看"
+    },
+    {
+      "id": "BV1upQdBiEN1-00466",
+      "start": 815.4,
+      "end": 816.7,
+      "text": "不去那個影園看"
+    },
+    {
+      "id": "BV1upQdBiEN1-00467",
+      "start": 817.8,
+      "end": 820.0,
+      "text": "就是我朋友開的一個私人園"
+    },
+    {
+      "id": "BV1upQdBiEN1-00468",
+      "start": 820.0,
+      "end": 820.6,
+      "text": "特別舒服"
+    },
+    {
+      "id": "BV1upQdBiEN1-00469",
+      "start": 820.6,
+      "end": 822.7,
+      "text": "還有免費的小吃飲料咔的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00470",
+      "start": 822.7,
+      "end": 823.6,
+      "text": "很好的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00471",
+      "start": 823.6,
+      "end": 825.3,
+      "text": "是正規的嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00472",
+      "start": 825.3,
+      "end": 826.9,
+      "text": "不是你還去過不正規的嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00473",
+      "start": 826.9,
+      "end": 828.1,
+      "text": "你想去不正規的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00474",
+      "start": 828.1,
+      "end": 829.7,
+      "text": "沒有不是"
+    },
+    {
+      "id": "BV1upQdBiEN1-00475",
+      "start": 829.7,
+      "end": 830.4,
+      "text": "放心啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00476",
+      "start": 830.4,
+      "end": 832.2,
+      "text": "我不抽菸不喝酒不打牌"
+    },
+    {
+      "id": "BV1upQdBiEN1-00477",
+      "start": 832.2,
+      "end": 833.3,
+      "text": "我只去綠色藏口"
+    },
+    {
+      "id": "BV1upQdBiEN1-00478",
+      "start": 833.3,
+      "end": 834.5,
+      "text": "我我打到車了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00479",
+      "start": 834.5,
+      "end": 835.3,
+      "text": "你打到車了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00480",
+      "start": 836.7,
+      "end": 837.9,
+      "text": "那麼這一段呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00481",
+      "start": 837.9,
+      "end": 838.8,
+      "text": "有一個技巧點"
+    },
+    {
+      "id": "BV1upQdBiEN1-00482",
+      "start": 838.8,
+      "end": 840.8,
+      "text": "就是我們在跟女生拉近關係的時候呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00483",
+      "start": 840.8,
+      "end": 842.7,
+      "text": "一定要學會一個東西叫台積"
+    },
+    {
+      "id": "BV1upQdBiEN1-00484",
+      "start": 842.7,
+      "end": 843.9,
+      "text": "就是你不能直接跟他說"
+    },
+    {
+      "id": "BV1upQdBiEN1-00485",
+      "start": 843.9,
+      "end": 845.2,
+      "text": "哎私人園很親密"
+    },
+    {
+      "id": "BV1upQdBiEN1-00486",
+      "start": 845.2,
+      "end": 846.2,
+      "text": "我想瞜著你看電影"
+    },
+    {
+      "id": "BV1upQdBiEN1-00487",
+      "start": 846.2,
+      "end": 847.6,
+      "text": "那麼這個時候女生就覺得"
+    },
+    {
+      "id": "BV1upQdBiEN1-00488",
+      "start": 847.6,
+      "end": 849.1,
+      "text": "我如果這樣就答應你了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00489",
+      "start": 849.1,
+      "end": 851.2,
+      "text": "這不豈不是顯得我太隨便了嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00490",
+      "start": 851.2,
+      "end": 852.5,
+      "text": "她一定會拒絕你"
+    },
+    {
+      "id": "BV1upQdBiEN1-00491",
+      "start": 852.5,
+      "end": 854.6,
+      "text": "哪怕她心裡多喜歡你了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00492",
+      "start": 854.6,
+      "end": 856.1,
+      "text": "她嘴上也會拒絕你了啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00493",
+      "start": 856.1,
+      "end": 857.5,
+      "text": "因為她會覺得"
+    },
+    {
+      "id": "BV1upQdBiEN1-00494",
+      "start": 857.5,
+      "end": 859.6,
+      "text": "這樣會顯得我很隨便啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00495",
+      "start": 859.6,
+      "end": 861.0,
+      "text": "顯得我很浪盪"
+    },
+    {
+      "id": "BV1upQdBiEN1-00496",
+      "start": 861.0,
+      "end": 862.5,
+      "text": "所以說你嘴上一定要給她"
+    },
+    {
+      "id": "BV1upQdBiEN1-00497",
+      "start": 862.5,
+      "end": 863.8,
+      "text": "找一個合理的理由"
+    },
+    {
+      "id": "BV1upQdBiEN1-00498",
+      "start": 863.8,
+      "end": 864.7,
+      "text": "讓她有一個台階下"
+    },
+    {
+      "id": "BV1upQdBiEN1-00499",
+      "start": 864.7,
+      "end": 866.7,
+      "text": "比如說我說這是我朋友開的啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00500",
+      "start": 866.7,
+      "end": 868.8,
+      "text": "會送你免費的水果啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00501",
+      "start": 868.8,
+      "end": 871.1,
+      "text": "零食啊可舒服了那個地兒啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00502",
+      "start": 871.1,
+      "end": 872.2,
+      "text": "而且這個電影呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00503",
+      "start": 872.2,
+      "end": 873.8,
+      "text": "電影院裡面沒有啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00504",
+      "start": 873.8,
+      "end": 876.2,
+      "text": "而且你放心絕對是正規場所"
+    },
+    {
+      "id": "BV1upQdBiEN1-00505",
+      "start": 876.2,
+      "end": 877.8,
+      "text": "是不是我這個人不抽菸"
+    },
+    {
+      "id": "BV1upQdBiEN1-00506",
+      "start": 877.8,
+      "end": 880.0,
+      "text": "不喝酒不打牌只缺綠色場所"
+    },
+    {
+      "id": "BV1upQdBiEN1-00507",
+      "start": 880.0,
+      "end": 881.7,
+      "text": "你看這一系列都是台階"
+    },
+    {
+      "id": "BV1upQdBiEN1-00508",
+      "start": 881.7,
+      "end": 883.5,
+      "text": "就讓女生覺得我現在答應你"
+    },
+    {
+      "id": "BV1upQdBiEN1-00509",
+      "start": 883.5,
+      "end": 885.5,
+      "text": "合情合理也不會顯得我很隨便"
+    },
+    {
+      "id": "BV1upQdBiEN1-00510",
+      "start": 885.5,
+      "end": 887.1,
+      "text": "就算後面發生了什麼"
+    },
+    {
+      "id": "BV1upQdBiEN1-00511",
+      "start": 887.1,
+      "end": 888.6,
+      "text": "那也是你把我騙過來的啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00512",
+      "start": 888.6,
+      "end": 890.8,
+      "text": "那也不是說我是一個壞女孩"
+    },
+    {
+      "id": "BV1upQdBiEN1-00513",
+      "start": 890.8,
+      "end": 892.2,
+      "text": "明白吧等會會發生什麼"
+    },
+    {
+      "id": "BV1upQdBiEN1-00514",
+      "start": 892.2,
+      "end": 893.3,
+      "text": "大家心照不宣啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00515",
+      "start": 893.3,
+      "end": 895.1,
+      "text": "其實人性就是這樣的哎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00516",
+      "start": 895.1,
+      "end": 896.5,
+      "text": "你知道我想幹什麼"
+    },
+    {
+      "id": "BV1upQdBiEN1-00517",
+      "start": 896.5,
+      "end": 898.7,
+      "text": "我也知道你知道我想幹什麼"
+    },
+    {
+      "id": "BV1upQdBiEN1-00518",
+      "start": 898.7,
+      "end": 901.6,
+      "text": "但是如果我把我想幹什麼說出來了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00519",
+      "start": 901.6,
+      "end": 903.6,
+      "text": "你就不樂意了對不對"
+    },
+    {
+      "id": "BV1upQdBiEN1-00520",
+      "start": 903.6,
+      "end": 906.4,
+      "text": "這就跟網上還有發很多擦邊視頻"
+    },
+    {
+      "id": "BV1upQdBiEN1-00521",
+      "start": 906.4,
+      "end": 908.2,
+      "text": "擦邊照片的那些女生是的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00522",
+      "start": 908.2,
+      "end": 911.9,
+      "text": "哎她明明知道她發的就是擦邊照片吸引色粉的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00523",
+      "start": 911.9,
+      "end": 914.1,
+      "text": "但是她主頁簽名要寫一個"
+    },
+    {
+      "id": "BV1upQdBiEN1-00524",
+      "start": 914.1,
+      "end": 916.8,
+      "text": "不約色粉拉黑是不是"
+    },
+    {
+      "id": "BV1upQdBiEN1-00525",
+      "start": 916.8,
+      "end": 918.7,
+      "text": "但其實她吸的還不就是色粉嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00526",
+      "start": 918.7,
+      "end": 920.0,
+      "text": "是不是啊你看大家都知道"
+    },
+    {
+      "id": "BV1upQdBiEN1-00527",
+      "start": 920.0,
+      "end": 921.9,
+      "text": "但是心照不宣東西不能說啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00528",
+      "start": 921.9,
+      "end": 923.1,
+      "text": "說出來就顯得你沒品"
+    },
+    {
+      "id": "BV1upQdBiEN1-00529",
+      "start": 924.9,
+      "end": 927.6,
+      "text": "然後這時候女生突然接了一個電話啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00530",
+      "start": 927.6,
+      "end": 930.9,
+      "text": "後面了解到是女生的前男友突然來電話啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00531",
+      "start": 930.9,
+      "end": 932.3,
+      "text": "可能想找到負荷啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00532",
+      "start": 932.3,
+      "end": 935.3,
+      "text": "能不能看一下敘哥這種極限情況是怎麼處理的啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00533",
+      "start": 937.3,
+      "end": 939.1,
+      "text": "前男友打電話又有件事"
+    },
+    {
+      "id": "BV1upQdBiEN1-00534",
+      "start": 939.9,
+      "end": 941.3,
+      "text": "呃那你咋想啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00535",
+      "start": 941.3,
+      "end": 942.3,
+      "text": "我也不知道啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00536",
+      "start": 943.4,
+      "end": 945.5,
+      "text": "嗯那你等我一會啊我上個廁所"
+    },
+    {
+      "id": "BV1upQdBiEN1-00537",
+      "start": 947.9,
+      "end": 949.7,
+      "text": "到手的呀都要肥了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00538",
+      "start": 949.7,
+      "end": 951.5,
+      "text": "兄弟們看我操作啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00539",
+      "start": 952.0,
+      "end": 952.86,
+      "text": "嘿嘿嘿"
+    },
+    {
+      "id": "BV1upQdBiEN1-00540",
+      "start": 954.5,
+      "end": 956.5,
+      "text": "你一會按照我的安排說就行了啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00541",
+      "start": 956.5,
+      "end": 957.6,
+      "text": "ok沒問題"
+    },
+    {
+      "id": "BV1upQdBiEN1-00542",
+      "start": 959.5,
+      "end": 960.7,
+      "text": "看我操作啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00543",
+      "start": 962.4,
+      "end": 964.0,
+      "text": "那麼接下來這一段"
+    },
+    {
+      "id": "BV1upQdBiEN1-00544",
+      "start": 964.0,
+      "end": 966.8,
+      "text": "就體現出女療機的重要性啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00545",
+      "start": 966.8,
+      "end": 968.9,
+      "text": "如果你有女療機的話"
+    },
+    {
+      "id": "BV1upQdBiEN1-00546",
+      "start": 968.9,
+      "end": 970.6,
+      "text": "那麼最後這個技巧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00547",
+      "start": 970.6,
+      "end": 972.3,
+      "text": "徐德送給你"
+    },
+    {
+      "id": "BV1upQdBiEN1-00548",
+      "start": 973.9,
+      "end": 975.2,
+      "text": "打樣想好了嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00549",
+      "start": 975.2,
+      "end": 976.0,
+      "text": "沒有呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00550",
+      "start": 976.0,
+      "end": 977.2,
+      "text": "等會啊我接個電話啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00551",
+      "start": 977.9,
+      "end": 978.3,
+      "text": "喂"
+    },
+    {
+      "id": "BV1upQdBiEN1-00552",
+      "start": 978.3,
+      "end": 979.1,
+      "text": "喂"
+    },
+    {
+      "id": "BV1upQdBiEN1-00553",
+      "start": 979.1,
+      "end": 980.4,
+      "text": "你在幹嘛呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00554",
+      "start": 980.4,
+      "end": 982.6,
+      "text": "我跟朋友關鍵呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00555",
+      "start": 983.5,
+      "end": 985.1,
+      "text": "那你今晚要吃飯吧"
+    },
+    {
+      "id": "BV1upQdBiEN1-00556",
+      "start": 985.1,
+      "end": 986.8,
+      "text": "我就是在喝我的酒呀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00557",
+      "start": 987.5,
+      "end": 988.6,
+      "text": "我一會嗎"
+    },
+    {
+      "id": "BV1upQdBiEN1-00558",
+      "start": 989.4,
+      "end": 989.9,
+      "text": "這"
+    },
+    {
+      "id": "BV1upQdBiEN1-00559",
+      "start": 991.3,
+      "end": 992.5,
+      "text": "那你等我一下"
+    },
+    {
+      "id": "BV1upQdBiEN1-00560",
+      "start": 998.0,
+      "end": 999.9,
+      "text": "那你去找你前男友啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00561",
+      "start": 1000.7,
+      "end": 1002.0,
+      "text": "你剛剛是誰啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00562",
+      "start": 1002.6,
+      "end": 1003.6,
+      "text": "你還沒回答我呢"
+    },
+    {
+      "id": "BV1upQdBiEN1-00563",
+      "start": 1003.6,
+      "end": 1006.2,
+      "text": "你是去找你前男友還是跟我去看電影"
+    },
+    {
+      "id": "BV1upQdBiEN1-00564",
+      "start": 1007.2,
+      "end": 1007.8,
+      "text": "想知道"
+    },
+    {
+      "id": "BV1upQdBiEN1-00565",
+      "start": 1008.9,
+      "end": 1010.6,
+      "text": "那那走吧那我剛好打車"
+    },
+    {
+      "id": "BV1upQdBiEN1-00566",
+      "start": 1010.6,
+      "end": 1011.8,
+      "text": "咱們去看電影"
+    },
+    {
+      "id": "BV1upQdBiEN1-00567",
+      "start": 1012.3,
+      "end": 1013.6,
+      "text": "哥哥那到底是誰啊"
+    },
+    {
+      "id": "BV1upQdBiEN1-00568",
+      "start": 1014.3,
+      "end": 1015.4,
+      "text": "咋你吃醋了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00569",
+      "start": 1015.4,
+      "end": 1016.62,
+      "text": "我才沒有吃醋"
+    },
+    {
+      "id": "BV1upQdBiEN1-00570",
+      "start": 1016.62,
+      "end": 1017.8,
+      "text": "我問你到底是誰"
+    },
+    {
+      "id": "BV1upQdBiEN1-00571",
+      "start": 1018.2,
+      "end": 1019.7,
+      "text": "那你對我好一點我就告訴你"
+    },
+    {
+      "id": "BV1upQdBiEN1-00572",
+      "start": 1020.2,
+      "end": 1021.0,
+      "text": "哎呀"
+    },
+    {
+      "id": "BV1upQdBiEN1-00573",
+      "start": 1021.8,
+      "end": 1022.3,
+      "text": "嗯"
+    },
+    {
+      "id": "BV1upQdBiEN1-00574",
+      "start": 1024.0,
+      "end": 1024.7,
+      "text": "嗯"
+    },
+    {
+      "id": "BV1upQdBiEN1-00575",
+      "start": 1025.2,
+      "end": 1025.7,
+      "text": "嗯"
+    },
+    {
+      "id": "BV1upQdBiEN1-00576",
+      "start": 1027.8,
+      "end": 1030.1,
+      "text": "好的兄弟們今天的乾貨就到這裡了"
+    },
+    {
+      "id": "BV1upQdBiEN1-00577",
+      "start": 1030.1,
+      "end": 1031.5,
+      "text": "如果你想跟徐哥學習"
+    },
+    {
+      "id": "BV1upQdBiEN1-00578",
+      "start": 1031.5,
+      "end": 1032.9,
+      "text": "或者說有喜歡的女生搞不定"
+    },
+    {
+      "id": "BV1upQdBiEN1-00579",
+      "start": 1032.9,
+      "end": 1034.0,
+      "text": "想找我幫忙的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00580",
+      "start": 1034.0,
+      "end": 1035.9,
+      "text": "看資頂評論或者主頁簽名"
+    },
+    {
+      "id": "BV1upQdBiEN1-00581",
+      "start": 1035.9,
+      "end": 1037.7,
+      "text": "找到徐哥本人我來幫你"
+    },
+    {
+      "id": "BV1upQdBiEN1-00582",
+      "start": 1037.7,
+      "end": 1038.5,
+      "text": "覺得乾貨的"
+    },
+    {
+      "id": "BV1upQdBiEN1-00583",
+      "start": 1038.5,
+      "end": 1039.9,
+      "text": "記得給徐哥一鍵三連哦"
+    },
+    {
+      "id": "BV1upQdBiEN1-00584",
+      "start": 1039.9,
+      "end": 1041.1,
+      "text": "關注徐哥一周一次"
+    },
+    {
+      "id": "BV1upQdBiEN1-00585",
+      "start": 1041.1,
+      "end": 1042.8,
+      "text": "最實用的情感乾貨"
+    },
+    {
+      "id": "BV1upQdBiEN1-00586",
+      "start": 1042.8,
+      "end": 1043.5,
+      "text": "我們"
+    },
+    {
+      "id": "BV1upQdBiEN1-00587",
+      "start": 1043.5,
+      "end": 1044.4,
+      "text": "下期再見"
+    }
+  ],
+  "video_bvid": "BV1upQdBiEN1",
+  "source_url": "https://www.bilibili.com/video/BV1upQdBiEN1/"
+}

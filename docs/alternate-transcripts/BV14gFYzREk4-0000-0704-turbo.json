@@ -1,0 +1,2615 @@
+{
+  "schema_version": 1,
+  "bvid": "BV14gFYzREk4",
+  "source_start": 0,
+  "source_end": 704,
+  "method": "whisper.cpp v1.9.5 large-v3-turbo-q5_0; zh; Metal; beam_size=3; best_of=3; max_len=40; threads=4; independent machine crosscheck, not listening",
+  "listening_verified": false,
+  "elapsed_seconds": 177.6,
+  "segments": [
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0001",
+      "start": 0.0,
+      "end": 8.14,
+      "text": "哈喽 兄弟们 我是旭哥"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0002",
+      "start": 8.14,
+      "end": 11.22,
+      "text": "今天给大家带来一期约会实战技巧解析"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0003",
+      "start": 11.22,
+      "end": 13.9,
+      "text": "这次咱们遇到了不少棘手的情况"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0004",
+      "start": 13.9,
+      "end": 15.62,
+      "text": "女生跟我约会的时候直接说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0005",
+      "start": 15.62,
+      "end": 18.5,
+      "text": "不给女人付出的男人都是渣男"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0006",
+      "start": 18.5,
+      "end": 21.56,
+      "text": "那么今天你们会看到这种情况的应对方法"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0007",
+      "start": 21.56,
+      "end": 23.12,
+      "text": "而且我们还约会迟到了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0008",
+      "start": 23.12,
+      "end": 24.16,
+      "text": "女生又生气了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0009",
+      "start": 24.16,
+      "end": 25.74,
+      "text": "看电影还遇到烂片了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0010",
+      "start": 25.74,
+      "end": 27.32,
+      "text": "这么多突发情况"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0011",
+      "start": 27.32,
+      "end": 29.58,
+      "text": "今天你们都会看到我是如何应对的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0012",
+      "start": 29.58,
+      "end": 32.82,
+      "text": "如果你们约会也是遇到各式各样的突发情况"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0013",
+      "start": 32.82,
+      "end": 34.66,
+      "text": "那么今天这期视频看完"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0014",
+      "start": 34.66,
+      "end": 35.94,
+      "text": "你就知道怎么处理了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0015",
+      "start": 35.94,
+      "end": 36.98,
+      "text": "好了 闲话不多说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0016",
+      "start": 36.98,
+      "end": 38.16,
+      "text": "咱们直接开始"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0017",
+      "start": 38.16,
+      "end": 50.7,
+      "text": "这句话兄弟们你们怎么回"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0018",
+      "start": 50.7,
+      "end": 52.76,
+      "text": "上来旭哥就已经迟到了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0019",
+      "start": 52.76,
+      "end": 54.42,
+      "text": "然后女生就已经不乐意了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0020",
+      "start": 54.42,
+      "end": 55.52,
+      "text": "因为我迟到了半个点"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0021",
+      "start": 55.52,
+      "end": 58.66,
+      "text": "先把你们的应对方式给我抠在弹幕上"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0022",
+      "start": 58.66,
+      "end": 60.3,
+      "text": "各位这个地方切记啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0023",
+      "start": 60.3,
+      "end": 61.96,
+      "text": "千万不要去解释"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0024",
+      "start": 61.96,
+      "end": 62.62,
+      "text": "说什么"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0025",
+      "start": 62.62,
+      "end": 64.08,
+      "text": "哎呀 堵车堵车"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0026",
+      "start": 64.08,
+      "end": 65.48,
+      "text": "不好意思出门晚了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0027",
+      "start": 65.48,
+      "end": 66.44,
+      "text": "怎么怎么样的啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0028",
+      "start": 66.44,
+      "end": 67.56,
+      "text": "你越解释"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0029",
+      "start": 67.56,
+      "end": 68.76,
+      "text": "女生越会生气"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0030",
+      "start": 68.76,
+      "end": 69.44,
+      "text": "为什么呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0031",
+      "start": 69.44,
+      "end": 70.52,
+      "text": "因为解释"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0032",
+      "start": 70.52,
+      "end": 71.94,
+      "text": "在女生的视角看来"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0033",
+      "start": 71.94,
+      "end": 73.02,
+      "text": "你在推卸责任"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0034",
+      "start": 73.02,
+      "end": 73.8,
+      "text": "就不管你说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0035",
+      "start": 73.8,
+      "end": 75.0,
+      "text": "哎呀 是堵车也好"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0036",
+      "start": 75.0,
+      "end": 76.44,
+      "text": "还是出门晚了也好"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0037",
+      "start": 76.44,
+      "end": 78.58,
+      "text": "还是什么司机绕路也好"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0038",
+      "start": 78.58,
+      "end": 80.98,
+      "text": "你都是在向女生传递一个信息"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0039",
+      "start": 80.98,
+      "end": 82.26,
+      "text": "就是这不是我的问题"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0040",
+      "start": 82.26,
+      "end": 83.16,
+      "text": "你不能赖我"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0041",
+      "start": 83.16,
+      "end": 84.3,
+      "text": "这都是别人的问题"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0042",
+      "start": 84.3,
+      "end": 86.02,
+      "text": "那么通过你这样的一个行为"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0043",
+      "start": 86.02,
+      "end": 87.2,
+      "text": "女生就能判断"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0044",
+      "start": 87.2,
+      "end": 89.74,
+      "text": "你这个男人不是一个值得依靠的男人"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0045",
+      "start": 89.74,
+      "end": 91.06,
+      "text": "以后我跟你在一起"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0046",
+      "start": 91.06,
+      "end": 92.66,
+      "text": "遇到任何事你也解决不了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0047",
+      "start": 92.66,
+      "end": 94.28,
+      "text": "然后你犯了任何错啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0048",
+      "start": 94.28,
+      "end": 95.7,
+      "text": "你也会推卸到别人身上"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0049",
+      "start": 95.7,
+      "end": 97.52,
+      "text": "甚至可能有人欺负我"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0050",
+      "start": 97.52,
+      "end": 98.7,
+      "text": "或者我需要帮助了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0051",
+      "start": 98.7,
+      "end": 100.4,
+      "text": "你都会临阵脱逃"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0052",
+      "start": 100.4,
+      "end": 102.12,
+      "text": "你这种男人就不是一个强者"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0053",
+      "start": 102.12,
+      "end": 103.48,
+      "text": "不是一个值得依靠的男人"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0054",
+      "start": 103.48,
+      "end": 104.82,
+      "text": "因为一个真正的强者"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0055",
+      "start": 104.82,
+      "end": 105.64,
+      "text": "是自己的错"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0056",
+      "start": 105.64,
+      "end": 106.7,
+      "text": "挨打就立正"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0057",
+      "start": 106.7,
+      "end": 107.46,
+      "text": "是我的错"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0058",
+      "start": 107.46,
+      "end": 107.98,
+      "text": "我就认错"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0059",
+      "start": 107.98,
+      "end": 108.54,
+      "text": "我就改错"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0060",
+      "start": 108.54,
+      "end": 109.3,
+      "text": "我就弥补"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0061",
+      "start": 109.3,
+      "end": 110.24,
+      "text": "我就扛折"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0062",
+      "start": 110.24,
+      "end": 111.92,
+      "text": "所以说咱们的回答"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0063",
+      "start": 111.92,
+      "end": 114.18,
+      "text": "一定是要承认自己的问题"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0064",
+      "start": 114.18,
+      "end": 115.14,
+      "text": "一定要扛折"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0065",
+      "start": 115.14,
+      "end": 118.18,
+      "text": "然后我们付出代价去弥补就行了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0066",
+      "start": 118.18,
+      "end": 119.54,
+      "text": "直到五分钟算值的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0067",
+      "start": 119.54,
+      "end": 120.92,
+      "text": "我们直到半个小时了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0068",
+      "start": 120.92,
+      "end": 122.62,
+      "text": "那这样吧"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0069",
+      "start": 122.62,
+      "end": 124.2,
+      "text": "明天玩密室的时候"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0070",
+      "start": 124.2,
+      "end": 125.3,
+      "text": "我早到半个小时"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0071",
+      "start": 125.3,
+      "end": 125.82,
+      "text": "咋样"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0072",
+      "start": 125.82,
+      "end": 128.78,
+      "text": "啥时候跟你说明天玩密室"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0073",
+      "start": 128.78,
+      "end": 131.1,
+      "text": "不是刚才迟到了吗"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0074",
+      "start": 131.1,
+      "end": 132.5,
+      "text": "我就明天请你玩密室"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0075",
+      "start": 132.5,
+      "end": 133.12,
+      "text": "不长时间"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0076",
+      "start": 133.12,
+      "end": 135.9,
+      "text": "嘿嘿兄弟们"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0077",
+      "start": 135.9,
+      "end": 137.98,
+      "text": "咱们直接转移话题"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0078",
+      "start": 137.98,
+      "end": 140.96,
+      "text": "而且直接跟他敲定第二天的约会"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0079",
+      "start": 140.96,
+      "end": 142.48,
+      "text": "遇到这种突发情况"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0080",
+      "start": 142.48,
+      "end": 144.98,
+      "text": "记住不要把小错给放大"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0081",
+      "start": 144.98,
+      "end": 146.12,
+      "text": "马上转移话题"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0082",
+      "start": 146.12,
+      "end": 148.34,
+      "text": "把这个事给大事话小小事话聊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0083",
+      "start": 148.34,
+      "end": 149.42,
+      "text": "给他掠过去"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0084",
+      "start": 149.42,
+      "end": 150.42,
+      "text": "遇到问题"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0085",
+      "start": 150.42,
+      "end": 152.54,
+      "text": "转移话题是一个最简单"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0086",
+      "start": 152.54,
+      "end": 154.3,
+      "text": "最适合新手的一个处理方法"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0087",
+      "start": 154.3,
+      "end": 155.72,
+      "text": "如果你脑袋反应不快的话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0088",
+      "start": 155.72,
+      "end": 156.56,
+      "text": "马上转移话题"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0089",
+      "start": 156.56,
+      "end": 158.4,
+      "text": "你想不到说第二天玩密室"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0090",
+      "start": 158.4,
+      "end": 158.72,
+      "text": "你就说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0091",
+      "start": 158.72,
+      "end": 160.22,
+      "text": "那这样我一会请你看个电影"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0092",
+      "start": 160.22,
+      "end": 160.6,
+      "text": "哎呀"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0093",
+      "start": 160.6,
+      "end": 161.98,
+      "text": "这样一会吃饭我买单吧"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0094",
+      "start": 161.98,
+      "end": 163.26,
+      "text": "这是最简单的一个方法"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0095",
+      "start": 163.26,
+      "end": 164.96,
+      "text": "你们以后就记住这一招就行了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0096",
+      "start": 164.96,
+      "end": 166.2,
+      "text": "不用跟他解释任何东西"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0097",
+      "start": 166.2,
+      "end": 167.74,
+      "text": "而且女生还会觉得"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0098",
+      "start": 167.74,
+      "end": 169.5,
+      "text": "你是一个愿意承担责任的男人"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0099",
+      "start": 169.5,
+      "end": 171.58,
+      "text": "不会因为你这个小错去扣你的分"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0100",
+      "start": 171.58,
+      "end": 172.22,
+      "text": "当然了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0101",
+      "start": 172.22,
+      "end": 174.0,
+      "text": "女生不会因为你这么一招"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0102",
+      "start": 174.0,
+      "end": 175.22,
+      "text": "就马上不生气了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0103",
+      "start": 175.22,
+      "end": 176.94,
+      "text": "所以我们接下来要做的是什么呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0104",
+      "start": 176.94,
+      "end": 178.4,
+      "text": "就是持续推进这个约会"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0105",
+      "start": 178.4,
+      "end": 179.76,
+      "text": "马上进入下一环节"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0106",
+      "start": 179.76,
+      "end": 180.56,
+      "text": "该吃饭吃饭"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0107",
+      "start": 180.56,
+      "end": 181.6,
+      "text": "该逛街逛街"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0108",
+      "start": 181.6,
+      "end": 182.24,
+      "text": "这样的话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0109",
+      "start": 182.24,
+      "end": 183.32,
+      "text": "在行动中"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0110",
+      "start": 183.32,
+      "end": 184.8,
+      "text": "慢慢女生就把这件事忘了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0111",
+      "start": 184.8,
+      "end": 186.1,
+      "text": "情绪也就慢慢回来了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0112",
+      "start": 186.1,
+      "end": 186.4,
+      "text": "好"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0113",
+      "start": 186.4,
+      "end": 187.84,
+      "text": "接下来看一下点菜的环节"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0114",
+      "start": 187.84,
+      "end": 197.9,
+      "text": "这句话你们会怎么回"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0115",
+      "start": 197.9,
+      "end": 199.12,
+      "text": "女生说万一你点的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0116",
+      "start": 199.12,
+      "end": 200.02,
+      "text": "我不喜欢吃怎么办"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0117",
+      "start": 200.02,
+      "end": 200.68,
+      "text": "很多人就说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0118",
+      "start": 200.68,
+      "end": 201.26,
+      "text": "那你来点"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0119",
+      "start": 201.26,
+      "end": 203.14,
+      "text": "记住在跟女生相处的时候"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0120",
+      "start": 203.14,
+      "end": 204.36,
+      "text": "千万不要犹犹豫豫的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0121",
+      "start": 204.36,
+      "end": 204.86,
+      "text": "一会儿说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0122",
+      "start": 204.86,
+      "end": 205.54,
+      "text": "那我来点"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0123",
+      "start": 205.54,
+      "end": 206.32,
+      "text": "一会儿女生说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0124",
+      "start": 206.32,
+      "end": 207.04,
+      "text": "我想点"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0125",
+      "start": 207.04,
+      "end": 207.72,
+      "text": "你就给他点"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0126",
+      "start": 207.72,
+      "end": 208.36,
+      "text": "然后一会儿又说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0127",
+      "start": 208.36,
+      "end": 209.28,
+      "text": "他不知道点啥"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0128",
+      "start": 209.28,
+      "end": 210.14,
+      "text": "那我来点"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0129",
+      "start": 210.14,
+      "end": 210.84,
+      "text": "越是这样"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0130",
+      "start": 210.84,
+      "end": 212.34,
+      "text": "你的吸引力就越在下降"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0131",
+      "start": 212.34,
+      "end": 214.1,
+      "text": "因为女生会觉得体验感非常不好"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0132",
+      "start": 214.1,
+      "end": 215.56,
+      "text": "会觉得你这个男人摇摆不定"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0133",
+      "start": 215.56,
+      "end": 216.22,
+      "text": "没有主见"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0134",
+      "start": 216.22,
+      "end": 216.56,
+      "text": "记住"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0135",
+      "start": 216.56,
+      "end": 217.88,
+      "text": "如果你在跟女生相处的时候"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0136",
+      "start": 217.88,
+      "end": 218.86,
+      "text": "你做了一个决定"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0137",
+      "start": 218.86,
+      "end": 219.6,
+      "text": "你就要坚持"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0138",
+      "start": 219.6,
+      "end": 220.7,
+      "text": "让你这个决定是对的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0139",
+      "start": 220.7,
+      "end": 221.32,
+      "text": "坚持住"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0140",
+      "start": 221.32,
+      "end": 222.86,
+      "text": "不要来回摇摆不定"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0141",
+      "start": 222.86,
+      "end": 223.7,
+      "text": "所以当时我说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0142",
+      "start": 223.7,
+      "end": 224.46,
+      "text": "我来点菜的时候"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0143",
+      "start": 224.46,
+      "end": 225.58,
+      "text": "哪怕他提出质疑了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0144",
+      "start": 225.58,
+      "end": 226.9,
+      "text": "我们也要坚持我们的选择"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0145",
+      "start": 226.9,
+      "end": 227.14,
+      "text": "好"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0146",
+      "start": 227.14,
+      "end": 228.12,
+      "text": "第二个点是什么呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0147",
+      "start": 228.12,
+      "end": 228.82,
+      "text": "在约会的时候"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0148",
+      "start": 228.82,
+      "end": 230.56,
+      "text": "尽量不要让女生点菜"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0149",
+      "start": 230.56,
+      "end": 231.06,
+      "text": "为什么呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0150",
+      "start": 231.06,
+      "end": 232.24,
+      "text": "很多兄弟会想"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0151",
+      "start": 232.24,
+      "end": 233.38,
+      "text": "我让女生点菜"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0152",
+      "start": 233.38,
+      "end": 234.78,
+      "text": "这不是显得我很尊重他吗"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0153",
+      "start": 234.78,
+      "end": 235.72,
+      "text": "显得我很绅士吗"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0154",
+      "start": 235.72,
+      "end": 237.04,
+      "text": "但其实大错特错"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0155",
+      "start": 237.04,
+      "end": 238.62,
+      "text": "站在女生的视角来看"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0156",
+      "start": 238.62,
+      "end": 239.82,
+      "text": "你让我点菜"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0157",
+      "start": 239.82,
+      "end": 241.42,
+      "text": "会显得你这个男生没有主见"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0158",
+      "start": 241.42,
+      "end": 243.44,
+      "text": "而且一般女生都不会点菜"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0159",
+      "start": 243.44,
+      "end": 244.64,
+      "text": "他都不知道该点啥"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0160",
+      "start": 244.64,
+      "end": 246.1,
+      "text": "反而他会觉得很烦"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0161",
+      "start": 246.1,
+      "end": 249.0,
+      "text": "女生喜欢的是能被他依靠的男人"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0162",
+      "start": 249.0,
+      "end": 251.46,
+      "text": "什么东西都能替我摆平的男人"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0163",
+      "start": 251.46,
+      "end": 252.5,
+      "text": "你连点个菜"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0164",
+      "start": 252.5,
+      "end": 253.12,
+      "text": "你都摆不平"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0165",
+      "start": 253.12,
+      "end": 254.16,
+      "text": "你都得听我的意见"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0166",
+      "start": 254.16,
+      "end": 255.26,
+      "text": "以后更大的事"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0167",
+      "start": 255.26,
+      "end": 255.92,
+      "text": "你能摆平吗"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0168",
+      "start": 255.92,
+      "end": 256.38,
+      "text": "所以说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0169",
+      "start": 256.38,
+      "end": 259.0,
+      "text": "我们只需要象征性的表现出"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0170",
+      "start": 259.0,
+      "end": 260.86,
+      "text": "尊重他的口味就行了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0171",
+      "start": 260.86,
+      "end": 262.54,
+      "text": "但不要真的让他去点"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0172",
+      "start": 262.54,
+      "end": 263.42,
+      "text": "比如说你可以问他"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0173",
+      "start": 263.42,
+      "end": 264.24,
+      "text": "你喜欢吃甜的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0174",
+      "start": 264.24,
+      "end": 264.84,
+      "text": "喜欢吃辣的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0175",
+      "start": 264.84,
+      "end": 266.36,
+      "text": "你平时喜欢吃什么口味的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0176",
+      "start": 266.36,
+      "end": 267.54,
+      "text": "然后根据他的口味"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0177",
+      "start": 267.54,
+      "end": 268.76,
+      "text": "我们来替他点"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0178",
+      "start": 268.76,
+      "end": 269.42,
+      "text": "这样的话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0179",
+      "start": 269.42,
+      "end": 270.96,
+      "text": "女生就会觉得你又尊重他"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0180",
+      "start": 270.96,
+      "end": 272.18,
+      "text": "但是你又值得依靠"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0181",
+      "start": 272.18,
+      "end": 272.84,
+      "text": "所以这句话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0182",
+      "start": 272.84,
+      "end": 274.08,
+      "text": "我是当时这么应对的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0183",
+      "start": 274.08,
+      "end": 275.44,
+      "text": "那你就不吃吧"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0184",
+      "start": 275.44,
+      "end": 276.34,
+      "text": "陪我吃完了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0185",
+      "start": 276.34,
+      "end": 277.34,
+      "text": "我再陪你去吃"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0186",
+      "start": 277.34,
+      "end": 278.14,
+      "text": "你喜欢吃的呗"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0187",
+      "start": 278.14,
+      "end": 280.38,
+      "text": "也不要觉得"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0188",
+      "start": 280.38,
+      "end": 281.32,
+      "text": "女生会不会觉得"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0189",
+      "start": 281.32,
+      "end": 282.4,
+      "text": "我大男子主义啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0190",
+      "start": 282.4,
+      "end": 282.86,
+      "text": "你记住"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0191",
+      "start": 282.86,
+      "end": 283.58,
+      "text": "有的时候"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0192",
+      "start": 283.58,
+      "end": 285.1,
+      "text": "你可以大男子主义一点"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0193",
+      "start": 285.1,
+      "end": 286.3,
+      "text": "但是有的时候"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0194",
+      "start": 286.3,
+      "end": 287.78,
+      "text": "你要尊重女生的选择"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0195",
+      "start": 287.78,
+      "end": 288.62,
+      "text": "后面会教大家"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0196",
+      "start": 288.62,
+      "end": 289.48,
+      "text": "该在什么时候"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0197",
+      "start": 289.48,
+      "end": 290.04,
+      "text": "做什么事"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0198",
+      "start": 290.04,
+      "end": 308.72,
+      "text": "那么兄弟们"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0199",
+      "start": 308.72,
+      "end": 309.86,
+      "text": "这句话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0200",
+      "start": 309.86,
+      "end": 312.02,
+      "text": "你们会怎么应对呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0201",
+      "start": 312.02,
+      "end": 312.64,
+      "text": "女生说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0202",
+      "start": 312.64,
+      "end": 314.3,
+      "text": "你是不是经常约女生"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0203",
+      "start": 314.3,
+      "end": 315.24,
+      "text": "去看恐怖片"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0204",
+      "start": 315.24,
+      "end": 317.54,
+      "text": "然后占她们便宜呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0205",
+      "start": 317.54,
+      "end": 319.5,
+      "text": "很多兄弟在这个时候"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0206",
+      "start": 319.5,
+      "end": 320.38,
+      "text": "就会解释了吧"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0207",
+      "start": 320.38,
+      "end": 321.3,
+      "text": "没有没有"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0208",
+      "start": 321.3,
+      "end": 323.1,
+      "text": "我很少约女孩去看恐怖片"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0209",
+      "start": 323.1,
+      "end": 324.22,
+      "text": "我约你看电影"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0210",
+      "start": 324.22,
+      "end": 325.46,
+      "text": "真的只是为了看电影"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0211",
+      "start": 325.46,
+      "end": 326.5,
+      "text": "你不要想太多"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0212",
+      "start": 326.5,
+      "end": 327.18,
+      "text": "越解释"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0213",
+      "start": 327.18,
+      "end": 328.46,
+      "text": "越显得你心虚"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0214",
+      "start": 328.46,
+      "end": 329.74,
+      "text": "解释就是演示"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0215",
+      "start": 329.74,
+      "end": 331.0,
+      "text": "演示就是事实"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0216",
+      "start": 331.0,
+      "end": 331.96,
+      "text": "那么这句话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0217",
+      "start": 331.96,
+      "end": 333.48,
+      "text": "看旭哥是怎么应对的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0218",
+      "start": 333.48,
+      "end": 336.0,
+      "text": "你要占便宜是吧"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0219",
+      "start": 336.0,
+      "end": 338.56,
+      "text": "那你也太低估我了吧"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0220",
+      "start": 338.56,
+      "end": 340.16,
+      "text": "我要是想占便宜的话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0221",
+      "start": 340.16,
+      "end": 341.86,
+      "text": "我还需要带你去看恐怖片吗"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0222",
+      "start": 341.86,
+      "end": 343.8,
+      "text": "在哪不能占啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0223",
+      "start": 343.8,
+      "end": 345.26,
+      "text": "哎"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0224",
+      "start": 345.26,
+      "end": 346.46,
+      "text": "兄弟们"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0225",
+      "start": 346.46,
+      "end": 347.62,
+      "text": "学会了吗"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0226",
+      "start": 347.62,
+      "end": 349.48,
+      "text": "所以很多时候啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0227",
+      "start": 349.48,
+      "end": 350.74,
+      "text": "我们遇到女生"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0228",
+      "start": 350.74,
+      "end": 351.94,
+      "text": "对我们产生质疑"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0229",
+      "start": 351.94,
+      "end": 353.22,
+      "text": "千万不用解释"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0230",
+      "start": 353.22,
+      "end": 354.22,
+      "text": "你要承认"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0231",
+      "start": 354.22,
+      "end": 356.3,
+      "text": "有的时候大大方方的承认"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0232",
+      "start": 356.3,
+      "end": 357.44,
+      "text": "反而女生喜欢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0233",
+      "start": 357.44,
+      "end": 358.96,
+      "text": "你明明心里有鬼"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0234",
+      "start": 358.96,
+      "end": 360.5,
+      "text": "你明明心里对她有好感"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0235",
+      "start": 360.5,
+      "end": 362.76,
+      "text": "你就想要跟她拉近关系"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0236",
+      "start": 362.76,
+      "end": 364.0,
+      "text": "你又不敢承认"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0237",
+      "start": 364.0,
+      "end": 365.34,
+      "text": "反而会显得猥琐"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0238",
+      "start": 365.34,
+      "end": 366.32,
+      "text": "什么是猥琐呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0239",
+      "start": 366.32,
+      "end": 368.12,
+      "text": "就是心口不一就是猥琐"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0240",
+      "start": 368.12,
+      "end": 369.76,
+      "text": "心里想要嘴上又掩饰"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0241",
+      "start": 369.76,
+      "end": 371.08,
+      "text": "在女生看来就很猥琐"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0242",
+      "start": 371.08,
+      "end": 372.92,
+      "text": "心里想要大大方方说出来了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0243",
+      "start": 372.92,
+      "end": 374.26,
+      "text": "反而女生能接受"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0244",
+      "start": 374.26,
+      "end": 375.42,
+      "text": "因为女生觉得你是一个"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0245",
+      "start": 375.42,
+      "end": 376.44,
+      "text": "敢做敢当的男人"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0246",
+      "start": 376.44,
+      "end": 378.44,
+      "text": "记住敢做敢当是很重要的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0247",
+      "start": 378.44,
+      "end": 381.16,
+      "text": "只不过你去拉近关系的这个方式"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0248",
+      "start": 381.16,
+      "end": 383.14,
+      "text": "不要太激进就好了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0249",
+      "start": 383.14,
+      "end": 385.02,
+      "text": "你不要说我要想占你便宜"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0250",
+      "start": 385.02,
+      "end": 386.16,
+      "text": "我还用去电影院吗"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0251",
+      "start": 386.16,
+      "end": 386.86,
+      "text": "我现在就能站"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0252",
+      "start": 386.86,
+      "end": 388.92,
+      "text": "抱着别人就上去就亲一口"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0253",
+      "start": 388.92,
+      "end": 389.36,
+      "text": "那完了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0254",
+      "start": 389.36,
+      "end": 390.86,
+      "text": "那你这场约会肯定废了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0255",
+      "start": 390.86,
+      "end": 391.98,
+      "text": "稍微浪漫一点"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0256",
+      "start": 391.98,
+      "end": 393.08,
+      "text": "靠在她肩膀上"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0257",
+      "start": 393.08,
+      "end": 394.48,
+      "text": "不要过于激进就行了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0258",
+      "start": 394.48,
+      "end": 396.68,
+      "text": "但是你看你大大方方的就好了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0259",
+      "start": 396.68,
+      "end": 398.26,
+      "text": "而且你提前看出来"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0260",
+      "start": 398.26,
+      "end": 399.88,
+      "text": "这个女生看你的眼神啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0261",
+      "start": 399.88,
+      "end": 401.34,
+      "text": "之前有一个笑容啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0262",
+      "start": 401.34,
+      "end": 401.88,
+      "text": "你就知道"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0263",
+      "start": 401.88,
+      "end": 403.22,
+      "text": "其实她对你是有好感的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0264",
+      "start": 403.22,
+      "end": 403.98,
+      "text": "哪怕你迟到了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0265",
+      "start": 403.98,
+      "end": 404.52,
+      "text": "她生气了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0266",
+      "start": 404.52,
+      "end": 406.14,
+      "text": "但她对你还是有好感的嘛"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0267",
+      "start": 406.14,
+      "end": 408.34,
+      "text": "有的时候人太老实了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0268",
+      "start": 408.34,
+      "end": 409.44,
+      "text": "反而女生不喜欢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0269",
+      "start": 409.44,
+      "end": 410.84,
+      "text": "为什么女生不喜欢老实人"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0270",
+      "start": 410.84,
+      "end": 412.52,
+      "text": "因为老实人就没有这种情调"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0271",
+      "start": 412.52,
+      "end": 413.76,
+      "text": "为什么女生喜欢坏男生"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0272",
+      "start": 413.76,
+      "end": 414.64,
+      "text": "因为坏男生"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0273",
+      "start": 414.64,
+      "end": 415.82,
+      "text": "她就是会用这种方式"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0274",
+      "start": 415.82,
+      "end": 417.14,
+      "text": "给女生一种浪漫的感觉"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0275",
+      "start": 417.14,
+      "end": 419.22,
+      "text": "给女生一种情绪波动的感觉"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0276",
+      "start": 419.22,
+      "end": 421.26,
+      "text": "好那接下来是一段深入的对话啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0277",
+      "start": 421.26,
+      "end": 422.0,
+      "text": "大家可以听一下"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0278",
+      "start": 422.0,
+      "end": 423.14,
+      "text": "这段对话我觉得很关键"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0279",
+      "start": 423.14,
+      "end": 436.36,
+      "text": "好 兄弟们"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0280",
+      "start": 436.36,
+      "end": 438.16,
+      "text": "这一句话你们会怎么应对"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0281",
+      "start": 438.16,
+      "end": 439.2,
+      "text": "很多女生都会说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0282",
+      "start": 439.2,
+      "end": 439.52,
+      "text": "哎呦"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0283",
+      "start": 439.52,
+      "end": 441.16,
+      "text": "男生都是靠嘴巴说说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0284",
+      "start": 441.16,
+      "end": 442.56,
+      "text": "从来不付出实际行动"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0285",
+      "start": 442.56,
+      "end": 444.18,
+      "text": "给女生花钱的男人"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0286",
+      "start": 444.18,
+      "end": 445.16,
+      "text": "不一定是爱他的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0287",
+      "start": 445.16,
+      "end": 446.24,
+      "text": "但是不给他花钱的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0288",
+      "start": 446.24,
+      "end": 446.92,
+      "text": "一定不爱他"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0289",
+      "start": 446.92,
+      "end": 447.92,
+      "text": "你们会怎么应对呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0290",
+      "start": 447.92,
+      "end": 450.02,
+      "text": "这里先给大家看我的回答啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0291",
+      "start": 450.02,
+      "end": 452.1,
+      "text": "其实现在很多男生不是不付出"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0292",
+      "start": 452.1,
+      "end": 455.14,
+      "text": "他是怕自己的付出得不到最等的回报"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0293",
+      "start": 455.14,
+      "end": 456.62,
+      "text": "就很多男生付出了很多"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0294",
+      "start": 456.62,
+      "end": 458.26,
+      "text": "最后女生还不是离开了吗"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0295",
+      "start": 458.26,
+      "end": 460.44,
+      "text": "就是男生其实也缺安全感"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0296",
+      "start": 460.44,
+      "end": 461.36,
+      "text": "你得让他觉得"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0297",
+      "start": 461.36,
+      "end": 463.28,
+      "text": "我的付出你不会离开我"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0298",
+      "start": 463.28,
+      "end": 464.6,
+      "text": "你得给男生安全感"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0299",
+      "start": 464.6,
+      "end": 466.82,
+      "text": "所以有的时候不是男生的问题"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0300",
+      "start": 466.82,
+      "end": 468.14,
+      "text": "其实也是女生的问题"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0301",
+      "start": 468.14,
+      "end": 470.54,
+      "text": "男生是需要安全感"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0302",
+      "start": 470.54,
+      "end": 471.98,
+      "text": "当然需要了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0303",
+      "start": 471.98,
+      "end": 473.46,
+      "text": "男生比女生更需要安全感"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0304",
+      "start": 473.46,
+      "end": 476.78,
+      "text": "因为男生付出的是自己的血汗啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0305",
+      "start": 476.78,
+      "end": 477.34,
+      "text": "嘿嘿嘿"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0306",
+      "start": 477.34,
+      "end": 478.04,
+      "text": "兄弟们"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0307",
+      "start": 478.04,
+      "end": 480.74,
+      "text": "这段对话给我好的写一百遍"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0308",
+      "start": 480.74,
+      "end": 481.94,
+      "text": "这里我要说一下"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0309",
+      "start": 481.94,
+      "end": 483.02,
+      "text": "其实我说的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0310",
+      "start": 483.02,
+      "end": 484.88,
+      "text": "我感觉就是大部分兄弟的心里话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0311",
+      "start": 484.88,
+      "end": 485.88,
+      "text": "但是大部分兄弟呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0312",
+      "start": 485.88,
+      "end": 487.26,
+      "text": "他不敢跟女生说这样的话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0313",
+      "start": 487.26,
+      "end": 488.62,
+      "text": "因为他怕他说了这样的话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0314",
+      "start": 488.62,
+      "end": 489.7,
+      "text": "女生不喜欢听"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0315",
+      "start": 489.7,
+      "end": 490.94,
+      "text": "然后就把他给pass了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0316",
+      "start": 490.94,
+      "end": 492.16,
+      "text": "但是我要告诉大家"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0317",
+      "start": 492.16,
+      "end": 492.98,
+      "text": "你不要去担心"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0318",
+      "start": 492.98,
+      "end": 494.0,
+      "text": "女生会把你pass掉"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0319",
+      "start": 494.0,
+      "end": 495.48,
+      "text": "就算他真的把你pass掉了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0320",
+      "start": 495.48,
+      "end": 497.46,
+      "text": "也是一个跟你不同频的女生"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0321",
+      "start": 497.46,
+      "end": 498.96,
+      "text": "这种女生我们不要也罢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0322",
+      "start": 498.96,
+      "end": 501.16,
+      "text": "我们真的就是要把我们的心里话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0323",
+      "start": 501.16,
+      "end": 502.76,
+      "text": "公平公正的说出来"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0324",
+      "start": 502.76,
+      "end": 504.1,
+      "text": "我们就是要告诉女生"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0325",
+      "start": 504.1,
+      "end": 505.82,
+      "text": "我们的价值观是什么样子的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0326",
+      "start": 505.82,
+      "end": 506.76,
+      "text": "让女生明白"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0327",
+      "start": 506.76,
+      "end": 509.38,
+      "text": "我不是一个你可以随意套路我"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0328",
+      "start": 509.38,
+      "end": 510.42,
+      "text": "骗我的傻子"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0329",
+      "start": 510.42,
+      "end": 512.56,
+      "text": "我有我的一套恋爱的原则"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0330",
+      "start": 512.56,
+      "end": 513.78,
+      "text": "我有我的世界观"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0331",
+      "start": 513.78,
+      "end": 514.98,
+      "text": "如果他不认同"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0332",
+      "start": 514.98,
+      "end": 516.06,
+      "text": "我们可以让他走"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0333",
+      "start": 516.06,
+      "end": 517.18,
+      "text": "我们可以换下一个人"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0334",
+      "start": 517.18,
+      "end": 517.68,
+      "text": "记住了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0335",
+      "start": 517.68,
+      "end": 519.28,
+      "text": "总有认同你的女生"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0336",
+      "start": 519.28,
+      "end": 519.76,
+      "text": "这样的话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0337",
+      "start": 519.76,
+      "end": 521.7,
+      "text": "我们也能筛选出来真正的好女孩"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0338",
+      "start": 521.7,
+      "end": 522.52,
+      "text": "跟你在一起"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0339",
+      "start": 522.52,
+      "end": 525.74,
+      "text": "所以一定要大板的向女生表达自己的观点"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0340",
+      "start": 525.74,
+      "end": 527.28,
+      "text": "第二就是我这段话里面"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0341",
+      "start": 527.28,
+      "end": 530.4,
+      "text": "其实我巧妙的用了一个小小的手段"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0342",
+      "start": 530.4,
+      "end": 531.92,
+      "text": "就是我跟女生说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0343",
+      "start": 531.92,
+      "end": 533.96,
+      "text": "我们男生不向女生付出"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0344",
+      "start": 533.96,
+      "end": 536.24,
+      "text": "有的时候是我们男生没有安全感"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0345",
+      "start": 536.24,
+      "end": 539.42,
+      "text": "你得向我们证明你是真的爱我们的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0346",
+      "start": 539.42,
+      "end": 541.18,
+      "text": "我们自然会向你付出"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0347",
+      "start": 541.18,
+      "end": 543.84,
+      "text": "那么如果女生他想要得到你的付出"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0348",
+      "start": 543.84,
+      "end": 547.04,
+      "text": "他就得先向你证明他爱你"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0349",
+      "start": 547.04,
+      "end": 547.98,
+      "text": "那他怎么证明呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0350",
+      "start": 547.98,
+      "end": 549.92,
+      "text": "就得他先向你付出了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0351",
+      "start": 549.92,
+      "end": 552.34,
+      "text": "这样其实咱们在这场博弈中"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0352",
+      "start": 552.34,
+      "end": 553.64,
+      "text": "也能占据上风"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0353",
+      "start": 553.64,
+      "end": 554.46,
+      "text": "不吃亏"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0354",
+      "start": 554.46,
+      "end": 555.26,
+      "text": "明白了吗"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0355",
+      "start": 555.26,
+      "end": 555.74,
+      "text": "兄弟们"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0356",
+      "start": 555.74,
+      "end": 556.7,
+      "text": "多了不说了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0357",
+      "start": 556.7,
+      "end": 557.7,
+      "text": "说了不好"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0358",
+      "start": 557.7,
+      "end": 559.36,
+      "text": "接下来是一段牵手小技巧"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0359",
+      "start": 559.36,
+      "end": 560.9,
+      "text": "如果你想牵女生的手"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0360",
+      "start": 560.9,
+      "end": 561.94,
+      "text": "当然又不知道怎么说"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0361",
+      "start": 561.94,
+      "end": 563.46,
+      "text": "那么直接看下面这段操作"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0362",
+      "start": 563.46,
+      "end": 565.48,
+      "text": "前提是你要判断出女生有窗口"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0363",
+      "start": 565.48,
+      "end": 588.38,
+      "text": "学会了吗"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0364",
+      "start": 588.38,
+      "end": 589.24,
+      "text": "这段不用解释"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0365",
+      "start": 589.24,
+      "end": 590.7,
+      "text": "唯一要注意的就是"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0366",
+      "start": 590.7,
+      "end": 593.28,
+      "text": "必须要女生有窗口才能去用这招"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0367",
+      "start": 593.28,
+      "end": 594.88,
+      "text": "怎么去判断女生有没有窗口呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0368",
+      "start": 594.88,
+      "end": 595.46,
+      "text": "记住了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0369",
+      "start": 595.46,
+      "end": 596.94,
+      "text": "看女生看你的眼神"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0370",
+      "start": 596.94,
+      "end": 598.74,
+      "text": "他如果看你的眼神是这样的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0371",
+      "start": 598.74,
+      "end": 600.5,
+      "text": "对吧"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0372",
+      "start": 600.5,
+      "end": 601.5,
+      "text": "然后没事呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0373",
+      "start": 601.5,
+      "end": 602.98,
+      "text": "还有一些小动作啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0374",
+      "start": 602.98,
+      "end": 603.18,
+      "text": "这样"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0375",
+      "start": 603.18,
+      "end": 604.36,
+      "text": "捋捋头发呀"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0376",
+      "start": 604.36,
+      "end": 606.58,
+      "text": "拿咖啡一直在这喝呀"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0377",
+      "start": 606.58,
+      "end": 608.34,
+      "text": "天天醉醇啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0378",
+      "start": 608.34,
+      "end": 610.16,
+      "text": "这些小动作越多"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0379",
+      "start": 610.16,
+      "end": 612.2,
+      "text": "说明这女生对你窗口越大"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0380",
+      "start": 612.2,
+      "end": 612.4,
+      "text": "好"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0381",
+      "start": 612.4,
+      "end": 613.38,
+      "text": "那接下来就是看电影"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0382",
+      "start": 613.38,
+      "end": 614.54,
+      "text": "遇到烂片该怎么办啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0383",
+      "start": 614.54,
+      "end": 615.02,
+      "text": "大家记住"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0384",
+      "start": 615.02,
+      "end": 616.56,
+      "text": "一旦遇到烂片"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0385",
+      "start": 616.56,
+      "end": 617.62,
+      "text": "中途马上离场"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0386",
+      "start": 617.62,
+      "end": 619.02,
+      "text": "千万不要把这个烂片看完"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0387",
+      "start": 619.02,
+      "end": 620.66,
+      "text": "因为烂片看的时间越长"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0388",
+      "start": 620.66,
+      "end": 621.54,
+      "text": "女生就越无聊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0389",
+      "start": 621.54,
+      "end": 622.7,
+      "text": "你的信力就在下降"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0390",
+      "start": 622.7,
+      "end": 624.46,
+      "text": "所以说千万不要心疼电影票钱"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0391",
+      "start": 624.46,
+      "end": 625.48,
+      "text": "马上中途离场"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0392",
+      "start": 625.48,
+      "end": 627.3,
+      "text": "去找下一个有意思的项目"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0393",
+      "start": 627.3,
+      "end": 628.66,
+      "text": "所以当时重返鸡精灵"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0394",
+      "start": 628.66,
+      "end": 629.34,
+      "text": "我们看一半"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0395",
+      "start": 629.34,
+      "end": 630.78,
+      "text": "我直接离场了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0396",
+      "start": 630.78,
+      "end": 632.24,
+      "text": "就出现了接下来的对话"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0397",
+      "start": 632.24,
+      "end": 650.54,
+      "text": "哎 兄弟们"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0398",
+      "start": 650.54,
+      "end": 651.66,
+      "text": "关键点来了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0399",
+      "start": 651.66,
+      "end": 653.18,
+      "text": "如果这种情况下"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0400",
+      "start": 653.18,
+      "end": 655.24,
+      "text": "女生虽然嘴上在犹豫"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0401",
+      "start": 655.24,
+      "end": 658.28,
+      "text": "但是他眼睛寒情默默地看着你"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0402",
+      "start": 658.28,
+      "end": 659.34,
+      "text": "那么最后这一招"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0403",
+      "start": 659.34,
+      "end": 660.8,
+      "text": "旭哥送给你"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0404",
+      "start": 660.8,
+      "end": 661.58,
+      "text": "那要不去你家"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0405",
+      "start": 661.58,
+      "end": 661.58,
+      "text": "不要去你家"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0406",
+      "start": 661.58,
+      "end": 662.48,
+      "text": "啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0407",
+      "start": 662.48,
+      "end": 664.96,
+      "text": "不是 本来我想去私人影院"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0408",
+      "start": 664.96,
+      "end": 666.22,
+      "text": "当然我觉得私人影院"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0409",
+      "start": 666.22,
+      "end": 667.7,
+      "text": "我有洁癖你知道吧"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0410",
+      "start": 667.7,
+      "end": 669.34,
+      "text": "去我家也不回事啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0411",
+      "start": 669.34,
+      "end": 670.58,
+      "text": "去你家毕竟是你主场"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0412",
+      "start": 670.58,
+      "end": 673.96,
+      "text": "走吧 走吧 走吧"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0413",
+      "start": 673.96,
+      "end": 681.92,
+      "text": "好的兄弟们"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0414",
+      "start": 681.92,
+      "end": 683.92,
+      "text": "那么今天的约会视频就到这儿了"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0415",
+      "start": 683.92,
+      "end": 684.94,
+      "text": "我们总结一下啊"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0416",
+      "start": 684.94,
+      "end": 686.44,
+      "text": "大胆表达自己的价值观"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0417",
+      "start": 686.44,
+      "end": 687.5,
+      "text": "遇到女生生气呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0418",
+      "start": 687.5,
+      "end": 688.08,
+      "text": "不要解释"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0419",
+      "start": 688.08,
+      "end": 688.82,
+      "text": "直接带领"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0420",
+      "start": 688.82,
+      "end": 689.9,
+      "text": "拉伸关系之前呢"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0421",
+      "start": 689.9,
+      "end": 691.16,
+      "text": "要判断窗口"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0422",
+      "start": 691.16,
+      "end": 691.82,
+      "text": "觉得干货的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0423",
+      "start": 691.82,
+      "end": 692.56,
+      "text": "直接一键三连"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0424",
+      "start": 692.56,
+      "end": 693.94,
+      "text": "如果你有喜欢的女生追不到"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0425",
+      "start": 693.94,
+      "end": 695.06,
+      "text": "或者想要跟旭哥学习"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0426",
+      "start": 695.06,
+      "end": 696.12,
+      "text": "提升情商的"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0427",
+      "start": 696.12,
+      "end": 696.78,
+      "text": "看支顶评论"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0428",
+      "start": 696.78,
+      "end": 697.48,
+      "text": "或者主页签名"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0429",
+      "start": 697.48,
+      "end": 698.44,
+      "text": "来找到我本人"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0430",
+      "start": 698.44,
+      "end": 699.1,
+      "text": "我来帮你"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0431",
+      "start": 699.1,
+      "end": 700.22,
+      "text": "关注旭哥一周一次"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0432",
+      "start": 700.22,
+      "end": 701.6,
+      "text": "最实用的情感干货"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0433",
+      "start": 701.6,
+      "end": 702.88,
+      "text": "我们下期再见"
+    },
+    {
+      "id": "BV14gFYzREk4-0000-0704-turbo-0434",
+      "start": 702.88,
+      "end": 703.38,
+      "text": "耶"
+    }
+  ]
+}

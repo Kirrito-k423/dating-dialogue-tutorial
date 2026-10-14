@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1kJP5z6EDw",
+  "source_start": 880,
+  "source_end": 924,
+  "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+  "listening_verified": false,
+  "elapsed_seconds": 18.7,
+  "segments": [
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0001",
+      "start": 880.0,
+      "end": 882.0,
+      "text": "但是我们也不要伤害别人"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0002",
+      "start": 882.0,
+      "end": 883.0,
+      "text": "明白吗"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0003",
+      "start": 903.0,
+      "end": 905.0,
+      "text": "这块当时也挺出乎我意料的"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0004",
+      "start": 905.0,
+      "end": 906.0,
+      "text": "他突然问了这么一嘴"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0005",
+      "start": 906.0,
+      "end": 909.0,
+      "text": "但是能有续歌解决不了的情况吗"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0006",
+      "start": 909.0,
+      "end": 911.0,
+      "text": "直接看续歌临场发挥"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0007",
+      "start": 911.0,
+      "end": 912.0,
+      "text": "是回忆啊"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0008",
+      "start": 912.0,
+      "end": 914.0,
+      "text": "就给你一段美好回忆嘛"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0009",
+      "start": 914.0,
+      "end": 917.0,
+      "text": "让你以后遇到任何一个男人你都能想起我"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0010",
+      "start": 917.0,
+      "end": 919.0,
+      "text": "觉得他们都没有我对你好"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0011",
+      "start": 919.0,
+      "end": 920.0,
+      "text": "嘿嘿"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0012",
+      "start": 920.0,
+      "end": 922.0,
+      "text": "怎么样兄弟们这个回答"
+    },
+    {
+      "id": "BV1kJP5z6EDw-0880-0924-medium-0013",
+      "start": 922.0,
+      "end": 924.0,
+      "text": "觉得6的给我打一个6"
+    }
+  ]
+}

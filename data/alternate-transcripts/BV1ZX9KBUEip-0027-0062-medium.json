@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1ZX9KBUEip",
+  "source_start": 27,
+  "source_end": 62,
+  "method": "whisper.cpp v1.9.5 medium-q5_0; zh; Metal; beam_size=5; best_of=5; threads=4; independent machine crosscheck, not listening",
+  "listening_verified": false,
+  "elapsed_seconds": 11.6,
+  "segments": [
+    {
+      "id": "BV1ZX9KBUEip-0027-0062-medium-0001",
+      "start": 27.0,
+      "end": 29.8,
+      "text": "如何拉伸关系以及面对他的各种测试"
+    },
+    {
+      "id": "BV1ZX9KBUEip-0027-0062-medium-0002",
+      "start": 29.8,
+      "end": 31.6,
+      "text": "那么今天这期视频看完"
+    },
+    {
+      "id": "BV1ZX9KBUEip-0027-0062-medium-0003",
+      "start": 31.6,
+      "end": 33.16,
+      "text": "你就知道怎么办了"
+    },
+    {
+      "id": "BV1ZX9KBUEip-0027-0062-medium-0004",
+      "start": 33.16,
+      "end": 34.2,
+      "text": "好了闲话不多说"
+    },
+    {
+      "id": "BV1ZX9KBUEip-0027-0062-medium-0005",
+      "start": 34.2,
+      "end": 35.6,
+      "text": "咱们直接开始"
+    },
+    {
+      "id": "BV1ZX9KBUEip-0027-0062-medium-0006",
+      "start": 57.0,
+      "end": 59.0,
+      "text": "(音樂)"
+    }
+  ]
+}

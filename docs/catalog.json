@@ -183,7 +183,20 @@
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vj6yBDE5r",
       "short_title": "第一次约会如何破升温关系",
-      "analysis_status": "machine_assisted_summary_not_listening_verified"
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "episode_number": 1,
+      "dialogue_round_count": 7,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 458,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": [
+        "BV1vj6yBDE5r-0000-0685-medium.json",
+        "BV1vj6yBDE5r-0420-0510-turbo.json",
+        "BV1vj6yBDE5r-caption-gaps.json",
+        "BV1vj6yBDE5r-caption-reviewed-early.json",
+        "BV1vj6yBDE5r-caption-reviewed.json"
+      ]
     },
     {
       "bvid": "BV14gFYzREk4",
@@ -198,7 +211,18 @@
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV14gFYzREk4",
       "short_title": "约会遇到女生要礼物破解方法+女生生气如何化解",
-      "analysis_status": "machine_assisted_summary_not_listening_verified"
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "episode_number": 2,
+      "dialogue_round_count": 12,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 348,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": [
+        "BV14gFYzREk4-0000-0704-turbo.json",
+        "BV14gFYzREk4-caption-gaps.json",
+        "BV14gFYzREk4-caption-reviewed-early.json"
+      ]
     },
     {
       "bvid": "BV1kJP5z6EDw",
@@ -213,7 +237,19 @@
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kJP5z6EDw",
       "short_title": "约会法拉利女网红",
-      "analysis_status": "machine_assisted_summary_not_listening_verified"
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "episode_number": 3,
+      "dialogue_round_count": 24,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 616,
+      "point_timestamp_segment_count": 1,
+      "alternate_transcript_files": [
+        "BV1kJP5z6EDw-0819-0842-medium.json",
+        "BV1kJP5z6EDw-0880-0924-medium.json",
+        "BV1kJP5z6EDw-caption-gaps.json",
+        "BV1kJP5z6EDw-caption-reviewed-early.json"
+      ]
     },
     {
       "bvid": "BV1upQdBiEN1",
@@ -228,7 +264,18 @@
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1upQdBiEN1",
       "short_title": "约会瑜伽美女网红",
-      "analysis_status": "machine_assisted_summary_not_listening_verified"
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "episode_number": 4,
+      "dialogue_round_count": 23,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 587,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": [
+        "BV1upQdBiEN1-0317-0340-medium.json",
+        "BV1upQdBiEN1-caption-gaps.json",
+        "BV1upQdBiEN1-caption-reviewed-early.json"
+      ]
     },
     {
       "bvid": "BV1ZX9KBUEip",
@@ -243,7 +290,18 @@
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZX9KBUEip",
       "short_title": "约会住豪宅女富婆",
-      "analysis_status": "machine_assisted_summary_not_listening_verified"
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "episode_number": 5,
+      "dialogue_round_count": 30,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 504,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": [
+        "BV1ZX9KBUEip-0027-0062-medium.json",
+        "BV1ZX9KBUEip-caption-gaps.json",
+        "BV1ZX9KBUEip-caption-reviewed-early.json"
+      ]
     },
     {
       "bvid": "BV12GQiBrExv",
@@ -258,7 +316,17 @@
       "season_title": "《于小惠实战约会》头部博主实战纪录讲解",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV12GQiBrExv",
       "short_title": "头部博主于小惠搭讪当场约会实战纪录",
-      "analysis_status": "machine_assisted_summary_not_listening_verified"
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "episode_number": 6,
+      "dialogue_round_count": 83,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 1703,
+      "point_timestamp_segment_count": 1,
+      "alternate_transcript_files": [
+        "BV12GQiBrExv-caption-gaps.json",
+        "BV12GQiBrExv-caption-reviewed-early.json"
+      ]
     },
     {
       "bvid": "BV1dx9dBnE7d",
@@ -279,7 +347,14 @@
         "url": "https://www.bilibili.com/video/BV1APoBBWEeb/",
         "short_title": "搭讪176超长腿车模",
         "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
-      }
+      },
+      "episode_number": 7,
+      "dialogue_round_count": 44,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 1400,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": []
     },
     {
       "bvid": "BV14L5Y6GEcG",
@@ -294,7 +369,16 @@
       "season_title": "《实战约会》 各种约会套路实景演示",
       "view_api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV14L5Y6GEcG",
       "short_title": "搭讪像克拉拉的御姐",
-      "analysis_status": "machine_assisted_summary_not_listening_verified"
+      "analysis_status": "machine_assisted_summary_not_listening_verified",
+      "episode_number": 8,
+      "dialogue_round_count": 72,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 1078,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": [
+        "BV14L5Y6GEcG-caption-gaps.json"
+      ]
     },
     {
       "bvid": "BV1sYLi6nEA6",
@@ -315,7 +399,17 @@
         "url": "https://www.bilibili.com/video/BV1p4Lu66EUW/",
         "short_title": "搭讪超高冷御姐被拒2次",
         "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
-      }
+      },
+      "episode_number": 9,
+      "dialogue_round_count": 62,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 1206,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": [
+        "BV1sYLi6nEA6-caption-gaps.json",
+        "BV1sYLi6nEA6-caption-reviewed-early.json"
+      ]
     },
     {
       "bvid": "BV1CjV16KEHe",
@@ -336,7 +430,17 @@
         "url": "https://www.bilibili.com/video/BV1tYG96YE1a/",
         "short_title": "搭讪175超长腿御姐",
         "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
-      }
+      },
+      "episode_number": 10,
+      "dialogue_round_count": 48,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 1701,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": [
+        "BV1CjV16KEHe-caption-gaps.json",
+        "BV1CjV16KEHe-caption-reviewed.json"
+      ]
     },
     {
       "bvid": "BV1bXJF6iEXn",
@@ -357,7 +461,14 @@
         "url": "https://www.bilibili.com/video/BV1kQEQ6PEGN/",
         "short_title": "搭讪180气质熟女老司机",
         "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
-      }
+      },
+      "episode_number": 11,
+      "dialogue_round_count": 42,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 1438,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": []
     },
     {
       "bvid": "BV1sFj26mEu1",
@@ -378,7 +489,16 @@
         "url": "https://www.bilibili.com/video/BV1Ndje6DEaG/",
         "short_title": "搭讪日系可爱甜妹",
         "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
-      }
+      },
+      "episode_number": 12,
+      "dialogue_round_count": 34,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 1009,
+      "point_timestamp_segment_count": 2,
+      "alternate_transcript_files": [
+        "BV1sFj26mEu1-caption-gaps.json"
+      ]
     },
     {
       "bvid": "BV1tVKf6cE5G",
@@ -399,7 +519,14 @@
         "url": "https://www.bilibili.com/video/BV1a67b6JEo6/",
         "short_title": "搭讪175冷艳御姐",
         "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
-      }
+      },
+      "episode_number": 13,
+      "dialogue_round_count": 24,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 472,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": []
     },
     {
       "bvid": "BV1VrMt6tEEx",
@@ -420,7 +547,14 @@
         "url": "https://www.bilibili.com/video/BV1tyMc66EhE/",
         "short_title": "搭讪175高智御姐",
         "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
-      }
+      },
+      "episode_number": 14,
+      "dialogue_round_count": 35,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 1066,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": []
     },
     {
       "bvid": "BV1BsuE63EhN",
@@ -441,7 +575,14 @@
         "url": "https://www.bilibili.com/video/BV1fr3X65EGT/",
         "short_title": "邂逅百达翡丽女富婆",
         "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
-      }
+      },
+      "episode_number": 15,
+      "dialogue_round_count": 34,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 894,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": []
     },
     {
       "bvid": "BV1gb8M6nENB",
@@ -462,7 +603,14 @@
         "url": "https://www.bilibili.com/video/BV1yPg36vEv2/",
         "short_title": "夜市邂逅平面模特",
         "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
-      }
+      },
+      "episode_number": 16,
+      "dialogue_round_count": 33,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 876,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": []
     },
     {
       "bvid": "BV1f8Yj6aExQ",
@@ -483,7 +631,21 @@
         "url": "https://www.bilibili.com/video/BV1kYty6iEcL/",
         "short_title": "邂逅宝马富婆",
         "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
-      }
+      },
+      "episode_number": 17,
+      "dialogue_round_count": 45,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 1261,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": [
+        "BV1f8Yj6aExQ-0000-0060-medium.json",
+        "BV1f8Yj6aExQ-0000-0060-turbo.json",
+        "BV1f8Yj6aExQ-0850-0920-medium.json",
+        "BV1f8Yj6aExQ-1125-1185-medium.json",
+        "BV1f8Yj6aExQ-caption-gaps.json",
+        "BV1f8Yj6aExQ-caption-reviewed.json"
+      ]
     },
     {
       "bvid": "BV1P5he6SEys",
@@ -504,11 +666,25 @@
         "url": "https://www.bilibili.com/video/BV1JceM65EBA/",
         "short_title": "餐厅搭讪开奔驰幼shi",
         "pairing_basis": "matching_current_or_recorded_old_title_not_audio_verified"
-      }
+      },
+      "episode_number": 18,
+      "dialogue_round_count": 30,
+      "listening_verified_round_count": 0,
+      "full_transcript_available": true,
+      "full_transcript_segment_count": 933,
+      "point_timestamp_segment_count": 0,
+      "alternate_transcript_files": [
+        "BV1P5he6SEys-caption-gaps.json",
+        "BV1P5he6SEys-caption-reviewed.json"
+      ]
     }
   ],
   "audio_asr_completed_count": 18,
   "listening_verified_dialogue_count": 0,
   "machine_assisted_summary_count": 18,
-  "notice": "Machine-assisted summaries are paraphrases, not listening-verified transcripts. Original exercises are separately labeled."
+  "dialogue_round_count": 682,
+  "listening_verified_round_count": 0,
+  "episode_numbering": "editorial_order_by_publication_date_not_publisher_episode_numbers",
+  "full_asr_transcript_count": 18,
+  "notice": "Full ASR drafts and dialogue units derive from machine transcription and selected video captions, not listening-verified quotations. Visually reviewed captions are labeled separately. Earlier finite paraphrases and original exercises remain separately labeled. Speaker roles are inferred from text and visible context; source audio may contain additional exchanges missing from ASR."
 }

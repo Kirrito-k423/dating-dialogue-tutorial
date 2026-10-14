@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "bvid": "BV1vj6yBDE5r",
+  "method": "Selected original video caption checked via actual image input; not audio listening; sampled caption presence interval",
+  "listening_verified": false,
+  "segments": [
+    {
+      "id": "BV1vj6yBDE5r-caption-reviewed-early-0001",
+      "start": 658.5,
+      "end": 659.25,
+      "text": "那走吧上去陪你检查一下",
+      "visual_reviewed": true,
+      "frame_time": 658.5,
+      "frame_sha256": "51975c619eb65a8257b28874b75cbc1f73c3725b72aa589e2a33fa82ea7a216e",
+      "frame_file": "frames-BV1vj6yBDE5r/frame-0658.500.png"
+    }
+  ]
+}
