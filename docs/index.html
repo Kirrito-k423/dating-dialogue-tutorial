@@ -6,11 +6,11 @@
   <meta name="description" content="逐帧约会视频的来源目录、回应练习和带时间点的对话笔记。">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'self'">
   <title>对话练习册 · 逐帧视频学习</title>
-  <link rel="stylesheet" href="styles.css?v=5c8cb2fe05">
-  <script src="data.js?v=6e82f1ac2f" defer></script>
+  <link rel="stylesheet" href="styles.css?v=1bf2c72751">
+  <script src="data.js?v=ef86ad9026" defer></script>
   <script src="subtitles.js?v=9da9212938" defer></script>
   <script src="transcripts.js?v=5ecc8be0fd" defer></script>
-  <script src="app.js?v=502bfb9638" defer></script>
+  <script src="app.js?v=ce5a850d3c" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">跳到正文</a>
@@ -26,12 +26,13 @@
     <nav class="tabs" aria-label="学习模式">
       <a href="#timeline" data-panel="timeline">对话梳理<span id="round-count"></span></a>
       <a href="#catalog" data-panel="catalog">系列目录<span id="video-count"></span></a>
-      <a href="#practice" data-panel="practice">示范练习<span id="exercise-count"></span></a>
+      <a href="#practice" data-panel="practice">对话练习<span id="exercise-count"></span></a>
       <a href="#notebook" data-panel="notebook">逐句笔记<span>本机</span></a>
     </nav>
     <section id="timeline-panel" class="panel" aria-labelledby="timeline-heading">
       <div class="section-heading"><div><p class="eyebrow">完整材料先行</p><h2 id="timeline-heading">按集查看对话与题目</h2></div><button id="export-dialogues" class="button secondary">导出对话题目</button></div>
       <p class="info" id="timeline-progress"></p>
+      <p class="quality-progress" id="quality-progress"></p>
       <div class="timeline-filters"><label>来源集数<select id="timeline-episode"><option value="all">全部集数 · 按发布时间</option></select></label><label>分类<select id="timeline-category"><option value="all">全部分类</option></select></label><label class="search"><span>搜索对话、题目、BV 号</span><input type="search" id="timeline-search" placeholder="搜索所有已整理的问答与讲解"></label><label>核查状态<select id="timeline-verification"><option value="all">全部状态</option><option value="asr_text_reviewed">机器稿已整理 · 待听校</option><option value="audio_listened">已实际回听</option><option value="uncertain">内容存疑</option></select></label></div>
       <p class="small" id="timeline-results" aria-live="polite"></p>
       <div id="timeline-list"></div>
@@ -43,8 +44,10 @@
       <div id="video-grid" class="video-grid"></div>
     </section>
     <section id="practice-panel" class="panel" hidden aria-labelledby="practice-heading">
-      <div class="section-heading"><div><p class="eyebrow">先自己想，再看解析</p><h2 id="practice-heading">一个问题，一次练习</h2></div></div>
+      <div class="section-heading"><div><p class="eyebrow">先作答，再对照来源</p><h2 id="practice-heading">把每轮对话变成练习</h2></div><button id="export-exercises" class="button secondary">导出练习题</button></div>
       <p class="info" id="practice-intro">这里是 8 道原创示范题，展示教程的学习方式。关联视频仅供选片，题目和回应均未从视频音频提取。</p>
+      <div class="practice-filters"><label>题目来源<select id="practice-source"><option value="dialogue_round">逐轮对话题</option><option value="legacy">此前示范题</option></select></label><label>来源集数<select id="practice-episode"><option value="all">全部集数</option></select></label><label>核对状态<select id="practice-quality"><option value="compared">优先有交叉依据</option><option value="all">全部 · 含待核题</option><option value="pending">仅待核题</option></select></label><label class="search"><span>搜索题目与对话</span><input type="search" id="practice-search" placeholder="问题、原回应、关键词"></label></div>
+      <p id="practice-results" class="small" aria-live="polite"></p>
       <div class="practice-layout"><aside><label>练习主题<select id="practice-category"><option value="all">全部主题</option></select></label><label class="mobile-exercise">选择问题<select id="practice-exercise"></select></label><div id="exercise-list" class="exercise-list"></div></aside><article id="exercise-detail" class="exercise-detail"></article></div>
     </section>
     <section id="notebook-panel" class="panel" hidden aria-labelledby="notebook-heading">

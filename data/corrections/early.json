@@ -1,0 +1,4736 @@
+{
+  "schema_version": 1,
+  "listening_verified": false,
+  "corrections": [
+    {
+      "practice_ready": false,
+      "round_id": "BV1vj6yBDE5r-q001",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "所以说你夸她只能夸一句。大家记住只能夸一句。第二句一定要开自己。所以当她说不上镜的时候。我说因为别人拍照水平不行。我拍照水平牛逼呀。夸完她之后再夸自己。这样你俩就是平衡的。就不会显得你跪片。大家一定要记住这个技巧",
+      "corrected_text": "所以说你夸她只能夸一句。大家记住只能夸一句。第二句一定要开自己。所以当她说不上镜的时候。我说因为别人拍照水平不行。我拍照水平牛逼呀。夸完她之后再夸自己。这样你俩就是平衡的。就不会显得你跪舔。大家一定要记住这个技巧",
+      "basis": "cross_source",
+      "reason": "独立稿对应句清楚写“跪舔”，不是“跪片”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-sensevoice-w00005-s007"
+          ],
+          "source_text": "这样你俩就是平衡的，就不会显得你跪舔，大家一定要记住这个技巧啊。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1vj6yBDE5r-q002",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你喝正常面还是少边",
+      "corrected_text": "你喝正常冰还是少冰",
+      "basis": "cross_source",
+      "reason": "独立稿原句为“你喝正常冰还是少冰”，与随后热饮/冰饮对话吻合；不改对方“我喝热的”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-sensevoice-w00007-s001"
+          ],
+          "source_text": "去本能的带领他，你喝正常冰还是少冰，我喝热的"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1vj6yBDE5r-q003",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "嗯還不想餓",
+      "corrected_text": "嗯，还不饿",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“还不饿”，后续讲解也明确“她不饿”；仅去除机器插入的“想”，保留否定。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-sensevoice-w00012-s005",
+            "BV1vj6yBDE5r-sensevoice-w00012-s008"
+          ],
+          "source_text": "还不饿，这个女生她说的是她不饿，但是我饿了呀？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1vj6yBDE5r-q004",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "兄弟们。这句话你们会怎么回。在约会的时候。你们正吃的饭呢。你说你看电影喜欢做第几排。这女生问你。等会咱俩要看电影",
+      "corrected_text": "兄弟们。这句话你们会怎么回。在约会的时候。你们正吃的饭呢。你说你看电影喜欢坐第几排。这女生问你。等会咱俩要看电影",
+      "basis": "cross_source",
+      "reason": "独立讲解原句使用座位动词“坐”，修同音误字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-sensevoice-w00016-s008"
+          ],
+          "source_text": "你说你看电影喜欢坐第几排？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1vj6yBDE5r-q005",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "你用这一招的时候。教大家一招。你就可以去观察女生的微表情。和她的眼神。如果她的眼神是这种。你看这种就是低头害羞的。然后撩撩头发。然后很深情的看着你。很害羞的那种感觉。就说明她内心深处对你有好感。她只是在矜持。所以你像我这样。稍微强势一点带领她。她就会顺从了。你做第几排",
+      "corrected_text": "你用这一招的时候。教大家一招。你就可以去观察女生的微表情。和她的眼神。如果她的眼神是这种。你看这种就是低头害羞的。然后撩撩头发。然后很深情的看着你。很害羞的那种感觉。就说明她内心深处对你有好感。她只是在矜持。所以你像我这样。稍微强势一点带领她。她就会顺从了。你坐第几排",
+      "basis": "cross_source",
+      "reason": "独立稿为“坐第几排”，修电影座位同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-sensevoice-w00019-s005"
+          ],
+          "source_text": "你哎坐第几排快说快说我买票了，她基本上就顺着你来了，明白了吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1vj6yBDE5r-q006",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "这里要教大家一些注意事项。当你用这一招的时候。你要注意这个女生的手。她有没有回握。如果你握她。她没有回握。她是这样展开的。说明她对你的肢体接触的。接收度不是特别的高。那么你签个两三秒。马上松开。然后就继续该干嘛。就行了",
+      "corrected_text": "这里要教大家一些注意事项。当你用这一招的时候。你要注意这个女生的手。她有没有回握。如果你握她。她没有回握。她是这样展开的。说明她对你的肢体接触的。接受度不是特别的高。那么你牵个两三秒。马上松开。然后就继续该干嘛。就行了",
+      "basis": "cross_source",
+      "reason": "独立稿为“接受度”和“牵个两三秒”；只校正讲解词形，不据此推定对方同意接触。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1vj6yBDE5r-sensevoice-w00023-s001",
+            "BV1vj6yBDE5r-sensevoice-w00023-s002"
+          ],
+          "source_text": "回问他是这样展开的，说明他对你的肢体接触的这个接受度啊不是特别的高啊。那么你这个牵个两三秒马上松开，然后呢就继续该干嘛干嘛就行了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14gFYzREk4-q002",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "一會兒有恐怖片大家去看吧",
+      "corrected_text": "一会儿有恐怖片咱俩去看吧",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“咱俩去看吧”，两人邀约的主语被原稿误识别成“大家”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14gFYzREk4-sensevoice-w00011-s004"
+          ],
+          "source_text": "一会有个恐怖片咱俩去看吧？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14gFYzREk4-q003",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "女生說你是不是經常約女生去看恐怖片。然後賺他們便宜呢",
+      "corrected_text": "女生说你是不是经常约女生去看恐怖片。然后占他们便宜呢",
+      "basis": "cross_source",
+      "reason": "独立稿和同题现场重复的用词均为“占便宜”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14gFYzREk4-sensevoice-w00012-s002"
+          ],
+          "source_text": "女生说你是不是经常约女生去看恐怖片，然后占他们便宜呢？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14gFYzREk4-q004",
+      "section": "commentary",
+      "turn_index": 1,
+      "original_text": "我們真的就是要把我們的心理話。公平公正的說出來。我們就是要告訴女生。我們的價值觀是什麼樣子的。讓女生明白。我不是一個你可以隨意套路我騙我的傻子",
+      "corrected_text": "我们真的就是要把我们的心里话。公平公正的说出来。我们就是要告诉女生。我们的价值观是什么样子的。让女生明白。我不是一个你可以随意套路我骗我的傻子",
+      "basis": "cross_source",
+      "reason": "独立稿为“心里话”，原“心理话”是词形误写。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14gFYzREk4-sensevoice-w00018-s006"
+          ],
+          "source_text": "真的就是要把我们的心里话公平公正的说出来，我们就是要告诉女生，我们的价值观是什么"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14gFYzREk4-q006",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "要不我幫你拿高高。感覺有點重",
+      "corrected_text": "要不我帮你拿包吧。感觉有点重",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“我帮你拿包吧”，同段后续也围绕包的重量。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14gFYzREk4-sensevoice-w00021-s002"
+          ],
+          "source_text": "前提是你要判断出女生有窗口啊，要不我帮你拿包吧，感觉有点重啊，不用"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14gFYzREk4-q006",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "沒關係。我身世一點。來我幫你拿",
+      "corrected_text": "没关系。我绅士一点。来我帮你拿",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“我绅士一点”，修“身世”同音词；对方上一句“不用”原样保留。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14gFYzREk4-sensevoice-w00021-s003"
+          ],
+          "source_text": "没关系，我绅士一点吧，来，我帮你拿"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14gFYzREk4-q008",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "不是。本來我想去私人院。當然我覺得私人院。我有潔癖你知道吧。去我家也不合適啊。去你家畢竟是你主場",
+      "corrected_text": "不是。本来我想去私人影院。当然我觉得私人影院。我有洁癖你知道吧。去我家也不合适啊。去你家毕竟是你主场",
+      "basis": "cross_source",
+      "reason": "独立现场稿两次完整识别为“私人影院”；只修场所词形，未核实场所性质或邀请结果。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14gFYzREk4-sensevoice-w00024-s007"
+          ],
+          "source_text": "不是本来我想去私人影院，但是我觉得私人影院，我有洁癖，你知道吧？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "time_alignment_uncertain": true,
+      "round_id": "BV1kJP5z6EDw-q003",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那你是正人精子",
+      "corrected_text": "那你是正人君子",
+      "basis": "cross_source",
+      "reason": "独立现场稿含“君子”，后续博主复述完整写“正人君子”；只更正固定词，不用复述补造新答句。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00004-s001",
+            "BV1kJP5z6EDw-sensevoice-w00009-s004"
+          ],
+          "source_text": "那你是证人君子，好，那刚刚女生问我们，那你是正人君子嘛。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1kJP5z6EDw-q003",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "好 那刚刚女生问我们。那你是证人君子吗。这句话。看一下续哥是怎么应对的。你们也可以去想想。这句话换作是你们。你们会怎么回",
+      "corrected_text": "好 那刚刚女生问我们。那你是正人君子吗。这句话。看一下旭哥是怎么应对的。你们也可以去想想。这句话换作是你们。你们会怎么回",
+      "basis": "cross_source",
+      "reason": "独立讲解明确为“正人君子”和“旭哥”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00009-s004",
+            "BV1kJP5z6EDw-sensevoice-w00009-s005"
+          ],
+          "source_text": "好，那刚刚女生问我们，那你是正人君子嘛。哎，这句话看一下旭哥是怎么应对的啊，你们也可以去想一想，这句话换做是你们你们会怎"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1kJP5z6EDw-q007",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "因为我的大脑是用来赚钱的。不是用来记这些家常理断的",
+      "corrected_text": "因为我的大脑是用来赚钱的。不是用来记这些家长里短的",
+      "basis": "cross_source",
+      "reason": "独立稿完整识别“家长里短”，是原稿连串同音误字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00014-s002"
+          ],
+          "source_text": "因为我的大脑是用来赚钱的，不是用来记这些家长里短的。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1kJP5z6EDw-q007",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "兄弟们这一招学会了吗。极其合理化。我的大脑是多么有智慧的大脑啊。要想大事。谁记你这些喜好家常理断。是不是。你看这个行为非常合理化。对不对。如果她还多多逼人",
+      "corrected_text": "兄弟们这一招学会了吗。极其合理化。我的大脑是多么有智慧的大脑啊。要想大事。谁记你这些喜好家长里短。是不是。你看这个行为非常合理化。对不对。如果她还咄咄逼人",
+      "basis": "cross_source",
+      "reason": "独立讲解支持“家长里短”和“咄咄逼人”两个固定词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00014-s007",
+            "BV1kJP5z6EDw-sensevoice-w00014-s009"
+          ],
+          "source_text": "哎，我的大脑是多有智慧的大脑啊，要想大事，谁记你这些喜好家长里短，是不是你看这个如果他还咄咄逼人啊，大男子主义。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1kJP5z6EDw-q009",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "哎兄弟们。考验你们的时候到。为什么我不拉她的手来。所有人在大目里给我答案。为什么我不拉她的手。一个字还往技术点上猜呢。是不是不用猜了。因为当时尿手上了。那手上有尿",
+      "corrected_text": "哎兄弟们。考验你们的时候到。为什么我不拉她的手来。所有人在弹幕里给我答案。为什么我不拉她的手。一个个还往技术点上猜呢。是不是不用猜了。因为当时尿手上了。那手上有尿",
+      "basis": "cross_source",
+      "reason": "独立稿为“弹幕里”“一个个还往”，修讲解中可定位的词形。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00016-s007",
+            "BV1kJP5z6EDw-sensevoice-w00016-s008"
+          ],
+          "source_text": "然不拉我哎，兄弟们考验你们的时候到为什么我不拉他的手来，所有人在弹幕里给我答案，为什么我不拉他的手一个个还往技术点上猜呢？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1kJP5z6EDw-q011",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "这不就成功把刚才忘了。她喜欢吃什么这件事。给圆回来了吗。所以说御事不要慌。先用缓冰之计。来 继续看操作啊",
+      "corrected_text": "这不就成功把刚才忘了。她喜欢吃什么这件事。给圆回来了吗。所以说遇事不要慌。先用缓兵之计。来 继续看操作啊",
+      "basis": "editorial_context",
+      "reason": "独立稿明确“遇事”；两稿把同音的固定成语写作“缓冰之计”，阅读稿按该处拖延应对的语境规范为“缓兵之计”，这项成语字形属于编辑校正。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00018-s004",
+            "BV1kJP5z6EDw-sensevoice-w00018-s005"
+          ],
+          "source_text": "这不就成功把刚才忘了他喜欢吃什么这件事给圆回来了嘛，所以说遇事不要慌，先用缓冰之计啊，来继续看操作啊。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1kJP5z6EDw-q014",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "不是。这个需要维系的关系都不劳靠啊。真正好的关系。她不需要维系啊。对不对",
+      "corrected_text": "不是。这个需要维系的关系都不牢靠啊。真正好的关系。她不需要维系啊。对不对",
+      "basis": "cross_source",
+      "reason": "独立稿相同位置写“不牢靠”，仅修“牢”；后半句独立稿丢否定，未据此修改原“不需要维系”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00021-s007"
+          ],
+          "source_text": "需要维系的关系都不牢靠，真正好的关他需要维系，对？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1kJP5z6EDw-q015",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那为啥你总觉得。比较我手中约你",
+      "corrected_text": "那为啥你总觉得。要我主动约你",
+      "basis": "cross_source",
+      "reason": "独立稿连续两段恢复“那为啥你总觉得，要我主动约你呢”，原“比较我手中”不成词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00023-s008",
+            "BV1kJP5z6EDw-sensevoice-w00023-s009"
+          ],
+          "source_text": "那为啥你总觉得要我主动约你呢？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1kJP5z6EDw-q015",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "那你不能手中约我吗",
+      "corrected_text": "那你不能主动约我吗",
+      "basis": "cross_source",
+      "reason": "独立稿完整识别“那你不能主动约我吗”，修“手中”同音误词，不改否定或疑问。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00024-s001"
+          ],
+          "source_text": "主动约你呢，那你不能主动约我吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1kJP5z6EDw-q018",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "我从来没有对女生。这么身世过",
+      "corrected_text": "我从来没有对女生。这么绅士过",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“深士/绅士”连续复现，下一句清楚识别“绅士和流氓”；只修同一词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00028-s005",
+            "BV1kJP5z6EDw-sensevoice-w00029-s002"
+          ],
+          "source_text": "你今天赚了啊，我从来没有对女生这么深士过啊，这不是绅，你流氓绅士和流氓有别吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1kJP5z6EDw-q018",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "这不是身世。你这是流氓",
+      "corrected_text": "这不是绅士。你这是流氓",
+      "basis": "cross_source",
+      "reason": "独立稿保留“这不是绅”并在连续下一句明确“绅士”，保持原否定。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00028-s005",
+            "BV1kJP5z6EDw-sensevoice-w00029-s002"
+          ],
+          "source_text": "你今天赚了啊，我从来没有对女生这么深士过啊，这不是绅，你流氓绅士和流氓有别吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1kJP5z6EDw-q018",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "身世和流氓有差别吗。身世就是会伪装的流氓。对不对",
+      "corrected_text": "绅士和流氓有差别吗。绅士就是会伪装的流氓。对不对",
+      "basis": "cross_source",
+      "reason": "独立稿两句均使用“绅士”，原稿“身世”是同音误词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00029-s002",
+            "BV1kJP5z6EDw-sensevoice-w00029-s003"
+          ],
+          "source_text": "绅士和流氓有别吗？绅士就会伪装的流氓，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1kJP5z6EDw-q018",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "请把这句话给我超十遍。如果以后女生说。你是流氓不是身世。你就告诉她。身世就是会伪装的流氓。当然我们还是要做身世。为什么呢。因为女人也知道。你们男人都一个样",
+      "corrected_text": "请把这句话给我抄十遍。如果以后女生说。你是流氓不是绅士。你就告诉她。绅士就是会伪装的流氓。当然我们还是要做绅士。为什么呢。因为女人也知道。你们男人都一个样",
+      "basis": "editorial_context",
+      "reason": "独立讲解明确“绅士”；“给我超十遍”中的“超”按抄写语境修为同音的“抄”，数量“十遍”不改，该单字属于编辑校正。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00029-s008",
+            "BV1kJP5z6EDw-sensevoice-w00029-s006",
+            "BV1kJP5z6EDw-sensevoice-w00029-s007"
+          ],
+          "source_text": "以女生说啊，你是流氓不是绅士，你就告诉他绅士就是会伪装的流氓当我还要做绅请这话给遍。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "time_alignment_uncertain": true,
+      "round_id": "BV1kJP5z6EDw-q022",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "这里为什么我要拒绝。大家一定要记住。女生对你好。但是咱们也不能。一直去赞女人的便宜。这样的话。就会显得很没品。就算她主动说。我要请你吃饭。我要请你去旅游。我要送你那个。咱们能不要。别人表达咱们的心意。但是咱们。还是要真正做一个身世",
+      "corrected_text": "这里为什么我要拒绝。大家一定要记住。女生对你好。但是咱们也不能。一直去占女人的便宜。这样的话。就会显得很没品。就算她主动说。我要请你吃饭。我要请你去旅游。我要送你那个。咱们能不要。别人表达咱们的心意。但是咱们。还是要真正做一个绅士",
+      "basis": "cross_source",
+      "reason": "独立稿明确“占女人的便宜”；“审士”与本集清楚复现的“绅士”同词，阅读稿统一该词，不扩写仍不清楚的赠礼句。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00031-s001",
+            "BV1kJP5z6EDw-sensevoice-w00031-s005",
+            "BV1kJP5z6EDw-sensevoice-w00029-s002"
+          ],
+          "source_text": "女生对你好，但是咱们也不能一直去占女人的便宜。但是咱们呢还是要真正做一个审士，对不对？绅士和流氓有别吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1kJP5z6EDw-q019",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "嗯。那不更好吗。我让你拥有了感受幸福的努力。我走了。我真走了。没有 我真得走了",
+      "corrected_text": "嗯。那不更好吗。我让你拥有了感受幸福的能力。我走了。我真走了。没有 我真得走了",
+      "basis": "cross_source",
+      "reason": "独立现场稿完整写“感受幸福的能力”，原“努力”是语义与读音混淆。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1kJP5z6EDw-sensevoice-w00037-s007"
+          ],
+          "source_text": "我让你拥有了感受幸福的能力，我走了，我真走了，没有我真的走了，"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1upQdBiEN1-q001",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "那瑜伽不都這麼漂亮呀",
+      "corrected_text": "练瑜伽不都这么穿呀",
+      "basis": "cross_source",
+      "reason": "独立现场稿清楚写“练瑜伽不都这么穿呀”，回应的是穿着，原稿将“穿”扩成“漂亮”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00002-s006"
+          ],
+          "source_text": "今天穿的这么有倾张力啊，练瑜伽不都这么穿呀，就是夸你太好看了，看的我都挑杆了，啥"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1upQdBiEN1-q001",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "就是誇你太好看了 看著我都跳乾了",
+      "corrected_text": "就是夸你太好看了 看著我都挑杆了",
+      "basis": "cross_source",
+      "reason": "独立稿前句写“挑杆”，后句接“挑起来爱你的旗杆”；仅修两字，保留原玩笑语境。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00002-s006",
+            "BV1upQdBiEN1-sensevoice-w00002-s008"
+          ],
+          "source_text": "今天穿的这么有倾张力啊，练瑜伽不都这么穿呀，就是夸你太好看了，看的我都挑杆了，啥就是挑起来爱你的旗杆，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1upQdBiEN1-q001",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "這就是我們約會要做的第一件事啊。大開氛圍 也就是說我們必須要在三分鐘之內啊。馬上把女生逗笑 如果你沒有在三分鐘之內把女生逗笑。那麼你們的約會整個格調就變得很嚴肅了。那後面你拉近關係啊什麼的 你就會發現這個女生很不配合。很容易尷尬冷場",
+      "corrected_text": "这就是我们约会要做的第一件事啊。打开氛围 也就是说我们必须要在三分钟之内啊。马上把女生逗笑 如果你没有在三分钟之内把女生逗笑。那么你们的约会整个格调就变得很严肃了。那后面你拉近关系啊什么的 你就会发现这个女生很不配合。很容易尴尬冷场",
+      "basis": "cross_source",
+      "reason": "独立讲解明确写“打开氛围”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00003-s001"
+          ],
+          "source_text": "就是我们约会要做的第一件事啊，打开氛围。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1upQdBiEN1-q002",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "就是 調起來愛你的旗桿",
+      "corrected_text": "就是 挑起来爱你的旗杆",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“挑起来爱你的旗杆”，修同音动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00002-s008"
+          ],
+          "source_text": "就是挑起来爱你的旗杆，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1upQdBiEN1-q002",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "如果你真的想用這種土耳情話撩到她。那她就會覺得你很猶膩了。所以你看我說話的語氣很重要。是把這女生逗笑了的。知道吧。而且這裡面呢有一點點小插邊。那如果你說這個插邊段子。女生聽懂了",
+      "corrected_text": "如果你真的想用这种土味情话撩到她。那她就会觉得你很油腻了。所以你看我说话的语气很重要。是把这女生逗笑了的。知道吧。而且这里面呢有一点点小擦边。那如果你说这个擦边段子。女生听懂了",
+      "basis": "cross_source",
+      "reason": "独立讲解逐项明确为“土味情话”“油腻”“擦边段子”，不据此解释对方态度。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00005-s005",
+            "BV1upQdBiEN1-sensevoice-w00006-s001",
+            "BV1upQdBiEN1-sensevoice-w00006-s004"
+          ],
+          "source_text": "不是的，如果你真的想用这种土味情话撩到他，那他就会觉得你很油。那他就会觉得你很油腻了。而且这里面呢有一点点小擦边啊，那如果你说这个擦边段子啊，女生听懂了？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1upQdBiEN1-q005",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "我又說了一個插邊段子。做這種插邊段子的時候呢。我們一定要注意這個女生的反應。你的狀態是非常重要的。而且你要敏銳的觀察她的表情",
+      "corrected_text": "我又说了一个擦边段子。说这种擦边段子的时候呢。我们一定要注意这个女生的反应。你的状态是非常重要的。而且你要敏锐的观察她的表情",
+      "basis": "cross_source",
+      "reason": "独立讲解写“说这种擦边段子”，原稿误作“做这种插边段子”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00007-s008"
+          ],
+          "source_text": "好，兄弟们这里重点就来了，我又说了一个擦边段子说这种擦边段子的时候呢，我们一定要"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "time_alignment_uncertain": true,
+      "round_id": "BV1upQdBiEN1-q006",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "這裡呢我用了一個技巧。就展示價值。咱們不能光給女生說插邊段子。對吧。那樣會顯得我們是一個老油膩男啊。老色皮。所以說我給她展示了我會做飯。好。那麼成功的引起了女生的好奇啊",
+      "corrected_text": "这里呢我用了一个技巧。就展示价值。咱们不能光给女生说擦边段子。对吧。那样会显得我们是一个老油腻男啊。老色批。所以说我给她展示了我会做饭。好。那么成功的引起了女生的好奇啊",
+      "basis": "cross_source",
+      "reason": "独立稿本处写“老色批”；“擦边”在同段前文被清楚识别，本处同音“插边”按同一术语修阅读稿。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00010-s002",
+            "BV1upQdBiEN1-sensevoice-w00010-s003",
+            "BV1upQdBiEN1-sensevoice-w00007-s008"
+          ],
+          "source_text": "这里呢我用了一个技巧啊，就是展示价值，咱们不能光给女生说插边段子，对吧？那样会显得我们是一个老油腻男啊，老色批。好，兄弟们这里重点就来了，我又说了一个擦边段子说这种擦边段子的时候呢，我们一定要"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1upQdBiEN1-q008",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "我覺得這些好處挺嚴格。就很多男生都能做到",
+      "corrected_text": "我觉得这些好都挺廉价的。就很多男生都能做到",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“这些好都挺廉价的”，紧接“很多男生都能做到”；修原稿改变含义的“好处挺严格”，仍仅记录发言。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00017-s003",
+            "BV1upQdBiEN1-sensevoice-w00017-s004"
+          ],
+          "source_text": "好吧，来看我怎么说啊，我觉得这些好都挺廉价的。就很多男生都能做到。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1upQdBiEN1-q009",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "對啊。距離比較近期這個方便。走嗎",
+      "corrected_text": "对啊。距离比较近，骑这个方便。走吗",
+      "basis": "cross_source",
+      "reason": "独立稿明确分为“距离比较近，骑这个方便”，修同音切分错误。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00021-s009"
+          ],
+          "source_text": "对啊，距离比较近，骑这个方便走嘛，觉得好丢人了，我穿这身还有高跟鞋和裙子，哪里丢"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1upQdBiEN1-q010",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "我覺得好丟人了。穿這身。還有高跟鞋有裙子",
+      "corrected_text": "我觉得好丢人了。穿这身。还有高跟鞋和裙子",
+      "basis": "cross_source",
+      "reason": "独立稿列举“高跟鞋和裙子”，修连接词，不推定交通许可。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00021-s009"
+          ],
+          "source_text": "对啊，距离比较近，骑这个方便走嘛，觉得好丢人了，我穿这身还有高跟鞋和裙子，哪里丢"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1upQdBiEN1-q010",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "哪裡丟人了。王家爾騎摩托車帶你玩。別人羨慕還來不及呢。走上車上車上",
+      "corrected_text": "哪里丢人了。王嘉尔骑摩托车带你玩。别人羡慕还来不及呢。走上车上车上",
+      "basis": "cross_source",
+      "reason": "独立稿写“王嘉尔”，修所引用艺名的同音字，不额外核实类比。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00021-s010"
+          ],
+          "source_text": "人了，王嘉尔骑摩托带你玩，别人。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1upQdBiEN1-q011",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "這麼胖的王家爾呀",
+      "corrected_text": "这么胖的王嘉尔呀",
+      "basis": "cross_source",
+      "reason": "独立稿相应重复同名为“王嘉尔”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00022-s001"
+          ],
+          "source_text": "骑摩托带你玩，别人羡慕还来不及呢，走上车上车上这么胖的王嘉尔呀，泡说明我有安全感"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1upQdBiEN1-q014",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "有這麼誇張的嗎",
+      "corrected_text": "有这么夸自己的吗",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“有这么夸自己的吗”，原稿将“夸自己”压成“夸张”；不改前句存在否定冲突的原文。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00028-s007"
+          ],
+          "source_text": "有这么夸自己的吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1upQdBiEN1-q015",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "大家去看這個這個電影。咱們去私人園看。不去那個影園看。就是我朋友開的一個私人園。特別舒服。還有免費的小吃飲料咔的。很好的",
+      "corrected_text": "大家去看这个这个电影。咱们去私人影院看。不去那个影院看。就是我朋友开的一个私人影院。特别舒服。还有免费的小吃饮料啥的。很好的",
+      "basis": "cross_source",
+      "reason": "独立现场稿两处完整识别“私人影院”，并写“小吃饮料啥的”；场所陈述只作为视频原发言。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00030-s001",
+            "BV1upQdBiEN1-sensevoice-w00030-s002"
+          ],
+          "source_text": "大家去看这个这个电影，咱们去私人影院看，不去那个影院看啊，就是我朋友开的一个私人影院，特别舒服，还有免费的小吃饮料啥的。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1upQdBiEN1-q015",
+      "section": "turns",
+      "turn_index": 4,
+      "original_text": "放心啊。我不抽菸不喝酒不打牌。我只去綠色藏口",
+      "corrected_text": "放心啊。我不抽烟不喝酒不打牌。我只去绿色场所",
+      "basis": "cross_source",
+      "reason": "独立稿同位置完整识别“绿色场所”，修词形，不据此认证场所。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00030-s006"
+          ],
+          "source_text": "不是放心啊，我不抽烟不喝酒，不打牌，我只去绿色场所，我我打到车了，已经打到车了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1upQdBiEN1-q015",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "那麼這一段呢。有一個技巧點。就是我們在跟女生拉近關係的時候呢。一定要學會一個東西叫台積",
+      "corrected_text": "那么这一段呢。有一个技巧点。就是我们在跟女生拉近关系的时候呢。一定要学会一个东西叫台阶",
+      "basis": "cross_source",
+      "reason": "独立讲解明确“台阶”，同题后续原稿亦有“有一个台阶下”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00031-s001"
+          ],
+          "source_text": "关系的时候呢，一定要学会一个东西叫台阶啊，就是你不能直接跟他说，哎，私人影院很亲"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1upQdBiEN1-q019",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "我跟朋友關鍵呢",
+      "corrected_text": "我跟朋友逛街呢",
+      "basis": "cross_source",
+      "reason": "独立现场稿连续恢复“我/跟朋友逛街呢”，原“关键”不成此处应答。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1upQdBiEN1-sensevoice-w00036-s001",
+            "BV1upQdBiEN1-sensevoice-w00036-s002"
+          ],
+          "source_text": "我跟朋友逛街呢，"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1ZX9KBUEip-q001",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "那那时候我约你你就出来呢",
+      "corrected_text": "那为啥我约你你就出来呢",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“那为啥我约你你就出来呢”，修复疑问引导词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00010-s004"
+          ],
+          "source_text": "那为啥我约你你就出来呢？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1ZX9KBUEip-q001",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "因为我看你朋友圈儿。觉得你最近点漂亮了",
+      "corrected_text": "因为我看你朋友圈儿。觉得你最近变漂亮了",
+      "basis": "cross_source",
+      "reason": "独立稿写“最近变漂亮了”，修动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00010-s005"
+          ],
+          "source_text": "因为我看你朋友圈觉得你最近变漂亮了，"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1ZX9KBUEip-q002",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "你想听石花吗",
+      "corrected_text": "你想听实话吗",
+      "basis": "cross_source",
+      "reason": "独立稿对应询问使用“实话”，修同音误词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00010-s006"
+          ],
+          "source_text": "那我以前不好看，你想听实话吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1ZX9KBUEip-q002",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "咱俩玩骰子。你要赢我了。完了我就告诉你石花",
+      "corrected_text": "咱俩玩骰子。你要赢我了。完了我就告诉你实话",
+      "basis": "cross_source",
+      "reason": "独立稿对应回应使用“实话”，修同音误词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00010-s008"
+          ],
+          "source_text": "你要赢我了完了我就告诉你实话来就来"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1ZX9KBUEip-q003",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "就是你会发现我们拉伸关系。尽量都要找一个合理的借口。比如说我喝多了。我往前马上靠一靠",
+      "corrected_text": "就是你会发现我们拉伸关系。尽量都要找一个合理的借口。比如说我喝多了。我往你肩膀上靠一靠",
+      "basis": "cross_source",
+      "reason": "独立讲解写“我往你肩膀上靠一靠”；只修博主举例，不将此句当现场已发生或获同意。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00015-s005"
+          ],
+          "source_text": "比如说我喝多了，我往你肩膀上靠一靠。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1ZX9KBUEip-q004",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "还好不过家远。我还好。我还好。我还好不远",
+      "corrected_text": "还好，不远",
+      "basis": "cross_source",
+      "reason": "独立稿写“还好，不远”，删除机器重复碎片，保留不远的否定；角色仍待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00012-s002"
+          ],
+          "source_text": "还好，不远，你要是太远的话，我就不回去了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1ZX9KBUEip-q006",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "我有点阴车",
+      "corrected_text": "我有点晕车",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“我有点晕车”，修同音词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00012-s005"
+          ],
+          "source_text": "有蚊子蚊子，你好用力呀，痛死我，我有点晕车，我总有一个方法可以不晕车，你把你手给"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1ZX9KBUEip-q006",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "我真的有一个方法。可以不运车。你把你手给我来。捏这。只要一时捏这就可以不运车",
+      "corrected_text": "我真的有一个方法。可以不晕车。你把你手给我来。捏这。只要一直捏这就可以不晕车",
+      "basis": "cross_source",
+      "reason": "独立稿识别为“一直捏这儿就可以不晕车”；仅记录发言，不验证该说法的医疗效果。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00012-s005",
+            "BV1ZX9KBUEip-sensevoice-w00012-s008"
+          ],
+          "source_text": "有蚊子蚊子，你好用力呀，痛死我，我有点晕车，我总有一个方法可以不晕车，你把你手给只要一直捏这儿就可以不晕车。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1ZX9KBUEip-q006",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "比如说你晕车了。哎我拉着你的手。给你捏一捏。你就不晕车了。但实际上捏这能不能防晕车呢。我他们也不知道。这是我当时瞎编的。临场编的",
+      "corrected_text": "比如说你晕车了。哎我拉着你的手。给你捏一捏。你就不晕车了。但实际上捏这能不能防晕车呢。我他妈也不知道。这是我当时瞎编的。临场编的",
+      "basis": "cross_source",
+      "reason": "独立讲解完整写出该口头语，原稿误识为“他们”；保留博主“瞎编”说明。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00015-s008"
+          ],
+          "source_text": "我他妈也不知道这是我当时瞎编的，临场编的，你要说捏捏脖子可以不晕车哎，也行，你说"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1ZX9KBUEip-q007",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你得我有点想上厕所",
+      "corrected_text": "我有点想上厕所",
+      "basis": "cross_source",
+      "reason": "独立稿对应片段为“我有点想上厕所”，原开头为机器碎片。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00013-s002"
+          ],
+          "source_text": "我有点想上厕所"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1ZX9KBUEip-q009",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "有没有其他男朋友",
+      "corrected_text": "有没有其他男的来过",
+      "basis": "cross_source",
+      "reason": "独立稿问的是“有没有其他男的来过”，原稿误把来访问题写成关系身份；只修提问内容，不认定任何人的关系。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00017-s002"
+          ],
+          "source_text": "没事，我家里房间挺多的，有没有其他男的来过？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1ZX9KBUEip-q010",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "也不胜吧",
+      "corrected_text": "也不是很大",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“也不是很大”，保留否定并修坏词；同段说话者待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00017-s005"
+          ],
+          "source_text": "你一个人住这么大的房子啊，还好吧，也不是很大，你快歇吧"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1ZX9KBUEip-q013",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "没事啊。我们可以一起盖摊子",
+      "corrected_text": "没事啊。我们可以一起盖毯子",
+      "basis": "cross_source",
+      "reason": "独立稿对应盖物写“毯子”，修同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00020-s003"
+          ],
+          "source_text": "事，我以一起盖毯子"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1ZX9KBUEip-q020",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "去过。我小学班族人家里。去他家补习作业",
+      "corrected_text": "去过。我小学班主任家里。去他家补习作业",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“小学班主任家里”，修人物称谓。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00022-s003"
+          ],
+          "source_text": "凭什么我约你啊，你怎么不约我，你去过其他女孩家里没去过我小学班主任家里去他家补习"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1ZX9KBUEip-q023",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "他刚才问了我一个问题。他说你肯定跟很多女孩都很爱美。你看跟很多女孩都很爱美。这很多女孩就是第三方。所以你不要去聊。我跟这些女孩怎么怎么样。我跟她们不爱美怎么怎么样。你看这都是在聊这第三方啊。这就不行啊。你就直接撤回到咱俩身上。你觉得咱俩爱美吗。看到了吗。把第三方跑出去。学会了吗",
+      "corrected_text": "他刚才问了我一个问题。他说你肯定跟很多女孩都很暧昧。你看跟很多女孩都很暧昧。这很多女孩就是第三方。所以你不要去聊。我跟这些女孩怎么怎么样。我跟她们不暧昧怎么怎么样。你看这都是在聊这第三方啊。这就不行啊。你就直接扯回到咱俩身上。你觉得咱俩暧昧吗。看到了吗。把第三方跑出去。学会了吗",
+      "basis": "cross_source",
+      "reason": "独立讲解明确“暧昧”和“扯回到咱俩”；保留讲解与现场的区分。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1ZX9KBUEip-sensevoice-w00027-s002",
+            "BV1ZX9KBUEip-sensevoice-w00027-s004",
+            "BV1ZX9KBUEip-sensevoice-w00027-s005"
+          ],
+          "source_text": "你比如说他刚才问了我一个问题，他说你肯定跟很多女孩都很暧美。怎么样，我跟他们不暧昧，怎么怎么样，你看这都是在聊这第三方啊，这就不行啊，你就直接扯回到咱俩身上，你觉得咱俩暧昧吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q003",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你也用大褲嗎。不是你也用褲嗎",
+      "corrected_text": "你也用大裤吗。不是你也用麦克风吗",
+      "basis": "cross_source",
+      "reason": "独立稿后半问句明确“你也用麦克风吗”；前半设备名称仍未可靠识别，不扩写。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00004-s006",
+            "BV12GQiBrExv-sensevoice-w00004-s007"
+          ],
+          "source_text": "不是你也用麦克风吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q004",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "這把我逗逗你。你自己一個人會有無聊嗎。你看我笑壞什麼",
+      "corrected_text": "这把我逗逗你。你自己一个人会有无聊吗。你看我像坏人吗",
+      "basis": "cross_source",
+      "reason": "独立稿该问句完整写“你看我像坏人吗”；本条其余碎片保留待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00005-s006"
+          ],
+          "source_text": "你看我像坏人吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q005",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "為什麼要放我這樣",
+      "corrected_text": "为什么要放我这",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“为什么要放我这”，修误入的句尾字；不补放置物或行为许可。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00005-s008"
+          ],
+          "source_text": "放一下，放你这里为什么要放我这你夹一下夹一下，别动。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q007",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "這麼巧啊。我會去雨崩",
+      "corrected_text": "这么巧啊。我也去雨崩",
+      "basis": "cross_source",
+      "reason": "独立稿写“我也去雨崩”，仅修该副词，不扩写行程。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00006-s011"
+          ],
+          "source_text": "这么巧啊，我也去雨崩放一个人。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q009",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你塗布還攀射 你不累嗎",
+      "corrected_text": "你徒步还拍摄 你不累吗",
+      "basis": "editorial_context",
+      "reason": "独立稿本句为“你徒还拍摄你累吗”，拍摄有直接支持；原“涂布”按徒步行程语境规范为徒步，这一步属于编辑词形推定；否定“不累吗”保留原字，不按独立稿漏字改动。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00007-s004"
+          ],
+          "source_text": "你徒还拍摄你累吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q010",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "我又沒拍手",
+      "corrected_text": "我又没拍摄",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“没拍摄”，修同音词并保留否定。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00016-s009"
+          ],
+          "source_text": "我又没拍摄，哎，这句话很关键啊，大家注意啊。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q011",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "我趕路啊。天天之前我得到啊",
+      "corrected_text": "我赶路啊。天黑之前我得到啊",
+      "basis": "cross_source",
+      "reason": "独立稿写“天黑之前”，修时间表达。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00019-s003"
+          ],
+          "source_text": "你为什么我看风景的时候，你不停下来等我呀，我赶路啊，天黑之前我得到啊，加油啊加油"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q015",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "看到了嗎。這個玩笑已經開起來了。氛圍已經編好了。看這就是調動情緒。控場的能力",
+      "corrected_text": "看到了吗。这个玩笑已经开起来了。氛围已经变好了。看这就是调动情绪。控场的能力",
+      "basis": "cross_source",
+      "reason": "独立讲解写“变好了”，修同音动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00024-s004"
+          ],
+          "source_text": "这个玩笑已经开起来了，氛围已经变好了，看这就是调动情绪控场的能力也算了，也要走一"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q016",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "好乖呀。你這個人。那你為什麼沒有轎車呢。你轎到我車。我不知道圖是嗎。沒有轎。我就到下雨路補給點。他你就會有轎。其實這道路我也能圖。我對它路是最容易做的。是。但是。我有轎",
+      "corrected_text": "好乖呀。你这个人。那你为什么没有叫车呢。你轿到我车。我不知道图是吗。没有轿。我就到下雨路补给点。他你就会有轿。其实这道路我也能图。我对它路是最容易走的。是。但是。我有轿",
+      "basis": "cross_source",
+      "reason": "独立现场稿对应出行话题为叫车和容易走；其余混合说话及乱码不补。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00025-s002",
+            "BV12GQiBrExv-sensevoice-w00025-s003",
+            "BV12GQiBrExv-sensevoice-w00025-s004",
+            "BV12GQiBrExv-sensevoice-w00025-s005"
+          ],
+          "source_text": "好乖呀，你这个人那你为什么没有叫车呢？你叫到我车，我不知道出去吗？你有车，我就道下一个补点那里就会有车，其实这条路我也能图这条路是最容易走的哦，是，但是我有车，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q017",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你坐在哪。你坐在那。我看嘛。你這樣看我。我一個電話。我在哪都有人的。你可能不了解我。我很厲害的。我全國都有粉絲的",
+      "corrected_text": "你车在哪。你坐在那。我看嘛。你这样看我。我一个电话。我在哪都有人的。你可能不了解我。我很厉害的。我全国都有粉丝的",
+      "basis": "cross_source",
+      "reason": "独立稿首问为“你车在哪”，仅修首问，其余“坐在那”不据此类推。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00025-s006"
+          ],
+          "source_text": "你车在哪，你那"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q018",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "表示不敢說這種話了。他特別怕說這種話。女生生氣。但是我跟你說。當你足夠強勢的人說。你越說這些話。其實女生越覺得跟你在一起。可以卸下包袱。而當她的包袱卸下之後",
+      "corrected_text": "屌丝不敢说这种话了。他特别怕说这种话。女生生气。但是我跟你说。当你足够强势的时候。你越说这些话。其实女生越觉得跟你在一起。可以卸下包袱。而当她的包袱卸下之后",
+      "basis": "cross_source",
+      "reason": "独立讲解明确这两处用词；保留为博主观点，不用讲解推定对方意愿。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00032-s008",
+            "BV12GQiBrExv-sensevoice-w00033-s001"
+          ],
+          "source_text": "你这人很卑鄙啊，你骗我的麦，我如果没有车，问你这人很卑鄙啊，屌丝不敢说这种话了，我跟你说，当你足够强势的时候，你越说这些话，其实女生越觉得跟你在一起，可以卸下包"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q019",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "不知道。不急到",
+      "corrected_text": "不知道。不知道",
+      "basis": "cross_source",
+      "reason": "独立稿对应短答连续写“不知道”；保留否定，不扩写其它口音碎片。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00033-s007"
+          ],
+          "source_text": "不知道不知道啊"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q021",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "其實我也可以勉強做一下",
+      "corrected_text": "其实我也可以勉强坐一下",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“勉强坐一下”，修同音动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00035-s002"
+          ],
+          "source_text": "其实我也可以勉强坐一下"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q023",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "再問你吧",
+      "corrected_text": "先问你吧",
+      "basis": "cross_source",
+      "reason": "独立稿对应询问顺序为“先问你吧”，修副词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00039-s007",
+            "BV12GQiBrExv-sensevoice-w00040-s001"
+          ],
+          "source_text": "先问你吧。先问你吧，我金牛座吧，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q024",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "因為我怕…。你是處心機率要跟我搞一個。就是配合都相比較高",
+      "corrected_text": "因为我怕…。你是处心积虑要跟我搞一个。就是配合都相比较高",
+      "basis": "cross_source",
+      "reason": "独立稿分段组成固定成语“处心积虑”，修机器同音误写。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00040-s007",
+            "BV12GQiBrExv-sensevoice-w00040-s008"
+          ],
+          "source_text": "这什么假定追逐之前教过大家的，不做过解释啊，懂的可以看我之前视频，因为我怕你是处心积虑跟个就是"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q025",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "你這兒很冷漠。跟你說話也不理",
+      "corrected_text": "你这人很冷漠。跟你说话也不理",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“你这人很冷漠”，修指向对象的词形；仅记录发言评价。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00041-s002"
+          ],
+          "source_text": "你这人很冷漠呀，跟你说话也不理解，哪有那么多话说，本来就来土步，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q026",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "你拍的你會發出是嗎",
+      "corrected_text": "你拍的你会发出去吗",
+      "basis": "cross_source",
+      "reason": "独立现场稿问“发出去吗”，修发问句；对方发布/不发布的回应存在模型分歧，不在本条修改。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00041-s006"
+          ],
+          "source_text": "你拍了你会发出去吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q027",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "我去找你要東西。但是我不是一個貴舔的姿態。你不給我吃是你的錯。你這人怎麼那麼冷血。看到了嗎。昨天的索取都要變成。你不給我是你的錯。就不是索取了",
+      "corrected_text": "我去找你要东西。但是我不是一个贵舔的姿态。你不给我吃是你的错。你这人怎么那么冷血。看到了吗。所有的索取都要变成。你不给我是你的错。就不是索取了",
+      "basis": "cross_source",
+      "reason": "独立讲解写“所有的索取”，修原稿无关的“昨天”；其余含混词保留。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00042-s007"
+          ],
+          "source_text": "所有的索取都要变成你不给我你的错哎，就就索取了，看到了吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q028",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "讓你來看一下建謀了嗎",
+      "corrected_text": "让你来看一下建模了吗",
+      "basis": "cross_source",
+      "reason": "独立稿明确“建模”，修同音名词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00048-s004"
+          ],
+          "source_text": "那你来看一下建模吧，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q028",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "讓你來審視一下我的建謀。風暴的頭都吹亂了",
+      "corrected_text": "让你来审视一下我的建模。风暴的头都吹乱了",
+      "basis": "cross_source",
+      "reason": "独立稿对应重复写“建模”；后半头发相关碎片不凭语顺重写。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00048-s008"
+          ],
+          "source_text": "让你来审视一下我的建模，风暴我的头发都吹乱了，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q029",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "來爬山的人都挺熱情的。但是我們現在這樣搬。坐著這裡就感覺有點怪怪的",
+      "corrected_text": "来爬山的人都挺热情的。但是我们现在这样单独坐在这里就感觉有点怪怪的",
+      "basis": "cross_source",
+      "reason": "独立稿完整写“现在这样单独坐在这里”，修原稿的断词碎片；不改变双方不熟的语境。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00049-s005"
+          ],
+          "source_text": "但是我们俩现在这样单独坐在这里就感觉有点怪怪的，这不是所有的"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q029",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "旅客又不熟。坐迷我這麼近",
+      "corrected_text": "旅客又不熟。坐离我这么近",
+      "basis": "cross_source",
+      "reason": "独立稿包含“坐离我”，修距离表达；不改变不适或边界含义。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00049-s007"
+          ],
+          "source_text": "嗯，坐离我这么近，慢慢我就熟了吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q030",
+      "section": "turns",
+      "turn_index": 5,
+      "original_text": "那只是我。舒服的話不太標準",
+      "corrected_text": "那只是我。说普通话不太标准",
+      "basis": "cross_source",
+      "reason": "独立稿清楚识别“说普通话不太标准”，原稿误把普通话话题写成舒适程度。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00050-s006"
+          ],
+          "source_text": "说普通话不太标准我也不知道你长得这么漂亮，我是后来才你真的能看清楚"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q031",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "看 女生提出的一切質疑。它都非常自信且合理化的回答。自信加合理化是非常重要的。面對女生的種種質疑。都要學會用這一章",
+      "corrected_text": "看 女生提出的一切质疑。它都非常自信且合理化的回答。自信加合理化是非常重要的。面对女生的种种质疑。都要学会用这一招",
+      "basis": "cross_source",
+      "reason": "独立讲解写“用这一招”，修同音词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00051-s002"
+          ],
+          "source_text": "面对女生的种种质疑，都要学会用这一招。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q032",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "不行 有點沒邊際感",
+      "corrected_text": "不行 有点没边界感",
+      "basis": "cross_source",
+      "reason": "独立稿明确“边界感”；保留拒绝字样，不从后续不清回应推定同意。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00051-s006"
+          ],
+          "source_text": "谁呀，你呀你确实有点没有边界感，我跟你说话，你就回我"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q032",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "誰啊你啊。你確實有點沒有邊際感。我跟你說話你就回我",
+      "corrected_text": "谁啊你啊。你确实有点没有边界感。我跟你说话你就回我",
+      "basis": "cross_source",
+      "reason": "独立稿同处明确“边界感”，只校词形，不改变原“不行”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00051-s006"
+          ],
+          "source_text": "谁呀，你呀你确实有点没有边界感，我跟你说话，你就回我"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q033",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "獨步的人每個人都很熱情。我不信你這墨鏡在一輩子。這輩子都不在看。我肯定真好 尷尬。你孔鏡頭是吧。第一次都這樣的。試過之後就是大人了。你再賣個是收不到銀的。請你這樣。第一次都這樣的。試過之後就是大人了",
+      "corrected_text": "独步的人每个人都很热情。我不信你这墨镜在一辈子。这辈子都不在看。我肯定真好 尴尬。你孔镜头是吧。第一次都这样的。试过之后就是大人了。你的麦克是收不到音的。请你这样。第一次都这样的。试过之后就是大人了",
+      "basis": "cross_source",
+      "reason": "独立稿明确指麦克收音，修原稿整段同音误词；同条其余镜头/徒步碎片仍待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00053-s001"
+          ],
+          "source_text": "你的麦克是收不到音的，就你这样第一次都这样的，试过之后就是大人了，我操"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q034",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "拉伸關係了。又是一個假定追逐的拉伸。不是我去拉伸你。而是你來親我手。看到了嗎。永遠是假定追逐的拉伸。板向拉伸",
+      "corrected_text": "拉伸关系了。又是一个假定追逐的拉伸。不是我去拉伸你。而是你来亲我手。看到了吗。永远是假定追逐的拉伸。反向拉升",
+      "basis": "cross_source",
+      "reason": "独立讲解写“反向拉升”，修术语词形，未评价该策略效果。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00053-s008"
+          ],
+          "source_text": "永远是假定追逐的拉升啊，反向拉升，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q035",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "我不要說我跟到你。我們就這一個車。你要坐這個車。就這一個車。我們沒得選。看一下你們包多不多。是不是這一個車。是不是這一個車。對。謝謝",
+      "corrected_text": "我不要说我跟踪你。我们就这一个车。你要坐这个车。就这一个车。我们没得选。看一下你们包多不多。是不是这一个车。是不是这一个车。对。谢谢",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“跟踪你”，原“不要说我”否定框架保留，混合角色仍待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00054-s001"
+          ],
+          "source_text": "跟踪你啊，我们就这一个车啊，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q036",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "都有都是很熱情的。那個螺旗。都像物傳授經驗。我上次去那個時候。過期那個螺旗。然後第二天下來。就有騎了一個炮。騎了嗎。那炮體了嗎",
+      "corrected_text": "驴友都是很热情的。那个螺旗。都像物传授经验。我上次去那个时候。过期那个螺旗。然后第二天下来。就有骑了一个炮。骑了吗。那炮体了吗",
+      "basis": "cross_source",
+      "reason": "独立稿识别“驴友都很热情的”，修旅行者称谓；同段其它不明词保留。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00054-s005"
+          ],
+          "source_text": "驴友都很热情的"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q037",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "最後一個不至點。哦。最後一個。然後我們就要上山了是吧。這到走進去就是那個羽毛。就進村了是吧",
+      "corrected_text": "最后一个不至点。哦。最后一个。然后我们就要上山了是吧。这到走进去就是那个雨崩。就进村了是吧",
+      "basis": "cross_source",
+      "reason": "独立稿对应地名为“雨崩”，原稿误为无关名词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00056-s006"
+          ],
+          "source_text": "这到走进去就是那个雨崩吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q037",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "有沒有人跟我們一樣。杜蜜月來這裡的",
+      "corrected_text": "有没有人跟我们一样。度蜜月来这里的",
+      "basis": "cross_source",
+      "reason": "独立稿明确“度蜜月”，修同音动词；不认定双方关系或真实行程。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00056-s008",
+            "BV12GQiBrExv-sensevoice-w00056-s009"
+          ],
+          "source_text": "有没有人跟我们一样度蜜月来这里的谁跟你度蜜月，哎，看到了吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q037",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "誰跟你杜蜜月",
+      "corrected_text": "谁跟你度蜜月",
+      "basis": "cross_source",
+      "reason": "独立稿同处为“度蜜月”，保留原反问与否定。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00056-s009",
+            "BV12GQiBrExv-sensevoice-w00056-s010"
+          ],
+          "source_text": "谁跟你度蜜月，哎，看到了吗？借用第三方拉升，有问大哥不要跟这女生说，咱俩是在度蜜月，而是跟大哥说有没有人。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q042",
+      "section": "commentary",
+      "turn_index": 1,
+      "original_text": "看 自然牽手了對不對。沒有說。我特別想站你旁邊去牽你的手。而是這粉絲哪是拍照呢。給我點面子。你看雖然你是藉用第三方去牽的手",
+      "corrected_text": "看 自然牵手了对不对。没有说。我特别想占你便宜去牵你的手。而是这粉丝哪是拍照呢。给我点面子。你看虽然你是藉用第三方去牵的手",
+      "basis": "cross_source",
+      "reason": "独立讲解写“没有说特别想占你便宜”，原否定保留；只校讲解，不替现场确认身体接触意愿。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00064-s004"
+          ],
+          "source_text": "没有说啊，我特别想占你便宜去牵你的手啊，而是哎这粉丝在这拍照呢，给我点面子。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q043",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "這是女情的演員吧",
+      "corrected_text": "这是你请的演员吧",
+      "basis": "cross_source",
+      "reason": "独立稿对应“你请”，修误词；其余口语保留。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00065-s004"
+          ],
+          "source_text": "忍住这是你请的演员吧，不是啊，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q044",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "站上幹嘛",
+      "corrected_text": "站着干嘛",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“站着干嘛”，修动词补语。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00065-s005"
+          ],
+          "source_text": "这山里哪里都是粉丝啊，站着干嘛？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q047",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "給你摸跡。你眼睛這麼紅呢",
+      "corrected_text": "给你墨镜。你眼睛这么红呢",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“给你墨镜”，修物品名。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00069-s002"
+          ],
+          "source_text": "那给你墨镜，你眼睛这么红呢，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q049",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "你的記錄率怎麼有我呀。你認識我。你愛戀我",
+      "corrected_text": "你的记录率怎么有我呀。你认识我。你暗恋我",
+      "basis": "cross_source",
+      "reason": "独立稿写“暗恋”，只校此词，人物及记录相关残句仍待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00070-s004"
+          ],
+          "source_text": "你认识我，你暗恋我"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q050",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "該怎麼形容。你不就是那種拍視頻。然後去聊別的女生。然後故意引起別人的那種。反正不是個好人",
+      "corrected_text": "该怎么形容。你不就是那种拍视频。然后去撩别的女生。然后故意引起别人的那种。反正不是个好人",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“撩别的女生”，修同音动词；该句是当事人发言，不作为事实认定。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00071-s002"
+          ],
+          "source_text": "你不就是那种拍视频，然后去撩别的女生，然后故意引起别人的那种，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q053",
+      "section": "turns",
+      "turn_index": 4,
+      "original_text": "兄弟你好像。好沒有編輯這個。好茂繫",
+      "corrected_text": "兄弟你好像。好没有编剧这个。好茂系",
+      "basis": "cross_source",
+      "reason": "独立稿写“编剧”，修职业词；本条其它部分仍不完整。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00073-s007"
+          ],
+          "source_text": "我没有编剧个"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q057",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "走不動了前面有鱸魚可以起。你下去吧",
+      "corrected_text": "走不动了前面有驴可以骑。你下去吧",
+      "basis": "cross_source",
+      "reason": "独立稿清楚写“驴可以骑”，修原稿跨词误识别；不改后半无可靠对应的内容。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00076-s001"
+          ],
+          "source_text": "前面有驴可以骑，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q060",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "記住這個小翔啊。跟我一起來的。記住我。為什麼要記住你。半輩子。為什麼。在這麼浪漫的地方。半輩子好可笑。因為不敢設計一輩子",
+      "corrected_text": "记住这个小翔啊。跟我一起来的。记住我。为什么要记住你。半辈子。为什么。在这么浪漫的地方。半辈子好可笑。因为不敢奢求记一辈子",
+      "basis": "cross_source",
+      "reason": "独立稿为“不敢奢求记一辈子”，保留否定与时间长度，修机器断词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00079-s001"
+          ],
+          "source_text": "也不敢奢求记一辈子，这是第一次来看雪山，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q065",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那你看他誤導我了。就是他省勁。他就想省勁。他其實我們就可以吐過去了。你看它不會。看我。看我。這種婚用就不應該。帶你女朋友出來",
+      "corrected_text": "那你看他误导我了。就是他省劲。他就想省劲。他其实我们就可以徒过去了。你看它不会。看我。看我。这种活动就不应该。带你女朋友出来",
+      "basis": "cross_source",
+      "reason": "独立稿对应徒步和活动话题，修两个不成词的机器误写；混合对话和后段时轴仍待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00090-s007",
+            "BV12GQiBrExv-sensevoice-w00090-s011"
+          ],
+          "source_text": "他就想省劲儿，那其实我们就可以徒过去了，这种活动就不应该带你女朋友出来麻烦，你看又假定了啊，女朋友。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q065",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "麻煩。你看又假定了。女朋友其實女生沒單了。但是你就可以跟第三方這麼說話了。其實女生心裡就默認了",
+      "corrected_text": "麻烦。你看又假定了。女朋友其实女生没答呢。但是你就可以跟第三方这么说话了。其实女生心里就默认了",
+      "basis": "cross_source",
+      "reason": "独立讲解明确“女生没答呢”；不把沉默或后文博主推断当成女方同意。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00091-s001"
+          ],
+          "source_text": "你看又假定了啊女朋友，其实女生没答呢，但是你就可以跟第三方这么说话了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q066",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "喝點酥油茶。別愣著了。酥油茶。這秘密麻麻蘿的全是泡麵桶。雲南再一塊啊。喝個焦杯吧。來喝一個焦杯。焦起來。倆你怎麼喊我了。就喝你的",
+      "corrected_text": "喝点酥油茶。别愣著了。酥油茶。这密密麻麻萝的全是泡面桶。云南再一块啊。喝个焦杯吧。来喝一个焦杯。焦起来。俩你怎么喊我了。就喝你的",
+      "basis": "cross_source",
+      "reason": "独立稿相同位置为“密密麻麻”，修重叠词形；交杯等后半同音词不猜。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00091-s006"
+          ],
+          "source_text": "这密密麻麻罗的全是泡面土，云南在一块啊。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q066",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "這都是拉桑的技巧。學你們的過學啊",
+      "corrected_text": "这都是拉伸的技巧。兄弟们给我学啊",
+      "basis": "cross_source",
+      "reason": "独立讲解完整识别该句，修机器词序碎片；不将讲解动作评价当现场同意。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00092-s002"
+          ],
+          "source_text": "这都是拉伸的技巧，兄弟们给我学啊，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q068",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "祝福誰呢。就是你想祝福誰呢。那你祝福我吧。我祝福你。和嫁一個小這樣的老公",
+      "corrected_text": "祝福谁呢。就是你想祝福谁呢。那你祝福我吧。我祝福你。和嫁一个像我这样的老公",
+      "basis": "cross_source",
+      "reason": "独立稿为“一个像我这样的老公”，修比喻短语；不据此认定婚姻关系。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00093-s006"
+          ],
+          "source_text": "回嫁一个像我这样的老公"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q069",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "這就是約會場地的重要性。這些約會相互本身就能拉伸關係",
+      "corrected_text": "这就是约会场地的重要性。这些约会项目本身就能拉伸关系",
+      "basis": "cross_source",
+      "reason": "独立讲解明确“约会项目”，修名词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00094-s005"
+          ],
+          "source_text": "这些约会项目就能拉升关系"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q070",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "又向往騎螺子了。又走不動了。好累啊。你們在這等我。可能讓那個螺子過。等我就是等我",
+      "corrected_text": "又向往骑骡子了。又走不动了。好累啊。你们在这等我。可能让那个骡子过。等我就是等我",
+      "basis": "cross_source",
+      "reason": "独立现场稿识别为“骡子”，修动物名称。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00096-s003"
+          ],
+          "source_text": "又向往骑骡子了，又走不动了"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q074",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那你所表達的愛是。一種消耗品。你以為愛不是嗎。你憑什麼永遠能擁有。如果愛很普遍。那就不會有為他擔心。故事流傳至今了。大多數的人都是試圓的",
+      "corrected_text": "那你所表达的爱是。一种消耗品。你以为爱不是吗。你凭什么永远能拥有。如果爱很普遍。那就不会有为他担心。故事流传至今了。大多数的人都是事与愿违的",
+      "basis": "cross_source",
+      "reason": "独立稿明确固定表达“事与愿违的”，其余故事词句仍保留待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00101-s007"
+          ],
+          "source_text": "都是事与愿违啊，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q075",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "我也不想。誰也不想是消耗品。誰不是。歐伯國拿過來才覺得。愛是一個很複雜的東西呢。誰不是上刀山下活海了之後。才覺得。原來愛是這麼不容易得到的東西呢",
+      "corrected_text": "我也不想。谁也不想是消耗品。谁不是。摸爬滚打过来才觉得。爱是一个很复杂的东西呢。谁不是上刀山下火海了之后。才觉得。原来爱是这么不容易得到的东西呢",
+      "basis": "cross_source",
+      "reason": "独立现场稿支持“摸爬滚打过来”和“下火海”；不扩写仍含混的其余句子。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00104-s002",
+            "BV12GQiBrExv-sensevoice-w00104-s003"
+          ],
+          "source_text": "谁不是摸爬滚打过来，才觉得爱是一个很复杂的东西呢？谁不是上刀山下火海了之后才觉得原来爱是这么不容易得到的东西呢，我想吵架吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q077",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "我眼眉動出來了。你是動的。眼的不能。現在零上二十多。別裝了。其實有的時候。有時候看你就像這湖面一樣。那個平靜又有點複雜。真的",
+      "corrected_text": "我眼眉动出来了。你是冻的。眼的不能。现在零上二十多。别装了。其实有的时候。有时候看你就像这湖面一样。那个平静又有点复杂。真的",
+      "basis": "cross_source",
+      "reason": "独立稿此处写“冻的”，修寒冷话题同音字；眼泪及温度数字不据此补猜。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00105-s003"
+          ],
+          "source_text": "你是冻的，嗯，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q079",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你找那麼多女生拍攝視頻。你有過。啟動一個女生。或是任何一個人用短暫的那一秒。是真心的嗎",
+      "corrected_text": "你找那么多女生拍摄视频。你有过。其中一个女生。或是任何一个人有短暂的那一秒。是真心的吗",
+      "basis": "cross_source",
+      "reason": "独立稿明确“其中一个女生”和“有短暂”，修机器断词，不改其余人称框架。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00108-s002"
+          ],
+          "source_text": "其中一个女生或者任何一个人有短暂的那一秒是真心的吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV12GQiBrExv-q080",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "我覺得來到大自然了。我大家都在壓抑自己的情緒。小的時候喜歡就喜歡。喜歡吃喜歡吃喜歡玩就喜歡玩。我不喜歡就不喜歡不開心我馬上就哭。長大了之後。大家戴面具摘不下來了。時間長了總要眼射膠的那個你。身長你摘不下來了",
+      "corrected_text": "我觉得来到大自然了。我大家都在压抑自己的情绪。小的时候喜欢就喜欢。喜欢吃喜欢吃喜欢玩就喜欢玩。我不喜欢就不喜欢不开心我马上就哭。长大了之后。大家戴面具摘不下来了。时间长了总要演社交的那个你。时间长，你摘不下来了",
+      "basis": "cross_source",
+      "reason": "独立稿支持演社交角色及时间长后的描述；首句人称和整条时轴仍待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV12GQiBrExv-sensevoice-w00109-s004"
+          ],
+          "source_text": "时间长了，总要演社交的那个你时间长你摘不下来了，就是在这里结束了吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q002",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "那你看我這個是怎麼說的。我上來我攢著賬半天。我觀察他我發現他一直在拍照。我就猜到是一個人旅遊的。因為這是寬敞相的旅遊景點。那這個時候我就可以調整我的人設。我就跟他說我是一旅遊博主。我拍照很專業。然後我可以給你拍拍好看的照片。當你提供完價值之後。你再索取嘛。你再說那你也陪我拍一個視頻吧",
+      "corrected_text": "那你看我这个是怎么说的。我上来我在那站半天。我观察他我发现他一直在拍照。我就猜到是一个人旅游的。因为这是宽窄巷子的旅游景点。那这个时候我就可以调整我的人设。我就跟他说我是一旅游博主。我拍照很专业。然后我可以给你拍拍好看的照片。当你提供完价值之后。你再索取嘛。你再说那你也陪我拍一个视频吧",
+      "basis": "cross_source",
+      "reason": "独立讲解支持“在那站半天”和“宽窄巷子”，修断词及地名。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00005-s003",
+            "BV1dx9dBnE7d-sensevoice-w00005-s004"
+          ],
+          "source_text": "我上来，我在那站半天，我观察他，我发现他一直在这拍照，我就猜到是一个人旅游的，因为这是宽窄巷子嘛，旅游景点。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q005",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "我來幫你拍。我來幫你拍。太美了。哇 太美了。腿好長。好長好長。我拍照絕對無敵。我這個絕對無敵。我這個是被無數女網紅。訓練過的拍照手法。我P圖也好。一會這樣。一會你架我微信發給我。我來給你貼",
+      "corrected_text": "我来帮你拍。我来帮你拍。太美了。哇 太美了。腿好长。好长好长。我拍照绝对无敌。我这个绝对无敌。我这个是被无数女网红。训练过的拍照手法。我P图也好。一会这样。一会你加我微信发给我。我来给你P",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确加微信和给你P，修联系方式及修图词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00010-s007"
+          ],
+          "source_text": "我P图也好，一会儿这样一会儿你加我微信发给我，我来给你P看到了吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q005",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "看到了嗎。全部都是在提供價值。我全程基本上沒有索取。但實際上我索取了。我又讓他陪我拍視頻。我又讓他架我微信。但是我都是在用提供價值的方法。去交換的。我還幫你P圖。所以你得架我微信。看到了嗎",
+      "corrected_text": "看到了吗。全部都是在提供价值。我全程基本上没有索取。但实际上我索取了。我又让他陪我拍视频。我又让他加我微信。但是我都是在用提供价值的方法。去交换的。我还帮你P图。所以你得加我微信。看到了吗",
+      "basis": "cross_source",
+      "reason": "独立讲解两次写“加我微信”，修同音动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00011-s003",
+            "BV1dx9dBnE7d-sensevoice-w00011-s004"
+          ],
+          "source_text": "但实际上我索取了啊，我又让他陪我拍视频，我又让他加我微信，但是我都是在用提供价值的方法去交换的啊，我还帮你P图，所以你得加我微信，你看到了吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q006",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "你看張嘴就來不停的側面暫時價值。但實際上呢。瞎吹的啊臨時吹的",
+      "corrected_text": "你看张嘴就来不停的侧面展示价值。但实际上呢。瞎吹的啊临时吹的",
+      "basis": "cross_source",
+      "reason": "独立讲解写“展示价值”，修词形；现场费用数字模型冲突不修改。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00012-s003"
+          ],
+          "source_text": "真的你看张嘴就来，不停的侧面展示价值。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q008",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "有一個技巧帖子們。就是我們要求他對我們做的事。一定是一件很小的事。請我們喝一杯水。喝一杯奶茶。這就是十塊錢的東西。對不對",
+      "corrected_text": "有一个技巧铁子们。就是我们要求他对我们做的事。一定是一件很小的事。请我们喝一杯水。喝一杯奶茶。这就是十块钱的东西。对不对",
+      "basis": "cross_source",
+      "reason": "独立稿为口头称呼“铁子们”，修无关词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00014-s003"
+          ],
+          "source_text": "好，这里啊有一个技巧，铁子们就是我们要求他对我们做的事一定是一件很小的事，请我们"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q010",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那好。那這樣。我給你當導遊。好吧。因為我很熟悉成獨。我這個旅遊博主。成獨哪我都去過。那什麼好吃的我都吃過。你看我這個胖肚肚這臉。你就知道我很會吃",
+      "corrected_text": "那好。那这样。我给你当导游。好吧。因为我很熟悉成都。我这个旅游博主。成都哪我都去过。那什么好吃的我都吃过。你看我这个胖嘟嘟的脸。你就知道我很会吃",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确成都及胖嘟嘟的脸，修地名和形容词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00017-s001",
+            "BV1dx9dBnE7d-sensevoice-w00017-s002"
+          ],
+          "source_text": "因为我很熟悉成都，我是一个旅游博主，成都哪儿我都去过，那什么好吃的，我都吃过。你看我这个胖嘟嘟的脸，你就知道我很会吃，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q010",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "看到了嗎。提供價值但又不要貴貼。提供價值就是。我本來就很牛逼。我本來就很優秀。我本來就有這些價值。剛好你能從我身上索取到這些價值",
+      "corrected_text": "看到了吗。提供价值但又不要跪舔。提供价值就是。我本来就很牛逼。我本来就很优秀。我本来就有这些价值。刚好你能从我身上索取到这些价值",
+      "basis": "cross_source",
+      "reason": "独立讲解为“跪舔”，修同音术语，不据此评价当事人。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00017-s004"
+          ],
+          "source_text": "提供价值，但又不要跪舔，提供价值就是我本来就很牛逼，我本来就很优秀，我本来就有这"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q013",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你再吊了怎麼辦",
+      "corrected_text": "你再掉了怎么办",
+      "basis": "cross_source",
+      "reason": "独立现场稿用“掉”，修手机掉落话题的同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00025-s007"
+          ],
+          "source_text": "再掉了怎么办？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q013",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "不會吊的。你保護好她。就像保護好我一樣",
+      "corrected_text": "不会掉的。你保护好她。就像保护好我一样",
+      "basis": "cross_source",
+      "reason": "独立现场稿对应回应为“掉”，修同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00025-s008"
+          ],
+          "source_text": "不会掉的，不会掉的，你保护好它就像保护好我一样嗯，就想吐了，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q015",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "所以我當時問頭我說你是哪裡人。他說是杭州的。剛好我杭州有一公司。你看這個時候我突然說這麼一句話。就很合理。剛好就聊到這兒了",
+      "corrected_text": "所以我当时问他我说你是哪里人。他说是杭州的。刚好我杭州有一公司。你看这个时候我突然说这么一句话。就很合理。刚好就聊到这儿了",
+      "basis": "cross_source",
+      "reason": "独立讲解写“问他”，修机器误词；他/她字形保持原稿不判断。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00029-s004"
+          ],
+          "source_text": "所以我当时问他，我说你是哪里人，哎，他说是杭州的，哎，刚好我杭州有一个公司，你看"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q016",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "就是這個互聯網公司。視頻公司網紅總司",
+      "corrected_text": "就是这个互联网公司。视频公司网红公司",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“公司”，修机构称谓。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00027-s002"
+          ],
+          "source_text": "就是这个互联网公司，视频公司网红公司，你是什么星座？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q016",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "這就是什麼暗中展示價值了。但是我的這個價值展示的。就是比較淡。大家記住展示價值的時候。一定要很淡。就是點到為止就行了。千萬不要長天大論的去炫耀。一句兩句就夠了",
+      "corrected_text": "这就是什么暗中展示价值了。但是我的这个价值展示的。就是比较淡。大家记住展示价值的时候。一定要很淡。就是点到为止就行了。千万不要长篇大论的去炫耀。一句两句就够了",
+      "basis": "cross_source",
+      "reason": "独立讲解完整识别“长篇大论”，修成语词形。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00027-s005"
+          ],
+          "source_text": "止就行了啊，千万不要长篇大论的去炫耀啊，一句两句就够了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q018",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "你是老女我跑了",
+      "corrected_text": "你是捞女我跑了",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“捞女”，仅记录玩笑中的原称呼，不作为人物身份结论。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00030-s004"
+          ],
+          "source_text": "哦，你是捞女，我跑了"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q019",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "啊只有最後這個特資我沒有",
+      "corrected_text": "啊只有最后这个特质我没有",
+      "basis": "cross_source",
+      "reason": "独立稿写“特质”，修同音词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00032-s002"
+          ],
+          "source_text": "啊，只有最后这个特质，我没有"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q019",
+      "section": "turns",
+      "turn_index": 4,
+      "original_text": "被稱真高興",
+      "corrected_text": "可以穿增高鞋",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“可以穿增高鞋”，原稿跨词误识别；未推定真实身高。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00032-s003"
+          ],
+          "source_text": "可以穿增高鞋，那你最讨厌的男生是什么特征？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q020",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "空愛玩。對誰都",
+      "corrected_text": "抠爱玩。对谁都",
+      "basis": "cross_source",
+      "reason": "独立现场稿对应评价用词为“抠”，其余缺尾句保留。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00032-s004"
+          ],
+          "source_text": "抠"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q021",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你經常這樣一搭晒別人。沒有地方有空",
+      "corrected_text": "你经常这样一搭讪别人。没有地方有空",
+      "basis": "cross_source",
+      "reason": "独立稿明确“搭讪”，原稿同音字误写；同条其余不明字不改。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00032-s005"
+          ],
+          "source_text": "爱玩对谁都中央空调，对，是经常这样去搭讪别人"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q021",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "沒有我就是。我平時都是一個人自己拍。但是今天我看到你了。其實我我我抓了三圈。完了我沒挺住。你知道吧。本來不想搭晒你",
+      "corrected_text": "没有我就是。我平时都是一个人自己拍。但是今天我看到你了。其实我我我转了三圈。完了我没挺住。你知道吧。本来不想搭讪你",
+      "basis": "cross_source",
+      "reason": "独立稿支持转了三圈及搭讪，保留原圈数。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00032-s007",
+            "BV1dx9dBnE7d-sensevoice-w00032-s008"
+          ],
+          "source_text": "其实我我我转了三圈，我完了我没挺住，你知道吧？本来不想搭讪你，那你这视频是往哪发。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q023",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "你不美眼也好看",
+      "corrected_text": "你不美颜也好看",
+      "basis": "cross_source",
+      "reason": "独立稿为“美颜”，修图像话题同音词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00039-s002"
+          ],
+          "source_text": "一点了，你不美颜也好看"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q023",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "哇塞。這人會說話",
+      "corrected_text": "哇塞。真会说话",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“真会说话”，修评价短语。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00039-s003"
+          ],
+          "source_text": "哇，真会说话"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q025",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "但是因為你的屬性點點在了。外型上。你看今天寬仔巷子。有得有上萬人。那我在這個上萬人中。第一眼就看到你了。對不對。對。你會發現我的作用。我能解決生活中很多問題。跟我相處起來。沒有負擔很有安全感。雖然你長得很高。但是在我的身邊。永遠能做一個小女孩",
+      "corrected_text": "但是因为你的属性点点在了。外型上。你看今天宽窄巷子。有得有上万人。那我在这个上万人中。第一眼就看到你了。对不对。对。你会发现我的作用。我能解决生活中很多问题。跟我相处起来。没有负担很有安全感。虽然你长得很高。但是在我的身边。永远能做一个小女孩",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确宽窄巷子，修地名。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00040-s007"
+          ],
+          "source_text": "你看今天宽窄巷子有得有上万人。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q025",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "請問這段話是拉伸關係。還是展示架勢呢。兄弟們。來單目裡扣出來。剛才那段話。其實已經在拉伸關係了。因為前面已經能看得出來。這個女生窗口越來越大了。你看她反應就知道了。哈哈笑又不好意思又害羞的。但是拉伸觀點大家要記住",
+      "corrected_text": "请问这段话是拉伸关系。还是展示价值呢。兄弟们。来弹幕里扣出来。刚才那段话。其实已经在拉伸关系了。因为前面已经能看得出来。这个女生窗口越来越大了。你看她反应就知道了。哈哈笑又不好意思又害羞的。但是拉伸关系大家要记住",
+      "basis": "cross_source",
+      "reason": "独立讲解支持展示价值、弹幕及拉伸关系，修该段明确错误，不评判策略效果。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00041-s005",
+            "BV1dx9dBnE7d-sensevoice-w00041-s006",
+            "BV1dx9dBnE7d-sensevoice-w00042-s002"
+          ],
+          "source_text": "啊，没有啊，不好意思，请问这段话是拉伸关系还是展示价值呢？兄弟们来弹幕里扣出来。但是拉伸关系，大家要记住啊，不要太值得去拉升。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q026",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "今天是不是要摘到我手上",
+      "corrected_text": "今天是不是要栽到我手上",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“栽到”，修口语搭配中的动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00047-s001"
+          ],
+          "source_text": "小女孩啊，没有不好意思，你今天是是要栽到我手上，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q026",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "但是現在人很多演戲。就是喜不喜歡。你她都能演出一副對你很好的樣子",
+      "corrected_text": "但是现在人很会演戏。就是喜不喜欢。你她都能演出一副对你很好的样子",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“现在人很会演戏”，修词序误识别。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00047-s002"
+          ],
+          "source_text": "但现在人很会演戏啊，就是喜不喜欢你他都能演出一副对你很好的。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q027",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "一定是要讓女生知道。我們是相互的。是平等的。我喜歡你。但是你也得喜歡我才行。我不是傻了八雞的",
+      "corrected_text": "一定是要让女生知道。我们是相互的。是平等的。我喜欢你。但是你也得喜欢我才行。我不是傻了吧唧的",
+      "basis": "cross_source",
+      "reason": "独立讲解支持口语“傻了吧唧”，修语音同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00048-s008"
+          ],
+          "source_text": "我不是傻了吧唧的。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q028",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "那我範圍嗎",
+      "corrected_text": "那我算矮吗",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“那我算矮吗”，修疑问句；不替任何人判断身高。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00050-s007"
+          ],
+          "source_text": "那这挺有道理，那我算矮吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q028",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "就是你一定要有一個。自己堅定的價值觀。在我看來。男人就是能力比身高更重要。因為聊身高這些。沒有意義。有錢 有能力。有他們智慧。這才最重要",
+      "corrected_text": "就是你一定要有一个。自己坚定的价值观。在我看来。男人就是能力比身高更重要。因为聊身高这些。没有意义。有钱 有能力。有他妈智慧。这才最重要",
+      "basis": "cross_source",
+      "reason": "独立讲解对应为口头语“有他妈智慧”，原稿误入代词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00050-s011"
+          ],
+          "source_text": "有钱有能力有他妈智慧，这才最重要。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q029",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "我們談聊幾句。你就覺得我有安全感了",
+      "corrected_text": "我们才聊几句。你就觉得我有安全感了",
+      "basis": "cross_source",
+      "reason": "独立稿明确“我们才聊几句”，修副词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00052-s006"
+          ],
+          "source_text": "我们才聊几句，你就觉得我有安全感了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q029",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "我感覺你其實長得。有一幅那種顧家的感情",
+      "corrected_text": "我感觉你其实长得。有一副那种顾家的感觉",
+      "basis": "cross_source",
+      "reason": "独立现场稿对应“一副”和“顾家的感觉”，修固定搭配及评价名词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00052-s007"
+          ],
+          "source_text": "我感觉你其实长得有一副那种顾家的感觉，"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q030",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "法豆",
+      "corrected_text": "法斗",
+      "basis": "cross_source",
+      "reason": "独立稿明确犬种简称“法斗”，修同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00053-s005"
+          ],
+          "source_text": "养了今年快8年，你是什么养什么狗法斗法逗，对也只小法斗。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q030",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "法豆",
+      "corrected_text": "法斗",
+      "basis": "cross_source",
+      "reason": "独立稿对应复述为“法斗”，修同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00053-s005"
+          ],
+          "source_text": "养了今年快8年，你是什么养什么狗法斗法逗，对也只小法斗。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q030",
+      "section": "turns",
+      "turn_index": 4,
+      "original_text": "一直是小法豆。已經養了七八年了。然後我就是。每天都得回家給這個狗做飯。我都不給人做飯。我給狗做飯。因為我要讓他吃得好一點",
+      "corrected_text": "一只小法斗。已经养了七八年了。然后我就是。每天都得回家给这个狗做饭。我都不给人做饭。我给狗做饭。因为我要让他吃得好一点",
+      "basis": "cross_source",
+      "reason": "独立稿支持一只及小法斗，只修量词及犬种；狗龄数字和家人主语保留。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00054-s001"
+          ],
+          "source_text": "对一只小法斗，已经养了养了七8年了，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q030",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "我為什麼要講這個狗的故事啊。因為。這個故事是一個把內的。超級有用的一個故事。就是你前面展示了一堆價值。全是你的優點。那麼接下來你要展示。另一個方面的價值了。不是說金錢或者物質。賣在條件的價值。而是可得性方面的價值",
+      "corrected_text": "我为什么要讲这个狗的故事啊。因为。这个故事是一个把内的。超级有用的一个故事。就是你前面展示了一堆价值。全是你的优点。那么接下来你要展示。另一个方面的价值了。不是说金钱或者物质。外在条件的价值。而是可得性方面的价值",
+      "basis": "cross_source",
+      "reason": "独立讲解为“外在条件”，修原稿不成词的短语。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00054-s008"
+          ],
+          "source_text": "那么接下来你要展示另一个方面的价值了啊，就是不是说金钱或者物质外在条件的价值，而"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q031",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "白洋座",
+      "corrected_text": "白羊座",
+      "basis": "cross_source",
+      "reason": "独立现场稿为星座名“白羊”，修同音字，不认定星座影响性格。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00056-s006"
+          ],
+          "source_text": "白羊座你是白羊座呀，"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q031",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "你是白洋座呀",
+      "corrected_text": "你是白羊座呀",
+      "basis": "cross_source",
+      "reason": "独立现场稿重复为白羊，修同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00056-s006",
+            "BV1dx9dBnE7d-sensevoice-w00056-s008"
+          ],
+          "source_text": "白羊座你是白羊座呀，白白羊座怎么啊？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q031",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "怎麼了。白洋座怎麼了。這個什麼反應",
+      "corrected_text": "怎么了。白羊座怎么了。这个什么反应",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“白羊”，修名称。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00056-s008"
+          ],
+          "source_text": "白白羊座怎么啊？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q031",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "這就是大窗口。不會分面窗口了。兄弟們。記得啊。女生一旦說你跟他的星座。大家這個就是。超級大窗口",
+      "corrected_text": "这就是大窗口。不会分辨窗口了。兄弟们。记得啊。女生一旦说你跟他的星座搭。这个就是。超级大窗口",
+      "basis": "cross_source",
+      "reason": "独立讲解明确分辨窗口及星座搭，原“大家”是断句误识别；仅记录博主话术。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00057-s003",
+            "BV1dx9dBnE7d-sensevoice-w00057-s004"
+          ],
+          "source_text": "看这就是大窗口啊，不会分辨窗口了。兄弟们记得啊女生一旦说你跟她的星座搭，这个就是超级大窗口吃饭吧，你饿吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q032",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "挺我吃飯嗎",
+      "corrected_text": "请我吃饭吗",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“请我吃饭”，修同音动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00057-s005"
+          ],
+          "source_text": "请我你喜欢吃辣的，还是喜欢吃甜的，请我吃饭吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q036",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那你做什麼都要吃啊",
+      "corrected_text": "那你做什么最好吃啊",
+      "basis": "cross_source",
+      "reason": "独立现场稿完整询问“做什么最好吃”，原稿跨词误识别。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00061-s007"
+          ],
+          "source_text": "我做的特别好吃，那你做什么最好吃啊，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q036",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "我做中餐是一決。就是我炒菜是一決。我會炒中美菜",
+      "corrected_text": "我做中餐是一决。就是我炒菜是一决。我会炒东北菜",
+      "basis": "cross_source",
+      "reason": "独立稿分段恢复“东北菜”，修菜系名；不改不清楚的评价词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00062-s001",
+            "BV1dx9dBnE7d-sensevoice-w00062-s002"
+          ],
+          "source_text": "西餐日料还是中餐炒菜，吃的最多是中餐了，我做中餐是一角，就我炒菜是一角，我会炒中北菜，东北菜有哪些好吃？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q036",
+      "section": "turns",
+      "turn_index": 4,
+      "original_text": "中美菜有哪些好吃",
+      "corrected_text": "东北菜有哪些好吃",
+      "basis": "cross_source",
+      "reason": "独立稿后问句明确“东北菜有哪些好吃”，修名称。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00062-s002"
+          ],
+          "source_text": "北菜，东北菜有哪些好吃？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q037",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "你愛吃",
+      "corrected_text": "很爱吃",
+      "basis": "cross_source",
+      "reason": "独立短答为“很爱吃”，修误识别的主语；不扩展偏好。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00062-s005"
+          ],
+          "source_text": "很爱吃"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1dx9dBnE7d-q039",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "我會去那個山崖",
+      "corrected_text": "我会去那个三亚",
+      "basis": "cross_source",
+      "reason": "独立稿对应旅行地名为“三亚”，修误词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00063-s005"
+          ],
+          "source_text": "吃烤鱼，我都是自己钓鱼，然后自己烤你还会钓鱼，我会去那个三亚，然后在那个对对对对"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q040",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "好這個地方為什麼我。給他擦了一下。然後我又讓他自己擦呢。你有實戰劍你就會發現。你擦你給他擦。很容易把他口紅擦花。他又怨你",
+      "corrected_text": "好这个地方为什么我。给他擦了一下。然后我又让他自己擦呢。你有实战经验你就会发现。你擦你给他擦。很容易把他口红擦花。他又怨你",
+      "basis": "cross_source",
+      "reason": "独立讲解写“实战经验”，修名词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00064-s010"
+          ],
+          "source_text": "我你有实战经验，你会发现你擦你给他擦，很容易把他口红擦花，他又怨你。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q041",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "吃得慣。因為我經常到處旅遊。這是全球各地的跑。所以每個地方的菜。我都吃得很喜歡",
+      "corrected_text": "吃得惯。因为我经常到处旅游。这是全球各地的跑。所以每个地方的菜。我都吃得很习惯",
+      "basis": "cross_source",
+      "reason": "独立现场稿回答饮食适应为“吃得很习惯”，修含义不同的词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00066-s006"
+          ],
+          "source_text": "这是全球各地的跑，所以每个地方的菜我都吃的很习惯，他多自然。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q041",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "他說你這兒菜吃得慣嗎。我直接順勢就吹了一個小牛逼。見婦吹牛逼。知道吧。我到處旅遊。所以哪兒的菜我都吃得慣。所有的價值展示。一定要在一個合理的契機之下。這樣就不會顯得你在吹牛逼",
+      "corrected_text": "他说你这儿菜吃得惯吗。我直接顺势就吹了一个小牛逼。见缝吹牛逼。知道吧。我到处旅游。所以哪儿的菜我都吃得惯。所有的价值展示。一定要在一个合理的契机之下。这样就不会显得你在吹牛逼",
+      "basis": "cross_source",
+      "reason": "独立讲解写“见缝吹牛逼”，修同音误词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00066-s008"
+          ],
+          "source_text": "我直接顺势就吹了一个小牛逼，见缝吹牛逼，知道吧？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1dx9dBnE7d-q044",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那晚上再聯繫。我把這個視頻剪完了。我在聯繫你。怎麼樣。可以吧",
+      "corrected_text": "那晚上再联系。我把这个视频剪完了。我再联系你。怎么样。可以吧",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“我再联系你”，修将来再次联系的副词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1dx9dBnE7d-sensevoice-w00068-s004"
+          ],
+          "source_text": "那晚上再联系嘛，我把这个视频剪完了，我再联系你怎么样？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q001",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你好 我是一个旅游博主。然后我能不能请你帮我干嘛。就暂用你三分钟的时间",
+      "corrected_text": "你好 我是一个旅游博主。然后我能不能请你帮我个忙。就占用你三分钟的时间",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“帮我个忙”“占用”，修请求用语；未补缺失回应。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00002-s005",
+            "BV14L5Y6GEcG-sensevoice-w00002-s006"
+          ],
+          "source_text": "呃，你好，我是一个旅游博主，然后我能不能请你帮我个忙，就占用你3分钟的时间。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q001",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "你方便入镜吗。可以的是吧 没问题是吧。就是你能不能在那个熊猫那帮我拍张照呢。因为我想找个人帮我拍一张这个纪念照。我第一次来成都。但是我想就是找拍照的也得找一个技术好的嘛。你长得这么好看肯定拍照技术好。所以我想让你帮我拍。就暂用你三分钟时间。然后我送你一个小礼物。不让你白拍",
+      "corrected_text": "你方便入镜吗。可以的是吧 没问题是吧。就是你能不能在那个熊猫那帮我拍张照呢。因为我想找个人帮我拍一张这个纪念照。我第一次来成都。但是我想就是找拍照的也得找一个技术好的嘛。你长得这么好看肯定拍照技术好。所以我想让你帮我拍。就占用你三分钟时间。然后我送你一个小礼物。不让你白拍",
+      "basis": "cross_source",
+      "reason": "独立现场稿对应为“占用”，修时间请求的动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00003-s004"
+          ],
+          "source_text": "所以我想让你帮我拍，就占用你3分钟时间，然后我送你一个小礼物，不让你白拍，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q002",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "我们就在这拍吧。然后我能不能把手机价值。记录一个你给我拍照的过程。好不好。这么好看的女孩给我拍照。也是值得纪念的。对吧。然后你用你的手机给我拍。好吗",
+      "corrected_text": "我们就在这拍吧。然后我能不能把手机架这。记录一个你给我拍照的过程。好不好。这么好看的女孩给我拍照。也是值得纪念的。对吧。然后你用你的手机给我拍。好吗",
+      "basis": "cross_source",
+      "reason": "独立稿明确手机架这，原稿把放置手机短语写成价值；句尾口语未扩写。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00010-s004"
+          ],
+          "source_text": "在这儿拍吧，然后我能不能把这个手机架这记录一个你给我拍照的过程，好不好？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q008",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你就陪我拍一个这个旅行小视频好不好。我就是专门拍这个旅游。伪捞个的。但是我觉得我一个人拍有点无聊。如果有一个这么好看的女孩出现的话。我这个视频就会变得更好看。更精彩",
+      "corrected_text": "你就陪我拍一个这个旅行小视频好不好。我就是专门拍这个旅游。vlog的。但是我觉得我一个人拍有点无聊。如果有一个这么好看的女孩出现的话。我这个视频就会变得更好看。更精彩",
+      "basis": "cross_source",
+      "reason": "独立现场稿写英语视频形式vlog，修音译碎片。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00016-s007"
+          ],
+          "source_text": "我就是专门拍这个旅游vlog的，但是我觉得我一个人拍有点无聊。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q008",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "但是我等会有约美奖",
+      "corrected_text": "但是我等会有约美甲",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“美甲”，修服务名称。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00017-s004"
+          ],
+          "source_text": "她又开心了，变相夸赞啊，但是我等会儿有约美甲，因为我在这等"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q008",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "回去还有两个小时吧",
+      "corrected_text": "估计还有两个小时吧",
+      "basis": "cross_source",
+      "reason": "独立稿写“估计还有两个小时”，修估时引导词，时长原样保留。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00017-s005"
+          ],
+          "source_text": "啊，你约多久，估计还有两个小时吧啊，那够了，我只占用你一个小时的时间啊，半个小时"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q008",
+      "section": "turns",
+      "turn_index": 4,
+      "original_text": "啊那够了。我只占用你一个小时的时间。啊半个小时吧。我只占用你半个小时时间。如果那个美奖你没做上的话。我亲自给你做。我也会做美奖。我做的美奖特别好看。我给你手指伸。每一个相一个钻",
+      "corrected_text": "啊那够了。我只占用你一个小时的时间。啊半个小时吧。我只占用你半个小时时间。如果那个美甲你没做上的话。我亲自给你做。我也会做美甲。我做的美甲特别好看。我给你手指上。每一个镶一个钻",
+      "basis": "cross_source",
+      "reason": "独立稿对应为美甲、手指上、镶一个钻；口头估时先后变化原样保留。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00017-s006",
+            "BV14L5Y6GEcG-sensevoice-w00017-s007",
+            "BV14L5Y6GEcG-sensevoice-w00018-s001"
+          ],
+          "source_text": "吧，我只占用你半个小时时间如果那个美甲呃你没做上的话，我亲自给你做我也会做美甲我也会做美甲，我做的美甲特别好看，我给你手指上每一个镶一个钻"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q010",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你照片还没传给我吗。对吧。我为了要我的一个照片我也得好好地服务你。看你看你在镜头里面多少",
+      "corrected_text": "你照片还没传给我吗。对吧。我为了要我的一个照片我也得好好地服务你。看你看你在镜头里面多好看",
+      "basis": "cross_source",
+      "reason": "独立现场稿完整写“镜头里面多好看”，修错误断词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00018-s005"
+          ],
+          "source_text": "看你看你在镜头里面多好看，你很上镜，"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q011",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "我不太会说话。我只是说心理话",
+      "corrected_text": "我不太会说话。我只是说心里话",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“心里话”，修词形。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00019-s001"
+          ],
+          "source_text": "我不太会说话，我只是说心里话。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q011",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "就是永远不要让女生觉得。你是一个会说话的男人。大家还记得吧。我就不多醉述了。因为女生一旦觉得。你是一个会说话的男人。他就会觉得你有嘴滑舌很滑心。肯定身边美女无数。他反而会对你有防卫心。所以当女生对你说。你好会说话的时候。一定要否认这件事",
+      "corrected_text": "就是永远不要让女生觉得。你是一个会说话的男人。大家还记得吧。我就不多赘述了。因为女生一旦觉得。你是一个会说话的男人。他就会觉得你油嘴滑舌很花心。肯定身边美女无数。他反而会对你有防卫心。所以当女生对你说。你好会说话的时候。一定要否认这件事",
+      "basis": "cross_source",
+      "reason": "独立讲解明确赘述及油嘴滑舌很花心，修同音误词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00019-s003",
+            "BV14L5Y6GEcG-sensevoice-w00019-s004"
+          ],
+          "source_text": "大家还记得吧啊，我就不多赘述了啊。因为女生一旦觉得你是一个会说话的男人，他就会觉得你油嘴滑舌，很花心，肯定身边美女"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q014",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "这就是我刚才讲的。如果他在犹豫想不到说什么的时候。你要马上结束。千万不要停顿。不然的话气氛一下冷些去了。后面就不方便你推进关系了。你看。所以当时我马上反应快。赶紧用一个幽默去化解",
+      "corrected_text": "这就是我刚才讲的。如果他在犹豫想不到说什么的时候。你要马上接住。千万不要停顿。不然的话气氛一下冷下去了。后面就不方便你推进关系了。你看。所以当时我马上反应快。赶紧用一个幽默去化解",
+      "basis": "cross_source",
+      "reason": "独立讲解写“接住”“冷下去了”，修应答分析的词形。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00021-s004",
+            "BV14L5Y6GEcG-sensevoice-w00021-s005"
+          ],
+          "source_text": "看这就是我刚才讲的，如果他在犹豫，想不到说什么的时候，你要马上接住，千万不要停顿，不然的话气氛一下冷下去了，后面就不方便你推进关系了啊。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q017",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "关机。呃。我是发外网。就是P站你知道吗",
+      "corrected_text": "关注。呃。我是发外网。就是P站你知道吗",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“关注”，修视频账号话题词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00023-s002"
+          ],
+          "source_text": "关注呃，我是发外网，就是P站，你知道吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q018",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "就是就是国外的一个视频网站。因为外网都是什么日韩的欧美的视频楼。我就是中文的比较少。所以我发中文的就没有竞争。懂了吧",
+      "corrected_text": "就是就是国外的一个视频网站。因为外网都是什么日韩的欧美的视频多。我就是中文的比较少。所以我发中文的就没有竞争。懂了吧",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“视频多”，修比较量词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00023-s004"
+          ],
+          "source_text": "就是就是国外的一个视频网站，因为外网都是什么日韩的欧美的视频多，我就是中文的比较"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q022",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你在全都玩多久",
+      "corrected_text": "你在成都玩多久",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确成都，修地点名。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00026-s008"
+          ],
+          "source_text": "你在成都玩多久，可能明天就走。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q023",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "如果你能吃辣的话。可以带你去吃家穷餐间",
+      "corrected_text": "如果你能吃辣的话。可以带你去吃家串串店",
+      "basis": "cross_source",
+      "reason": "独立稿明确串串店，修店铺类型；独立稿前面的店名本身存疑，不添加任何店名。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00028-s003"
+          ],
+          "source_text": "如果你能吃辣的话，可以带你去徐家串串店。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q028",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你确实还是挺伤劲的。你不用美言言之也够扛打。我给你加。我给你美成那个谁克拉拉",
+      "corrected_text": "你确实还是挺上镜的。你不用美颜颜值也够扛打。我给你加。我给你美成那个谁克拉拉",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确上镜、美颜颜值，修摄影话题词形。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00029-s004",
+            "BV14L5Y6GEcG-sensevoice-w00029-s005"
+          ],
+          "source_text": "你说那个串串垫在哪啊，往那边走，你确实还是挺上镜的，你不用美颜颜值也够扛大了，我给你加，我给你美成那个谁克拉拉"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q030",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "捏到克拉拉的鸡肉了。铁子吗。这个伞吗。不是你这个伞也太小了吧。这个伞能",
+      "corrected_text": "捏到克拉拉的肌肉了。铁子们。这个伞吗。不是你这个伞也太小了吧。这个伞能",
+      "basis": "cross_source",
+      "reason": "独立稿相同位置写肌肉、铁子们，修身体部位名和称呼；不推定接触许可。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00030-s002"
+          ],
+          "source_text": "捏到克拉拉的肌肉了哟，铁子们"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q030",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "好 这是一个非常合理的推进关系。我们想要推进关系。千万不要直接去占别人便宜。而是找到一些契机。剑缝插针。无意识地去拉近这个关系。这样的话女生就不会很反感。你不会觉得你对她别有所图。或者觉得你很犹豫。或者说觉得你在占她便宜。记住我们的目的。不是为了占别人便宜摸别人一下。只是为了推进两个人的关系。拉近关系",
+      "corrected_text": "好 这是一个非常合理的推进关系。我们想要推进关系。千万不要直接去占别人便宜。而是找到一些契机。见缝插针。无意识地去拉近这个关系。这样的话女生就不会很反感。你不会觉得你对她别有所图。或者觉得你很油腻。或者说觉得你在占她便宜。记住我们的目的。不是为了占别人便宜摸别人一下。只是为了推进两个人的关系。拉近关系",
+      "basis": "cross_source",
+      "reason": "独立讲解明确成语及油腻，修字词；博主关于接触的判断仍只是讲解。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00030-s007",
+            "BV14L5Y6GEcG-sensevoice-w00031-s001"
+          ],
+          "source_text": "我们想要推进关系，千万不要直接去占别人便宜，而是找到一些契机见缝插针，哎，无意思这样的话，女生就不会很反感你，不会觉得你对他别有所图，或者觉得你很油腻，或者说觉"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q031",
+      "section": "turns",
+      "turn_index": 5,
+      "original_text": "我像未成年。又我长得这么老的未成年",
+      "corrected_text": "我像未成年。有我长得这么老的未成年",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“有我长得”，修比较句同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00034-s001"
+          ],
+          "source_text": "看你像未成年呀，我像未成年，有我长得这么老的未成年吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q032",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "婴儿肥 但我。满满的教育蛋白。满脸教育蛋白",
+      "corrected_text": "婴儿肥 但我。满满的胶原蛋白。满脸胶原蛋白",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确两处“胶原蛋白”，修名词，不验证生理表述。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00034-s005",
+            "BV14L5Y6GEcG-sensevoice-w00034-s006"
+          ],
+          "source_text": "婴儿肥，但饱满的胶原蛋白满脸胶蛋，那说明我保养的好吃的好，我很会吃。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q032",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "看要趁机展示自己的驾驶喽",
+      "corrected_text": "看要趁机展示自己的价值喽",
+      "basis": "cross_source",
+      "reason": "独立讲解对应“价值”，修话题术语。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00034-s009"
+          ],
+          "source_text": "看要趁机展示自己的价值喽，吃遍每一个地方的好吃，全球可肥，全球可吃。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q033",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "我今年只想证你一个艺人",
+      "corrected_text": "我今年只想挣一个亿",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“今年只想挣一个亿”，原稿把愿望玩笑识别成性格称谓；不将其当收入事实，金额相关练习继续降级待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00035-s002"
+          ],
+          "source_text": "你是艺人吧，我是爱人，你是爱人，我今年只想挣一个亿柴迷金牛座。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q033",
+      "section": "turns",
+      "turn_index": 4,
+      "original_text": "才弥金牛座",
+      "corrected_text": "财迷金牛座",
+      "basis": "cross_source",
+      "reason": "独立稿为“财迷”，修玩笑称谓。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00035-s002",
+            "BV14L5Y6GEcG-sensevoice-w00035-s003"
+          ],
+          "source_text": "你是艺人吧，我是爱人，你是爱人，我今年只想挣一个亿柴迷金牛座。果然所以说我是我说你适合谈恋爱啊，你看啊你又会做饭，然后呢，你又是财迷就很旺夫，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q034",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "果然。所以说我说你适合谈恋爱。你看你又会做饭。然后你又是才弥。就很旺夫。没准就是。我们谈恋爱之后我就会发财",
+      "corrected_text": "果然。所以说我说你适合谈恋爱。你看你又会做饭。然后你又是财迷。就很旺夫。没准就是。我们谈恋爱之后我就会发财",
+      "basis": "cross_source",
+      "reason": "独立现场稿复述为“财迷”，修同音词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00035-s003"
+          ],
+          "source_text": "果然所以说我是我说你适合谈恋爱啊，你看啊你又会做饭，然后呢，你又是财迷就很旺夫，"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q035",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "我帮你打一下。太阳。你看我还是你的遮阳散。人有点多。怎么办。我第一次来成都我怕走丢",
+      "corrected_text": "我帮你打一下。太阳。你看我还是你的遮阳伞。人有点多。怎么办。我第一次来成都我怕走丢",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确遮阳伞，修物品名。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00041-s007"
+          ],
+          "source_text": "你看我还是你的遮阳伞，人有点多，怎么办？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q035",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "好 现在知道为什么这个时候牵手。他不会烫去了吗。因为我们前面连续的用一些小技巧。去做试探。而且他并没有抗拒。所以我就能确定他是有好感的。所以这个时候我用一个合理的理由。去牵手。他大概率是不会抗拒的",
+      "corrected_text": "好 现在知道为什么这个时候牵手。他不会抗拒了吗。因为我们前面连续的用一些小技巧。去做试探。而且他并没有抗拒。所以我就能确定他是有好感的。所以这个时候我用一个合理的理由。去牵手。他大概率是不会抗拒的",
+      "basis": "cross_source",
+      "reason": "独立讲解写“抗拒”，修误词；“不会抗拒”是博主的判断，不代表当事人真实同意。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00041-s009"
+          ],
+          "source_text": "好，现在知道为什么这个时候牵手他不会抗拒了嘛。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q036",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "不然的话我就传于暴龙",
+      "corrected_text": "不然的话我就川渝暴龙",
+      "basis": "cross_source",
+      "reason": "独立稿后续完整写出“川渝暴龙”，修地域玩笑称谓；不是对人物的事实评价。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00043-s007",
+            "BV14L5Y6GEcG-sensevoice-w00044-s002"
+          ],
+          "source_text": "不然的话就穿预暴龙，不像啊你挺温柔的，我也觉得我很温柔。哎，你看你这句话就是川渝暴龙。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q037",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "我也觉得我很威胁。我前面都说我很凶。但是我觉得我很温柔。应该是他们自己不听话",
+      "corrected_text": "我也觉得我很温柔。我前面都说我很凶。但是我觉得我很温柔。应该是他们自己不听话",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“很温柔”，修相反含义的误词，不推断说者身份。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00043-s007"
+          ],
+          "source_text": "不然的话就穿预暴龙，不像啊你挺温柔的，我也觉得我很温柔。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q037",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "你看你这句话就是。传于暴龙。你看他们自己不听话",
+      "corrected_text": "你看你这句话就是。川渝暴龙。你看他们自己不听话",
+      "basis": "cross_source",
+      "reason": "独立稿同处完整写“川渝暴龙”，仅修玩笑字词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00044-s002"
+          ],
+          "source_text": "哎，你看你这句话就是川渝暴龙。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q041",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "确实。还是得跟你聊得来才能踩的。性格的话是走向长远的第一步",
+      "corrected_text": "确实。还是得跟你聊得来才能谈恋爱。性格的话是走向长远的第一步",
+      "basis": "cross_source",
+      "reason": "独立现场稿完整写“聊得来才能谈恋爱”，修跨词误识别。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00047-s002",
+            "BV14L5Y6GEcG-sensevoice-w00047-s003"
+          ],
+          "source_text": "一听这话马上就下头啊，所以以后千万不要这么干啊，确实就是还是得跟你聊得来才能谈恋爱。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q041",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "这里强调一个重点啊。你永远不要跟女生说。你喜欢她是因为她的颜值。这样的话女生会觉得你很浮浅。而且你这种男生不告诉我。那你以后遇到一个更漂亮的女孩。你肯定就会喜欢那个更漂亮的女孩喽。这种男人我不能要。而且她会觉得你这个男人很幼稚",
+      "corrected_text": "这里强调一个重点啊。你永远不要跟女生说。你喜欢她是因为她的颜值。这样的话女生会觉得你很肤浅。而且你这种男生不靠谱。那你以后遇到一个更漂亮的女孩。你肯定就会喜欢那个更漂亮的女孩喽。这种男人我不能要。而且她会觉得你这个男人很幼稚",
+      "basis": "cross_source",
+      "reason": "独立讲解明确“肤浅”“不靠谱”，保留否定并修被评价内容，不把评价当事实。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00045-s009",
+            "BV14L5Y6GEcG-sensevoice-w00046-s001"
+          ],
+          "source_text": "觉得你很肤浅。颜值这样的话女生会觉得你很肤浅，而且你这种男生不靠谱。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q042",
+      "section": "turns",
+      "turn_index": 5,
+      "original_text": "那你帮我记吗。重议一下",
+      "corrected_text": "那你帮我记吗。宠你一下",
+      "basis": "cross_source",
+      "reason": "独立稿明确“宠你一下”，仅修此短语；围裙动词同音仍保留待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00048-s004",
+            "BV14L5Y6GEcG-sensevoice-w00048-s005"
+          ],
+          "source_text": "可以啊，那你帮我寄吗？宠你一下，看了吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q050",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "是啊。你吃吗",
+      "corrected_text": "吃啊。你吃吗",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“吃啊”，修食物话题回应词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00053-s005"
+          ],
+          "source_text": "吃啊，你吃吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q050",
+      "section": "turns",
+      "turn_index": 5,
+      "original_text": "说明我们能迟到一起去。对",
+      "corrected_text": "说明我们能吃到一起去。对",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“吃到”，修食物话题同音词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00053-s008",
+            "BV14L5Y6GEcG-sensevoice-w00053-s009"
+          ],
+          "source_text": "哎，说明我们能吃到一起去。对我跟你说，两个人能吃到一起去是最难得的。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q050",
+      "section": "turns",
+      "turn_index": 6,
+      "original_text": "我跟你说。两个人能迟到一起去。是最难得的。而且游戏还不是一个地方",
+      "corrected_text": "我跟你说。两个人能吃到一起去。是最难得的。而且尤其还不是一个地方",
+      "basis": "cross_source",
+      "reason": "独立现场稿对应吃到及尤其，修词形；其它口语不扩写。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00053-s009",
+            "BV14L5Y6GEcG-sensevoice-w00053-s010"
+          ],
+          "source_text": "对我跟你说，两个人能吃到一起去是最难得的。而且尤其还不是一个地方的。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q059",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "送你。送你。马沙",
+      "corrected_text": "送你。送你。玛莎",
+      "basis": "cross_source",
+      "reason": "独立现场稿写“玛莎”，仅修原发言中的简称，不扩写完整车型或认定车主。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00058-s004"
+          ],
+          "source_text": "啊，送玛莎"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q059",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "我一般从来不会让女生知道我有车什么的。就算我这个车开出去了。我也会跟女生说是借的。所以大家不要觉得好像是因为马沙。或者怎么样的。你们没有马沙怎么办",
+      "corrected_text": "我一般从来不会让女生知道我有车什么的。就算我这个车开出去了。我也会跟女生说是借的。所以大家不要觉得好像是因为玛莎。或者怎么样的。你们没有玛莎怎么办",
+      "basis": "cross_source",
+      "reason": "独立讲解同称“玛莎”，仅修简称。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00058-s006",
+            "BV14L5Y6GEcG-sensevoice-w00058-s007"
+          ],
+          "source_text": "，我也会跟女生说是借的，所以大家不要觉得好像是因为玛莎还是怎么样的啊，你们没有玛莎怎么办？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q061",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "其实现在感觉回去也挺不了的",
+      "corrected_text": "其实现在感觉回去也挺无聊的",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“挺无聊的”，修形容词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00060-s001"
+          ],
+          "source_text": "其实现在感觉回去也挺无聊"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q062",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "对 小法斗。很寒的。对。我从他。我从他两个月养到了现在有七岁了",
+      "corrected_text": "对 小法斗。憨憨的。对。我从他。我从他两个月养到了现在有七岁了",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“憨憨的”，修口语评价词；不替当事人作人格结论。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00060-s004"
+          ],
+          "source_text": "法斗对小法斗憨憨的对我从他"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q063",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那边嫁人没什么区别。你好香。你上车感觉这个车都变香了",
+      "corrected_text": "那跟家人没什么区别。你好香。你上车感觉这个车都变香了",
+      "basis": "cross_source",
+      "reason": "独立稿相同位置为“那跟家人”，修机器跨词误识别，不据此推定婚育。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00061-s001"
+          ],
+          "source_text": "从小把它养到大，那跟家人没什么区别，你好香啊，你一上车感觉这个车都变香了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q063",
+      "section": "turns",
+      "turn_index": 4,
+      "original_text": "对啊。我擦一下什么香水。嗯。爱马仕",
+      "corrected_text": "对啊。我猜一下什么香水。嗯。爱马仕",
+      "basis": "cross_source",
+      "reason": "独立稿对应动词为“猜”；原我/你存在主语差异，不改主语，只修同音动作词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00061-s006"
+          ],
+          "source_text": "你闻得出来，对你猜一下什么香水"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q064",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "闻相识女人是吗",
+      "corrected_text": "闻香识女人是吗",
+      "basis": "cross_source",
+      "reason": "独立稿对应短语为“闻香识”，修气味话题同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00061-s012",
+            "BV14L5Y6GEcG-sensevoice-w00062-s001"
+          ],
+          "source_text": "闻香识女人是？闻香识女人是吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q064",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "闻过不少相识",
+      "corrected_text": "闻过不少香水",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“香水”，修话题名词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00062-s002"
+          ],
+          "source_text": "对，闻过不少香水，没有，因为我觉得以你这种气质肯定只会喷爱马仕了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q067",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "大学的时候比较喜欢。因为我在这图的大学。现在不怎么玩",
+      "corrected_text": "大学的时候比较喜欢。因为我在这读的大学。现在不怎么玩",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“读的大学”，修动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00063-s003"
+          ],
+          "source_text": "大学的时候我比较喜欢，因为我在这读的大学，现在不怎么玩的，你酒量好吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q068",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "那你晚上会不会一杯酒倒。没关系。我其实挺会照顾人的。你喝醉了不用担心。我会护你周全",
+      "corrected_text": "那你晚上会不会一杯就倒。没关系。我其实挺会照顾人的。你喝醉了不用担心。我会护你周全",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“一杯就倒”，修同音副词；不核实酒量。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00063-s005"
+          ],
+          "source_text": "那你晚上会不会一杯就倒。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q070",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那晚上出来吧。晚上看我安排吧。看我几点忙完吧。等不说话了",
+      "corrected_text": "那晚上出来吧。晚上看我安排吧。看我几点忙完吧。怎么不说话了",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“怎么不说话了”，修疑问词；混合说话仍待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00064-s008"
+          ],
+          "source_text": "怎么不说话了？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV14L5Y6GEcG-q071",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "啊。对啊。还有两场故事",
+      "corrected_text": "啊。对啊。还有两条狗",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“两条狗”，修名词，数量“两”未变。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00064-s012"
+          ],
+          "source_text": "啊，对呀，还有两条狗，啊，又提你的两条狗，看来你很。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV14L5Y6GEcG-q072",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "来。拥告一个吧",
+      "corrected_text": "来。拥抱一个吧",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确拥抱，修请求动作词；本记录没有可靠回应，不将请求视作得到同意。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV14L5Y6GEcG-sensevoice-w00065-s004"
+          ],
+          "source_text": "拥抱一个吧。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q001",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "所以说当你遇到这种情况的时候。一定要先破除她的防备。告诉她我不是推销的。所以我一上来我就说。我不办卡。也不给你做美容美发。也不给你踏皮鞋。这个时候她的防卫心就更容易卸下来",
+      "corrected_text": "所以说当你遇到这种情况的时候。一定要先破除她的防备。告诉她我不是推销的。所以我一上来我就说。我不办卡。也不给你做美容美发。也不给你擦皮鞋。这个时候她的防卫心就更容易卸下来",
+      "basis": "cross_source",
+      "reason": "独立讲解明确“擦皮鞋”，修同音动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00006-s002"
+          ],
+          "source_text": "所以我一上来我就说我不办卡，我也不给你做美容美发，也不给你擦皮鞋。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q005",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "我保证有视频为证。你过来旅游。你肯定想要拍一些好看的照片。我来给你拍。而且我来给你批。然后我给你批好的照片。你发抖音上。我保你有一万点赞。没有一万点赞的话。你再成都。明天我还请你吃饭。我还请你看电影。因为我这个伟老哥吧",
+      "corrected_text": "我保证有视频为证。你过来旅游。你肯定想要拍一些好看的照片。我来给你拍。而且我来给你P。然后我给你P好的照片。你发抖音上。我保你有一万点赞。没有一万点赞的话。你在成都。明天我还请你吃饭。我还请你看电影。因为我这个vlog吧",
+      "basis": "cross_source",
+      "reason": "独立稿明确P图、在成都和vlog；保留原所有数据，不据独立稿补猜粉丝量。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00004-s011",
+            "BV1sYLi6nEA6-sensevoice-w00005-s001",
+            "BV1sYLi6nEA6-sensevoice-w00005-s002",
+            "BV1sYLi6nEA6-sensevoice-w00005-s004"
+          ],
+          "source_text": "而且我来给你P然后。而且我来给你P，然后我给你P好的照片，你发抖音上，我保你有一万点赞啊，没有一万点赞的话，你在成都，明天我还请你吃饭，因为我这个Vlog吧。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q005",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "我不是说了吗没有五百万粉。没有一万点赞。我就请你吃一个月的饭。要么我就请你看电影。顶级仰谋。这目的不就达到了吗。我的目的就是为了请她吃一个月的饭。请她看电影。所以有的时候别那么实在。脑袋得灵活一点",
+      "corrected_text": "我不是说了吗没有五百万粉。没有一万点赞。我就请你吃一个月的饭。要么我就请你看电影。顶级阳谋。这目的不就达到了吗。我的目的就是为了请她吃一个月的饭。请她看电影。所以有的时候别那么实在。脑袋得灵活一点",
+      "basis": "editorial_context",
+      "reason": "独立稿同音写“羊谋”；按与阴谋相对的固定词规范为“阳谋”，是阅读稿字形推定，不是字幕或听校结论。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00009-s005"
+          ],
+          "source_text": "没有500万粉，没有1万点赞，我就请你吃一个月的饭，要么我就请你看电影，顶级羊谋"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q007",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "照一下那个茶馆嘛",
+      "corrected_text": "找一下那个茶馆嘛",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“找一下那个茶馆”，修动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00011-s012"
+          ],
+          "source_text": "对对对对找一下那个茶馆嘛。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q008",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "这个又是提供价值。就是我们给女生提供的价值。不一定非要收物质。对不对。你看给她拍照。这是不是一种价值。给她披图是不是一种价值。我们来安排事让她不用去思考",
+      "corrected_text": "这个又是提供价值。就是我们给女生提供的价值。不一定非要说物质。对不对。你看给她拍照。这是不是一种价值。给她P图是不是一种价值。我们来安排事让她不用去思考",
+      "basis": "cross_source",
+      "reason": "独立讲解明确说物质及P图，修误词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00016-s001",
+            "BV1sYLi6nEA6-sensevoice-w00016-s002"
+          ],
+          "source_text": "提供价值，就是我们给女生提供的价值，不一定非要说物质，对不对？你看给他拍照，这是不是一种价值，给他P图是不是一种价值。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q009",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "她镜头。你应该把镜头拍下来",
+      "corrected_text": "擦镜头。你应该把镜头拍下来",
+      "basis": "cross_source",
+      "reason": "独立稿明确“擦镜头”，只修该动作词，其余仍混合人物和不清语句。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00017-s001"
+          ],
+          "source_text": "女生了啊，就很多人就是不会这一点，所以一定要重点学这一点啊，擦镜头，你应该把镜头"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q010",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "我请你喝了茶。我还给你拍了照。可以去。你要报答我了。愿意跟我交朋友了吧",
+      "corrected_text": "我请你喝了茶。我还给你拍了照。可以P。你要报答我了。愿意跟我交朋友了吧",
+      "basis": "cross_source",
+      "reason": "独立现场稿为修图话题“可以P”，修误词，不涉及任何身体接触许可。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00017-s005"
+          ],
+          "source_text": "，我还给你拍了照，可以P，你要报答我了，"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q011",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "那其实不是采访你。我就是用这样的方式大善你",
+      "corrected_text": "那其实不是采访你。我就是用这样的方式搭讪你",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“搭讪”，修同音词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00018-s002"
+          ],
+          "source_text": "其实不是采访你啊，我就是用这样的方式搭讪你啊，"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q012",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那你大善拍什么视频啊",
+      "corrected_text": "那你搭讪拍什么视频啊",
+      "basis": "cross_source",
+      "reason": "独立现场稿同处为“搭讪”，修同音词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00018-s003"
+          ],
+          "source_text": "那你搭讪拍什么视频呀，就是记录一下咱俩美丽的邂逅，万一以后我们的关系越来越亲密了"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q012",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "就是记录一下咱俩美丽的卸后。万一以后我们的关系越来越亲密了。这个视频是不是值得纪念",
+      "corrected_text": "就是记录一下咱俩美丽的邂逅。万一以后我们的关系越来越亲密了。这个视频是不是值得纪念",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“邂逅”，修同音词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00018-s003"
+          ],
+          "source_text": "那你搭讪拍什么视频呀，就是记录一下咱俩美丽的邂逅，万一以后我们的关系越来越亲密了"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q013",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "第一次遇到这种大善的方式",
+      "corrected_text": "第一次遇到这种搭讪的方式",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“搭讪”，修词形，不改变双方经历。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00018-s005"
+          ],
+          "source_text": "第一次遇到这种搭讪的方式"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q013",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "啊第一次遇到。那以前男生都是怎么大善",
+      "corrected_text": "啊第一次遇到。那以前男生都是怎么搭讪",
+      "basis": "cross_source",
+      "reason": "独立稿对应重复为“搭讪”，修同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00018-s006"
+          ],
+          "source_text": "啊，第一次遇到，那以前男生都是怎么搭讪，以前以前我没有被搭讪过啊，我一次都没有你"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q013",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "以前以前我没有被大善过",
+      "corrected_text": "以前以前我没有被搭讪过",
+      "basis": "cross_source",
+      "reason": "独立稿对应为“搭讪”，修同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00018-s006"
+          ],
+          "source_text": "啊，第一次遇到，那以前男生都是怎么搭讪，以前以前我没有被搭讪过啊，我一次都没有你"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q013",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "啊我意思都没有。你没有被大善过",
+      "corrected_text": "啊我一次都没有。你没有被搭讪过",
+      "basis": "cross_source",
+      "reason": "独立现场稿为搭讪及“一次都没有”，修次数否定短语的误词，否定“没有”保留；同条说话者混合待核。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00018-s006",
+            "BV1sYLi6nEA6-sensevoice-w00018-s007"
+          ],
+          "source_text": "啊，第一次遇到，那以前男生都是怎么搭讪，以前以前我没有被搭讪过啊，我一次都没有你没有被搭讪过，从来没有被搭讪过，你知道为啥吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q013",
+      "section": "turns",
+      "turn_index": 4,
+      "original_text": "我从来没有被大善过",
+      "corrected_text": "我从来没有被搭讪过",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“搭讪”，保留原“没有”。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00018-s007"
+          ],
+          "source_text": "没有被搭讪过，从来没有被搭讪过，你知道为啥吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q014",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "如果一个女生小美。就会有很多人大善她。大美就基本没有人大善了。因为大家害怕",
+      "corrected_text": "如果一个女生小美。就会有很多人搭讪她。大美就基本没有人搭讪了。因为大家害怕",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“搭讪”，只修词形，不动原“小美/大美”的说法。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00019-s002"
+          ],
+          "source_text": "如果一个女生小美就会有很多人搭讪她，大美就基本没有人搭讪了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q014",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "就是当你夸女生的时候。不要戴主语。什么叫主语呢。就是不要说你是大美。所以没有人敢大善你",
+      "corrected_text": "就是当你夸女生的时候。不要带主语。什么叫主语呢。就是不要说你是大美。所以没有人敢搭讪你",
+      "basis": "cross_source",
+      "reason": "独立讲解明确带主语及搭讪，修术语。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00019-s003",
+            "BV1sYLi6nEA6-sensevoice-w00019-s004",
+            "BV1sYLi6nEA6-sensevoice-w00019-s005"
+          ],
+          "source_text": "因为大家害怕，就我跟我那些姐妹这里教大家一个技巧啊，就是当你夸女生的时候，不要带主语，什么叫主语呢？就是不要说你是大美，所以没有人敢搭讪你，因为你长得太漂亮了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q015",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "因为我的姐妹基本上是那种甜美风格的。就大善他们的多一点。然后我走在旁边就显得我很凶",
+      "corrected_text": "因为我的姐妹基本上是那种甜美风格的。就搭讪他们的多一点。然后我走在旁边就显得我很凶",
+      "basis": "cross_source",
+      "reason": "独立现场稿对应“搭讪”，修同音误字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00021-s007"
+          ],
+          "source_text": "因为我的姐妹基本上都是那种甜美风格的，就搭讪他们的多一点。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q015",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "因为你很高了。他们会觉得你的颜值太高了。望而却步",
+      "corrected_text": "因为你很高冷。他们会觉得你的颜值太高了。望而却步",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“很高冷”，修末字，原只是说话者评价。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00021-s008"
+          ],
+          "source_text": "然后我走在旁边就显得我很凶，因为你很高冷，他们会觉得你的颜值。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q016",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你怎么说我会说话",
+      "corrected_text": "你怎么这么会说话",
+      "basis": "cross_source",
+      "reason": "独立现场稿完整写“你怎么这么会说话”，修问句词序。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00022-s001"
+          ],
+          "source_text": "他们会觉得你的颜值太高了，望而却步，你怎么这么会说话。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q016",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "不是我说的都是心理话。因为一开始。其实我也有点不太敢上。我看到你我也有点大嘚瑟了。但是我转了三圈。我觉得如果我今天不去认识你的话。我可能回去一个月都睡不着觉",
+      "corrected_text": "不是我说的都是心里话。因为一开始。其实我也有点不太敢上。我看到你我也有点打嘚瑟了。但是我转了三圈。我觉得如果我今天不去认识你的话。我可能回去一个月都睡不着觉",
+      "basis": "cross_source",
+      "reason": "独立稿明确心里话和口语打嘚瑟，只校这两处，不将口语擅改成另一种说法。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00022-s002",
+            "BV1sYLi6nEA6-sensevoice-w00022-s003"
+          ],
+          "source_text": "不是我说的都是心里话。因为一开始其实我也有点不太敢上啊，我看到你我也有点打嘚瑟了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q017",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那你该不会是今天下午专门在这蹲人。专门这做美女搭船",
+      "corrected_text": "那你该不会是今天下午专门在这蹲人。专门这做美女搭讪",
+      "basis": "cross_source",
+      "reason": "独立稿连续语境明确搭讪话题；首句其它“专门这做”碎片不扩写。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00022-s005",
+            "BV1sYLi6nEA6-sensevoice-w00023-s001"
+          ],
+          "source_text": "该不会是今天下午专门在这蹲人，专门专门去做美女大没有啊，我没有，我就是真的我就是旅游玩的啊，我从来没有搭讪过，你是我第一个啊，你是外地的你我是，你听我口音没听出"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q017",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "没有我没有。我就是真的我就是过来旅游玩的。我从来没有大善过。你是我第一个",
+      "corrected_text": "没有我没有。我就是真的我就是过来旅游玩的。我从来没有搭讪过。你是我第一个",
+      "basis": "cross_source",
+      "reason": "独立现场稿对应为“搭讪”，修词形。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00023-s001"
+          ],
+          "source_text": "旅游玩的啊，我从来没有搭讪过，你是我第一个啊，你是外地的你我是，你听我口音没听出"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q018",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "普通话很标准。分裂不出来",
+      "corrected_text": "普通话很标准。分辨不出来",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“分辨不出来”，修动词，保留否定。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00023-s003"
+          ],
+          "source_text": "普通话很标准，分辨不出来，可能是因为我到处飞的原因吧，就就没有口音了，我是东北人"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q025",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "我给大家讲一个吸引女生的核心关键。其实是你的生活态度。并不是什么物质或者建模之类的。生活态度其实生活一切。你知道我认识很多女生",
+      "corrected_text": "我给大家讲一个吸引女生的核心关键。其实是你的生活态度。并不是什么物质或者建模之类的。生活态度其实胜过一切。你知道我认识很多女生",
+      "basis": "cross_source",
+      "reason": "独立讲解清楚写“生活态度其实胜过一切”，修原稿重复错词；仅记录博主观点。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00032-s002"
+          ],
+          "source_text": "不是什么物质啊或者建模之类的生活态度其实胜过一切。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q028",
+      "section": "turns",
+      "turn_index": 5,
+      "original_text": "没事你随便。你输不就好了。你输不就好了",
+      "corrected_text": "没事你随便。你舒服就好了。你舒服就好了",
+      "basis": "cross_source",
+      "reason": "独立稿对应两次写“你舒服就好”，原“输不”为“舒服”的同音拆词；不将该句扩成其它接触的同意。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00038-s001"
+          ],
+          "source_text": "我我下是你随便你你随便你舒服就好，你舒服就。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q029",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "跟我想象有点不一样。就我刚开始见你的时候。你过来讲话。我就感觉你可能会有一点油腻。但是你讲话我就感觉还好看。你讲话就很自然。你说你刚才说夸我的那些话。你讲的就很自然。我也觉得不油腻",
+      "corrected_text": "跟我想象有点不一样。就我刚开始见你的时候。你过来讲话。我就感觉你可能会有一点油腻。但是你讲话我就感觉还好耶。你讲话就很自然。你说你刚才说夸我的那些话。你讲的就很自然。我也觉得不油腻",
+      "basis": "cross_source",
+      "reason": "独立现场稿短答写“还好耶”，修原稿将语气词识别成外貌评价。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00042-s007"
+          ],
+          "source_text": "哟我就感觉你可能会有一点油腻，但是你讲话我就感觉还好耶，你讲话就很自然。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q030",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "男孩子他们讲话。他们夸你都不想听。就觉得听起来很狭。很油",
+      "corrected_text": "男孩子他们讲话。他们夸你都不想听。就觉得听起来很假。很油",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“很假”，修同音评价词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00043-s005"
+          ],
+          "source_text": "男孩子他们讲话，他们夸你都不想听，你就觉得听起来很假，很油，，他们怎么夸呢？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q030",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "女生他们说你身材好好。你好好看",
+      "corrected_text": "比如说他们说你身材好好。你好好看",
+      "basis": "cross_source",
+      "reason": "独立现场稿使用举例引导“比如说他们说”，修原稿误入的“女生”；不推定例子说话者。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00043-s006"
+          ],
+          "source_text": "比如说他们说哦，你身材好好，你很好看。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q035",
+      "section": "turns",
+      "turn_index": 3,
+      "original_text": "嗯 睡觉。这是中午睡觉。对。哦 可以啊。走。Let's go",
+      "corrected_text": "嗯 水饺。这是中午水饺。对。哦 可以啊。走。Let's go",
+      "basis": "cross_source",
+      "reason": "独立现场稿两处均为“水饺”，修把食物误写成睡眠动作的同音词；店名可能混入的“中午”不改。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00049-s004",
+            "BV1sYLi6nEA6-sensevoice-w00049-s005"
+          ],
+          "source_text": "呃，水饺，吃中午水饺。对啊，可以啊，走走吧let's go就在这儿就这就这就看到了，我友们直接进去吃"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q035",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "又是戴脸。直接安排我们去吃什么。没有去问女生对不对",
+      "corrected_text": "又是带领。直接安排我们去吃什么。没有去问女生对不对",
+      "basis": "editorial_context",
+      "reason": "独立讲解同音写“代领”，依原带人安排语境规范为带领，属于编辑字形推定；不为其对邀约的评价背书。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00049-s003"
+          ],
+          "source_text": "那边有一家100多年的看又是代领，直接安排我们去吃什么，没有去问女生，对不对？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q036",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "看到了吗。很多人老问我。哎 旭哥怎么能跟女生坐一边。这很难吗。直接带领她 咱俩坐一边。就完了。还需要用什么萎索的技巧。哎 我想办法偷偷挪到她那边。不需要。咱俩坐一边就行了。就完事了",
+      "corrected_text": "看到了吗。很多人老问我。哎 旭哥怎么能跟女生坐一边。这很难吗。直接带领她 咱俩坐一边。就完了。还需要用什么猥琐的技巧。哎 我想办法偷偷挪到她那边。不需要。咱俩坐一边就行了。就完事了",
+      "basis": "cross_source",
+      "reason": "独立讲解明确“猥琐”，修同音字。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00050-s004"
+          ],
+          "source_text": "直接开领他，咱俩坐一边就完了，还需要用什么猥琐的技巧。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q038",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "每天只是鱼和牛肉。那你要健身吗",
+      "corrected_text": "每天只吃鱼和牛肉。那你要健身吗",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“只吃鱼和牛肉”，修动词；只记录饮食陈述，不作为健康建议。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00051-s007",
+            "BV1sYLi6nEA6-sensevoice-w00052-s001"
+          ],
+          "source_text": "展示的越多越好啊，每天只吃鱼和牛肉，那你要健身吗？只吃鱼和牛肉，那你要健身吗？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q038",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "我抱了那个丝尿。现在还有好几十节课没去上。一个月就去一节",
+      "corrected_text": "我报了那个私教。现在还有好几十节课没去上。一个月就去一节",
+      "basis": "cross_source",
+      "reason": "独立现场稿完整写“我报了那个私教”，修报名动词和健身私教名称；课数及频率原样保留。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00052-s002"
+          ],
+          "source_text": "我报了那个私教，现在还有好几十节课没去上一个月就去一节，你多高啊？"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q042",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "我我喜欢那个罗威",
+      "corrected_text": "我我喜欢那个挪威",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确地名“挪威”，修名称。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00053-s004"
+          ],
+          "source_text": "我我喜欢那个挪威，我从小就啊挪威跟芬兰是挨着的一到12月份就圣诞老人就会在天上飞"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q042",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "我从小就啊罗威跟芬兰是挨着的。一到十二月份。就圣诞老人就在天上飞。嗯。然后还放烟花特别好看",
+      "corrected_text": "我从小就啊挪威跟芬兰是挨着的。一到十二月份。就圣诞老人就在天上飞。嗯。然后还放烟花特别好看",
+      "basis": "cross_source",
+      "reason": "独立现场稿对应重复为“挪威”，只修地名，不验证后续旅游说法。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00053-s004"
+          ],
+          "source_text": "我我喜欢那个挪威，我从小就啊挪威跟芬兰是挨着的一到12月份就圣诞老人就会在天上飞"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q043",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "这种旅游老手就不需要话段。你是挨人还是艺人",
+      "corrected_text": "这种旅游老手就不需要话段。你是I人还是E人",
+      "basis": "editorial_context",
+      "reason": "两稿都按读音写成挨人/艺人；根据紧接的内向安静/外向热闹性格语境，阅读稿标为I人/E人，这是编辑词形推定，未音频听校。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00057-s007"
+          ],
+          "source_text": "我这种旅游老手就不需要花多少，我你是挨人还是艺人，十挨十一你如果是挨人啊，你就适"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q043",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "你如果是挨人。你就适合去瑞士。因为瑞士特别安静。然后都是湖。都是草原躺在那。一天啥也不干。就看那个风景。就特别治愈。如果你是艺人。你就去意大利",
+      "corrected_text": "你如果是I人。你就适合去瑞士。因为瑞士特别安静。然后都是湖。都是草原躺在那。一天啥也不干。就看那个风景。就特别治愈。如果你是E人。你就去意大利",
+      "basis": "editorial_context",
+      "reason": "两稿性格语境读音均对应I人/E人，按同音字母词形规范，仍属于编辑推定，不核实旅行偏好与性格关系。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00057-s007",
+            "BV1sYLi6nEA6-sensevoice-w00057-s008",
+            "BV1sYLi6nEA6-sensevoice-w00057-s009",
+            "BV1sYLi6nEA6-sensevoice-w00058-s001",
+            "BV1sYLi6nEA6-sensevoice-w00058-s002"
+          ],
+          "source_text": "我这种旅游老手就不需要花多少，我你是挨人还是艺人，十挨十一你如果是挨人啊，你就适合去瑞士。因为瑞士特别安静，然后都是湖，都是草原躺在那。都是草原躺在那儿一天啥也不干，就看那个风景，就特别治愈。如果你是艺人，你就去意大利。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q043",
+      "section": "turns",
+      "turn_index": 4,
+      "original_text": "意大利全是人。特别热闹。就跟成都太独立一样。而且意大利的。然后所有人都。男生都很帅。特别高。全部1米8起步。然后特别潮。而且它的那个潮。跟成都的潮不一样。很精致",
+      "corrected_text": "意大利全是人。特别热闹。就跟成都太古里一样。而且意大利的。然后所有人都。男生都很帅。特别高。全部1米8起步。然后特别潮。而且它的那个潮。跟成都的潮不一样。很精致",
+      "basis": "editorial_context",
+      "reason": "独立稿同音写“成都泰古里”，两稿都指成都地名；阅读稿按太古里规范名称字形，属于语境编辑推定；身高数字模型有分歧不改。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00058-s003"
+          ],
+          "source_text": "意大利嗯意大利全是人，特别热闹，就跟成都泰古里一样。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q044",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "那你英语好跑",
+      "corrected_text": "那你英语好不好",
+      "basis": "cross_source",
+      "reason": "独立稿完整询问“那你英语好不好”，修疑问词结构，不改受访者英语水平陈述。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00059-s003"
+          ],
+          "source_text": "那你英语好不好？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q047",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "我没有固定喜欢的类型。标准都是给不喜欢的人订。如果我喜欢。我说我喜欢可爱的。那总有比你更可爱。我说喜欢漂亮。总有更漂亮。但是如果我。就是喜欢你能带给我的。独一玩的感觉。这个就无可替代",
+      "corrected_text": "我没有固定喜欢的类型。标准都是给不喜欢的人定。如果我喜欢。我说我喜欢可爱的。那总有比你更可爱。我说喜欢漂亮。总有更漂亮。但是如果我。就是喜欢你能带给我的。独一无二的感觉。这个就无可替代",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“定的”“独一无二的感觉”，修固定搭配和缺失字词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00060-s002",
+            "BV1sYLi6nEA6-sensevoice-w00060-s003",
+            "BV1sYLi6nEA6-sensevoice-w00060-s004",
+            "BV1sYLi6nEA6-sensevoice-w00060-s005"
+          ],
+          "source_text": "那你喜欢什么类型，我没有固定喜欢的类型，标准都是给不喜欢的人定的。如果我喜欢，我说我喜欢可爱的那总有比你更可爱的。我说喜欢漂亮，总有更漂亮。但是如果我就喜欢你能带给我的独一无二的感觉，这个就无可替代。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q047",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "我没有固定喜欢的类型。标准都是给不喜欢的人订的。这个就滴水不漏。这个是纯经验之坛",
+      "corrected_text": "我没有固定喜欢的类型。标准都是给不喜欢的人定的。这个就滴水不漏。这个是纯经验之谈",
+      "basis": "cross_source",
+      "reason": "独立讲解对应为“定的”和“经验之谈”，修固定搭配。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00063-s003",
+            "BV1sYLi6nEA6-sensevoice-w00063-s004"
+          ],
+          "source_text": "所以说你用我这个回答是最好的，我没有固定喜欢的类型，标准都是给不喜欢的人定的，这个就滴水不漏啊，这个是纯经验之谈，"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q048",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "可是感觉一般都是新鲜感。很快也会消失呀。对男生好像就很使心眼就",
+      "corrected_text": "可是感觉一般都是新鲜感。很快也会消失呀。对男生好像就很喜新厌旧",
+      "basis": "cross_source",
+      "reason": "独立现场稿完整写“很喜新厌旧”，修原稿成串同音误字；只记录发言，不作群体性结论。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00060-s006",
+            "BV1sYLi6nEA6-sensevoice-w00060-s007"
+          ],
+          "source_text": "可是感觉一般都是新鲜感，很快也会消失呀。就男生好像就很喜新厌旧，那是没玩够的男生玩够。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q048",
+      "section": "commentary",
+      "turn_index": 0,
+      "original_text": "刚才说的所有的话。其实都是我真正的人生经验。也没有什么技巧可言。就是当你到达一定层级的时候。你自然而然就会误出这些道理",
+      "corrected_text": "刚才说的所有的话。其实都是我真正的人生经验。也没有什么技巧可言。就是当你到达一定层级的时候。你自然而然就会悟出这些道理",
+      "basis": "cross_source",
+      "reason": "独立讲解明确“悟出”，修同音动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00061-s005"
+          ],
+          "source_text": "就是当你呃到达一定层级的时候，你自然而然就会悟出这些道理。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q051",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "反正我还要再成都在几天",
+      "corrected_text": "反正我还要在成都待几天",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“还要在成都待几天”，修介词及停留动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00063-s009"
+          ],
+          "source_text": "远，走路都到了，反正我还要在成都待几天，那你要在成都待多久呀，看你。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q051",
+      "section": "turns",
+      "turn_index": 1,
+      "original_text": "那你要再成都在多久",
+      "corrected_text": "那你要在成都待多久",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“在成都待多久”，修同音动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00064-s001"
+          ],
+          "source_text": "那你要在成都待多久呀？"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q051",
+      "section": "turns",
+      "turn_index": 2,
+      "original_text": "看你喽。如果你走了。我一个人也无聊。我爱去走",
+      "corrected_text": "看你喽。如果你走了。我一个人也无聊。我也就走了",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“我也就走了”，修假设情境中的结果短语，不当作既定行程。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00064-s002"
+          ],
+          "source_text": "看你喽，如果你走了，我一个人无聊，我也就走了。"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q055",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "快快。挽着我的胳膊。是不是很完全的",
+      "corrected_text": "快快。挽着我的胳膊。是不是很有安全感",
+      "basis": "cross_source",
+      "reason": "独立现场稿完整写“是不是很有安全感”，修询问的感受词；不将问句视作当事人确认。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00065-s007"
+          ],
+          "source_text": "挽着我的胳膊是不是很有安全感。"
+        }
+      ]
+    },
+    {
+      "practice_ready": true,
+      "round_id": "BV1sYLi6nEA6-q056",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "做得好快呀",
+      "corrected_text": "走得好快呀",
+      "basis": "cross_source",
+      "reason": "独立现场稿为“走得好快”，修行走速度的动词。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00066-s001"
+          ],
+          "source_text": "很温暖嗯，挽着我的胳膊热乎乎的走的好快啊啊，从慢一点，你喜欢慢一点啊，那我就慢一"
+        }
+      ]
+    },
+    {
+      "practice_ready": false,
+      "round_id": "BV1sYLi6nEA6-q057",
+      "section": "turns",
+      "turn_index": 0,
+      "original_text": "你到了。我们的歇后到此结束了。哈哈。知道你住哪了。我可能会半夜来偷袭你哦",
+      "corrected_text": "你到了。我们的邂逅到此结束了。哈哈。知道你住哪了。我可能会半夜来偷袭你哦",
+      "basis": "cross_source",
+      "reason": "独立现场稿明确“邂逅”，修同音词；后半偷袭玩笑保留原文与边界风险。 这是交叉阅读稿修订，未音频听校。",
+      "evidence": [
+        {
+          "source_segment_ids": [
+            "BV1sYLi6nEA6-sensevoice-w00066-s004"
+          ],
+          "source_text": "你到了，我们的邂逅到此结束了。"
+        }
+      ]
+    }
+  ]
+}

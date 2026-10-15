@@ -448,7 +448,7 @@
 | [23:29](https://www.bilibili.com/video/BV1CjV16KEHe/?t=1409) | 偏好与选择 | [平时喜欢什么和旅游](https://kirrito-k423.github.io/dating-dialogue-tutorial/#round=BV1CjV16KEHe-q018) |
 | [23:50](https://www.bilibili.com/video/BV1CjV16KEHe/?t=1430) | 信息与经历 | [旅行去过哪里偏爱南方](https://kirrito-k423.github.io/dating-dialogue-tutorial/#round=BV1CjV16KEHe-q019) |
 | [24:32](https://www.bilibili.com/video/BV1CjV16KEHe/?t=1472) | 关系与意图 | [以前有没有邂逅过男友](https://kirrito-k423.github.io/dating-dialogue-tutorial/#round=BV1CjV16KEHe-q020) |
-| [25:06](https://www.bilibili.com/video/BV1CjV16KEHe/?t=1506) | 偏好与选择 | [耳环喜欢哪个名字](https://kirrito-k423.github.io/dating-dialogue-tutorial/#round=BV1CjV16KEHe-q021) |
+| [25:06](https://www.bilibili.com/video/BV1CjV16KEHe/?t=1506) | 偏好与选择 | [喜欢哪个明星？](https://kirrito-k423.github.io/dating-dialogue-tutorial/#round=BV1CjV16KEHe-q021) |
 | [25:25](https://www.bilibili.com/video/BV1CjV16KEHe/?t=1525) | 邀约与安排 | [十个问题与明天看电影](https://kirrito-k423.github.io/dating-dialogue-tutorial/#round=BV1CjV16KEHe-q022) |
 | [25:55](https://www.bilibili.com/video/BV1CjV16KEHe/?t=1555) | 信任与质疑 | [其他女孩约会是否也安排](https://kirrito-k423.github.io/dating-dialogue-tutorial/#round=BV1CjV16KEHe-q023) |
 | [28:01](https://www.bilibili.com/video/BV1CjV16KEHe/?t=1681) | 消费与付出 | [为什么点鸡肉和鱼肉](https://kirrito-k423.github.io/dating-dialogue-tutorial/#round=BV1CjV16KEHe-q024) |

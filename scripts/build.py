@@ -4,6 +4,7 @@ import json
 import re
 import hashlib
 from pathlib import Path
+from course_quality import attach_quality, make_drills
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -116,6 +117,7 @@ def build():
     rounds.sort(key=lambda r: (r['episode_number'], r['start'], r['id']))
     if len({r['id'] for r in rounds}) != len(rounds):
         raise ValueError('Duplicate dialogue round ids')
+    quality_summary = attach_quality(rounds, transcripts, alternate_transcripts)
     for v in videos:
         source_rounds = [r for r in rounds if r['bvid'] == v['bvid']]
         v['dialogue_round_count'] = len(source_rounds)
@@ -140,6 +142,8 @@ def build():
             raise ValueError('Unexpected exercise attribution')
         if any(id not in {v['bvid'] for v in videos} for id in e['related_bvids']):
             raise ValueError('Exercise links an unknown video')
+    drills = make_drills(rounds)
+    exercises = drills + exercises
     public_catalog = {k: catalog[k] for k in ['schema_version', 'researched_at', 'timezone', 'author', 'catalog_status', 'all_author_uploads_complete', 'candidate_counts', 'candidate_count', 'series_duration_seconds', 'collection_coverage', 'all_visible_collection_video_count', 'notes']}
     public_catalog['candidates'] = videos
     progress_path = ROOT / 'research/audio-analysis-progress.json'
@@ -151,8 +155,12 @@ def build():
     public_catalog['listening_verified_round_count'] = sum(r['verification'] == 'audio_listened' for r in rounds)
     public_catalog['episode_numbering'] = 'editorial_order_by_publication_date_not_publisher_episode_numbers'
     public_catalog['full_asr_transcript_count'] = len(transcripts)
+    public_catalog['quality_summary'] = quality_summary
+    public_catalog['dialogue_drill_count'] = len(drills)
+    public_catalog['compared_dialogue_drill_count'] = sum(e['practice_status'] == 'compared' for e in drills)
     public_catalog['notice'] = 'Full ASR drafts and dialogue units derive from machine transcription and selected video captions, not listening-verified quotations. Visually reviewed captions are labeled separately. Earlier finite paraphrases and original exercises remain separately labeled. Speaker roles are inferred from text and visible context; source audio may contain additional exchanges missing from ASR.'
-    data = { 'seed_bvid': 'BV1f8Yj6aExQ', 'videos': videos, 'rounds': rounds, 'exercises': exercises, 'audio_summary_count': len(summaries), 'original_exercise_count': sum(e['source_kind'] == 'original_exercise' for e in exercises), 'exact_count': catalog['candidate_counts']['exact_series'], 'variant_count': catalog['candidate_counts']['related_variant'], 'total_duration': catalog['series_duration_seconds'], 'catalog_export': public_catalog }
+    data = { 'seed_bvid': 'BV1f8Yj6aExQ', 'videos': videos, 'rounds': rounds, 'exercises': exercises, 'quality_summary': quality_summary, 'dialogue_drill_count': len(drills), 'compared_dialogue_drill_count': public_catalog['compared_dialogue_drill_count'], 'audio_summary_count': len(summaries), 'original_exercise_count': sum(e['source_kind'] == 'original_exercise' for e in exercises), 'exact_count': catalog['candidate_counts']['exact_series'], 'variant_count': catalog['candidate_counts']['related_variant'], 'total_duration': catalog['series_duration_seconds'], 'catalog_export': public_catalog }
+    (ROOT / 'docs/exercises.json').write_text(json.dumps({'notice': 'Reference responses are source comparisons, not universally correct answers. Pending source text is separately labeled.', 'exercises': exercises}, ensure_ascii=False, indent=2) + '\n')
     (ROOT / 'docs/dialogues.json').write_text(json.dumps({'episode_numbering': public_catalog['episode_numbering'], 'rounds': rounds}, ensure_ascii=False, indent=2) + '\n')
     transcript_dir = ROOT / 'docs/transcripts'
     transcript_dir.mkdir(exist_ok=True)
@@ -192,6 +200,8 @@ def build():
         text = readme.read_text()
         block = f"<!-- dialogue-progress:start -->\n当前按集梳理：**{sum(v['dialogue_round_count'] > 0 for v in videos)} / 18 集、{len(rounds)} 条交流记录、{len(transcripts)} 份完整机器稿**。**实际逐句回听 {public_catalog['listening_verified_round_count']} 条**。机器文字整理不等于听校；单边台词或混合说话者的记录仍是待核交流单元。\n<!-- dialogue-progress:end -->"
         text = re.sub(r'<!-- dialogue-progress:start -->[\s\S]*?<!-- dialogue-progress:end -->', lambda _: block, text)
+        quality_block = f"<!-- quality-progress:start -->\n2026-10-15 交叉比较：**{quality_summary.get('second_asr_video_count', 0)} 集独立 SenseVoice 稿、{quality_summary.get('rounds_with_comparison', 0)} / {len(rounds)} 条交流记录有交叉来源、{quality_summary.get('corrected_text_units', 0)} 个文字单元有来源支持的阅读修订**，另有 {quality_summary.get('editorial_pending_text_units', 0)} 个语义候选待核。已生成 **{len(drills)} 道对应练习**，其中 {public_catalog['compared_dialogue_drill_count']} 道的题干与对应回应具备交叉依据，默认优先显示；其余仍可按待核题筛选。\n<!-- quality-progress:end -->"
+        text = re.sub(r'<!-- quality-progress:start -->[\s\S]*?<!-- quality-progress:end -->', lambda _: quality_block, text)
         readme.write_text(text)
     print(f"Built {len(videos)} catalog entries; {len(rounds)} dialogue rounds; {public_catalog['listening_verified_round_count']} listening-verified rounds.")
 

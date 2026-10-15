@@ -195,7 +195,8 @@
         "BV1vj6yBDE5r-0420-0510-turbo.json",
         "BV1vj6yBDE5r-caption-gaps.json",
         "BV1vj6yBDE5r-caption-reviewed-early.json",
-        "BV1vj6yBDE5r-caption-reviewed.json"
+        "BV1vj6yBDE5r-caption-reviewed.json",
+        "BV1vj6yBDE5r-sensevoice-crosscheck.json"
       ]
     },
     {
@@ -221,7 +222,8 @@
       "alternate_transcript_files": [
         "BV14gFYzREk4-0000-0704-turbo.json",
         "BV14gFYzREk4-caption-gaps.json",
-        "BV14gFYzREk4-caption-reviewed-early.json"
+        "BV14gFYzREk4-caption-reviewed-early.json",
+        "BV14gFYzREk4-sensevoice-crosscheck.json"
       ]
     },
     {
@@ -248,7 +250,8 @@
         "BV1kJP5z6EDw-0819-0842-medium.json",
         "BV1kJP5z6EDw-0880-0924-medium.json",
         "BV1kJP5z6EDw-caption-gaps.json",
-        "BV1kJP5z6EDw-caption-reviewed-early.json"
+        "BV1kJP5z6EDw-caption-reviewed-early.json",
+        "BV1kJP5z6EDw-sensevoice-crosscheck.json"
       ]
     },
     {
@@ -274,7 +277,8 @@
       "alternate_transcript_files": [
         "BV1upQdBiEN1-0317-0340-medium.json",
         "BV1upQdBiEN1-caption-gaps.json",
-        "BV1upQdBiEN1-caption-reviewed-early.json"
+        "BV1upQdBiEN1-caption-reviewed-early.json",
+        "BV1upQdBiEN1-sensevoice-crosscheck.json"
       ]
     },
     {
@@ -300,7 +304,8 @@
       "alternate_transcript_files": [
         "BV1ZX9KBUEip-0027-0062-medium.json",
         "BV1ZX9KBUEip-caption-gaps.json",
-        "BV1ZX9KBUEip-caption-reviewed-early.json"
+        "BV1ZX9KBUEip-caption-reviewed-early.json",
+        "BV1ZX9KBUEip-sensevoice-crosscheck.json"
       ]
     },
     {
@@ -325,7 +330,8 @@
       "point_timestamp_segment_count": 1,
       "alternate_transcript_files": [
         "BV12GQiBrExv-caption-gaps.json",
-        "BV12GQiBrExv-caption-reviewed-early.json"
+        "BV12GQiBrExv-caption-reviewed-early.json",
+        "BV12GQiBrExv-sensevoice-crosscheck.json"
       ]
     },
     {
@@ -354,7 +360,9 @@
       "full_transcript_available": true,
       "full_transcript_segment_count": 1400,
       "point_timestamp_segment_count": 0,
-      "alternate_transcript_files": []
+      "alternate_transcript_files": [
+        "BV1dx9dBnE7d-sensevoice-crosscheck.json"
+      ]
     },
     {
       "bvid": "BV14L5Y6GEcG",
@@ -377,7 +385,8 @@
       "full_transcript_segment_count": 1078,
       "point_timestamp_segment_count": 0,
       "alternate_transcript_files": [
-        "BV14L5Y6GEcG-caption-gaps.json"
+        "BV14L5Y6GEcG-caption-gaps.json",
+        "BV14L5Y6GEcG-sensevoice-crosscheck.json"
       ]
     },
     {
@@ -408,7 +417,8 @@
       "point_timestamp_segment_count": 0,
       "alternate_transcript_files": [
         "BV1sYLi6nEA6-caption-gaps.json",
-        "BV1sYLi6nEA6-caption-reviewed-early.json"
+        "BV1sYLi6nEA6-caption-reviewed-early.json",
+        "BV1sYLi6nEA6-sensevoice-crosscheck.json"
       ]
     },
     {
@@ -439,7 +449,8 @@
       "point_timestamp_segment_count": 0,
       "alternate_transcript_files": [
         "BV1CjV16KEHe-caption-gaps.json",
-        "BV1CjV16KEHe-caption-reviewed.json"
+        "BV1CjV16KEHe-caption-reviewed.json",
+        "BV1CjV16KEHe-sensevoice-crosscheck.json"
       ]
     },
     {
@@ -468,7 +479,9 @@
       "full_transcript_available": true,
       "full_transcript_segment_count": 1438,
       "point_timestamp_segment_count": 0,
-      "alternate_transcript_files": []
+      "alternate_transcript_files": [
+        "BV1bXJF6iEXn-sensevoice-crosscheck.json"
+      ]
     },
     {
       "bvid": "BV1sFj26mEu1",
@@ -497,7 +510,8 @@
       "full_transcript_segment_count": 1009,
       "point_timestamp_segment_count": 2,
       "alternate_transcript_files": [
-        "BV1sFj26mEu1-caption-gaps.json"
+        "BV1sFj26mEu1-caption-gaps.json",
+        "BV1sFj26mEu1-sensevoice-crosscheck.json"
       ]
     },
     {
@@ -526,7 +540,9 @@
       "full_transcript_available": true,
       "full_transcript_segment_count": 472,
       "point_timestamp_segment_count": 0,
-      "alternate_transcript_files": []
+      "alternate_transcript_files": [
+        "BV1tVKf6cE5G-sensevoice-crosscheck.json"
+      ]
     },
     {
       "bvid": "BV1VrMt6tEEx",
@@ -554,7 +570,9 @@
       "full_transcript_available": true,
       "full_transcript_segment_count": 1066,
       "point_timestamp_segment_count": 0,
-      "alternate_transcript_files": []
+      "alternate_transcript_files": [
+        "BV1VrMt6tEEx-sensevoice-crosscheck.json"
+      ]
     },
     {
       "bvid": "BV1BsuE63EhN",
@@ -582,7 +600,9 @@
       "full_transcript_available": true,
       "full_transcript_segment_count": 894,
       "point_timestamp_segment_count": 0,
-      "alternate_transcript_files": []
+      "alternate_transcript_files": [
+        "BV1BsuE63EhN-sensevoice-crosscheck.json"
+      ]
     },
     {
       "bvid": "BV1gb8M6nENB",
@@ -610,7 +630,9 @@
       "full_transcript_available": true,
       "full_transcript_segment_count": 876,
       "point_timestamp_segment_count": 0,
-      "alternate_transcript_files": []
+      "alternate_transcript_files": [
+        "BV1gb8M6nENB-sensevoice-crosscheck.json"
+      ]
     },
     {
       "bvid": "BV1f8Yj6aExQ",
@@ -644,7 +666,8 @@
         "BV1f8Yj6aExQ-0850-0920-medium.json",
         "BV1f8Yj6aExQ-1125-1185-medium.json",
         "BV1f8Yj6aExQ-caption-gaps.json",
-        "BV1f8Yj6aExQ-caption-reviewed.json"
+        "BV1f8Yj6aExQ-caption-reviewed.json",
+        "BV1f8Yj6aExQ-sensevoice-crosscheck.json"
       ]
     },
     {
@@ -675,7 +698,8 @@
       "point_timestamp_segment_count": 0,
       "alternate_transcript_files": [
         "BV1P5he6SEys-caption-gaps.json",
-        "BV1P5he6SEys-caption-reviewed.json"
+        "BV1P5he6SEys-caption-reviewed.json",
+        "BV1P5he6SEys-sensevoice-crosscheck.json"
       ]
     }
   ],
@@ -686,5 +710,32 @@
   "listening_verified_round_count": 0,
   "episode_numbering": "editorial_order_by_publication_date_not_publisher_episode_numbers",
   "full_asr_transcript_count": 18,
+  "quality_summary": {
+    "rounds": 682,
+    "rounds_with_comparison": 680,
+    "second_asr_video_count": 18,
+    "rounds_with_all_scene_text_agreeing": 52,
+    "text_units": 2868,
+    "status_counts": {
+      "short_agreement": 384,
+      "difference": 1891,
+      "agreement": 512,
+      "caption_supported": 65,
+      "uncovered": 16
+    },
+    "best_evidence_models": {
+      "sensevoice": 2780,
+      "whisper_small": 8,
+      "whisper_large_v3_turbo": 21,
+      "whisper_medium": 40
+    },
+    "corrected_text_units": 697,
+    "editorial_pending_text_units": 13,
+    "rounds_with_reading_edits": 405,
+    "checked_at": "2026-10-15T17:44:15+08:00",
+    "listening_verified": false
+  },
+  "dialogue_drill_count": 570,
+  "compared_dialogue_drill_count": 150,
   "notice": "Full ASR drafts and dialogue units derive from machine transcription and selected video captions, not listening-verified quotations. Visually reviewed captions are labeled separately. Earlier finite paraphrases and original exercises remain separately labeled. Speaker roles are inferred from text and visible context; source audio may contain additional exchanges missing from ASR."
 }
